@@ -1,0 +1,3728 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791517808,
+        "listens": [
+            {
+                "inserted_at": 1791654637,
+                "listened_at": 1791650758,
+                "recording_msid": "6bfb94ae-d222-4c9d-bc21-eea6589f0ec9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "GTA VI | DJ Khaled ft. Trick Daddy, Rick Ross & Pitbull",
+                    "track_name": "Born N Raised"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791650835,
+                "listened_at": 1791650758,
+                "recording_msid": "fa5adc2d-f2be-4704-9570-94d5364de4a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 256,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/-pZoz55VXuE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "GTA VI | DJ Khaled ft. Trick Daddy, Rick Ross & Pitbull",
+                    "track_name": "Born N Raised"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791517858,
+                "listened_at": 1791517808,
+                "recording_msid": "dd4a72aa-0b9a-4cfe-b681-bf3b06b690da",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 165,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/N_DWMqxIOAk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Offset",
+                    "track_name": "Offset - Every Night  ft. Don Toliver"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791519495,
+                "listened_at": 1791517808,
+                "recording_msid": "f835a701-613f-4af1-abe2-b73f3059e6ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Offset",
+                    "track_name": "Offset - Every Night  ft. Don Toliver"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791110115,
+                "listened_at": 1791091456,
+                "recording_msid": "d1ca0621-dfe3-43f6-801c-33d986f27c8c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jack Harlow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "134cb0bc-06fa-42f7-8078-b0c858349975",
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jack Harlow",
+                                "artist_mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41502070826,
+                        "caa_release_mbid": "5ea74f92-287e-4c32-99c6-b3407b559300",
+                        "recording_mbid": "dfe9e310-7ac9-4d6e-b9fa-cc3c6ef1db6e",
+                        "recording_name": "Just Us",
+                        "release_group_mbid": "9b172397-0a95-4a2b-8dff-aa9e0aa48c24",
+                        "release_mbid": "5ea74f92-287e-4c32-99c6-b3407b559300"
+                    },
+                    "track_name": "Just Us"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791091512,
+                "listened_at": 1791091456,
+                "recording_msid": "d9b8d365-453f-406d-a5a2-9d8e44b7ed46",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 176,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/OPK14FrnjO0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Jack Harlow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "134cb0bc-06fa-42f7-8078-b0c858349975",
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jack Harlow",
+                                "artist_mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41502070826,
+                        "caa_release_mbid": "5ea74f92-287e-4c32-99c6-b3407b559300",
+                        "recording_mbid": "dfe9e310-7ac9-4d6e-b9fa-cc3c6ef1db6e",
+                        "recording_name": "Just Us",
+                        "release_group_mbid": "9b172397-0a95-4a2b-8dff-aa9e0aa48c24",
+                        "release_mbid": "5ea74f92-287e-4c32-99c6-b3407b559300"
+                    },
+                    "track_name": "Just Us"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791110115,
+                "listened_at": 1791091186,
+                "recording_msid": "56968687-df85-4613-8dfd-0ce3420e807f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+                        "lastfm_release_mbid": "3866a31c-65ef-402c-90fa-72345fa6b243",
+                        "lastfm_track_mbid": "be5733a3-c4e2-498c-8ac7-d42a0761a6b5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jack Harlow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "134cb0bc-06fa-42f7-8078-b0c858349975"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jack Harlow",
+                                "artist_mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32430859143,
+                        "caa_release_mbid": "648981fb-1575-45d3-b3f1-d44f1b59a784",
+                        "recording_mbid": "b39c3149-ca64-4127-9591-5f4e305ba086",
+                        "recording_name": "First Class",
+                        "release_group_mbid": "d0c823fc-ad7c-434d-8555-ad8e7592c33c",
+                        "release_mbid": "6de9e1e3-395e-41dd-bc99-b9c3733416d7",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0OytVPIqh1uhFSuPP1Ulcw"
+                            }
+                        ]
+                    },
+                    "release_name": "First Class",
+                    "track_name": "First Class"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1791091372,
+                "listened_at": 1791091186,
+                "recording_msid": "dfb6be79-ba6c-449a-aa14-08d79010a94f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 155,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yQBImEeXNZ4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Jack Harlow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "134cb0bc-06fa-42f7-8078-b0c858349975"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jack Harlow",
+                                "artist_mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32430859143,
+                        "caa_release_mbid": "648981fb-1575-45d3-b3f1-d44f1b59a784",
+                        "recording_mbid": "402681c9-426a-4edc-b8bc-d6bcc4ff6701",
+                        "recording_name": "First Class",
+                        "release_group_mbid": "d0c823fc-ad7c-434d-8555-ad8e7592c33c",
+                        "release_mbid": "6de9e1e3-395e-41dd-bc99-b9c3733416d7",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2IrqcIVFl7qs0hdThG3oCX"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2161309017"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/18pFCgb7sdKMifVW396fwb"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231562277"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1772765917"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/278317893"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0OizAUt0RuhQOyq7M0mGrU"
+                            }
+                        ]
+                    },
+                    "release_name": "First Class",
+                    "track_name": "First Class"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790991302,
+                "listened_at": 1790991180,
+                "recording_msid": "3ad4d11d-3419-4938-8e2e-4d0a52687bf3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 137,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/F--QM_djwPg",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "fhyzhicz",
+                    "track_name": "ILLIT x 2Pac"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790998176,
+                "listened_at": 1790991180,
+                "recording_msid": "dc87b0bf-a93d-4e4b-9459-9e6f5d12ea6f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fhyzhicz",
+                    "track_name": "ILLIT x 2Pac"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790891216,
+                "listened_at": 1790885527,
+                "recording_msid": "72a0102b-e704-41e7-b15c-e8ce57e161ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "590cf088-3d94-394b-bd97-f8613e55c739",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nelly",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "811900b2-68fc-4d41-8bad-69b7a1f4d628",
+                            "51da3924-90e9-41fb-be47-58f30176a101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nelly",
+                                "artist_mbid": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "St. Lunatics",
+                                "artist_mbid": "51da3924-90e9-41fb-be47-58f30176a101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5710535022,
+                        "caa_release_mbid": "6b22459f-ef83-4748-b339-7cf829b78c1c",
+                        "recording_mbid": "0958f83c-d1de-41af-bd85-f8e8c14cfc8a",
+                        "recording_name": "E.I. (Tipdrill remix)",
+                        "release_group_mbid": "c93b8686-f13d-3782-b70b-f08fe1f5232a",
+                        "release_mbid": "f23cae90-aa0d-495e-88db-d849e7b86a1c"
+                    },
+                    "release_name": "The Invasion",
+                    "track_name": "E.I. (TIPDRILL REMIX)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790885643,
+                "listened_at": 1790885527,
+                "recording_msid": "8cdaacc3-115f-4548-8025-f2adf833f98f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 382,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/EWakcal_jOU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Nelly",
+                    "release_name": "The Invasion",
+                    "track_name": "E.I. (TIPDRILL REMIX)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790664542,
+                "listened_at": 1790659324,
+                "recording_msid": "61586292-7e9c-4ff0-a4f3-edee121edfb4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                        "lastfm_release_mbid": "96364004-da75-4bfd-a104-7c51e292486b",
+                        "lastfm_track_mbid": "7d3a45ca-ba99-4bf9-9b45-4094256b97dd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8032cf05-d916-4b2a-9c53-6e75d4a24bd8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trippie Redd",
+                                "artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26756349426,
+                        "caa_release_mbid": "a974184a-168f-45b0-b760-15bd5f09d6ef",
+                        "recording_mbid": "0cc83581-03bf-42d9-9926-4a13a223f8a0",
+                        "recording_name": "Romeo & Juliet",
+                        "release_group_mbid": "e1e357a7-d536-44dc-b18b-979ad6c1422f",
+                        "release_mbid": "96364004-da75-4bfd-a104-7c51e292486b"
+                    },
+                    "release_name": "A Love Letter to You",
+                    "track_name": "Romeo & Juliet"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790664542,
+                "listened_at": 1790659185,
+                "recording_msid": "029b1af9-700e-426d-8b40-1593c3860d91",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e3492ea0-5997-4241-a7bf-2fd7fb1bfad1",
+                        "lastfm_track_mbid": "15a77ea0-f77a-44df-9d1e-46eb39930b1d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fetty Wap",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e3492ea0-5997-4241-a7bf-2fd7fb1bfad1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fetty Wap",
+                                "artist_mbid": "e3492ea0-5997-4241-a7bf-2fd7fb1bfad1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11680697353,
+                        "caa_release_mbid": "35d502a2-1412-4c4d-a87a-d248a1773634",
+                        "recording_mbid": "5b6b7450-3c8f-4998-b30b-a3837e0d422b",
+                        "recording_name": "Let It Bang",
+                        "release_group_mbid": "b795b26b-5c11-48f9-b82b-8371dd316504",
+                        "release_mbid": "8189b681-e298-409f-985e-aa329308fe0b",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1039459677"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/51406409"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1039459677"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1VYDjz8U0cak2ZQdaPh6qJ"
+                            }
+                        ]
+                    },
+                    "release_name": "Fetty Wap (Deluxe)",
+                    "track_name": "Let It Bang"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790664542,
+                "listened_at": 1790658986,
+                "recording_msid": "b08acc1c-d466-4c2a-8988-b23d4aaa6401",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ty Dolla $ign",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "af4b59c0-ab9b-45a0-a6d4-02043ff0a4c6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ty Dolla $ign",
+                                "artist_mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Fredo Santana",
+                                "artist_mbid": "af4b59c0-ab9b-45a0-a6d4-02043ff0a4c6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6356764554,
+                        "caa_release_mbid": "096920a9-1914-4420-b15f-2034da48cb80",
+                        "recording_mbid": "1472cf7e-57ef-4409-a7bd-c4784c599d39",
+                        "recording_name": "Familiar",
+                        "release_group_mbid": "281a1d50-632b-4d13-8666-4b422d13da9a",
+                        "release_mbid": "096920a9-1914-4420-b15f-2034da48cb80"
+                    },
+                    "release_name": "Beach House EP",
+                    "track_name": "Familiar (Feat. Travi$ Scott & Fredo Santana)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790664542,
+                "listened_at": 1790658816,
+                "recording_msid": "d15b38a1-4025-4c7c-8221-3d75241f4c05",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "lastfm_track_mbid": "d4f64dc9-1919-4445-af3c-e2fd5836e4bd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22087275355,
+                        "caa_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "recording_mbid": "00460a52-8abc-4ad8-bdf5-1ac43dccabe4",
+                        "recording_name": "Valuable Pain",
+                        "release_group_mbid": "175bd99a-08f8-4853-983d-edd195544070",
+                        "release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af"
+                    },
+                    "release_name": "REALER",
+                    "track_name": "Valuable Pain"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790658509,
+                "recording_msid": "81362de1-2969-45e5-9b58-68a97389e51a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d75b3154-fb27-479b-b40b-b1b71872a3e0",
+                        "lastfm_release_mbid": "2a564035-1080-423f-b003-759860f1dd78",
+                        "lastfm_track_mbid": "e0b18b22-7dda-3989-b1bb-a966fb680372",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lloyd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9296a90-9c59-4657-9165-1f1b5319de00"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lloyd",
+                                "artist_mbid": "e9296a90-9c59-4657-9165-1f1b5319de00",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40562289906,
+                        "caa_release_mbid": "5e1fe312-6d25-43e8-934b-239e2801b7c7",
+                        "recording_mbid": "f390b012-849e-4a9b-bc23-aebb3a5ea8ef",
+                        "recording_name": "Naked",
+                        "release_group_mbid": "07f76aef-a05f-4f55-a504-4db4fda8fcc8",
+                        "release_mbid": "3be173a7-bc61-44f4-a904-25232f3b7095"
+                    },
+                    "release_name": "King Of Hearts",
+                    "track_name": "Naked"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790658156,
+                "recording_msid": "82d5329a-c1cc-4240-9700-8e7cbf80969a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                        "lastfm_release_mbid": "79d02411-6364-4943-a011-096c4fb80757",
+                        "lastfm_track_mbid": "1cac6f2b-6570-46c7-b62e-62554f781dc5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Post Malone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Post Malone",
+                                "artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46223678355,
+                        "caa_release_mbid": "7e3e6ec2-2194-4c74-a417-7b0b3ffb354a",
+                        "recording_mbid": "6149ede2-d773-4709-83fd-29f95757e104",
+                        "recording_name": "Blame It on Me",
+                        "release_group_mbid": "a6045fe5-c283-4778-995c-04d953fe73e1",
+                        "release_mbid": "bdf93dcf-5c64-4ad2-80e8-0779a03ec218"
+                    },
+                    "release_name": "beerbongs & bentleys",
+                    "track_name": "Blame It on Me"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790657983,
+                "recording_msid": "4fcf8c93-4dda-460a-a404-de432839b0ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                            "c9cd225b-4883-428e-82c2-73e0b6282fb6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lil Durk",
+                                "artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29581151416,
+                        "caa_release_mbid": "dbf129ff-2094-4cf6-a72d-aa376160b03e",
+                        "recording_mbid": "25426908-350e-4ff8-a76e-052c54d3bf21",
+                        "recording_name": "Who I Want",
+                        "release_group_mbid": "776c8f3c-24c1-4bf2-88e7-008d0a79abc8",
+                        "release_mbid": "dbf129ff-2094-4cf6-a72d-aa376160b03e"
+                    },
+                    "release_name": "The Voice of the Heroes",
+                    "track_name": "Who I Want"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790657750,
+                "recording_msid": "6ce826da-1007-4f0c-81c6-d587a9e91523",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "081a2d60-9791-4e05-a075-f1890355eeee",
+                        "lastfm_release_mbid": "31dbeb40-8b35-4265-9462-d79d2b453555",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "DJ Khaled",
+                    "release_name": "Grateful",
+                    "track_name": "On Everything (feat. Travis Scott, Rick Ross & Big Sean)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790657501,
+                "recording_msid": "04060fc9-1066-4902-a5df-947e63b275c5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4",
+                        "lastfm_release_mbid": "17e1868b-740d-4f3c-8fd3-f427e8298e1d",
+                        "lastfm_track_mbid": "a7cf3364-fc64-3e81-acd0-7baff946432b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "M.O.P.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "M.O.P.",
+                                "artist_mbid": "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26213308522,
+                        "caa_release_mbid": "f32fce54-2379-467a-988d-5f485b54efaa",
+                        "recording_mbid": "6ad21734-a02f-457d-90e5-42c271d4eb03",
+                        "recording_name": "Ante Up (Robin Hoodz Theory)",
+                        "release_group_mbid": "11c8642e-fcea-35c2-80a1-e4ef5cc370ee",
+                        "release_mbid": "f32fce54-2379-467a-988d-5f485b54efaa"
+                    },
+                    "release_name": "Warriorz",
+                    "track_name": "Ante Up (Robbin Hoodz Theory)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790657123,
+                "recording_msid": "52eb7f80-181f-4fca-a34f-5ff121cd0ce9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Realidade Cruel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a974710-3f3c-46bc-a086-2567c47cc3a9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Realidade Cruel",
+                                "artist_mbid": "3a974710-3f3c-46bc-a086-2567c47cc3a9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26738541802,
+                        "caa_release_mbid": "a2e6bf51-791d-4f08-949a-aa1daeaed3d9",
+                        "recording_mbid": "9910ee6d-1eb7-438b-8290-7f2af7d86da1",
+                        "recording_name": "Depoimento de um Viciado",
+                        "release_group_mbid": "391e7b27-fad6-4791-984a-4d5d167efb3a",
+                        "release_mbid": "a2e6bf51-791d-4f08-949a-aa1daeaed3d9"
+                    },
+                    "release_name": "Realidade Cruel (Ao Vivo)",
+                    "track_name": "Depoimento de um Viciado - Ao Vivo"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790656948,
+                "recording_msid": "c322ca8a-5d12-4c96-8761-90e9d41e31c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Internet Money",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                            "e6fdf3f9-8077-4126-b0cf-94da9a8b627e",
+                            "c1708d03-8a66-46eb-848e-fe0d233ffb39"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Internet Money",
+                                "artist_mbid": "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Lil Tecca",
+                                "artist_mbid": "e6fdf3f9-8077-4126-b0cf-94da9a8b627e",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "A Boogie Wit da Hoodie",
+                                "artist_mbid": "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27833299887,
+                        "caa_release_mbid": "715927bd-f858-4c3a-b808-25985c5a3908",
+                        "recording_mbid": "5f2dd786-6183-42c9-aa04-ce882c08bb5d",
+                        "recording_name": "Somebody",
+                        "release_group_mbid": "465db760-ba29-473d-969b-ed11ebdebfe9",
+                        "release_mbid": "f58d7187-4b59-4c10-beed-7f013a4919a4"
+                    },
+                    "release_name": "B4 The Storm (Expanded Edition)",
+                    "track_name": "Somebody"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790656773,
+                "recording_msid": "a2e339ca-fc10-46e5-b94a-7a12f476b80c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+                        "lastfm_release_mbid": "3af4d569-8174-4663-9064-7cf36f54812a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A Boogie wit da Hoodie",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+                            "87ae83df-6173-40cc-a0f2-bad543faa6aa"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A Boogie Wit da Hoodie",
+                                "artist_mbid": "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "DaBaby",
+                                "artist_mbid": "87ae83df-6173-40cc-a0f2-bad543faa6aa",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27004614801,
+                        "caa_release_mbid": "accc2b02-0fda-4938-9ae3-4130b7a56349",
+                        "recording_mbid": "de359b4a-7430-4d6f-b530-c2518b083f6e",
+                        "recording_name": "Stain",
+                        "release_group_mbid": "4f91e497-c633-4d42-b4d0-379eeaa9b04b",
+                        "release_mbid": "accc2b02-0fda-4938-9ae3-4130b7a56349"
+                    },
+                    "release_name": "Artist 2.0",
+                    "track_name": "Stain (feat. DaBaby)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790656522,
+                "recording_msid": "504bc8d9-ac96-456f-9f6d-b92acc7e9231",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "750f6f16-0225-43bb-9f8a-e980decfa776",
+                        "recording_name": "Selfish",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Selfish (feat. Rihanna)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790656352,
+                "recording_msid": "805b6207-d536-4039-a7cb-2c07fe506f23",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                        "lastfm_track_mbid": "84f0416f-8d1f-40e5-a749-c42b7519935d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jacquees",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1def2cdc-a6ec-4972-8614-204e13301650"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jacquees",
+                                "artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25026792323,
+                        "caa_release_mbid": "71a5a564-4ec3-42ed-a47e-635bbfda7fcd",
+                        "recording_mbid": "ee10dc99-2b34-46a3-b868-33481ea71a3f",
+                        "recording_name": "So Cold",
+                        "release_group_mbid": "353bfd41-ed32-44e3-b5f9-5383decc621d",
+                        "release_mbid": "71a5a564-4ec3-42ed-a47e-635bbfda7fcd"
+                    },
+                    "release_name": "Christmas In Decatur (Bonus)",
+                    "track_name": "So Cold"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790656148,
+                "recording_msid": "ef4931c6-fcba-4a87-b861-d24a07b1f088",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jacquees",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1def2cdc-a6ec-4972-8614-204e13301650"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jacquees",
+                                "artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34467533872,
+                        "caa_release_mbid": "f92fa960-05a6-4e86-9fad-14bcf5d12fb7",
+                        "recording_mbid": "f06f53f9-8de3-4c91-bf73-b162ad1d3fef",
+                        "recording_name": "Woman's Worth",
+                        "release_group_mbid": "e54bc9de-6097-4cd0-a1f6-4c5b5ab6788e",
+                        "release_mbid": "f92fa960-05a6-4e86-9fad-14bcf5d12fb7"
+                    },
+                    "release_name": "Sincerely For You",
+                    "track_name": "Woman's Worth"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790655885,
+                "recording_msid": "366f8d92-9689-40bf-8c27-4fd8aa4c3e93",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                        "lastfm_release_mbid": "111a64b8-499e-40f5-930e-c1a422073896",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plies",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                            "1def2cdc-a6ec-4972-8614-204e13301650"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plies",
+                                "artist_mbid": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Jacquees",
+                                "artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13969967171,
+                        "caa_release_mbid": "111a64b8-499e-40f5-930e-c1a422073896",
+                        "recording_mbid": "95970c98-1d73-4f65-b0d4-8b6b999db575",
+                        "recording_name": "On My Way",
+                        "release_group_mbid": "e7bd69bd-a809-40d7-a9d6-7733cad44965",
+                        "release_mbid": "111a64b8-499e-40f5-930e-c1a422073896"
+                    },
+                    "release_name": "Ain't No Mixtape Bih 2",
+                    "track_name": "On My Way"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790655620,
+                "recording_msid": "05ba3a0d-f794-4205-b369-81b906291c50",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "986ee464-cf8a-4e59-a71f-74756102067f",
+                        "lastfm_track_mbid": "dc4c085d-7241-4a4a-a4ab-0133dd8b9f26",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ace Hood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "986ee464-cf8a-4e59-a71f-74756102067f",
+                            "4d7304f6-7fe3-4959-9d98-01a5af84afe6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ace Hood",
+                                "artist_mbid": "986ee464-cf8a-4e59-a71f-74756102067f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Trey Songz",
+                                "artist_mbid": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30197520646,
+                        "caa_release_mbid": "3d7120a0-ffd5-4460-903f-d026e0600065",
+                        "recording_mbid": "692eed23-4aa6-4b32-a78c-c05d80bc5037",
+                        "recording_name": "Ride",
+                        "release_group_mbid": "72e5131c-e059-3f9d-9817-804418faa7cd",
+                        "release_mbid": "bf9a7e8b-f2e2-4823-82a0-a22e08cc0d26"
+                    },
+                    "release_name": "DJ Khaled Presents Ace Hood Gutta",
+                    "track_name": "Ride"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790655321,
+                "recording_msid": "2d7d9c5b-1688-4087-a65b-c6c736550ee7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
+                        "lastfm_release_mbid": "755f05f7-b994-4d15-8aa7-46c2461fcae8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Three 6 Mafia",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a8754ac4-a85e-4f48-a81f-eecd482570ef",
+                            "627c9b96-dee9-4b7f-a890-248649aa3944"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Three 6 Mafia",
+                                "artist_mbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Paula Campbell",
+                                "artist_mbid": "627c9b96-dee9-4b7f-a890-248649aa3944",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40852077167,
+                        "caa_release_mbid": "3b77e081-464e-44f7-84e6-05a6cdded61c",
+                        "recording_mbid": "7321202f-03ee-44bb-a74c-cac7669369e7",
+                        "recording_name": "Hard Out Here for a Pimp",
+                        "release_group_mbid": "e6277730-6528-3855-8b34-d279e723bdca",
+                        "release_mbid": "ddbf2b20-64b5-4ca3-b837-d8783e027880"
+                    },
+                    "release_name": "Most Known Unknown",
+                    "track_name": "Hard Out Here For A Pimp (Feat. Paula Campbell)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790655107,
+                "recording_msid": "05087454-f6ab-4796-b959-17952d4cd9da",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+                        "lastfm_release_mbid": "1d167ce2-4b89-483f-88f5-36362dfacd76",
+                        "lastfm_track_mbid": "9ec078f4-8ba4-4ccb-bb27-e8f39f83ea61",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chingy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2c311e1d-5da3-4ffb-a46e-572981b5849f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chingy",
+                                "artist_mbid": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39953120996,
+                        "caa_release_mbid": "647e0cae-d3ac-4f26-a6b7-ddc456ae0754",
+                        "recording_mbid": "17255de4-f584-4de6-b981-7f40431497fa",
+                        "recording_name": "Balla Baby",
+                        "release_group_mbid": "4715daa4-8fa2-3851-8105-7212a567cb65",
+                        "release_mbid": "1d167ce2-4b89-483f-88f5-36362dfacd76",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/723500534"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1tBpeLVwCBXk0TYDbDRdU3"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3416668"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/723500534"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/1464224"
+                            }
+                        ]
+                    },
+                    "release_name": "PowerBallin'",
+                    "track_name": "Balla Baby"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790654933,
+                "recording_msid": "b7fafceb-0b75-4d0f-a440-583da0eacd58",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+                        "lastfm_release_mbid": "0ed8eeb9-0717-412a-8f69-f989e6ce8085",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Nudy",
+                    "release_name": "Sli'merre",
+                    "track_name": "Mister (feat. 21 Savage)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790654828,
+                "recording_msid": "8d48f123-14db-468a-a838-f3439cab8385",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "lastfm_track_mbid": "d07346af-0156-4ad5-9fd4-6568dbd7b4aa",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27370414343,
+                        "caa_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "recording_mbid": "bd4d1006-e7f4-447f-9bbc-df77d9a4d9af",
+                        "recording_name": "All In",
+                        "release_group_mbid": "9258704f-6c46-4a3c-8379-cd1ec9aac375",
+                        "release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18"
+                    },
+                    "release_name": "Top",
+                    "track_name": "ALL IN"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790654695,
+                "recording_msid": "72beddd0-49b2-424e-bebd-1ca9b824ea6b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Diplo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+                            "986e466c-7efb-49cc-8034-d05a4af5ab75"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Diplo",
+                                "artist_mbid": "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Xan",
+                                "artist_mbid": "986e466c-7efb-49cc-8034-d05a4af5ab75",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28484443645,
+                        "caa_release_mbid": "7147e379-65df-4b5d-8bdc-7ea59b2817e0",
+                        "recording_mbid": "6393b410-023a-4080-a7a9-efd0519bd814",
+                        "recording_name": "Color Blind",
+                        "release_group_mbid": "edeb6a82-25ab-4894-918f-4b54c902c76d",
+                        "release_mbid": "fc24d931-16a8-4377-9622-77e6c8ef48c6"
+                    },
+                    "release_name": "Color Blind",
+                    "track_name": "Color Blind"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790654429,
+                "recording_msid": "4a598403-54fb-4613-b8ae-87168abecfd4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
+                        "lastfm_release_mbid": "4706b2d8-0742-4a10-9ef3-a1c19f255437",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Trey Songz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                            "29eead4d-3793-4625-8727-c03edbb38b8b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trey Songz",
+                                "artist_mbid": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Soulja Boy Tell ’Em",
+                                "artist_mbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30188136441,
+                        "caa_release_mbid": "4706b2d8-0742-4a10-9ef3-a1c19f255437",
+                        "recording_mbid": "e9b16c89-71cf-4dcc-b6ea-e33b446b5ad0",
+                        "recording_name": "LOL :-)",
+                        "release_group_mbid": "5ce92d26-c60b-4fcf-8d0d-9c5d0d928c8c",
+                        "release_mbid": "efdf890b-838c-43f7-b402-8ebbad5fece8"
+                    },
+                    "release_name": "Ready",
+                    "track_name": "LOL :-) (feat. Gucci Mane And Soulja Boy Tell 'Em)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790654221,
+                "recording_msid": "0dea90f8-92f1-4123-a133-978a2abe72a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+                        "lastfm_release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Brent Faiyaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "201412c6-7ced-472b-87a9-9259ec3c07d3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Brent Faiyaz",
+                                "artist_mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44283387538,
+                        "caa_release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "recording_mbid": "7b5c9262-79f1-49d1-826a-c7511cb64e9e",
+                        "recording_name": "four seasons.",
+                        "release_group_mbid": "bcf5d1a3-db78-4ff1-900e-50654333ef4f",
+                        "release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/498200851"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6WH9AlBNORcBiQywNCIblE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3fMyBZjyMGiS1N9iLuPODj"
+                            }
+                        ]
+                    },
+                    "release_name": "ICON",
+                    "track_name": "four seasons."
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790653976,
+                "recording_msid": "a7b6f0fb-f600-48d7-8e94-43984206750e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plies",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                            "7e00c640-fa26-4c83-bdac-ef7a1ecd863a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plies",
+                                "artist_mbid": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Rico Love",
+                                "artist_mbid": "7e00c640-fa26-4c83-bdac-ef7a1ecd863a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24043458259,
+                        "caa_release_mbid": "686f0343-f3ec-4ccb-b321-df0bc21f32fa",
+                        "recording_mbid": "ec46c125-72b7-4c8a-808c-fa6d7d0f5438",
+                        "recording_name": "Faithful",
+                        "release_group_mbid": "8061859f-4aef-4847-9bca-6ec9c010ba3d",
+                        "release_mbid": "686f0343-f3ec-4ccb-b321-df0bc21f32fa"
+                    },
+                    "release_name": "Faithful (feat. Rico Love)",
+                    "track_name": "Faithful (feat. Rico Love)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790658919,
+                "listened_at": 1790648317,
+                "recording_msid": "0fce9583-eeb7-4507-a908-831ae82fc746",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "89d1ca18-02cc-44b5-bbeb-398682484a46",
+                        "lastfm_track_mbid": "2fc54d46-272a-4e69-ad67-926611e6e391",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38191317251,
+                        "caa_release_mbid": "66d899d2-807d-441f-bb9b-015890109cf7",
+                        "recording_mbid": "2310544e-003a-4d85-aa96-634a55023954",
+                        "recording_name": "Sundress",
+                        "release_group_mbid": "33ac64a9-f6e2-464a-aa94-f402ac4eafa8",
+                        "release_mbid": "89d1ca18-02cc-44b5-bbeb-398682484a46"
+                    },
+                    "release_name": "Sundress",
+                    "track_name": "Sundress"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790647904,
+                "recording_msid": "96d1b210-42d6-4ed1-ad86-629aad29497c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "04f9cfe2-0af2-4a9e-ad0e-55ac6967844f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                            "4214aa04-64b0-442a-982b-0560e6d3a5bd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "42 Dugg",
+                                "artist_mbid": "4214aa04-64b0-442a-982b-0560e6d3a5bd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28177967523,
+                        "caa_release_mbid": "7a3ce301-d386-4842-a79b-1dc754beb5c8",
+                        "recording_mbid": "a9f941ad-f65f-4525-b0be-8db52f6e436d",
+                        "recording_name": "We Paid",
+                        "release_group_mbid": "77586fd3-4316-4a16-af35-51336d51df5d",
+                        "release_mbid": "b298da44-c85d-49da-993d-9435d4ccf695"
+                    },
+                    "release_name": "My Turn (Deluxe)",
+                    "track_name": "We Paid (feat. 42 Dugg)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790647762,
+                "recording_msid": "0c32e6df-7cf7-41c8-b2b3-b1e27375675f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "146c07aa-16a1-4f82-845a-f27af7e54a29",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YG",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6b1cf581-17a9-42c3-927b-d1e2797b1695",
+                            "7bd66c18-cb33-49aa-9279-140acedbdb49"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YG",
+                                "artist_mbid": "6b1cf581-17a9-42c3-927b-d1e2797b1695",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Ty Dolla $ign",
+                                "artist_mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20571628228,
+                        "caa_release_mbid": "e5d2e725-d0c9-441b-a4da-c7af44d895ac",
+                        "recording_mbid": "5a306691-5f09-4cb0-8995-4fe9f69c0320",
+                        "recording_name": "POWER",
+                        "release_group_mbid": "692fa117-aada-4080-815e-6c00b20dea8b",
+                        "release_mbid": "8de08b13-e9cb-4b89-9abc-1bbc795651eb"
+                    },
+                    "release_name": "STAY DANGEROUS",
+                    "track_name": "POWER (feat. Ty Dolla $ign)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790647430,
+                "recording_msid": "02801ae4-4648-4a29-876e-fc995df3ff76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+                        "lastfm_release_mbid": "02319abc-a999-4854-a654-f7a33c9db19e",
+                        "lastfm_track_mbid": "de6ead91-877b-4900-8a95-ebfc89eb0ba9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eminem",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eminem",
+                                "artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27043383600,
+                        "caa_release_mbid": "ede60c69-29d1-48dd-a10b-169ae99dee92",
+                        "recording_mbid": "b4631d9c-176f-4abb-8013-e3dafb1c5ecb",
+                        "recording_name": "My Name Is",
+                        "release_group_mbid": "be725de4-4633-3c8a-9a03-f2c4392b6e0d",
+                        "release_mbid": "b70b0195-7df7-467e-ab42-a0453d900682",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
+                            }
+                        ]
+                    },
+                    "release_name": "The Slim Shady LP",
+                    "track_name": "My Name Is"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790647133,
+                "recording_msid": "4d9a55ec-5b56-41a3-84a1-069884a0dd02",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                        "lastfm_release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7",
+                        "lastfm_track_mbid": "c165a00a-ec99-451e-bccf-0331fbbfd730",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45911047668,
+                        "caa_release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7",
+                        "recording_mbid": "9ea250f3-2e76-42af-865a-282facc7d0dd",
+                        "recording_name": "Cocoon",
+                        "release_group_mbid": "31f3b122-c468-454e-8a73-0881b17b6dd2",
+                        "release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7"
+                    },
+                    "release_name": "Cocoon",
+                    "track_name": "Cocoon"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646915,
+                "recording_msid": "22324664-2687-4c1e-8e6c-111e3b128324",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                        "lastfm_release_mbid": "0703b6c8-ae25-4e38-8d03-55c1c0dd3e00",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Durk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Durk",
+                                "artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34467877141,
+                        "caa_release_mbid": "0703b6c8-ae25-4e38-8d03-55c1c0dd3e00",
+                        "recording_mbid": "725e38ed-84fd-4350-a522-608061e8a613",
+                        "recording_name": "Mad Max",
+                        "release_group_mbid": "ea755669-22c8-49c5-b587-a5d7d365ea68",
+                        "release_mbid": "0703b6c8-ae25-4e38-8d03-55c1c0dd3e00"
+                    },
+                    "release_name": "Lil Durk Presents: Loyal Bros 2",
+                    "track_name": "Mad Max"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646698,
+                "recording_msid": "1da60af1-3ac9-4adc-b47b-e36d764727a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "85331944-e4dc-4420-ace4-52a7e430b007",
+                        "lastfm_track_mbid": "3ab41ae9-0e7b-4ba2-9de5-392cf2d86398",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44173145414,
+                        "caa_release_mbid": "c310ffaa-ea02-431f-bf6a-8787fdee596e",
+                        "recording_mbid": "3ab41ae9-0e7b-4ba2-9de5-392cf2d86398",
+                        "recording_name": "FWYT",
+                        "release_group_mbid": "5e4ef7cb-488b-430d-9825-ab2e6cd078c3",
+                        "release_mbid": "85331944-e4dc-4420-ace4-52a7e430b007"
+                    },
+                    "release_name": "Slime Cry",
+                    "track_name": "FWYT"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646593,
+                "recording_msid": "65c31356-d1a7-49dc-ba26-8c072cb1768f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "72b2c66e-c5c9-4fe8-bc72-5df6b9e87469",
+                        "lastfm_track_mbid": "ea8edce5-db1e-4ce0-a03b-5e5468327afc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45495470850,
+                        "caa_release_mbid": "72b2c66e-c5c9-4fe8-bc72-5df6b9e87469",
+                        "recording_mbid": "ea8edce5-db1e-4ce0-a03b-5e5468327afc",
+                        "recording_name": "BossManeDlow",
+                        "release_group_mbid": "ea719e86-1f23-4f98-ac54-181a70e87608",
+                        "release_mbid": "72b2c66e-c5c9-4fe8-bc72-5df6b9e87469",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6khPKpvZIA8ghsvxwmJa4D"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/6784378358"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/536857324"
+                            }
+                        ]
+                    },
+                    "release_name": "ML2",
+                    "track_name": "BossManeDlow"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646367,
+                "recording_msid": "2025bade-d803-44e8-8fc9-921158f592ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "release_name": "What You Is",
+                    "track_name": "What You Is"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646223,
+                "recording_msid": "8e62a161-5303-4c89-8dec-d558df92f351",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "e0358ffd-59d2-49b5-97ed-dbf57d9cf485",
+                        "lastfm_track_mbid": "497af029-02f4-475a-b242-876d2d5f64df",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20904937964,
+                        "caa_release_mbid": "e0358ffd-59d2-49b5-97ed-dbf57d9cf485",
+                        "recording_mbid": "07aa7f5a-8e28-4459-ba76-98a9c172cbe4",
+                        "recording_name": "No Love",
+                        "release_group_mbid": "efa396e2-f19e-4d4c-baac-499c739672ae",
+                        "release_mbid": "e0358ffd-59d2-49b5-97ed-dbf57d9cf485"
+                    },
+                    "release_name": "Decided",
+                    "track_name": "No Love"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790646024,
+                "recording_msid": "0108df2a-dbeb-4b0f-82d3-4c3b5b5bfcf2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "23e758c1-2cc5-4276-80b8-3ceb74a71ed3",
+                        "lastfm_track_mbid": "6200a3cb-04bc-420d-a107-d2fca9be7747",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25915682503,
+                        "caa_release_mbid": "2282eab9-d8e3-449f-9f1e-26d4383d7a4f",
+                        "recording_mbid": "3158e3e7-10cc-442a-bf0e-ee330ac935ad",
+                        "recording_name": "Self Control",
+                        "release_group_mbid": "c0ff8016-a0a1-4fce-a4e5-924eaa9b809b",
+                        "release_mbid": "2282eab9-d8e3-449f-9f1e-26d4383d7a4f",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1485318798"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/772914462"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4kug64P6ubEaU8cIsqP2If"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/119812646"
+                            }
+                        ]
+                    },
+                    "release_name": "AI YoungBoy 2",
+                    "track_name": "Self Control"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790645920,
+                "recording_msid": "0108df2a-dbeb-4b0f-82d3-4c3b5b5bfcf2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "23e758c1-2cc5-4276-80b8-3ceb74a71ed3",
+                        "lastfm_track_mbid": "6200a3cb-04bc-420d-a107-d2fca9be7747",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25915682503,
+                        "caa_release_mbid": "2282eab9-d8e3-449f-9f1e-26d4383d7a4f",
+                        "recording_mbid": "3158e3e7-10cc-442a-bf0e-ee330ac935ad",
+                        "recording_name": "Self Control",
+                        "release_group_mbid": "c0ff8016-a0a1-4fce-a4e5-924eaa9b809b",
+                        "release_mbid": "2282eab9-d8e3-449f-9f1e-26d4383d7a4f",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1485318798"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/772914462"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4kug64P6ubEaU8cIsqP2If"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/119812646"
+                            }
+                        ]
+                    },
+                    "release_name": "AI YoungBoy 2",
+                    "track_name": "Self Control"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790645576,
+                "recording_msid": "00f83fdc-11cb-4fd2-80f5-6be8af03b193",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "3a3a7a6e-ad6f-4af8-b00f-48bba2ac97d4",
+                        "lastfm_track_mbid": "c95a5c29-cd00-4778-99fb-bc791efbc729",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19139042543,
+                        "caa_release_mbid": "3a3a7a6e-ad6f-4af8-b00f-48bba2ac97d4",
+                        "recording_mbid": "60c91882-9b06-42fd-8920-3851bcc27fdf",
+                        "recording_name": "Graffiti",
+                        "release_group_mbid": "164f29d8-6f11-4f15-a518-421f4d9aa3c8",
+                        "release_mbid": "3a3a7a6e-ad6f-4af8-b00f-48bba2ac97d4"
+                    },
+                    "release_name": "AI YoungBoy",
+                    "track_name": "Graffiti"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790645363,
+                "recording_msid": "cc61795f-defc-42f0-bf2a-c3cac66209dd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                        "lastfm_release_mbid": "0d8d50e3-6899-4bad-8780-3713f2b87e10",
+                        "lastfm_track_mbid": "17d17b76-0436-4755-8c12-840bc02eb90d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tyler, The Creator",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                            "127d8614-0876-4408-886c-6f110b047a78",
+                            "7bd66c18-cb33-49aa-9279-140acedbdb49"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tyler, The Creator",
+                                "artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ty Dolla $ign",
+                                "artist_mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42253646451,
+                        "caa_release_mbid": "72cf81ee-abfa-48a1-8ac0-7aa459353ad6",
+                        "recording_mbid": "17d17b76-0436-4755-8c12-840bc02eb90d",
+                        "recording_name": "WUSYANAME",
+                        "release_group_mbid": "c65de046-7a48-4269-b4e5-4db0ed328f47",
+                        "release_mbid": "27b70275-e5a6-4707-9109-b9831e4e3d91",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1679454658"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/286130510"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188802762"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1679454658"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/204578874"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2215437577"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1G3YgeTpECl3LYqFsUfzs5"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/204578874"
+                            }
+                        ]
+                    },
+                    "release_name": "CALL ME IF YOU GET LOST",
+                    "track_name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790645202,
+                "recording_msid": "cc61795f-defc-42f0-bf2a-c3cac66209dd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                        "lastfm_release_mbid": "0d8d50e3-6899-4bad-8780-3713f2b87e10",
+                        "lastfm_track_mbid": "17d17b76-0436-4755-8c12-840bc02eb90d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tyler, The Creator",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                            "127d8614-0876-4408-886c-6f110b047a78",
+                            "7bd66c18-cb33-49aa-9279-140acedbdb49"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tyler, The Creator",
+                                "artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ty Dolla $ign",
+                                "artist_mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42253646451,
+                        "caa_release_mbid": "72cf81ee-abfa-48a1-8ac0-7aa459353ad6",
+                        "recording_mbid": "17d17b76-0436-4755-8c12-840bc02eb90d",
+                        "recording_name": "WUSYANAME",
+                        "release_group_mbid": "c65de046-7a48-4269-b4e5-4db0ed328f47",
+                        "release_mbid": "27b70275-e5a6-4707-9109-b9831e4e3d91",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1679454658"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/286130510"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188802762"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1679454658"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/204578874"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2215437577"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1G3YgeTpECl3LYqFsUfzs5"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/204578874"
+                            }
+                        ]
+                    },
+                    "release_name": "CALL ME IF YOU GET LOST",
+                    "track_name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790645021,
+                "recording_msid": "22fe6c65-679f-4072-88d5-e19a6a8e67f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "53eb004e-62a7-476d-a2ee-46def9e77feb",
+                        "lastfm_track_mbid": "88a9a9e0-411e-4811-a2cd-3614cf81cf32",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33526940314,
+                        "caa_release_mbid": "b71f7cdb-018c-47b6-b0d7-7e84308bf030",
+                        "recording_mbid": "f409baa4-e132-4d54-b715-30c252a9daca",
+                        "recording_name": "I’m the One",
+                        "release_group_mbid": "1a954d55-32b2-4581-8a6d-7327ca8e9908",
+                        "release_mbid": "b71f7cdb-018c-47b6-b0d7-7e84308bf030"
+                    },
+                    "release_name": "Ain't Too Long",
+                    "track_name": "You The One"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790644829,
+                "recording_msid": "0d7529bd-6fc4-4f16-a7e5-c685286ff4ee",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "a8142ef4-e6ff-4344-a523-26dd7f34de31",
+                        "lastfm_track_mbid": "9dad8eb4-a676-4f1f-bd97-f8c2746d2a2f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21335939670,
+                        "caa_release_mbid": "ac396103-dc5c-4b60-b686-34c81aa6e508",
+                        "recording_mbid": "f793e849-f582-4a1f-87b0-f003fdff8103",
+                        "recording_name": "Genie",
+                        "release_group_mbid": "c17af43b-0821-42b6-b575-714b2d90f273",
+                        "release_mbid": "2c76da28-9bde-4431-a652-e5b4c394ee41"
+                    },
+                    "release_name": "Until Death Call My Name (Reloaded)",
+                    "track_name": "Genie"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790644650,
+                "recording_msid": "90142dab-a7eb-441d-894a-c355015fff83",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "a8142ef4-e6ff-4344-a523-26dd7f34de31",
+                        "lastfm_track_mbid": "e3764d41-eb33-44a3-8f17-5d7347797197",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21335939670,
+                        "caa_release_mbid": "ac396103-dc5c-4b60-b686-34c81aa6e508",
+                        "recording_mbid": "dbfdd116-10d9-45e3-9406-045da0cbabb6",
+                        "recording_name": "Through the Storm",
+                        "release_group_mbid": "c17af43b-0821-42b6-b575-714b2d90f273",
+                        "release_mbid": "2c76da28-9bde-4431-a652-e5b4c394ee41"
+                    },
+                    "release_name": "Until Death Call My Name (Reloaded)",
+                    "track_name": "Through The Storm"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790644494,
+                "recording_msid": "8d48f123-14db-468a-a838-f3439cab8385",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "lastfm_track_mbid": "d07346af-0156-4ad5-9fd4-6568dbd7b4aa",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27370414343,
+                        "caa_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "recording_mbid": "bd4d1006-e7f4-447f-9bbc-df77d9a4d9af",
+                        "recording_name": "All In",
+                        "release_group_mbid": "9258704f-6c46-4a3c-8379-cd1ec9aac375",
+                        "release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18"
+                    },
+                    "release_name": "Top",
+                    "track_name": "ALL IN"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790644276,
+                "recording_msid": "7e397377-f153-40e2-b755-ad06868d36df",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "23e758c1-2cc5-4276-80b8-3ceb74a71ed3",
+                        "lastfm_track_mbid": "37e4e2e9-5bcd-41ba-8536-ffb48dbddcb0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25915524440,
+                        "caa_release_mbid": "cbcb6914-9e8d-4520-b92e-b46fbc567b27",
+                        "recording_mbid": "406ccf2f-da98-409a-acc5-c78511e081c1",
+                        "recording_name": "Lonely Child",
+                        "release_group_mbid": "869de029-8c5b-4aa1-8ec6-50975058ff47",
+                        "release_mbid": "cbcb6914-9e8d-4520-b92e-b46fbc567b27",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/772914522"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0ObT2x1t9Kw2yLWDmHwpbj"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/119812652"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1485318804"
+                            }
+                        ]
+                    },
+                    "release_name": "AI YoungBoy 2",
+                    "track_name": "Lonely Child"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790648905,
+                "listened_at": 1790640480,
+                "recording_msid": "60e61160-3a36-4ead-a0b7-3de791e843cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "lastfm_track_mbid": "a9a5bb69-9c18-4bf8-bacb-cd233cf5ed5e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27370414343,
+                        "caa_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "recording_mbid": "380e19d9-7097-496d-a036-0eb235966fe9",
+                        "recording_name": "House Arrest Tingz",
+                        "release_group_mbid": "9258704f-6c46-4a3c-8379-cd1ec9aac375",
+                        "release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18"
+                    },
+                    "release_name": "Top",
+                    "track_name": "House Arrest Tingz"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790640331,
+                "recording_msid": "60e61160-3a36-4ead-a0b7-3de791e843cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "lastfm_track_mbid": "a9a5bb69-9c18-4bf8-bacb-cd233cf5ed5e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27370414343,
+                        "caa_release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18",
+                        "recording_mbid": "380e19d9-7097-496d-a036-0eb235966fe9",
+                        "recording_name": "House Arrest Tingz",
+                        "release_group_mbid": "9258704f-6c46-4a3c-8379-cd1ec9aac375",
+                        "release_mbid": "4c8732d9-5a3b-4bb8-b5c5-181925707b18"
+                    },
+                    "release_name": "Top",
+                    "track_name": "House Arrest Tingz"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790640087,
+                "recording_msid": "3352e9e1-9f1a-4811-add0-8ed70b40eb7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "lastfm_track_mbid": "e5187aff-65b1-4cfd-8c75-c1b546ab8e76",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22087275355,
+                        "caa_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "recording_mbid": "7a87f33f-5671-4067-8265-fb723921ce8a",
+                        "recording_name": "I Came Thru",
+                        "release_group_mbid": "175bd99a-08f8-4853-983d-edd195544070",
+                        "release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af"
+                    },
+                    "release_name": "REALER",
+                    "track_name": "I Came Thru"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639940,
+                "recording_msid": "3352e9e1-9f1a-4811-add0-8ed70b40eb7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "lastfm_track_mbid": "e5187aff-65b1-4cfd-8c75-c1b546ab8e76",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22087275355,
+                        "caa_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "recording_mbid": "7a87f33f-5671-4067-8265-fb723921ce8a",
+                        "recording_name": "I Came Thru",
+                        "release_group_mbid": "175bd99a-08f8-4853-983d-edd195544070",
+                        "release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af"
+                    },
+                    "release_name": "REALER",
+                    "track_name": "I Came Thru"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639801,
+                "recording_msid": "3352e9e1-9f1a-4811-add0-8ed70b40eb7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "lastfm_track_mbid": "e5187aff-65b1-4cfd-8c75-c1b546ab8e76",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22087275355,
+                        "caa_release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af",
+                        "recording_mbid": "7a87f33f-5671-4067-8265-fb723921ce8a",
+                        "recording_name": "I Came Thru",
+                        "release_group_mbid": "175bd99a-08f8-4853-983d-edd195544070",
+                        "release_mbid": "2d9d7ab2-c167-4282-a6b4-089b953883af"
+                    },
+                    "release_name": "REALER",
+                    "track_name": "I Came Thru"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639696,
+                "recording_msid": "81a3d1af-a343-490d-9349-f4398985a6c8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                            "d01eff4e-e65e-40d2-9a17-1fe7ace96462"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Fivio Foreign",
+                                "artist_mbid": "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Sosa Geek",
+                                "artist_mbid": "d01eff4e-e65e-40d2-9a17-1fe7ace96462",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26081476734,
+                        "caa_release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "recording_mbid": "a77c2e16-2f16-4056-8975-d0bd747e1d8f",
+                        "recording_name": "Demons",
+                        "release_group_mbid": "bb944494-b3e7-4be2-952e-171a1743868e",
+                        "release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW"
+                            }
+                        ]
+                    },
+                    "release_name": "Dark Lane Demo Tapes",
+                    "track_name": "Demons (feat. Fivio Foreign & Sosa Geek)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639453,
+                "recording_msid": "4bc37238-5adc-4faa-bed2-6af231fe0f76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "15a5da16-8b89-4047-aefe-81473c97b5b2",
+                        "lastfm_release_mbid": "1f5be8ba-87bc-4cc7-b216-f5795bfae4a5",
+                        "lastfm_track_mbid": "055a87e1-0118-4731-997d-5f27d1bbec85",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jamie Foxx",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "15a5da16-8b89-4047-aefe-81473c97b5b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jamie Foxx",
+                                "artist_mbid": "15a5da16-8b89-4047-aefe-81473c97b5b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32304116486,
+                        "caa_release_mbid": "7fced611-5c6b-456f-b9bb-b1aeaefa2aa3",
+                        "recording_mbid": "d5af548f-a345-41ae-b921-97b42127c2a9",
+                        "recording_name": "Do What It Do",
+                        "release_group_mbid": "4c65fcb4-abac-3644-b50f-3b5fc610605a",
+                        "release_mbid": "f6522683-b22a-428c-80f4-6c2d6cd180da"
+                    },
+                    "release_name": "Unpredictable",
+                    "track_name": "Do What It Do"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639227,
+                "recording_msid": "95aafe1b-72a9-4f3c-a383-21f7a650d61f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                        "lastfm_release_mbid": "9e5fc812-1143-4a3d-adc5-8d1ef30f0f31",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Timbaland",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                            "07832b42-8826-4ab1-acd3-c49a2f595ffe"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Timbaland",
+                                "artist_mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "6LACK",
+                                "artist_mbid": "07832b42-8826-4ab1-acd3-c49a2f595ffe",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18581781497,
+                        "caa_release_mbid": "9e5fc812-1143-4a3d-adc5-8d1ef30f0f31",
+                        "recording_mbid": "a9d45a4e-8d9d-49c5-8d16-efb765987cc1",
+                        "recording_name": "Grab the Wheel",
+                        "release_group_mbid": "aff7067b-e49b-4545-894a-0d69e20b7ea7",
+                        "release_mbid": "9e5fc812-1143-4a3d-adc5-8d1ef30f0f31"
+                    },
+                    "release_name": "Grab The Wheel",
+                    "track_name": "Grab The Wheel"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790639070,
+                "recording_msid": "1f0c78e6-260a-43d8-8c87-16376ebe64a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                        "lastfm_release_mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+                        "lastfm_track_mbid": "a66aa513-1476-4a25-bcaa-9f465cde285a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Post Malone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                            "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Post Malone",
+                                "artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Swae Lee",
+                                "artist_mbid": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24594877530,
+                        "caa_release_mbid": "35e543bb-9b9f-46f9-85a2-35cd70bfd111",
+                        "recording_mbid": "b6df9d04-2303-4ec7-a416-367b06a026cb",
+                        "recording_name": "Sunflower (Spider-Man: Into the Spider-Verse)",
+                        "release_group_mbid": "8c9e2ca7-fad0-427c-a963-6bd535992a38",
+                        "release_mbid": "fe2c8953-e3d5-40fe-a855-cdb5eb8357a0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4VqTRBvYg0z8C4nsl4Hupy"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5XxnCGiL7BJCWNinE46KOc"
+                            }
+                        ]
+                    },
+                    "release_name": "Hollywood's Bleeding",
+                    "track_name": "Sunflower - Spider-Man: Into the Spider-Verse"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790638903,
+                "recording_msid": "edc49fa7-20d3-48fa-b37a-25729173602e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "938bbcc7-3c04-4209-85fb-fa8b3dcd2672",
+                        "lastfm_release_mbid": "19be42d4-5bc5-45ca-91cb-90860a0de51a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Mob",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "938bbcc7-3c04-4209-85fb-fa8b3dcd2672",
+                            "95f35260-5f18-4185-9926-9a4d191d737d",
+                            "ec1e11c9-8b5b-4126-9453-08744d09ba17"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Mob",
+                                "artist_mbid": "938bbcc7-3c04-4209-85fb-fa8b3dcd2672",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "A$AP Twelvyy",
+                                "artist_mbid": "95f35260-5f18-4185-9926-9a4d191d737d",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Zack",
+                                "artist_mbid": "ec1e11c9-8b5b-4126-9453-08744d09ba17",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25208191519,
+                        "caa_release_mbid": "9b4bea5a-502f-456c-ac5e-f7e994450497",
+                        "recording_mbid": "167c771c-b601-454f-bb1b-f1033a5edd35",
+                        "recording_name": "Coziest",
+                        "release_group_mbid": "ec83cfd6-1d3c-4297-bd98-22591a0a1843",
+                        "release_mbid": "9b4bea5a-502f-456c-ac5e-f7e994450497"
+                    },
+                    "release_name": "Cozy Tapes Vol. 2: Too Cozy",
+                    "track_name": "Coziest (feat. A$AP Twelvyy & Zack)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790638697,
+                "recording_msid": "dd6f3238-a9e9-455d-8848-b2957f2f1a39",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaÿ-Z",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f82bcf78-5b69-4622-a5ef-73800768d9ac"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jay‐Z",
+                                "artist_mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2961331174,
+                        "caa_release_mbid": "c7566cf8-d5ce-4d6f-a46e-5d2752836bdd",
+                        "recording_mbid": "ef08d86e-4a25-4134-a786-5ed5fb38e32b",
+                        "recording_name": "03' Bonnie & Clyde",
+                        "release_group_mbid": "50c95a97-b6bf-45d8-8647-af3d5b15d3a7",
+                        "release_mbid": "c7566cf8-d5ce-4d6f-a46e-5d2752836bdd"
+                    },
+                    "release_name": "The Blueprint 2: The Gift & The Curse",
+                    "track_name": "03' Bonnie & Clyde"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790638556,
+                "recording_msid": "629596c0-02eb-43d3-ae1e-651a7831a078",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9bbb82f1-2063-4f6a-a30a-acb1b98d57f1",
+                        "lastfm_track_mbid": "e74cd3ae-0122-402f-8f8c-8903e941d199",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36977512197,
+                        "caa_release_mbid": "31a93ebd-f764-48a2-ab46-4a5cd4916b96",
+                        "recording_mbid": "29661ef9-df1d-406a-9f8b-2ef0a037353d",
+                        "recording_name": "overseas",
+                        "release_group_mbid": "dac1ca48-7c71-4ba7-92bd-fd82445c280e",
+                        "release_mbid": "9bbb82f1-2063-4f6a-a30a-acb1b98d57f1"
+                    },
+                    "release_name": "A Great Chaos (Deluxe)",
+                    "track_name": "Overseas"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790638301,
+                "recording_msid": "288ec6d3-76da-4461-914e-49ff8f3d18d9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ne-Yo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+                            "07a8922d-680a-4637-a55e-88d7d1969a95"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ne‐Yo",
+                                "artist_mbid": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Eric Bellinger",
+                                "artist_mbid": "07a8922d-680a-4637-a55e-88d7d1969a95",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19844486651,
+                        "caa_release_mbid": "1ec5b571-86fd-4a38-aa09-d34361c7e1ba",
+                        "recording_mbid": "dc834e74-d477-415b-938d-4fecb011f79d",
+                        "recording_name": "Hotbox",
+                        "release_group_mbid": "f500ff16-8932-4af3-ba4e-bf223712cc31",
+                        "release_mbid": "1ec5b571-86fd-4a38-aa09-d34361c7e1ba"
+                    },
+                    "release_name": "GOOD MAN (Deluxe)",
+                    "track_name": "HOTBOX"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790638119,
+                "recording_msid": "03255776-1c0e-43b9-b1da-18de8d53c4ad",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "03f03619-385a-4ed9-9974-cdcdf6404cf5",
+                        "lastfm_track_mbid": "43622054-cd20-419a-9240-642927c40a97",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12790816703,
+                        "caa_release_mbid": "99e14f9e-5831-4b2c-b595-531be0f225ea",
+                        "recording_mbid": "8fad643e-199f-48cc-8c8d-29eefa85cf5d",
+                        "recording_name": "Waves",
+                        "release_group_mbid": "8c18657a-6338-490d-a952-897663596b96",
+                        "release_mbid": "713a0ac1-b57e-48b9-baa4-ce71ad11e9d0"
+                    },
+                    "release_name": "The Life of Pablo",
+                    "track_name": "Waves"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790637919,
+                "recording_msid": "3395df45-8604-4d30-9606-5591b7797358",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "fe2950dd-080e-44c2-9e49-4354640c84ae",
+                        "lastfm_track_mbid": "7dda1fb5-7457-420b-ad9e-12860d32b132",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chris Brown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c234fa42-e6a6-443e-937e-2f4b073538a3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chris Brown",
+                                "artist_mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45069151607,
+                        "caa_release_mbid": "fe2950dd-080e-44c2-9e49-4354640c84ae",
+                        "recording_mbid": "7dda1fb5-7457-420b-ad9e-12860d32b132",
+                        "recording_name": "For the Moment",
+                        "release_group_mbid": "7456ba22-931b-48d3-9752-0a8bb47dbd8f",
+                        "release_mbid": "fe2950dd-080e-44c2-9e49-4354640c84ae",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6764419271"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6764419271"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/522041149"
+                            }
+                        ]
+                    },
+                    "release_name": "Brown",
+                    "track_name": "For The Moment"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790637664,
+                "recording_msid": "e0463dc2-bb92-461b-9b49-8aaea1a97894",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                        "lastfm_release_mbid": "fd8b885c-169c-4666-9d01-e5c53fde0332",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fivio Foreign",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                            "80609a00-b394-4a49-975b-2db6b543fa97"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fivio Foreign",
+                                "artist_mbid": "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Kid LAROI",
+                                "artist_mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32194349624,
+                        "caa_release_mbid": "fd8b885c-169c-4666-9d01-e5c53fde0332",
+                        "recording_mbid": "75e39261-022e-412b-a8e5-844c5f5822eb",
+                        "recording_name": "Paris to Tokyo",
+                        "release_group_mbid": "8d0b8d62-5c68-465a-b4b6-1eed6107415b",
+                        "release_mbid": "28be0938-d80f-4534-9375-65bdc0a1fe29"
+                    },
+                    "release_name": "B.I.B.L.E.",
+                    "track_name": "Paris to Tokyo"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790637528,
+                "recording_msid": "e0463dc2-bb92-461b-9b49-8aaea1a97894",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                        "lastfm_release_mbid": "fd8b885c-169c-4666-9d01-e5c53fde0332",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fivio Foreign",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                            "80609a00-b394-4a49-975b-2db6b543fa97"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fivio Foreign",
+                                "artist_mbid": "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Kid LAROI",
+                                "artist_mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32194349624,
+                        "caa_release_mbid": "fd8b885c-169c-4666-9d01-e5c53fde0332",
+                        "recording_mbid": "75e39261-022e-412b-a8e5-844c5f5822eb",
+                        "recording_name": "Paris to Tokyo",
+                        "release_group_mbid": "8d0b8d62-5c68-465a-b4b6-1eed6107415b",
+                        "release_mbid": "28be0938-d80f-4534-9375-65bdc0a1fe29"
+                    },
+                    "release_name": "B.I.B.L.E.",
+                    "track_name": "Paris to Tokyo"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790637121,
+                "recording_msid": "6d08a1bc-a908-4cc5-a8df-f97be2b16efe",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "82e1439f-cd95-4eee-9a2e-4c1af9408920",
+                        "lastfm_release_mbid": "713a8379-8a0d-4633-8dd2-d1c6d5734214",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nino Breeze",
+                    "release_name": "OMERTÁ",
+                    "track_name": "Type a N***a"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636976,
+                "recording_msid": "5f561e72-1939-46e6-ba99-6fe3d955b8a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7c24178a-8658-4e7f-889f-82013f8fd3f6",
+                        "lastfm_release_mbid": "95890e52-14d8-41ed-a53d-0338e8e0f7b7",
+                        "lastfm_track_mbid": "0125995d-11b3-45d2-a409-c79981ec39c4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "August Alsina",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7c24178a-8658-4e7f-889f-82013f8fd3f6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "August Alsina",
+                                "artist_mbid": "7c24178a-8658-4e7f-889f-82013f8fd3f6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29010843889,
+                        "caa_release_mbid": "95890e52-14d8-41ed-a53d-0338e8e0f7b7",
+                        "recording_mbid": "32f8491b-4975-4517-b89f-440de2b2bfd5",
+                        "recording_name": "Don't Forget About Me",
+                        "release_group_mbid": "73580ebe-3afe-49c1-838e-b01a53875cec",
+                        "release_mbid": "95890e52-14d8-41ed-a53d-0338e8e0f7b7"
+                    },
+                    "release_name": "Downtown: Life Under The Gun",
+                    "track_name": "Don't Forget About Me"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636877,
+                "recording_msid": "d671cdfa-1f83-48e9-bdd7-8e5eb67cbd0d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "418fe547-4bec-48fe-8df0-ed25e27f4570",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NAV",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "418fe547-4bec-48fe-8df0-ed25e27f4570",
+                            "31bcadcc-e1da-4cad-bec8-2f4f1d41b095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "NAV",
+                                "artist_mbid": "418fe547-4bec-48fe-8df0-ed25e27f4570",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Meek Mill",
+                                "artist_mbid": "31bcadcc-e1da-4cad-bec8-2f4f1d41b095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22761190661,
+                        "caa_release_mbid": "6d8729e1-0ba9-46c2-b80b-4ba237f80161",
+                        "recording_mbid": "f64bb3c1-faa3-49bb-9dd5-cfbeccf7d1fe",
+                        "recording_name": "Tap",
+                        "release_group_mbid": "8194ae10-e0d9-40fb-8e0b-73a502fdb6a9",
+                        "release_mbid": "4e8a1bab-f09d-46c8-ab56-012ea3c65c34"
+                    },
+                    "release_name": "Bad Habits (Deluxe)",
+                    "track_name": "Tap (feat. Meek Mill)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636674,
+                "recording_msid": "2fcd1c92-993f-4914-ae48-8bc4de05084b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+                        "lastfm_release_mbid": "2520bee2-6f7a-445d-9407-5b5d30b3489e",
+                        "lastfm_track_mbid": "15d6d970-c0c9-4906-b4e3-7578df196bb8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Akon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1138a764-2212-4d0a-b02d-0dc14df91e08"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Akon",
+                                "artist_mbid": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18738414864,
+                        "caa_release_mbid": "ac27db93-62fb-45fd-a376-826543f3a7ce",
+                        "recording_mbid": "a2abe654-8ffd-433b-8f9f-5c51a900bcd7",
+                        "recording_name": "Angel",
+                        "release_group_mbid": "7c66e29b-a457-3fab-8237-1ceb5738ebdf",
+                        "release_mbid": "ac27db93-62fb-45fd-a376-826543f3a7ce"
+                    },
+                    "release_name": "Angel",
+                    "track_name": "Angel"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636429,
+                "recording_msid": "d94a2c9f-e94f-4dd6-bae9-b7445094b8cc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f50cee24-a799-45da-b65f-fb0874cd521d",
+                        "lastfm_release_mbid": "aab2dd14-0974-41cc-899b-49f2231cfe3f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Roy Woods",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f50cee24-a799-45da-b65f-fb0874cd521d",
+                            "01667dde-e5fd-4748-9986-ac623e4e9d65"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Roy Woods",
+                                "artist_mbid": "f50cee24-a799-45da-b65f-fb0874cd521d",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "MadeinTYO",
+                                "artist_mbid": "01667dde-e5fd-4748-9986-ac623e4e9d65",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15494521491,
+                        "caa_release_mbid": "aab2dd14-0974-41cc-899b-49f2231cfe3f",
+                        "recording_mbid": "4c40bd3b-8e87-4d13-b1e5-58084e72902f",
+                        "recording_name": "Instinct",
+                        "release_group_mbid": "f333951e-8ac3-4047-b847-b482e4cccd98",
+                        "release_mbid": "aab2dd14-0974-41cc-899b-49f2231cfe3f"
+                    },
+                    "release_name": "Nocturnal",
+                    "track_name": "Instinct (feat. MadeinTYO)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636179,
+                "recording_msid": "66b0b6d9-faf9-4297-9a5d-6169b0e6f583",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "51e2f71f-c769-424f-9cd0-0e671a374a3e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bow Wow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6fd44ae7-097d-4979-94ba-5dfc40d9f7ad",
+                            "f236134b-7ebb-4ba8-b155-1791193d05ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bow Wow",
+                                "artist_mbid": "6fd44ae7-097d-4979-94ba-5dfc40d9f7ad",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Mario",
+                                "artist_mbid": "f236134b-7ebb-4ba8-b155-1791193d05ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1432466850,
+                        "caa_release_mbid": "ffa1c3c9-1e33-4d9e-837e-d5a6c3ad074e",
+                        "recording_mbid": "50a1097a-f7bb-4aba-bf50-f24e1de4efc5",
+                        "recording_name": "I'll Move On",
+                        "release_group_mbid": "6aac8ea2-4cc7-3e74-9d18-319dde6828b3",
+                        "release_mbid": "ffa1c3c9-1e33-4d9e-837e-d5a6c3ad074e"
+                    },
+                    "release_name": "Unleashed",
+                    "track_name": "I'll Move On (feat. Mario)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790636069,
+                "recording_msid": "d758f9d3-2c21-4bb8-a964-29fd6d72ed3f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cash Cobain",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4f57372b-2054-4722-a534-a99ab2598120",
+                            "4613524d-8a2c-40c8-8885-ac07cb4ec1ca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cash Cobain",
+                                "artist_mbid": "4f57372b-2054-4722-a534-a99ab2598120",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "BunnaB",
+                                "artist_mbid": "4613524d-8a2c-40c8-8885-ac07cb4ec1ca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "e0029469-0054-494c-8ec4-b12bd9769447",
+                        "recording_name": "Hoes Be Mad",
+                        "release_group_mbid": "6e129700-4e20-4db0-b410-2d8b2683b204",
+                        "release_mbid": "e1c7755e-c07d-4f9b-a071-5684c6ea121d"
+                    },
+                    "release_name": "Hoes Be Mad",
+                    "track_name": "Hoes Be Mad"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790635961,
+                "recording_msid": "d758f9d3-2c21-4bb8-a964-29fd6d72ed3f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cash Cobain",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4f57372b-2054-4722-a534-a99ab2598120",
+                            "4613524d-8a2c-40c8-8885-ac07cb4ec1ca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cash Cobain",
+                                "artist_mbid": "4f57372b-2054-4722-a534-a99ab2598120",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "BunnaB",
+                                "artist_mbid": "4613524d-8a2c-40c8-8885-ac07cb4ec1ca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "e0029469-0054-494c-8ec4-b12bd9769447",
+                        "recording_name": "Hoes Be Mad",
+                        "release_group_mbid": "6e129700-4e20-4db0-b410-2d8b2683b204",
+                        "release_mbid": "e1c7755e-c07d-4f9b-a071-5684c6ea121d"
+                    },
+                    "release_name": "Hoes Be Mad",
+                    "track_name": "Hoes Be Mad"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790635789,
+                "recording_msid": "0bdb9e6f-a24c-419d-afb4-e9b6450f1591",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                        "lastfm_release_mbid": "239d9272-0d89-4ef0-a101-7251c3337b13",
+                        "lastfm_track_mbid": "27d63d6e-2e6d-4d9f-b72e-375270b1315f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29034326976,
+                        "caa_release_mbid": "239d9272-0d89-4ef0-a101-7251c3337b13",
+                        "recording_mbid": "9f5a09a3-63c3-4704-86ff-b59b2a800851",
+                        "recording_name": "Long RD",
+                        "release_group_mbid": "98d3ff51-54dc-4e89-8515-44f295adb328",
+                        "release_mbid": "239d9272-0d89-4ef0-a101-7251c3337b13"
+                    },
+                    "release_name": "Still Flexin, Still Steppin",
+                    "track_name": "Long RD"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790635468,
+                "recording_msid": "1dd412bd-2e21-4540-8f4b-de550b821b78",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+                        "lastfm_release_mbid": "1d167ce2-4b89-483f-88f5-36362dfacd76",
+                        "lastfm_track_mbid": "348b3a28-6c1e-312e-be34-bd50c709cb9b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chingy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+                            "c2d25856-a09a-4d15-b404-77dd19c19e63"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chingy",
+                                "artist_mbid": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "R.Kelly",
+                                "artist_mbid": "c2d25856-a09a-4d15-b404-77dd19c19e63",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39953120996,
+                        "caa_release_mbid": "647e0cae-d3ac-4f26-a6b7-ddc456ae0754",
+                        "recording_mbid": "ba9f96c0-f263-4de7-8bf1-693a90114814",
+                        "recording_name": "Leave Wit Me",
+                        "release_group_mbid": "4715daa4-8fa2-3851-8105-7212a567cb65",
+                        "release_mbid": "1d167ce2-4b89-483f-88f5-36362dfacd76"
+                    },
+                    "release_name": "PowerBallin'",
+                    "track_name": "Leave Wit Me"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790641940,
+                "listened_at": 1790635136,
+                "recording_msid": "2d6fc2c6-2ffb-4eca-84ca-e91b2130b417",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rick Ross",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+                            "d2299099-e617-46dd-b013-ba0b4c72bc63",
+                            "4593d49a-7f67-46ba-9ec0-126bd676286f",
+                            "a6a4c910-2b22-4a6f-aebe-805b176c47b8",
+                            "e9296a90-9c59-4657-9165-1f1b5319de00"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rick Ross",
+                                "artist_mbid": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Fabolous",
+                                "artist_mbid": "d2299099-e617-46dd-b013-ba0b4c72bc63",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Flo Rida",
+                                "artist_mbid": "4593d49a-7f67-46ba-9ec0-126bd676286f",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Fat Joe",
+                                "artist_mbid": "a6a4c910-2b22-4a6f-aebe-805b176c47b8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lloyd",
+                                "artist_mbid": "e9296a90-9c59-4657-9165-1f1b5319de00",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 3838087216,
+                        "caa_release_mbid": "0253e457-97f3-469d-846e-61382134f663",
+                        "recording_mbid": "7cfc063f-ac5b-4e5e-9eed-7409782e93eb",
+                        "recording_name": "Go Ahead",
+                        "release_group_mbid": "a4c82239-fd47-4388-a181-756ebe43bd39",
+                        "release_mbid": "0253e457-97f3-469d-846e-61382134f663"
+                    },
+                    "release_name": "Too Good To Be True",
+                    "track_name": "Go To Hell"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790634335,
+                "listened_at": 1790622851,
+                "recording_msid": "05b7772e-b2b3-4cc0-9789-afc094e92a6f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "O Agibank tá facinho, facinho pra você",
+                    "track_name": "Com Simone Mendes"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790622858,
+                "listened_at": 1790622851,
+                "recording_msid": "2adcb06f-d363-4753-96d8-6704e21a9d58",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 30,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ZIvfkiDVn0U",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "O Agibank tá facinho, facinho pra você",
+                    "track_name": "Com Simone Mendes"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790634335,
+                "listened_at": 1790622797,
+                "recording_msid": "290fd051-0778-4b73-9bb8-fe508e746730",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "“Adoleta”",
+                    "track_name": "Suke feat. Soh Lopez (CLIPE OFICIAL)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790622841,
+                "listened_at": 1790622797,
+                "recording_msid": "784e292e-117a-4620-8e7e-88680618c0e1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 142,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ZIvfkiDVn0U",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "“Adoleta”",
+                    "track_name": "Suke feat. Soh Lopez (CLIPE OFICIAL)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790572099,
+                "listened_at": 1790567510,
+                "recording_msid": "9b38ec39-643f-4be1-a951-f987f24aae3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                        "lastfm_release_mbid": "8bc0ecf0-9ace-4a80-831a-34c7346b1d71",
+                        "lastfm_track_mbid": "0488b50c-b9c3-43b0-a147-23abc75280ab",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26185517079,
+                        "caa_release_mbid": "8bc0ecf0-9ace-4a80-831a-34c7346b1d71",
+                        "recording_mbid": "3ca763cb-2f5d-47a8-8ccb-0a23c4e0d284",
+                        "recording_name": "Stupid Again",
+                        "release_group_mbid": "77273ad9-8932-449d-9a35-12d2ebc760ba",
+                        "release_mbid": "de903db1-e3ff-4ed3-9ad3-e772a3e51142",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
+                            }
+                        ]
+                    },
+                    "release_name": "The New Toronto 3",
+                    "track_name": "Stupid Again"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790572099,
+                "listened_at": 1790567294,
+                "recording_msid": "7a40d165-c301-43a1-8fad-4f26b8e038f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                        "lastfm_release_mbid": "021985e0-6afe-4517-b80a-d2e1cf3fc174",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Pop Smoke",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "253c9ae7-850b-46be-8fbb-65e9fa621058"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pop Smoke",
+                                "artist_mbid": "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27558961938,
+                        "caa_release_mbid": "42d6820e-993f-4b06-880a-1c70911296e7",
+                        "recording_mbid": "b1a95c0d-bd8e-4004-9f50-c094ad15c328",
+                        "recording_name": "Dior",
+                        "release_group_mbid": "d6d1de65-7e43-4277-b723-fc74a2b385e1",
+                        "release_mbid": "853d0acf-427d-4863-a4d7-2d87d6c14895"
+                    },
+                    "release_name": "Shoot for the Stars Aim for the Moon",
+                    "track_name": "Dior (Bonus)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790567504,
+                "listened_at": 1790567101,
+                "recording_msid": "7a767a8c-22ed-43ba-9e67-983acaaa8017",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482",
+                        "lastfm_release_mbid": "244fc940-e12c-44f6-9e00-2d7ec24bcdf0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jhené Aiko",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ceb3f5b7-9f1a-430f-afbe-976fdcf30482",
+                            "942a9807-9c1a-4a0e-a285-1fde2c5be9d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jhené Aiko",
+                                "artist_mbid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Big Sean",
+                                "artist_mbid": "942a9807-9c1a-4a0e-a285-1fde2c5be9d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33346429996,
+                        "caa_release_mbid": "a124b24a-c368-4ffe-8cb7-b364e96067a3",
+                        "recording_mbid": "52851cc9-30ea-463b-87ab-0d3717e57d0b",
+                        "recording_name": "Moments",
+                        "release_group_mbid": "93da1e8a-2040-497a-a5a4-36094a44ed3d",
+                        "release_mbid": "3321fb06-ef8d-4140-9b4e-7c3da9229b3f"
+                    },
+                    "release_name": "Trip",
+                    "track_name": "Moments"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790567504,
+                "listened_at": 1790566887,
+                "recording_msid": "2794d217-b90b-4d79-b6ff-3bb8c3b9b2bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+                        "lastfm_release_mbid": "10d0be9d-9da2-4c71-b129-f23af0e4c239",
+                        "lastfm_track_mbid": "15b65ea0-0ba9-4e9f-8942-864d4ab1127d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Peep",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "92da4329-77a4-425c-8e92-4280110cace9",
+                            "ff94e0f3-8f1a-418a-a0f4-4c4a100603dc"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Peep",
+                                "artist_mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lil Tracy",
+                                "artist_mbid": "ff94e0f3-8f1a-418a-a0f4-4c4a100603dc",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44596643338,
+                        "caa_release_mbid": "65ae7642-d40d-405e-b702-04bce9ff1241",
+                        "recording_mbid": "e274d507-2475-4093-8ce4-8158be2ea5b2",
+                        "recording_name": "Awful Things",
+                        "release_group_mbid": "e8f9e703-e2ad-4289-bf7a-43dd9568d712",
+                        "release_mbid": "ecfc654e-9d38-4ca9-8500-552f89091656",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2478514151"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1709756923"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1709756923"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/77qveRnReN3HaFrikk58nB"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/319214765"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=zOujzvtwZ6M"
+                            }
+                        ]
+                    },
+                    "release_name": "Come Over When You're Sober, Pt. 1",
+                    "track_name": "Awful Things"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790567504,
+                "listened_at": 1790549860,
+                "recording_msid": "23b1565f-1d2c-4c87-8f72-bc92ef478c8a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1",
+                        "lastfm_release_mbid": "736158e7-e21e-4550-aedf-2740048d8562",
+                        "lastfm_track_mbid": "491ea730-c6ed-4429-98bb-3c9bde4e4285",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rod Wave",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rod Wave",
+                                "artist_mbid": "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36013105715,
+                        "caa_release_mbid": "1a3f4ec8-01f7-45ce-b08c-cbbc820a3cb7",
+                        "recording_mbid": "b124f68f-ad32-42a0-bc0d-26e2a88bb965",
+                        "recording_name": "Heart on Ice",
+                        "release_group_mbid": "ddf939f7-2991-4601-b269-f9f028d10bd9",
+                        "release_mbid": "1a10fd47-675a-44f4-a1c1-af85c7cea75b"
+                    },
+                    "release_name": "PTSD",
+                    "track_name": "Heart On Ice"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790549685,
+                "recording_msid": "c7c1789b-e058-4f67-a4cb-0172b82f79f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+                        "lastfm_release_mbid": "477d264f-9835-48d7-8fd5-aabe19a8c135",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chance the Rapper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "373a4c98-a46b-48e4-86ec-f6ca65b4f438"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chance the Rapper",
+                                "artist_mbid": "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6287062012,
+                        "caa_release_mbid": "788246cb-dafc-43e5-8489-ab45971e1ff3",
+                        "recording_mbid": "48904ba4-d017-4f60-80e6-91b5c2327dcc",
+                        "recording_name": "Prom Night",
+                        "release_group_mbid": "90038ebb-f964-46f2-9f62-0951764ae713",
+                        "release_mbid": "788246cb-dafc-43e5-8489-ab45971e1ff3"
+                    },
+                    "release_name": "Coloring Book",
+                    "track_name": "All Night (feat. Knox Fortune)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790549503,
+                "recording_msid": "ad8176b7-b713-48a9-8d4e-dca74fab7337",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                        "lastfm_release_mbid": "528327af-ad6d-40e6-ac2b-5b2607bb36f3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trippie Redd",
+                                "artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30127895660,
+                        "caa_release_mbid": "e672a79e-9bb3-42ed-be06-0ee57f186eec",
+                        "recording_mbid": "970707e1-0a57-4b6c-9dd5-055c266bf3c4",
+                        "recording_name": "Holy Smokes",
+                        "release_group_mbid": "f2db87a1-daa2-48a5-8de0-277db56865c1",
+                        "release_mbid": "7efcd1b8-ff4a-4197-95ce-b4a9082e555e"
+                    },
+                    "release_name": "Trip at Knight",
+                    "track_name": "Holy Smokes (feat. Lil Uzi Vert)"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790549228,
+                "recording_msid": "234a1edf-45d1-4509-a5ea-1f1ed7640d0c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sabotage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9f2c381d-aee1-4c64-ab3f-48e330d1b8d5",
+                            "1ee7e9f7-dfe2-40fd-a5c6-dc5f87c21cb4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sabotage",
+                                "artist_mbid": "9f2c381d-aee1-4c64-ab3f-48e330d1b8d5",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Instituto",
+                                "artist_mbid": "1ee7e9f7-dfe2-40fd-a5c6-dc5f87c21cb4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35372393503,
+                        "caa_release_mbid": "96958818-6975-4836-8829-befbac7ad9ce",
+                        "recording_mbid": "16bd7853-6e81-47d8-a515-8c81e7135fa0",
+                        "recording_name": "Mun Rá",
+                        "release_group_mbid": "c96452ef-257b-4a3c-ad45-2810702ae83e",
+                        "release_mbid": "96958818-6975-4836-8829-befbac7ad9ce"
+                    },
+                    "release_name": "Mun Rá (Edição Comemorativa)",
+                    "track_name": "mun rá"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790549012,
+                "recording_msid": "144fcbfe-a4d3-4a25-b239-e1f91d32d94f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "942a9807-9c1a-4a0e-a285-1fde2c5be9d1",
+                        "lastfm_release_mbid": "26c448bc-cb58-4708-8002-c8d2cc79d192",
+                        "lastfm_track_mbid": "8ab98487-9934-413e-adc8-de8cbdff6dd4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Big Sean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "942a9807-9c1a-4a0e-a285-1fde2c5be9d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Big Sean",
+                                "artist_mbid": "942a9807-9c1a-4a0e-a285-1fde2c5be9d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11248342825,
+                        "caa_release_mbid": "26c448bc-cb58-4708-8002-c8d2cc79d192",
+                        "recording_mbid": "d91e9938-0396-41b0-bab1-167e4d3f3887",
+                        "recording_name": "I Do It",
+                        "release_group_mbid": "2f29a348-dfa8-4d2f-95a6-34c5cb57949a",
+                        "release_mbid": "fb6d36eb-e1ac-4229-afb5-d989a6a0fa3f"
+                    },
+                    "release_name": "Finally Famous",
+                    "track_name": "I Do It"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790548755,
+                "recording_msid": "1d9d76f8-a518-4410-8476-3f6131665b68",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
+                        "lastfm_release_mbid": "64abe96b-cfad-370b-8731-6e737fcc9222",
+                        "lastfm_track_mbid": "c90d4b91-0772-4525-aad6-6c6486944334",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ja Rule",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b504f625-4ef6-4a5a-81e8-870a61e8dc9c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ja Rule",
+                                "artist_mbid": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33416896757,
+                        "caa_release_mbid": "7550746e-0fc3-4e2b-b903-773939a9bf2a",
+                        "recording_mbid": "af86f616-11a8-4521-b787-3d243942dc7e",
+                        "recording_name": "Livin’ It Up",
+                        "release_group_mbid": "ff90d5b2-e9aa-41ab-a1c3-f2115ff8bebe",
+                        "release_mbid": "7550746e-0fc3-4e2b-b903-773939a9bf2a"
+                    },
+                    "release_name": "Pain Is Love",
+                    "track_name": "Livin' It Up"
+                },
+                "user_name": "wagnersilva17"
+            },
+            {
+                "inserted_at": 1790554123,
+                "listened_at": 1790548505,
+                "recording_msid": "49ff64a6-c044-4903-b7e4-9b53bba629ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                        "lastfm_release_mbid": "9938dfd7-b9a6-4956-b9f9-9984a60b832d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40063108065,
+                        "caa_release_mbid": "910639af-f875-4035-8224-45e4600e491e",
+                        "recording_mbid": "3ae687ec-e144-4c6c-b40d-b11928062a83",
+                        "recording_name": "Came 4 Me",
+                        "release_group_mbid": "be1b2f83-1883-4db9-bf9c-3fa96e3f9952",
+                        "release_mbid": "910639af-f875-4035-8224-45e4600e491e"
+                    },
+                    "release_name": "Memories Don't Die",
+                    "track_name": "4 Me"
+                },
+                "user_name": "wagnersilva17"
+            }
+        ],
+        "oldest_listen_ts": 1389908132,
+        "user_id": "wagnersilva17"
+    }
+}

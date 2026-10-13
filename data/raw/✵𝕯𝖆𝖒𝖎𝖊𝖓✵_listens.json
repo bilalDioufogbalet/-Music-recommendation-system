@@ -1,0 +1,3846 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1790400799,
+        "listens": [
+            {
+                "inserted_at": 1790400898,
+                "listened_at": 1790400799,
+                "recording_msid": "c500fd78-ab8a-4a51-84a8-60a4c5c7351d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 196000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "BIA, A$AP Ferg, Denzel Curry",
+                    "release_name": "BIANCA",
+                    "track_name": "WE ON GO II (feat. Denzel Curry)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790400713,
+                "listened_at": 1790400609,
+                "recording_msid": "4a05c3f1-9f4d-4aea-939c-a15eceffa733",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "A$AP Rocky, Skepta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                            "38474d18-9204-4f60-a137-1fcc6750b869"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Skepta",
+                                "artist_mbid": "38474d18-9204-4f60-a137-1fcc6750b869",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45054692782,
+                        "caa_release_mbid": "6993535a-aef4-4282-abb9-296e549ef283",
+                        "recording_mbid": "78ee7ba2-400d-4a17-a4bf-142c44a30fb4",
+                        "recording_name": "Praise the Lord (Da Shine)",
+                        "release_group_mbid": "a82cafe6-d3df-4d76-be85-60a757ad2687",
+                        "release_mbid": "335c481a-7123-44d8-9189-20d6153ad64e"
+                    },
+                    "release_name": "TESTING",
+                    "track_name": "Praise The Lord (Da Shine) (feat. Skepta)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790400446,
+                "listened_at": 1790400340,
+                "recording_msid": "46abc108-2984-4bb4-a8bb-6e8f120c76cc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 211000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41394080013,
+                        "caa_release_mbid": "39fc2d14-1ebb-49a3-bf6d-acf2e78cd46e",
+                        "recording_mbid": "e6ba1995-b39b-44fd-99d4-02a3e65fc968",
+                        "recording_name": "Handsome and Wealthy",
+                        "release_group_mbid": "fdc3966c-17c7-4521-b624-6b5a60b365b3",
+                        "release_mbid": "c28b75a3-c7bf-4df1-ab9b-f74d6b5742e7",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1687241627"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1614567723"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/221120291"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1614567723"
+                            }
+                        ]
+                    },
+                    "release_name": "No Label II",
+                    "track_name": "Handsome And Wealthy"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790400258,
+                "listened_at": 1790400179,
+                "recording_msid": "8cf389a5-8536-4732-a673-3de22593e717",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 156000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Tate McRae, The Kid LAROI",
+                    "release_name": "So Close To What",
+                    "track_name": "I know love (feat. The Kid LAROI)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399884,
+                "listened_at": 1790399806,
+                "recording_msid": "1c965afc-0f64-4bad-abe8-6c049793131f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 155000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Pels P",
+                    "release_name": "Mind Games",
+                    "track_name": "Someone"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399705,
+                "listened_at": 1790399601,
+                "recording_msid": "0b129731-f179-4559-96fb-d14f9fdd04c1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 207000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Fridayy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb9c2a2b-96c2-44d7-bd31-04ef87572b57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fridayy",
+                                "artist_mbid": "cb9c2a2b-96c2-44d7-bd31-04ef87572b57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41381389730,
+                        "caa_release_mbid": "daa86b7d-755f-4983-a5a4-029f18e978f4",
+                        "recording_mbid": "aebb9c66-6580-44c6-8f37-694c016091d2",
+                        "recording_name": "Come Home",
+                        "release_group_mbid": "5c138928-2f49-443c-b872-1162876d662a",
+                        "release_mbid": "b1c402c8-abcd-4071-bd0c-57e267107fc2"
+                    },
+                    "release_name": "Some Days I’m Good, Some Days I’m Not",
+                    "track_name": "Come Home"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399539,
+                "listened_at": 1790399454,
+                "recording_msid": "324f7e92-689b-4344-8ef4-167c60a7e8a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 169000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Tayc",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0c980a2b-ca09-4d04-ad80-e7c2ce9621fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tayc",
+                                "artist_mbid": "0c980a2b-ca09-4d04-ad80-e7c2ce9621fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41832492665,
+                        "caa_release_mbid": "0c43e78c-3899-4052-9588-b1b0403c634c",
+                        "recording_mbid": "b2ca1185-2768-4275-9f85-b7b59492a3a6",
+                        "recording_name": "Forévà",
+                        "release_group_mbid": "c3322c79-97a9-4e90-932e-3c9b5cfc7abb",
+                        "release_mbid": "0c43e78c-3899-4052-9588-b1b0403c634c"
+                    },
+                    "release_name": "TESTIMONY.",
+                    "track_name": "Forévà"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399326,
+                "listened_at": 1790399230,
+                "recording_msid": "2f3caeb2-1544-4397-a17a-d9f0aed8cfcd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 184000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "One Direction",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a425bbd-cca4-4b2c-aeb7-71cb176c828a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "One Direction",
+                                "artist_mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40873117336,
+                        "caa_release_mbid": "1baca0fa-2dfe-49b5-a788-59c938b50cf0",
+                        "recording_mbid": "62ec168c-1989-4af3-9545-d429644615cf",
+                        "recording_name": "Magic",
+                        "release_group_mbid": "1174aa3d-1c9e-4745-be8d-e21a61b1a22d",
+                        "release_mbid": "8381c0b5-b99c-4957-9779-f7fb7d28d024",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7gY8FAYu5zuOzmPBlOec3L"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/jp/song/646255362"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/jp/song/646255362"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/149005324"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1024619642"
+                            }
+                        ]
+                    },
+                    "release_name": "Take Me Home (Expanded Edition)",
+                    "track_name": "Magic"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399197,
+                "listened_at": 1790399082,
+                "recording_msid": "4bf5023b-b366-4d5c-8f16-fc108e92a5da",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 229000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kanye West, Ye, Andre Troutman",
+                    "release_name": "BULLY",
+                    "track_name": "ALL THE LOVE (feat. Andre Troutman)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790399000,
+                "listened_at": 1790398899,
+                "recording_msid": "41146aa1-143c-41f7-97f0-27d96340883b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "33bb0b0d-c928-49b9-a2f0-fd4e25476caa",
+                        "recording_name": "Sweet Home",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389883"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258362"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258362"
+                            }
+                        ]
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "Sweet Home"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790398849,
+                "listened_at": 1790398770,
+                "recording_msid": "0a3638ca-767a-4889-8003-cd92bc69c789",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 157000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Tems",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tems",
+                                "artist_mbid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39028331383,
+                        "caa_release_mbid": "c887aea2-0147-4850-90fc-e3cab045963c",
+                        "recording_mbid": "8e0b5ea5-b235-4dea-bcba-932befa1c807",
+                        "recording_name": "Wickedest",
+                        "release_group_mbid": "10bb7c0f-b95e-41e2-8fad-68e131deb09d",
+                        "release_mbid": "793f7f24-2c69-4bb7-87e4-9b5c6f535535"
+                    },
+                    "release_name": "Born in the Wild",
+                    "track_name": "Wickedest"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790398693,
+                "listened_at": 1790398591,
+                "recording_msid": "17cb4caf-f680-4a91-81ff-5405ae2ebcab",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 203000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Larsimon",
+                    "release_name": "Low life x Cinderella",
+                    "track_name": "Low life x Cinderella"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790398480,
+                "listened_at": 1790398388,
+                "recording_msid": "f5b445e1-6d9c-48b6-8150-753acaed5477",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 182000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Joshua Baraka, The Compozers",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "38d55490-2bec-4d7f-bde4-b26c3012d299",
+                            "84d2123c-2011-4295-a93f-81133f749ea1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Joshua Baraka",
+                                "artist_mbid": "38d55490-2bec-4d7f-bde4-b26c3012d299",
+                                "join_phrase": ","
+                            },
+                            {
+                                "artist_credit_name": "The Compozers",
+                                "artist_mbid": "84d2123c-2011-4295-a93f-81133f749ea1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44312248144,
+                        "caa_release_mbid": "4691592c-3483-472b-b552-6203ed59022a",
+                        "recording_mbid": "9a74b183-f923-4181-a99a-de6f3f1d58c4",
+                        "recording_name": "So Low",
+                        "release_group_mbid": "685cfcc8-2250-4293-bc32-391db1dbc4d6",
+                        "release_mbid": "4691592c-3483-472b-b552-6203ed59022a"
+                    },
+                    "release_name": "Juvie",
+                    "track_name": "So Low"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790398229,
+                "listened_at": 1790398130,
+                "recording_msid": "49f7932d-946e-4680-88e8-f6241b1cbd4f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 190000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kethan",
+                    "release_name": "Dua",
+                    "track_name": "Dua"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790398015,
+                "listened_at": 1790397878,
+                "recording_msid": "307fceee-4e71-4881-a533-9de49713adc2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 245000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Watendawili, Xenia Manasseh",
+                    "release_name": "En Route",
+                    "track_name": "Beba"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790397792,
+                "listened_at": 1790397698,
+                "recording_msid": "5018e600-8917-4b50-83a4-e70d70282c6b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 186000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Timi Dre, Ayo Jay",
+                    "release_name": "WHINE",
+                    "track_name": "WHINE"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790397611,
+                "listened_at": 1790397514,
+                "recording_msid": "32385604-61bc-4d4c-a5b7-3dcfaec703e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 192000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Timi Dre",
+                    "release_name": "ON YOU",
+                    "track_name": "ON YOU"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790397263,
+                "listened_at": 1790397187,
+                "recording_msid": "3923d860-160a-4c70-b78c-56e07aee7138",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 146000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Bee Thee Artiste, X.O, AUGUST IV",
+                    "release_name": "Yet Another Love Song",
+                    "track_name": "Yet Another Love Song"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790267283,
+                "listened_at": 1790267170,
+                "recording_msid": "93bcc003-fa9e-4435-9597-e064e41c0e30",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 223000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "68b96771-386c-4e9a-99fb-9d1dfa6515ac",
+                        "recording_name": "Whisper My Name",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568595"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568595"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851239"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Whisper My Name"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790267185,
+                "listened_at": 1790267011,
+                "recording_msid": "eee8c490-750f-4e12-b5e4-37d4b35df322",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 171000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "The Kid LAROI",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "80609a00-b394-4a49-975b-2db6b543fa97"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Kid LAROI",
+                                "artist_mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43176026268,
+                        "caa_release_mbid": "da6d6f42-d254-448f-8645-e2ff0e99f4b6",
+                        "recording_mbid": "7e05b9d5-2430-426f-87a4-13890db3eac6",
+                        "recording_name": "BABY I’M BACK",
+                        "release_group_mbid": "c7dfea50-73db-4200-ac9a-3da2285604d4",
+                        "release_mbid": "062f4c46-d69c-4911-b48d-bb131f1c9169"
+                    },
+                    "release_name": "THE FIRST TIME (DELUXE VERSION)",
+                    "track_name": "BABY I'M BACK"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266953,
+                "listened_at": 1790266876,
+                "recording_msid": "4e5aa5db-d9c7-479f-b9db-d00e364e748d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 150000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "1892f310-8713-47e5-b9a8-06f8d4021ca9",
+                        "recording_name": "YOSEMITE",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "YOSEMITE"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266801,
+                "listened_at": 1790266708,
+                "recording_msid": "a231772a-60b2-4a31-aa40-fe21879e5e35",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 182000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Central Cee, Dave",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b0337af1-8d93-4671-b6c9-ba306bf942bf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Central Cee",
+                                "artist_mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42532877598,
+                        "caa_release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724",
+                        "recording_mbid": "bc4d1cf4-39a6-40f0-9713-5b8a90f156f1",
+                        "recording_name": "CRG",
+                        "release_group_mbid": "a7051c12-571b-46f8-8df5-607de595c8f5",
+                        "release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724"
+                    },
+                    "release_name": "CAN'T RUSH GREATNESS",
+                    "track_name": "CRG (feat. Dave)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266660,
+                "listened_at": 1790266573,
+                "recording_msid": "0b7d5554-119a-4649-92a0-6e622412f581",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 170000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Chris Brown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c234fa42-e6a6-443e-937e-2f4b073538a3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chris Brown",
+                                "artist_mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45069151607,
+                        "caa_release_mbid": "fe2950dd-080e-44c2-9e49-4354640c84ae",
+                        "recording_mbid": "3c07f430-e928-4f44-bd98-40b80db730ec",
+                        "recording_name": "Holy Blindfold",
+                        "release_group_mbid": "7456ba22-931b-48d3-9752-0a8bb47dbd8f",
+                        "release_mbid": "fe2950dd-080e-44c2-9e49-4354640c84ae",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1TKHMElAoEk6YhPpNDOWMP"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/522041189"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6764419428"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6764419428"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1817448755"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1817448755"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3406430311"
+                            }
+                        ]
+                    },
+                    "release_name": "Holy Blindfold",
+                    "track_name": "Holy Blindfold"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266475,
+                "listened_at": 1790266356,
+                "recording_msid": "fa26e13d-5ba5-4709-ad98-73e020bc3b24",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 235000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Wanavokali",
+                    "release_name": "Dunia",
+                    "track_name": "Dunia"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266277,
+                "listened_at": 1790266182,
+                "recording_msid": "2775c0c7-ad9d-4d30-97a2-d4c2892bede9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 187000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Amara DFN",
+                    "release_name": "Me & You",
+                    "track_name": "Me & You"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790266084,
+                "listened_at": 1790265990,
+                "recording_msid": "3b09067f-6e5b-4868-a669-1cf225066235",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 185000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "ADÉLA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ADÉLA",
+                                "artist_mbid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46101322026,
+                        "caa_release_mbid": "264d60e5-36d0-4b3a-9529-dd57a2ac5c39",
+                        "recording_mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
+                        "recording_name": "Ain’t in LA",
+                        "release_group_mbid": "b7234418-f054-495d-9aa7-efcba9454b32",
+                        "release_mbid": "ff9a7240-f0b0-47d0-afdf-1efa4954fd77",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/nz/song/6792884101"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/nz/song/6792884101"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+                            }
+                        ]
+                    },
+                    "release_name": "PRIMA",
+                    "track_name": "Ain't In LA"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790265878,
+                "listened_at": 1790265764,
+                "recording_msid": "638ff5c7-3cd6-447f-bb14-444d8acc019f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 227000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Don Toliver, Rema",
+                    "release_name": "OCTANE",
+                    "track_name": "Secondhand (feat. Rema)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790265696,
+                "listened_at": 1790265615,
+                "recording_msid": "2901f52b-7c78-4f8e-8fa1-21f1802d2c66",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 158000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Dominic Fike",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e337c918-098f-418e-97a2-81dc224b1bf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dominic Fike",
+                                "artist_mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36124998780,
+                        "caa_release_mbid": "e51c974a-9160-4c93-9cc7-5a91716339c1",
+                        "recording_mbid": "584852b6-2c02-4615-9193-ae85c4985ea9",
+                        "recording_name": "Dancing in the Courthouse",
+                        "release_group_mbid": "5324b97c-c5ac-423e-97f4-b2e21aa2410a",
+                        "release_mbid": "f8b66f96-c2b2-436a-a869-f9fd93c92ccc"
+                    },
+                    "release_name": "Sunburn",
+                    "track_name": "Dancing In The Courthouse"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790265537,
+                "listened_at": 1790265414,
+                "recording_msid": "bf242c62-db4d-4a19-b686-3a67d8090393",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 243000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Vistoso Bosses, Soulja Boy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0cc08b4e-b7b4-4c77-a624-e4f503f92db4",
+                            "29eead4d-3793-4625-8727-c03edbb38b8b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Vistoso Bosses",
+                                "artist_mbid": "0cc08b4e-b7b4-4c77-a624-e4f503f92db4",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Soulja Boy",
+                                "artist_mbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36596665097,
+                        "caa_release_mbid": "96c57309-e357-479b-864e-602aa9eacbaa",
+                        "recording_mbid": "d2cedfe9-e3a6-44ce-8481-c53c4645414f",
+                        "recording_name": "Delirious",
+                        "release_group_mbid": "a6a1d25d-a9a6-4de7-a1f1-351fc17fcec9",
+                        "release_mbid": "96c57309-e357-479b-864e-602aa9eacbaa"
+                    },
+                    "release_name": "Delirious",
+                    "track_name": "Delirious"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790265555,
+                "listened_at": 1790265187,
+                "recording_msid": "e92ad95a-6bca-41c9-a57a-29b99e238777",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 257000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Post Malone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Post Malone",
+                                "artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23720993945,
+                        "caa_release_mbid": "f403edbd-31ad-41b8-a262-e46efb643399",
+                        "recording_mbid": "9f16e2b4-3fb4-45b5-a0a3-49873e087aae",
+                        "recording_name": "White Iverson",
+                        "release_group_mbid": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+                        "release_mbid": "ed552632-08bd-46da-87c5-90132a5bb1ef",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1jJvopaIseWJor5ko3Q5AG"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/207432433"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1596836740"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1596836740"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1573100592"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/36010466"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/36010466"
+                            }
+                        ]
+                    },
+                    "release_name": "Stoney (Deluxe)",
+                    "track_name": "White Iverson"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790265028,
+                "listened_at": 1790264936,
+                "recording_msid": "e46b6254-47ee-4008-9b3e-155c36bdc404",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 183000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Smash Mouth",
+                    "release_name": "Smash Mouth",
+                    "track_name": "I'm A Believer - Radio Edit"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790264946,
+                "listened_at": 1790264588,
+                "recording_msid": "f97fb358-46de-4e07-b1db-e27f7b90ca95",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 221000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Fleetwood Mac",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd13909f-1c29-4c27-a874-d4aaf27c5b1a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fleetwood Mac",
+                                "artist_mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20233520477,
+                        "caa_release_mbid": "67e84ceb-2c4a-4819-a7aa-04492242e087",
+                        "recording_mbid": "bf9f470e-50ce-4540-92bb-d129fcaaaee3",
+                        "recording_name": "Little Lies",
+                        "release_group_mbid": "680b3cd8-426b-3112-bcf3-42cd66f75fa9",
+                        "release_mbid": "ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f"
+                    },
+                    "release_name": "Tango In the Night (Deluxe Edition)",
+                    "track_name": "Little Lies - 2017 Remaster"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790264695,
+                "listened_at": 1790264290,
+                "recording_msid": "55fd94bc-cb5e-446c-9c59-b3fe21c52328",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 304000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Electric Light Orchestra",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0c502791-4ee9-4c5f-9696-0602b721ff3b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Electric Light Orchestra",
+                                "artist_mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12414410936,
+                        "caa_release_mbid": "e470249c-66e3-4565-a0cd-6b052bde709e",
+                        "recording_mbid": "6e33056b-2a34-4ed0-b49c-f7a8ae2c5bcc",
+                        "recording_name": "Mr. Blue Sky",
+                        "release_group_mbid": "a720436f-9c8e-439a-a147-18e83441edab",
+                        "release_mbid": "f47cb625-4ab7-3aa2-9f43-0dc3dc9543eb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/516127492"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/112662184"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1054525017"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1054525017"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/28187766"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/28187766"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/53230853"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5P5p380eEXrb9JuMICp8rR"
+                            }
+                        ]
+                    },
+                    "release_name": "Out of the Blue",
+                    "track_name": "Mr. Blue Sky"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790264171,
+                "listened_at": 1790264084,
+                "recording_msid": "fbeed8e1-32eb-4e44-acac-2d3db662a3e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 170000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Olivia Newton-John, John Travolta",
+                    "release_name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
+                    "track_name": "You're The One That I Want - Remastered 2022"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790263986,
+                "listened_at": 1790263878,
+                "recording_msid": "c1f2a0df-aa07-4277-8b89-035cb257e7ed",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 213000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Backstreet Boys",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Backstreet Boys",
+                                "artist_mbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5143075447,
+                        "caa_release_mbid": "bf594062-27f5-4500-a86d-1a9af8da169f",
+                        "recording_mbid": "87dfa566-21c3-45ed-bc42-1d345b8563fa",
+                        "recording_name": "I Want It That Way",
+                        "release_group_mbid": "a8fb6ac6-a659-320f-8736-87b52ad65e3a",
+                        "release_mbid": "d814137c-b260-4180-9a5a-fd38c8cbb0f1",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/25688676"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/14307153"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/308522273"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/15396985"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4DJD4ix6aexcGxoskpMXvS"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3444560411"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/308522273"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1795046351"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1795046351"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/14307153"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/446034035"
+                            }
+                        ]
+                    },
+                    "release_name": "Millennium",
+                    "track_name": "I Want It That Way"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790263782,
+                "listened_at": 1790263635,
+                "recording_msid": "9d3d315f-e6b3-417f-8d3c-c37fffad48c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 293000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Whitney Houston",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0307edfc-437c-4b48-8700-80680e66a228"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Whitney Houston",
+                                "artist_mbid": "0307edfc-437c-4b48-8700-80680e66a228",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22197251125,
+                        "caa_release_mbid": "1eb4416b-1f67-39a9-9b00-c59b3a24c983",
+                        "recording_mbid": "900c26eb-e3a4-481d-9c3b-dd8963a7c185",
+                        "recording_name": "I Wanna Dance With Somebody (Who Loves Me)",
+                        "release_group_mbid": "4f5bfc50-7a41-385e-9961-3db0feaec430",
+                        "release_mbid": "aed8fcfd-0ef0-4013-8993-6fd4e2c22457",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2717935792"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/27100909"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/840431935"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2KeFgCKJbph8pggwUkTgAn"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/840431935"
+                            }
+                        ]
+                    },
+                    "release_name": "Whitney",
+                    "track_name": "I Wanna Dance with Somebody (Who Loves Me)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790263516,
+                "listened_at": 1790263388,
+                "recording_msid": "5e132613-26cf-4bc9-9d13-c4fbeb2433d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 254000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "The Police",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e0e2b01-41db-4008-bd8b-988977d6019a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Police",
+                                "artist_mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4426159553,
+                        "caa_release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "recording_mbid": "3e19df7a-3f9a-4d42-adbf-31867646f602",
+                        "recording_name": "Every Breath You Take",
+                        "release_group_mbid": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+                        "release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=-SaUrDhp034"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GO5utuvcZps"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=orGKsBYObtw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=-SaUrDhp034"
+                            }
+                        ]
+                    },
+                    "release_name": "Synchronicity (Remastered 2003)",
+                    "track_name": "Every Breath You Take"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790263250,
+                "listened_at": 1790263102,
+                "recording_msid": "edef6d74-b94f-4747-9b67-18a3f2c6d970",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 293000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "ABBA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d87e52c5-bb8d-4da8-b941-9f4928627dc8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ABBA",
+                                "artist_mbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41495699178,
+                        "caa_release_mbid": "7ecae446-b9f3-48ed-a71a-4aa4b354b565",
+                        "recording_mbid": "348af50b-a077-4b7e-a0d7-fea8ef532531",
+                        "recording_name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+                        "release_group_mbid": "99177140-a01f-41cc-9c83-24d35f0aaec8",
+                        "release_mbid": "7ecae446-b9f3-48ed-a71a-4aa4b354b565"
+                    },
+                    "release_name": "Voulez-Vous",
+                    "track_name": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790263244,
+                "listened_at": 1790262871,
+                "recording_msid": "59a94887-c487-40fd-b786-a165c1cadbc5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 238000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Cyndi Lauper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bd9e20e-74b9-446a-a2ed-a223f82a36e7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cyndi Lauper",
+                                "artist_mbid": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6150873730,
+                        "caa_release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120",
+                        "recording_mbid": "0e5f1add-c943-49a0-b824-169e7f7b82da",
+                        "recording_name": "Girls Just Want to Have Fun",
+                        "release_group_mbid": "46d415e9-39b7-3978-9e3d-d9d8a32c6751",
+                        "release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120"
+                    },
+                    "release_name": "She's So Unusual",
+                    "track_name": "Girls Just Want to Have Fun"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790262780,
+                "listened_at": 1790262678,
+                "recording_msid": "2b662364-f573-4d48-bc71-d43ed988e656",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 200000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Smash Mouth",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "944e1036-8a03-4611-8aa0-31515a05c848"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Smash Mouth",
+                                "artist_mbid": "944e1036-8a03-4611-8aa0-31515a05c848",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26695733505,
+                        "caa_release_mbid": "78014375-ec5b-4b90-984b-dfb61f14e4d4",
+                        "recording_mbid": "e2fecf2a-c7ae-49f6-8e6d-4cde06c46edd",
+                        "recording_name": "All Star",
+                        "release_group_mbid": "bc8b23b4-3ef9-3764-90cd-bbb08f8c2926",
+                        "release_mbid": "78014375-ec5b-4b90-984b-dfb61f14e4d4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=8ay_BkRuv-o"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/1300228"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1440719249"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1440719249"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/917717"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/19fm0eNKTeg1JbHCHwPhLe"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1440517537"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1565010"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2t0NfhRIiib6zlCw2XlHoq"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=Atf1qTY2piQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=r0--xYI8TcE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=d1xGz8AJlQY"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=JlqwNvePzOs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=8ay_BkRuv-o"
+                            }
+                        ]
+                    },
+                    "release_name": "Astro Lounge",
+                    "track_name": "All Star"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790262629,
+                "listened_at": 1790262503,
+                "recording_msid": "1895ecba-959a-4268-be22-56fddbdc4771",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 250000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Bon Jovi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5dcdb5eb-cb72-4e6e-9e63-b7bace604965"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bon Jovi",
+                                "artist_mbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9382444781,
+                        "caa_release_mbid": "260849ba-38e8-4ad5-bf8a-bff47eb91f93",
+                        "recording_mbid": "c7e5ae79-b20b-46ab-89b4-63612ac3206f",
+                        "recording_name": "Livin’ on a Prayer",
+                        "release_group_mbid": "f07346e6-c889-33b8-83c8-ad987d7b14f6",
+                        "release_mbid": "51bf3213-a746-446c-b9d8-01c0802cccb9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3243755941"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/419320385"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.youtube.com/watch?v=YBdyc1WDlBQ"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/318374153"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/419323410"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/318374153"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1794889306"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.youtube.com/watch?v=lDK9QqIzhwk"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1794889306"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+                            }
+                        ]
+                    },
+                    "release_name": "Slippery When Wet (Deluxe Edition)",
+                    "track_name": "Livin' On A Prayer"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790262402,
+                "listened_at": 1790262294,
+                "recording_msid": "a7784f95-6edc-42ed-b142-31eb41433ad9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 214000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Rick Astley",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "db92a151-1ac2-438b-bc43-b82e149ddd50"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rick Astley",
+                                "artist_mbid": "db92a151-1ac2-438b-bc43-b82e149ddd50",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30721131344,
+                        "caa_release_mbid": "bf9e91ea-8029-4a04-a26a-224e00a83266",
+                        "recording_mbid": "8f3471b5-7e6a-48da-86a9-c1c07a0f47ae",
+                        "recording_name": "Never Gonna Give You Up",
+                        "release_group_mbid": "082c6aff-a7cc-36e0-a960-35a578ecd937",
+                        "release_mbid": "bf9e91ea-8029-4a04-a26a-224e00a83266",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1624945512"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6JEK0CvvjDjjMUBFoXShNZ"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1624945512"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1Ojc3QD0dfJ5HG8uzLsfTg"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1438556832"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=Om61naQC8is"
+                            }
+                        ]
+                    },
+                    "release_name": "Whenever You Need Somebody",
+                    "track_name": "Never Gonna Give You Up"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790262186,
+                "listened_at": 1790262067,
+                "recording_msid": "c343ed23-a762-4652-874d-632301c64f60",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 234000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Belinda Carlisle",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2925aac9-5474-4030-b8a3-4151107010b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Belinda Carlisle",
+                                "artist_mbid": "2925aac9-5474-4030-b8a3-4151107010b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 8668161818,
+                        "caa_release_mbid": "8c539b63-7787-4c8b-9719-ab3cdf61ddc5",
+                        "recording_mbid": "3a4ed83a-7fde-43a9-ba41-97237a90a04f",
+                        "recording_name": "Heaven Is a Place on Earth",
+                        "release_group_mbid": "290f20b7-f6ce-3a03-9f72-30c69d3246f6",
+                        "release_mbid": "8c539b63-7787-4c8b-9719-ab3cdf61ddc5",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=TsvkQ2bJb0A"
+                            }
+                        ]
+                    },
+                    "release_name": "Heaven on Earth (Deluxe Edition)",
+                    "track_name": "Heaven Is a Place on Earth - Promo 7\" Edit"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790261963,
+                "listened_at": 1790261837,
+                "recording_msid": "670d9f39-424d-42cc-8594-ca33da82eb9b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Crowded House",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9854d99f-d954-4c0f-9ae5-58a0cdd885f5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Crowded House",
+                                "artist_mbid": "9854d99f-d954-4c0f-9ae5-58a0cdd885f5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46337417996,
+                        "caa_release_mbid": "c5d1f90f-aebd-411d-97b0-675bd9f6bbfa",
+                        "recording_mbid": "acd06f90-79fe-49f6-881a-5250d896bed9",
+                        "recording_name": "Don’t Dream It’s Over",
+                        "release_group_mbid": "9fd1dad9-94a1-36f3-9288-33fdbbc6cc8c",
+                        "release_mbid": "c5d1f90f-aebd-411d-97b0-675bd9f6bbfa",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=H7UMRkp7m80"
+                            }
+                        ]
+                    },
+                    "release_name": "Crowded House",
+                    "track_name": "Don't Dream It's Over"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790261751,
+                "listened_at": 1790261656,
+                "recording_msid": "3eab9df9-611f-4ac0-b932-324cd2e2dd38",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 188000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Counting Crows",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0327dc2-dc76-44d5-aec6-47cd2dff1469"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Counting Crows",
+                                "artist_mbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27644679292,
+                        "caa_release_mbid": "32a50bc9-5cb0-4808-8a2d-fcf9545f70dd",
+                        "recording_mbid": "efbea858-508e-4f98-b1ad-a45485c86911",
+                        "recording_name": "Accidentally in Love",
+                        "release_group_mbid": "361a9659-2c4e-34ea-8d35-e2b15f2b2ae3",
+                        "release_mbid": "50f0c744-c488-451a-8ac2-bec5a0682395"
+                    },
+                    "release_name": "Films About Ghosts: The Best Of...",
+                    "track_name": "Accidentally In Love - From \"Shrek 2\" Soundtrack"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790261538,
+                "listened_at": 1790261410,
+                "recording_msid": "41504836-9f11-47cb-b960-e9a7af3d4533",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 253000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Culture Club",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81435053-e1a2-48a4-adfd-e89f310c7b38"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Culture Club",
+                                "artist_mbid": "81435053-e1a2-48a4-adfd-e89f310c7b38",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24905684515,
+                        "caa_release_mbid": "cd21af5f-5ff9-4d9b-a0b7-0b7be02354d5",
+                        "recording_mbid": "59959335-ff14-447d-8f91-2db0ab776be2",
+                        "recording_name": "Karma Chameleon",
+                        "release_group_mbid": "00490137-fa0b-3252-90f7-42b8eea8ae14",
+                        "release_mbid": "f5307356-bb1d-4086-adbc-c8dcce4c85ed",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=S8Cv5XbG428"
+                            }
+                        ]
+                    },
+                    "release_name": "Colour By Numbers (Remastered / Expanded Edition)",
+                    "track_name": "Karma Chameleon - Remastered 2002"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790261312,
+                "listened_at": 1790261201,
+                "recording_msid": "35894571-a4a7-433f-886d-c4d3a8c524be",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 216000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Bryan Adams",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4dbf5678-7a31-406a-abbe-232f8ac2cd63"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bryan Adams",
+                                "artist_mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2609776029,
+                        "caa_release_mbid": "71b3c346-fcb9-4a93-99d1-aae3b31a1ff7",
+                        "recording_mbid": "63829f37-1e41-4f31-a5c8-4dfa78e0aa9d",
+                        "recording_name": "Summer of ’69",
+                        "release_group_mbid": "fe1d2bcd-cdb6-333b-b2c6-8389e5890f04",
+                        "release_mbid": "4954d1c6-b98e-4ea2-b12f-b0a4c8f31ee3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=9f06QZCVUHg"
+                            }
+                        ]
+                    },
+                    "release_name": "Reckless (30th Anniversary / Deluxe Edition)",
+                    "track_name": "Summer Of '69"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790261247,
+                "listened_at": 1790260913,
+                "recording_msid": "fc2384c4-5e2f-40bf-a3a3-965ad639d226",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 295000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "TOTO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "aab5c954-cabe-432e-899e-1c4f99757327"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Toto",
+                                "artist_mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28814397178,
+                        "caa_release_mbid": "85774141-8eff-4017-85ce-6c7d901ce615",
+                        "recording_mbid": "55dc4892-b5ae-4bd7-9e98-2a0d4dd53cbc",
+                        "recording_name": "Africa",
+                        "release_group_mbid": "0d70d25f-a64a-3eed-8b26-13fe068a4519",
+                        "release_mbid": "a308ec90-2270-3ee5-862f-b3e1794c3e73",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=QAo_Ycocl1E"
+                            }
+                        ]
+                    },
+                    "release_name": "Toto IV",
+                    "track_name": "Africa"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790260775,
+                "listened_at": 1790260658,
+                "recording_msid": "6e33c287-60d4-441d-9b51-ea60fa89bce2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 231000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Wham!",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d570bb31-b9ca-45a4-a2d9-11b186d9c159"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wham!",
+                                "artist_mbid": "d570bb31-b9ca-45a4-a2d9-11b186d9c159",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2622532701,
+                        "caa_release_mbid": "ec01ad0c-a28f-4d45-bed7-d73014161c38",
+                        "recording_mbid": "80033c72-aa19-4ba8-9227-afb075fec46e",
+                        "recording_name": "Wake Me Up Before You Go‐Go",
+                        "release_group_mbid": "0e319e00-ac06-34ed-b4fa-f6d206d4a4e6",
+                        "release_mbid": "c143d542-48dc-446b-b523-1762da721638",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://www.iheart.com/artist/wham-31887/songs/wake-me-up-before-you-go-go-2521664/?autoplay=true"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.youtube.com/watch?v=17t7SEsoKfE&feature=gws_kp_track"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "http://pandora.com/artist/wham/make-it-big/wake-me-up-before-you-go-go/TR5fzdvlhrnl6ck?corr=knowledge_panel&part=google"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/5404526"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://www.last.fm/music/Wham!/_/Wake+Me+Up+Before+You+Go-Go"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=R14lGgHgVJM"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=pIgZ7gMze7A"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://soundcloud.com/wham-official/wake-me-up-before-you-go-go?in=wham-official/sets/make-it-big-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.amazon.com/gp/product/B00136RVDY"
+                            }
+                        ]
+                    },
+                    "release_name": "Make It Big",
+                    "track_name": "Wake Me Up Before You Go-Go"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790260501,
+                "listened_at": 1790260388,
+                "recording_msid": "9ffeb4f8-2b16-4c9f-a676-80bc94e7113f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 225000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "a-ha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7364dea6-ca9a-48e3-be01-b44ad0d19897"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "a‐ha",
+                                "artist_mbid": "7364dea6-ca9a-48e3-be01-b44ad0d19897",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13015069966,
+                        "caa_release_mbid": "181b9a01-0446-4601-99be-b011ab615631",
+                        "recording_mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+                        "recording_name": "Take On Me",
+                        "release_group_mbid": "af7347df-ef5a-3c41-826d-d884f8916c17",
+                        "release_mbid": "4ec07fe8-e7c6-3106-a0aa-fdf92f13f7fc",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/26997279"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2n4zllK7PoPbJUXfWGpVmO"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/26997279"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/68673367"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/49HCQYPAu3WHrekxhJfrTs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=HzdD8kbDzZA"
+                            }
+                        ]
+                    },
+                    "release_name": "Hunting High and Low",
+                    "track_name": "Take on Me"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790260289,
+                "listened_at": 1790260175,
+                "recording_msid": "3c3f70b0-8110-4636-90c0-317193fbaed9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 221000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kenny Loggins",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "15042d2b-2d4c-4451-a96a-6f547642de13"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kenny Loggins",
+                                "artist_mbid": "15042d2b-2d4c-4451-a96a-6f547642de13",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24663967986,
+                        "caa_release_mbid": "3fbc2d31-4b2d-4d53-9cae-ba7e23779fd8",
+                        "recording_mbid": "ae1886de-1f3b-4c77-b23a-1392945f3b86",
+                        "recording_name": "Footloose",
+                        "release_group_mbid": "069ffcf4-310d-49e0-b11e-9ce764536b20",
+                        "release_mbid": "0cca993e-2523-4a90-84cc-b8202f7b8ad8"
+                    },
+                    "release_name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+                    "track_name": "Footloose"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790195082,
+                "recording_msid": "23f56e8d-49a1-4629-80e5-7f9894efa9c0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 193000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Gathuru Gitema",
+                    "release_name": "Kweli",
+                    "track_name": "Kweli"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194861,
+                "recording_msid": "b09cc1b4-1673-4682-b66b-209eaaee87a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 234000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Twenty One Pilots",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "twenty one pilots",
+                                "artist_mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38169662503,
+                        "caa_release_mbid": "2bbbea7d-9879-455d-a903-857124b95515",
+                        "recording_mbid": "c0375c1c-5ce4-48ac-bfcd-52f2e96c2950",
+                        "recording_name": "Next Semester",
+                        "release_group_mbid": "dbecf03e-18ab-4d35-8371-a30c1dc356ba",
+                        "release_mbid": "6c62c689-7022-417a-b0a4-5e67e41cca6e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
+                            }
+                        ]
+                    },
+                    "release_name": "Clancy",
+                    "track_name": "Next Semester"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194695,
+                "recording_msid": "b87852d7-43f1-4394-8a66-0cc4c2ef2d26",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 168000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "CalledOut Music",
+                    "release_name": "Hosanna",
+                    "track_name": "Hosanna"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194554,
+                "recording_msid": "b1f9a6ec-78d0-486e-b236-0ed9dd3eb2c3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 156000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "GloRilla, Megan Thee Stallion",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+                            "ee27b2d8-648c-4a9d-a68c-e55066959975"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "GloRilla",
+                                "artist_mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Megan Thee Stallion",
+                                "artist_mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39806796072,
+                        "caa_release_mbid": "ea7a43d0-337d-409e-a76e-a2eb8a7e9906",
+                        "recording_mbid": "9456f763-599e-4782-b9e1-179a07499ba3",
+                        "recording_name": "Wanna Be",
+                        "release_group_mbid": "c5ec5851-b1fd-445a-8b44-6efa29bf7707",
+                        "release_mbid": "f812911b-51d1-474c-b003-fd6da11033d3"
+                    },
+                    "release_name": "Ehhthang Ehhthang",
+                    "track_name": "Wanna Be (with Megan Thee Stallion)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194350,
+                "recording_msid": "97fa97e5-a89c-46c4-b687-b44268811a8d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 221000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "21 Savage, Travis Scott, Metro Boomin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37750834012,
+                        "caa_release_mbid": "81227930-514a-469c-978d-8116238afbce",
+                        "recording_mbid": "0d10a467-935a-4779-be87-ce227b0a1ace",
+                        "recording_name": "née‐nah",
+                        "release_group_mbid": "17a64abf-6d31-473f-a740-38ffa548f225",
+                        "release_mbid": "4fee9bb8-8841-4fcf-aead-4d8cf8be5451"
+                    },
+                    "release_name": "american dream",
+                    "track_name": "née-nah"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194162,
+                "recording_msid": "540a53fb-c817-4dbc-a222-2d7f608f6851",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26275385133,
+                        "caa_release_mbid": "8667c0c7-6536-45b4-bc0f-e8c408308d61",
+                        "recording_mbid": "33b717e3-9944-4f6c-94a0-8d16215e0168",
+                        "recording_name": "Too Comfortable",
+                        "release_group_mbid": "06fe5095-875d-4638-b2d8-393e5b00fec7",
+                        "release_mbid": "9dcf3823-1254-4089-85a8-4c2b47a7cfbb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0biVzpdI2z0vAxwfU9xuuA"
+                            }
+                        ]
+                    },
+                    "release_name": "High Off Life",
+                    "track_name": "Too Comfortable"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790200921,
+                "listened_at": 1790194023,
+                "recording_msid": "562e818b-7dda-4aab-962e-c07488157283",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38053774562,
+                        "caa_release_mbid": "b7031daf-9c9c-4d01-9df0-3cc1fdaadba6",
+                        "recording_mbid": "2677c415-0fc1-48f1-9772-fe109aef033d",
+                        "recording_name": "If We Being Rëal",
+                        "release_group_mbid": "c6e3be09-3f31-458c-bb2f-2f7cf6b39082",
+                        "release_mbid": "3475fc26-c744-40c2-b6c2-1873742676f4"
+                    },
+                    "release_name": "2093",
+                    "track_name": "If We Being Rëal"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193951,
+                "listened_at": 1790193851,
+                "recording_msid": "424e7ac7-21f7-4975-bc33-8c077e0c67eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 198000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Gunna, Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26259737868,
+                        "caa_release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3",
+                        "recording_mbid": "d000ec90-3585-49da-9720-9b955b90f0e8",
+                        "recording_name": "DOLLAZ ON MY HEAD",
+                        "release_group_mbid": "2f97867d-ebff-478c-9ab4-4a33e0015318",
+                        "release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3"
+                    },
+                    "release_name": "WUNNA",
+                    "track_name": "DOLLAZ ON MY HEAD (feat. Young Thug)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193788,
+                "listened_at": 1790193713,
+                "recording_msid": "ff34e9ec-4fb9-439f-887a-b0a255a253ca",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 150000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Quavo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6143403a-df6c-429e-8ee6-ef869896b0da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ff57ca7e-52ae-40af-9fcd-afa000a66427",
+                        "recording_name": "HAAVIN",
+                        "release_group_mbid": "904fb714-664e-4bda-9dd8-c8e863aa3e2b",
+                        "release_mbid": "17e18a9a-bed0-4a17-8742-d5ab2737e534"
+                    },
+                    "release_name": "HAAVIN",
+                    "track_name": "HAAVIN"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193626,
+                "listened_at": 1790193548,
+                "recording_msid": "8db94572-8608-42fb-aa9c-2dc88b59c689",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 157000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45676375978,
+                        "caa_release_mbid": "2906dc3c-ad74-4e56-a761-b75dda334cdc",
+                        "recording_mbid": "43987e94-5b7f-4ab3-ad0e-969729340ef8",
+                        "recording_name": "Dead Fresh",
+                        "release_group_mbid": "45bf4f4a-1791-4b4c-877d-a028d5c05e19",
+                        "release_mbid": "2906dc3c-ad74-4e56-a761-b75dda334cdc",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/542825532"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4152054632"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/6790569133"
+                            }
+                        ]
+                    },
+                    "release_name": "Dead Fresh",
+                    "track_name": "Dead Fresh"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193485,
+                "listened_at": 1790193408,
+                "recording_msid": "cd1e10d9-cc70-4036-b0e7-809f7c5b081f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 154000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Don Toliver, SahBabii",
+                    "mbid_mapping": {
+                        "recording_mbid": "5bce6351-d70e-4e22-89c9-10ead8d638c9"
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "K9 (feat. SahBabii)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193323,
+                "listened_at": 1790193230,
+                "recording_msid": "9b5b9795-17e8-4063-8cc4-075c6bab78b6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 182000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "CHASE B, Don Toliver, SoFaygo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fd9ae276-af7a-4ca1-ba33-02696ece031d",
+                            "a0723a3c-4135-438e-85c5-012712144ede",
+                            "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "CHASE B",
+                                "artist_mbid": "fd9ae276-af7a-4ca1-ba33-02696ece031d",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "SoFaygo",
+                                "artist_mbid": "654d48fb-4fe4-472d-81e6-039e54f2f27b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44464705038,
+                        "caa_release_mbid": "8154aef2-c69e-4d5a-8bea-25f3132e7c13",
+                        "recording_mbid": "e574ae1d-a608-4afa-941d-4d6d689cefd3",
+                        "recording_name": "Satellite",
+                        "release_group_mbid": "5dd736b1-efcf-4042-a95f-86e25f2e34f8",
+                        "release_mbid": "8154aef2-c69e-4d5a-8bea-25f3132e7c13",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1878765798"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1878765798"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5obhkCpdeuQcJ3w4N6BVfS"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3869678471"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/502597829"
+                            }
+                        ]
+                    },
+                    "release_name": "BE VERY AFRAID (Vol. 1)",
+                    "track_name": "Satellite"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193162,
+                "listened_at": 1790193088,
+                "recording_msid": "9459c069-e7cc-4e18-84dc-b59f2941730e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "SZA, Don Toliver",
+                    "release_name": "SOS",
+                    "track_name": "Used (feat. Don Toliver)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790193043,
+                "listened_at": 1790192963,
+                "recording_msid": "dcc4720a-a9dc-4e1e-9cb1-acaf4f5f4cdb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 158000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kanye West, Ye, Don Toliver",
+                    "release_name": "BULLY - DELUXE",
+                    "track_name": "OK (feat. Don Toliver)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192881,
+                "listened_at": 1790192781,
+                "recording_msid": "55f1da26-1c8d-41d3-88a5-f3e87a1d5089",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 198000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "cb958c46-7d58-4982-8a5a-d53dac13dee9",
+                        "recording_name": "CAN’T SAY",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "CAN'T SAY"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192735,
+                "listened_at": 1790192662,
+                "recording_msid": "80c1093d-6d63-4375-b960-1434912425e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 146000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Lil Baby, Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21254717510,
+                        "caa_release_mbid": "180b7971-ac37-43e2-a9f2-0b66b363c8a8",
+                        "recording_mbid": "6255bc30-64f8-4a5c-883e-00ddaa421e2f",
+                        "recording_name": "Drip Too Hard",
+                        "release_group_mbid": "0372ea79-1de2-4bf1-abbc-9287f1692f6d",
+                        "release_mbid": "180b7971-ac37-43e2-a9f2-0b66b363c8a8"
+                    },
+                    "release_name": "Drip Harder",
+                    "track_name": "Drip Too Hard (Lil Baby & Gunna)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192583,
+                "listened_at": 1790192475,
+                "recording_msid": "5e6c38ec-c30e-41a2-8de3-8b84a251646b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 200000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Don Toliver, Teezo Touchdown",
+                    "mbid_mapping": {
+                        "recording_mbid": "d49d51c6-11a2-4491-837e-fce4ee15210a"
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "All The Signs (feat. Teezo Touchdown)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192435,
+                "listened_at": 1790192363,
+                "recording_msid": "da18170d-f533-45ae-b7e6-67b744622004",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 144000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Post Malone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Post Malone",
+                                "artist_mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38717946057,
+                        "caa_release_mbid": "11074151-67c0-45f9-8895-5402fadcf355",
+                        "recording_mbid": "456a8995-99cd-4b5b-b3bb-3f179ddc5723",
+                        "recording_name": "Git Wit U",
+                        "release_group_mbid": "82076d12-719b-46a6-b89d-10e6b4bdee25",
+                        "release_mbid": "11074151-67c0-45f9-8895-5402fadcf355",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6799168339"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5c9Uyjh4J1tgMpvPc6dRHx"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6799168339"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/553598596"
+                            }
+                        ]
+                    },
+                    "release_name": "August 26",
+                    "track_name": "Git Wit U"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192324,
+                "listened_at": 1790192236,
+                "recording_msid": "2bdf8396-6552-4a34-85ce-46973c9768f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 136000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "release_name": "Sketchy",
+                    "track_name": "Sketchy"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790192116,
+                "listened_at": 1790191989,
+                "recording_msid": "d3429a72-9ce8-4ddd-978f-1221c1b2cade",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Wyclef Jean, Akon, Lil Wayne, Niia",
+                    "release_name": "CARNIVAL VOL. II...Memoirs of an Immigrant",
+                    "track_name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790191865,
+                "listened_at": 1790191722,
+                "recording_msid": "635dcbc6-55ed-4d67-a4f0-977e9a7351ff",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 277000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Burna Boy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "78a19169-ac75-4868-b504-7e2e073118e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Burna Boy",
+                                "artist_mbid": "78a19169-ac75-4868-b504-7e2e073118e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26994861301,
+                        "caa_release_mbid": "8ac45d7a-909d-4cae-b0a7-618789c52797",
+                        "recording_mbid": "3b630237-8051-4dc8-8718-0894d1c7fcf2",
+                        "recording_name": "Bank on It",
+                        "release_group_mbid": "4f52c1f5-ccc8-4ead-9197-436feac507b0",
+                        "release_mbid": "480c0046-2c38-4520-8b53-2d40bab0530d"
+                    },
+                    "release_name": "Twice As Tall",
+                    "track_name": "Bank On It"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790191628,
+                "listened_at": 1790191483,
+                "recording_msid": "21b0c6bd-69e3-4654-bcae-8141a7b6ece6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 257000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kid Cudi, André Benjamin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+                            "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kid Cudi",
+                                "artist_mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "André 3000 Benjamin",
+                                "artist_mbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25611264813,
+                        "caa_release_mbid": "3cc89c9c-5b06-4b23-8a68-2dfebcf836c9",
+                        "recording_mbid": "a4ac4852-8a7b-4b60-84cb-3c73c62ea48c",
+                        "recording_name": "By Design",
+                        "release_group_mbid": "370b8d23-27cb-4588-bb77-58285b294845",
+                        "release_mbid": "3cc89c9c-5b06-4b23-8a68-2dfebcf836c9"
+                    },
+                    "release_name": "Passion, Pain & Demon Slayin'",
+                    "track_name": "By Design"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790191383,
+                "listened_at": 1790191251,
+                "recording_msid": "4eef3c1f-ad50-4f95-9431-78e186541445",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 262000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Drake, Sampha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "130c2184-14f2-4180-a216-04b5a333be57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Sampha",
+                                "artist_mbid": "130c2184-14f2-4180-a216-04b5a333be57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "03f0753b-8470-4164-ae3c-4fcd88213d69",
+                        "recording_name": "Too Much",
+                        "release_group_mbid": "0ca69273-7b82-4443-a0f1-489ba1ae1000",
+                        "release_mbid": "ed8d0da1-d5bd-4164-a15e-084a24538830"
+                    },
+                    "release_name": "Nothing Was The Same (Deluxe)",
+                    "track_name": "Too Much"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790191162,
+                "listened_at": 1790191017,
+                "recording_msid": "b0335cfa-3731-4e3c-b83a-b4912186fa32",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Jhené Aiko, Kendrick Lamar",
+                    "release_name": "Westside Whimsy",
+                    "track_name": "So Good (feat. Kendrick Lamar)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190940,
+                "listened_at": 1790190865,
+                "recording_msid": "b6f65d4f-d9a7-4584-b2f1-e9f65494bd75",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 148000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Oxlade",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4f96e4cc-d306-4ac3-89bf-c6d5fb8cc363"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oxlade",
+                                "artist_mbid": "4f96e4cc-d306-4ac3-89bf-c6d5fb8cc363",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33724014612,
+                        "caa_release_mbid": "c4376641-617d-4097-affb-cce6e8dc2bbc",
+                        "recording_mbid": "5f492580-3b57-4dc8-b5cd-5cd59239e9f8",
+                        "recording_name": "KU LO SA - A COLORS SHOW",
+                        "release_group_mbid": "7a57d4a9-df8f-49f5-8834-1790de84fefb",
+                        "release_mbid": "c4376641-617d-4097-affb-cce6e8dc2bbc"
+                    },
+                    "release_name": "KU LO SA - A COLORS SHOW",
+                    "track_name": "KU LO SA - A COLORS SHOW"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190802,
+                "listened_at": 1790190718,
+                "recording_msid": "7634ed46-e116-471e-9a24-c7cdb75e9c97",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "OMAH LAY",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b63bd4fd-2050-4c92-a237-576f6f6c97cb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OMAH LAY",
+                                "artist_mbid": "b63bd4fd-2050-4c92-a237-576f6f6c97cb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45083959864,
+                        "caa_release_mbid": "5a40adb6-a3ff-4f12-ba55-d6801b148dc9",
+                        "recording_mbid": "8983e7b1-0e9b-4e4e-9d4e-e0e6eec0a873",
+                        "recording_name": "WAIST",
+                        "release_group_mbid": "ec1b2352-37e4-4081-99cc-92ea0e786839",
+                        "release_mbid": "5a40adb6-a3ff-4f12-ba55-d6801b148dc9"
+                    },
+                    "release_name": "CLARITY OF MIND",
+                    "track_name": "WAIST"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190645,
+                "listened_at": 1790190546,
+                "recording_msid": "bf4bbf91-d624-4004-9d13-cc919d84c97f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 197000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Victony",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7013c772-2236-42f3-8590-2e2292d2ca5e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Victony",
+                                "artist_mbid": "7013c772-2236-42f3-8590-2e2292d2ca5e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42418549847,
+                        "caa_release_mbid": "c43e8d16-949c-41de-b5e7-05d7b9ed1fb9",
+                        "recording_mbid": "cadc0d2b-ab66-44d8-bcca-bebf4b773f25",
+                        "recording_name": "Kolomental",
+                        "release_group_mbid": "573bf41f-f8a4-4346-981a-7613e7999ae5",
+                        "release_mbid": "c43e8d16-949c-41de-b5e7-05d7b9ed1fb9"
+                    },
+                    "release_name": "Kolomental",
+                    "track_name": "Kolomental"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190461,
+                "listened_at": 1790190349,
+                "recording_msid": "b38b5be9-91ba-49e3-9f08-9a39a194fc8b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 222000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Fireboy DML",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4d09a017-4e09-47a7-b274-a7e0767ac4e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fireboy DML",
+                                "artist_mbid": "4d09a017-4e09-47a7-b274-a7e0767ac4e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27094257581,
+                        "caa_release_mbid": "26fe2eba-53c7-448c-8035-81ff63e6572e",
+                        "recording_mbid": "6b62e560-609f-4f24-84cf-0faa6ecdfe9a",
+                        "recording_name": "Need You",
+                        "release_group_mbid": "a9d07242-6b1f-4ffa-800c-cf1c2e220651",
+                        "release_mbid": "26fe2eba-53c7-448c-8035-81ff63e6572e"
+                    },
+                    "release_name": "Laughter, Tears & Goosebumps",
+                    "track_name": "Need You"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190287,
+                "listened_at": 1790190205,
+                "recording_msid": "aa9ef761-fd02-4d50-83f7-138ef40a7b50",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 160000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Joeboy, Qing Madi",
+                    "release_name": "Adenuga x Concerning",
+                    "track_name": "Adenuga (feat. Qing Madi)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790190111,
+                "listened_at": 1790190014,
+                "recording_msid": "624ea2f7-d593-4c10-8f82-56d0927e72c7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 190000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Tyla",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "45425c84-9092-4e2c-b732-e1d0280b580a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tyla",
+                                "artist_mbid": "45425c84-9092-4e2c-b732-e1d0280b580a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39593013157,
+                        "caa_release_mbid": "7c28a833-972c-4e30-b9d6-6f40286c28d8",
+                        "recording_mbid": "ea7012dc-47a3-48bc-8886-b771280be525",
+                        "recording_name": "Truth or Dare",
+                        "release_group_mbid": "7a360dbb-9773-4d5a-9a24-cce8203f1428",
+                        "release_mbid": "f792faa4-80cb-4d7e-b381-0006110c2285"
+                    },
+                    "release_name": "TYLA",
+                    "track_name": "Truth or Dare"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189883,
+                "listened_at": 1790189748,
+                "recording_msid": "82b3802d-2a52-4cf0-a2e4-05423320b9eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 269000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "USHER, will.i.am",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3414d446-735a-443c-931f-10634f57e5b9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Usher",
+                                "artist_mbid": "3414d446-735a-443c-931f-10634f57e5b9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12285205546,
+                        "caa_release_mbid": "18b4ec01-4c07-4e23-9775-df2dddda358e",
+                        "recording_mbid": "09de73b6-88a0-49f3-af68-9ee9f6815d02",
+                        "recording_name": "Omg",
+                        "release_group_mbid": "7fc27432-0c4a-4549-b437-53cf510b8619",
+                        "release_mbid": "18b4ec01-4c07-4e23-9775-df2dddda358e"
+                    },
+                    "release_name": "Raymond v Raymond (Expanded Edition)",
+                    "track_name": "OMG (feat. will.i.am)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189674,
+                "listened_at": 1790189568,
+                "recording_msid": "4e55b6d3-c45b-4b6c-811b-f89795f36fd6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 211000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Far East Movement, Ryan Tedder, Ruff Loaderz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6bd5655c-b7fe-48ee-8925-c2d2d8798618",
+                            "0bc6d6e7-0858-4b73-a079-7aa681095f98"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Far East Movement",
+                                "artist_mbid": "6bd5655c-b7fe-48ee-8925-c2d2d8798618",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Ryan Tedder of One Republic",
+                                "artist_mbid": "0bc6d6e7-0858-4b73-a079-7aa681095f98",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45703340554,
+                        "caa_release_mbid": "da0de650-552c-4fa5-bd47-d71e70cfdcfc",
+                        "recording_mbid": "62905012-79bd-4865-9364-b9b0babce2be",
+                        "recording_name": "Rocketeer",
+                        "release_group_mbid": "365f99a0-04be-48cc-8a73-5145d33e53df",
+                        "release_mbid": "4467860a-0faf-477a-ad90-897fe7944615",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1443121691"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1EPzBqOOtrO3dMWFSWxexP"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2124682457"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1443121691"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/404023018"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3129044681"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3WKI5k1coATI3gQ6H9JTvd"
+                            }
+                        ]
+                    },
+                    "release_name": "Free Wired",
+                    "track_name": "Rocketeer"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189454,
+                "listened_at": 1790189335,
+                "recording_msid": "df15df4a-6eed-4b09-8707-c38903cb054a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kanye West, Lupe Fiasco",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "cf15719f-51f9-4db8-a15d-5eed9664ce69"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lupe Fiasco",
+                                "artist_mbid": "cf15719f-51f9-4db8-a15d-5eed9664ce69",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36434624984,
+                        "caa_release_mbid": "cbbd2879-b1cd-4b57-b9c3-0e674da6eedb",
+                        "recording_mbid": "c1154a25-11cd-430a-ae31-a77c86b0e6ff",
+                        "recording_name": "Touch the Sky",
+                        "release_group_mbid": "da6f575b-f5f2-4ec3-81ea-e20ec0bd05a7",
+                        "release_mbid": "cbbd2879-b1cd-4b57-b9c3-0e674da6eedb"
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Touch The Sky"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189274,
+                "listened_at": 1790189187,
+                "recording_msid": "97232027-17b2-4c4d-8fab-df9cb4390b73",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "GENER8ION, Yung Lean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4223b47f-3af9-4e07-a4cf-7f8c8df0c0e8",
+                            "757ed661-fbad-4e45-b1cd-a6b09f06f54a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "GENER8ION",
+                                "artist_mbid": "4223b47f-3af9-4e07-a4cf-7f8c8df0c0e8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Yung Lean",
+                                "artist_mbid": "757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45373777282,
+                        "caa_release_mbid": "60fa718b-1d50-40c4-9c9a-7d511a6632b8",
+                        "recording_mbid": "f91411a7-0742-4bc5-ba87-21745bbe592f",
+                        "recording_name": "STORM II",
+                        "release_group_mbid": "337a9f60-e136-4036-9b44-9b696c1f474d",
+                        "release_mbid": "594affd3-c24a-4d84-8281-a294959f9b43"
+                    },
+                    "release_name": "Love & Tears",
+                    "track_name": "STORM II"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189118,
+                "listened_at": 1790189038,
+                "recording_msid": "d6252053-8051-40f3-8b51-e005466c4bbf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 158000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Justin Bieber, The Kid LAROI",
+                    "release_name": "Justice",
+                    "track_name": "Unstable (feat. The Kid LAROI)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790189175,
+                "listened_at": 1790188856,
+                "recording_msid": "b30152d6-d7e7-4532-af4b-02254e18833a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 212000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Gigi Perez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8ab64ebd-200e-47af-a3fc-92540e186214"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gigi Perez",
+                                "artist_mbid": "8ab64ebd-200e-47af-a3fc-92540e186214",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41837229349,
+                        "caa_release_mbid": "75c9f87f-926c-45fe-8919-3f1fb333945c",
+                        "recording_mbid": "4de2fca3-e37a-4399-b121-9c4a6cb298b5",
+                        "recording_name": "Sailor Song",
+                        "release_group_mbid": "2bdb6f81-607d-44b5-9ee1-22f8baafbbf7",
+                        "release_mbid": "e13207df-e56e-40a1-be73-ff93ed71da8f",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1770187510"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5lExpsDwTE6hqMs5fJ8KRI"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/430783718"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/448772473"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1819700040"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1807389776"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1807389776"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0HrZgX7dWaNEDlRn4nrv1c"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6R79WJTSWGYAjmjhgLcwor"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=wPY6dOC-MDA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3466147891"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3012786851"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/389098854"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1770187510"
+                            }
+                        ]
+                    },
+                    "release_name": "At The Beach, In Every Life",
+                    "track_name": "Sailor Song"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790188787,
+                "listened_at": 1790188694,
+                "recording_msid": "d3264ca9-d90a-4148-9782-76293e6cba0c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 184000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42001816795,
+                        "caa_release_mbid": "69b459f8-5d20-4550-a906-8c44262afe40",
+                        "recording_mbid": "774a97a1-f2e4-43c4-8a28-bba7d59c7575",
+                        "recording_name": "would’ve been you",
+                        "release_group_mbid": "8fc2afdf-28eb-4453-b766-3489e4f87788",
+                        "release_mbid": "69b459f8-5d20-4550-a906-8c44262afe40"
+                    },
+                    "release_name": "would've been you",
+                    "track_name": "would've been you"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790188844,
+                "listened_at": 1790188507,
+                "recording_msid": "50bc91fc-fb68-4ec4-803a-b3a62c7e5dfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 242000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Juice WRLD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4e4ebde4-0c56-4dec-844b-6c73adcdd92d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juice WRLD",
+                                "artist_mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27586979070,
+                        "caa_release_mbid": "16b5e8b0-8b47-4f4d-9c5c-03ed42a5479b",
+                        "recording_mbid": "0a198d19-63ad-4114-93a4-f7a06317d710",
+                        "recording_name": "Righteous",
+                        "release_group_mbid": "a77ca67d-a946-4582-b365-0fac3fa1bb10",
+                        "release_mbid": "aa10ef24-b19b-4671-8056-cd24694571b1",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/345949874"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/345949874"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/446669806"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1823835037"
+                            }
+                        ]
+                    },
+                    "release_name": "Legends Never Die",
+                    "track_name": "Righteous"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790188461,
+                "listened_at": 1790188379,
+                "recording_msid": "4f21fa2f-e914-4189-9158-f4555b67f126",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 163000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Cameron Whitcomb",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "87ac8ea4-4663-4d81-8f6a-8a80e318e9ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cameron Whitcomb",
+                                "artist_mbid": "87ac8ea4-4663-4d81-8f6a-8a80e318e9ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43130135301,
+                        "caa_release_mbid": "4eb87475-2a16-4197-9f9d-aeee36c68c2c",
+                        "recording_mbid": "2af5e8a4-70ac-426d-a156-7986ab3649de",
+                        "recording_name": "The Hard Way",
+                        "release_group_mbid": "6644609b-9894-40a8-bb86-0dd5a3dc1496",
+                        "release_mbid": "4eb87475-2a16-4197-9f9d-aeee36c68c2c"
+                    },
+                    "release_name": "The Hard Way",
+                    "track_name": "The Hard Way"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790188269,
+                "listened_at": 1790188161,
+                "recording_msid": "43fcc5fc-91fc-4048-8f01-c5c71c5d1049",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 214000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Swedish House Mafia, Constance Power",
+                    "release_name": "Paradise Again",
+                    "track_name": "Heaven Takes You Home (feat. Connie Constance)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790188105,
+                "listened_at": 1790188042,
+                "recording_msid": "8375d151-9ca7-4c4f-9041-c51872f58140",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 121000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "James Hype, Sam Harper, Bobby Harvey",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "51cbf154-4b7f-4ec5-86a7-d269ae7d101a",
+                            "189f1f97-5a0f-4afd-95ec-21ba3afb58a9",
+                            "1cdd83f4-c7a8-44a7-9c93-f1e6ef8beb85"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "James Hype",
+                                "artist_mbid": "51cbf154-4b7f-4ec5-86a7-d269ae7d101a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Sam Harper",
+                                "artist_mbid": "189f1f97-5a0f-4afd-95ec-21ba3afb58a9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Bobby Harvey",
+                                "artist_mbid": "1cdd83f4-c7a8-44a7-9c93-f1e6ef8beb85",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42753372707,
+                        "caa_release_mbid": "352434e7-632d-42ba-b065-f44e4b18a41f",
+                        "recording_mbid": "629814bb-6140-4a1f-8b04-ee2774c58cda",
+                        "recording_name": "Waterfalls",
+                        "release_group_mbid": "493ba241-e5b4-4014-a105-093f5d1476d2",
+                        "release_mbid": "5ba64dc6-5413-49fc-91d6-71861e34e9d0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=gnMOpPmtHIc"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1827379987"
+                            }
+                        ]
+                    },
+                    "release_name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+                    "track_name": "Waterfalls (feat. Sam Harper & Bobby Harvey)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790187986,
+                "listened_at": 1790187911,
+                "recording_msid": "d9e60e5b-8540-4aeb-b396-9297b3180a26",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 149000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "oskar med k",
+                    "release_name": "i'm way too self aware",
+                    "track_name": "i'm way too self aware"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790187810,
+                "listened_at": 1790187698,
+                "recording_msid": "20c4a3c3-d07d-4df6-9af8-48bd89f52030",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 215000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "The Weeknd, Playboi Carti, Madonna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "79239441-bfd5-4981-a70c-55c3f15c1287"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": " with "
+                            },
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Madonna",
+                                "artist_mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35818510130,
+                        "caa_release_mbid": "3b4e66b5-ff09-423c-afe5-2b49a409373b",
+                        "recording_mbid": "7977bb29-5a1b-4242-b2e3-46b34301a584",
+                        "recording_name": "Popular",
+                        "release_group_mbid": "8901ef99-d8cd-402f-be5c-3777a5c624b6",
+                        "release_mbid": "3b4e66b5-ff09-423c-afe5-2b49a409373b",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/theweeknd/the-weeknd-playboi-carti-1"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/299165427"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2321977215"
+                            }
+                        ]
+                    },
+                    "release_name": "Popular (Music from the HBO Original Series)",
+                    "track_name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790187603,
+                "listened_at": 1790187492,
+                "recording_msid": "bf7799d7-2806-4620-b541-f4ca5eee8e4a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 220000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Calvin Harris, Clementine Douglas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                            "75ee1764-490f-49bd-b6d6-054623354931"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Calvin Harris",
+                                "artist_mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Clementine Douglas",
+                                "artist_mbid": "75ee1764-490f-49bd-b6d6-054623354931",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41977163628,
+                        "caa_release_mbid": "b94e32e2-3f01-4a56-b1d1-5a5b8fd5bc2a",
+                        "recording_mbid": "30e55b03-ef1c-4ce3-b129-20f23d6c5719",
+                        "recording_name": "Blessings",
+                        "release_group_mbid": "cb6e6dd3-2e74-4c86-a427-daa5753bac8a",
+                        "release_mbid": "1b4ca332-6b2d-4200-bae2-efe04e6fc5b4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0enDiRW8Nvysj2qQSjSnW8"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3443845851"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1848321987"
+                            }
+                        ]
+                    },
+                    "release_name": "Blessings",
+                    "track_name": "Blessings"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790187328,
+                "listened_at": 1790187165,
+                "recording_msid": "4b09582a-187e-48cd-a08f-d4bf2c13294b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 325000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "KIDS SEE GHOSTS",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "793e220b-64f8-46d9-954d-e033dbcfeef4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "KIDS SEE GHOSTS",
+                                "artist_mbid": "793e220b-64f8-46d9-954d-e033dbcfeef4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23822160331,
+                        "caa_release_mbid": "bfd49137-704c-4b31-bdb1-b4a5ca739db3",
+                        "recording_mbid": "02f5cf43-a902-4b1f-b2d8-92d8550937ac",
+                        "recording_name": "Reborn",
+                        "release_group_mbid": "3346a9d9-031e-49e2-84b0-3734d790d7e5",
+                        "release_mbid": "86ce261d-42f5-4b85-9d42-88de9d88c378"
+                    },
+                    "release_name": "KIDS SEE GHOSTS",
+                    "track_name": "Reborn"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790187107,
+                "listened_at": 1790186926,
+                "recording_msid": "e8bcbbc7-2b21-4842-922b-93b95b27ae39",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 252000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Consequence, Kanye West",
+                    "release_name": "Don't Quit Your Day Job",
+                    "track_name": "The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790186798,
+                "listened_at": 1790186669,
+                "recording_msid": "1e381f9d-52a9-4a70-b31d-c8e58b4a296a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 256000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "DONDA, Kanye West, Ye",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Donda",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41847755628,
+                        "caa_release_mbid": "b6a2d201-7f59-4a20-9c01-daf6d4d40e42",
+                        "recording_mbid": "23187556-8ff8-4242-9d98-5cd22f6313d2",
+                        "recording_name": "CITY OF GOD",
+                        "release_group_mbid": "26584460-df1f-4a91-b036-8d0bf6f8ce95",
+                        "release_mbid": "b6a2d201-7f59-4a20-9c01-daf6d4d40e42"
+                    },
+                    "release_name": "DONDA 2",
+                    "track_name": "CITY OF GOD"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790186542,
+                "listened_at": 1790186391,
+                "recording_msid": "813b5869-2dc9-4ed6-a287-42a7153709ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 295000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "¥$, Kanye West, Ty Dolla $ign",
+                    "release_name": "VULTURES 1",
+                    "track_name": "BACK TO ME"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            },
+            {
+                "inserted_at": 1790186263,
+                "listened_at": 1790186094,
+                "recording_msid": "7a0e4b7c-e291-4947-be22-746d2381ce02",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 327000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.1.0"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20178703246,
+                        "caa_release_mbid": "44f67341-2586-4283-bc3f-cf03ae89dc35",
+                        "recording_mbid": "b57591e9-4849-4d95-a0a4-fbb5563dbb6c",
+                        "recording_name": "Hold My Liquor",
+                        "release_group_mbid": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+                        "release_mbid": "5b78aa6b-67be-43b5-8f56-a89116e48087",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440873239"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20753862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68350108"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh"
+                            }
+                        ]
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "Hold My Liquor"
+                },
+                "user_name": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+            }
+        ],
+        "oldest_listen_ts": 1765245175,
+        "user_id": "✵𝕯𝖆𝖒𝖎𝖊𝖓✵"
+    }
+}

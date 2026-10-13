@@ -1,0 +1,3796 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791823363,
+        "listens": [
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791823363,
+                "recording_msid": "077540a7-ee76-440d-aca5-f04e7fdc1fd6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                        "lastfm_track_mbid": "98552b63-1577-4866-bf62-3982499f5c0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ariana Grande",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ariana Grande",
+                                "artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24956824789,
+                        "caa_release_mbid": "a5bb40dc-35be-4ece-a7f8-8979088738a2",
+                        "recording_mbid": "db1cd0b5-c72a-4842-a03a-b9394371802b",
+                        "recording_name": "Love Me Harder",
+                        "release_group_mbid": "e73b046d-cd1c-4ea8-94de-fd9e298f9219",
+                        "release_mbid": "818cb626-0427-4fbc-b3ae-ec9369523d42"
+                    },
+                    "release_name": "My Everything (Deluxe)",
+                    "track_name": "Love Me Harder"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791823199,
+                "recording_msid": "09e40a10-e6db-49fc-b20d-bbf81749fce5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                        "lastfm_track_mbid": "b9f8c23a-6718-4275-9004-1e6b02acfe5e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45194765731,
+                        "caa_release_mbid": "c807933b-b18b-4ec9-a126-bd4aecf2f5fb",
+                        "recording_mbid": "e6b01f3e-6f40-4688-810f-8b5b3bae9270",
+                        "recording_name": "I Can’t Wait to Get There",
+                        "release_group_mbid": "14f83b04-2b9e-4974-9169-476f26475be3",
+                        "release_mbid": "924f5644-b27d-40cf-b058-aacd05b7d090",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3210598491"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0bcZ7xN9IcjSNxLerzR2yl"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1793654639"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1793654639"
+                            }
+                        ]
+                    },
+                    "release_name": "Hurry Up Tomorrow",
+                    "track_name": "I Can't Wait to Get There"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791823045,
+                "recording_msid": "a8e0451d-2963-4328-a83f-371f7a3b2874",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
+                        "lastfm_release_mbid": "cdd696ea-ba32-4520-822e-b4daf6572f9e",
+                        "lastfm_track_mbid": "71cf3244-0646-4de5-b689-4b62aab69f8d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Marías",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Marías",
+                                "artist_mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39354492433,
+                        "caa_release_mbid": "4c855c8e-cc86-42e3-8a06-4f294d3f27a1",
+                        "recording_mbid": "d391a0f1-123a-4717-917a-a82d41f005b9",
+                        "recording_name": "All I Really Want Is You",
+                        "release_group_mbid": "740deb04-b811-4a06-b8c5-3f36113dbb99",
+                        "release_mbid": "cdd696ea-ba32-4520-822e-b4daf6572f9e"
+                    },
+                    "release_name": "CINEMA",
+                    "track_name": "All I Really Want Is You"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791822866,
+                "recording_msid": "1694e60f-e540-40c6-ab5b-9c2ede44a2d8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27420314000,
+                        "caa_release_mbid": "3dbe18f8-925d-477d-b4bd-ed81b8adfc4d",
+                        "recording_mbid": "1d151fc0-219d-42c2-996b-cfa705b4ccef",
+                        "recording_name": "Rich Nigga Shit",
+                        "release_group_mbid": "1bbe14c5-a321-40bf-853c-f00063d78881",
+                        "release_mbid": "0b822698-6ba1-470e-8eea-97158919dbad"
+                    },
+                    "release_name": "Savage Mode II",
+                    "track_name": "Rich Nigga Shit (feat. Young Thug)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791822662,
+                "recording_msid": "05c794ff-3ac4-4b0d-a0c6-33255afb1a80",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "06a81817-093d-40f0-aef2-90673fa550ae",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "808c1fbb-ccfb-4b15-a541-72bec155e696"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Dwele",
+                                "artist_mbid": "808c1fbb-ccfb-4b15-a541-72bec155e696",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24202595971,
+                        "caa_release_mbid": "08e0cab1-e95c-4b33-8ed3-1337d934fb7f",
+                        "recording_mbid": "078c6b81-8e6c-4403-accf-c634b742143c",
+                        "recording_name": "Flashing Lights",
+                        "release_group_mbid": "d44c50ad-61fd-3fce-95fc-27024d7f1d30",
+                        "release_mbid": "06a81817-093d-40f0-aef2-90673fa550ae",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/103805732"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/630827302"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1451903882"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1451903882"
+                            }
+                        ]
+                    },
+                    "release_name": "Graduation",
+                    "track_name": "Flashing Lights (feat. Dwele)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791822428,
+                "recording_msid": "00be7d2b-1b72-4ec6-bb98-fece1e3e1b4a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+                        "lastfm_release_mbid": "79014bd3-d9ee-4ae8-8c3d-64ee19c2d3f1",
+                        "lastfm_track_mbid": "17159a98-3f8d-40db-8644-d1064edc3697",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Childish Gambino",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7fb57fba-a6ef-44c2-abab-2fa3bdee607e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Childish Gambino",
+                                "artist_mbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5735993869,
+                        "caa_release_mbid": "5861bb53-a8fa-4acf-be82-fbffb7b1a8dc",
+                        "recording_mbid": "ee292c70-30b7-4093-b9b1-4cf19163fb3f",
+                        "recording_name": "3005",
+                        "release_group_mbid": "a62dd516-e945-4976-a643-0313ba1b0b44",
+                        "release_mbid": "5861bb53-a8fa-4acf-be82-fbffb7b1a8dc"
+                    },
+                    "release_name": "Because the Internet",
+                    "track_name": "3005"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791822178,
+                "recording_msid": "1855a169-a788-4d3c-ba04-3f7a6953eed0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "16687dd5-e875-4db5-9423-30fd80363c7e",
+                        "lastfm_track_mbid": "b41f894c-6a0f-4794-a88a-5d9e3dcde36a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40480251852,
+                        "caa_release_mbid": "16687dd5-e875-4db5-9423-30fd80363c7e",
+                        "recording_mbid": "5fb18e9d-fb24-4d96-8410-032d3fc89568",
+                        "recording_name": "A.D.H.D",
+                        "release_group_mbid": "ceccd668-a928-4041-a3c3-99a5ce880de9",
+                        "release_mbid": "17696ce7-ba44-4e66-8ca3-8b1d2ec47d31",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/114492495"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1475039110"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/65045353"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/723393442"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1475039110"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/65045353"
+                            }
+                        ]
+                    },
+                    "release_name": "Section.80",
+                    "track_name": "A.D.H.D"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827622,
+                "listened_at": 1791822036,
+                "recording_msid": "5e19d2fc-c264-42a6-a56b-bb6484b4d2fe",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Raga",
+                            "Seedhe Maut",
+                            "Hashbass"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 225882,
+                        "isrc": "INUM72601190",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4nMUzO2UV5pnabuhFx6ay9",
+                        "release_artist_name": "Raga",
+                        "release_artist_names": [
+                            "Raga"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO",
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo",
+                            "https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4nMUzO2UV5pnabuhFx6ay9",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Raga, Seedhe Maut, Hashbass",
+                    "release_name": "NO FORMULA",
+                    "track_name": "Kuch Mat Kar"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791821980,
+                "recording_msid": "870f3f1b-9998-42bb-b1a4-6cc20d2ad1b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "lastfm_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "lastfm_track_mbid": "eab95592-99aa-42b7-9725-8de8a116e603",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "eab95592-99aa-42b7-9725-8de8a116e603",
+                        "recording_name": "Call Back",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258349"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389874"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258349"
+                            }
+                        ]
+                    },
+                    "release_name": "Octane",
+                    "track_name": "CALL BACK"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791821799,
+                "recording_msid": "00c8b098-0894-4e93-9c28-4511f0dbb266",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "a4e1218e-1ae7-46c4-964d-46ba6d5ecad9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26081476734,
+                        "caa_release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "recording_mbid": "363326bd-07aa-4a4a-be9c-9bce33da1c31",
+                        "recording_name": "Time Flies",
+                        "release_group_mbid": "bb944494-b3e7-4be2-952e-171a1743868e",
+                        "release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"
+                            }
+                        ]
+                    },
+                    "release_name": "Dark Lane Demo Tapes",
+                    "track_name": "Time Flies"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791821632,
+                "recording_msid": "643163db-9414-4473-8d74-4f9b3ed8dbf6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_release_mbid": "1047aab8-99b7-4659-9514-b0d60a7ed270",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21364887570,
+                        "caa_release_mbid": "58ec8d29-934e-4a52-9c75-48c814bcbd4c",
+                        "recording_mbid": "e7414d01-e00c-41f3-b95e-656cfc64f9b9",
+                        "recording_name": "Overdue",
+                        "release_group_mbid": "4e9a52ee-f18d-4de0-845d-9b77dd33a758",
+                        "release_mbid": "439da17d-b5d9-4cb1-8826-0a1ea70f7832"
+                    },
+                    "release_name": "Not All Heroes Wear Capes",
+                    "track_name": "Overdue (feat. Travis Scott)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791821189,
+                "recording_msid": "849abfa4-c84b-4735-9ad8-9480bfe1151b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunda",
+                    "release_name": "Allah Rakha",
+                    "track_name": "Shukriya"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791821010,
+                "recording_msid": "65620f59-3a29-4a49-b918-7780b573fee9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e96722e-3257-4947-b288-c88f65df1c99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunda",
+                                "artist_mbid": "3e96722e-3257-4947-b288-c88f65df1c99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "c5bd166f-a943-435f-aa95-62aabd8d51bb",
+                        "recording_name": "Aur Ek Jaam"
+                    },
+                    "release_name": "Allah Rakha",
+                    "track_name": "Aur Ek Jaam"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791820685,
+                "recording_msid": "f674bbeb-82e1-4b24-ba05-2e76c313f07d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e96722e-3257-4947-b288-c88f65df1c99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunda",
+                                "artist_mbid": "3e96722e-3257-4947-b288-c88f65df1c99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "01418d6c-fbbf-4296-8e13-dada4187de31",
+                        "recording_name": "Agar Tum Kaho Toh"
+                    },
+                    "release_name": "Allah Rakha",
+                    "track_name": "Agar Tum Kaho Toh"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791820514,
+                "recording_msid": "8b669b35-8a37-438e-aa3e-d88a8c4b9c88",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e96722e-3257-4947-b288-c88f65df1c99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunda",
+                                "artist_mbid": "3e96722e-3257-4947-b288-c88f65df1c99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ed33242a-98c7-42cd-a65a-523157c8f174",
+                        "recording_name": "Kisi Ke Pyaar Mein"
+                    },
+                    "release_name": "Allah Rakha",
+                    "track_name": "Kisi Ke Pyaar Mein"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791820334,
+                "recording_msid": "e343c99a-8475-4ffe-bad6-987c51e50d36",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e96722e-3257-4947-b288-c88f65df1c99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunda",
+                                "artist_mbid": "3e96722e-3257-4947-b288-c88f65df1c99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "e7041452-fc17-4d10-9703-5c4c7b34d811",
+                        "recording_name": "Kismat ke Maare"
+                    },
+                    "release_name": "Allah Rakha",
+                    "track_name": "Kismat ke Maare"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791820119,
+                "recording_msid": "82d63d31-be2a-4258-b64e-520bb88e3657",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Rakhlo Tum Chupaake"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791819898,
+                "recording_msid": "6c29f67a-6815-409e-92a1-f7bc15f385bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Best Friend"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791819691,
+                "recording_msid": "0a0304ab-2f5b-4f3d-81a6-2990d1f3bfaa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Kaise Manaye"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791819472,
+                "recording_msid": "e64db5ec-91d2-4990-b42c-6a12a4440b0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Daraaz Mein"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791819205,
+                "recording_msid": "747a44b9-a568-4d3f-b8bb-9c80759d5ab7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Taaron Se"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791819069,
+                "recording_msid": "3ffba218-fbe7-4416-a907-f614e6b13352",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791818816,
+                "recording_msid": "892abc83-539a-47a6-943e-51137dfbe6fb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791827542,
+                "listened_at": 1791818628,
+                "recording_msid": "28e65780-268d-4bff-93a0-4cd0149916f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791815794,
+                "listened_at": 1791815230,
+                "recording_msid": "2b90abde-2faa-432e-a576-e58eb88bba75",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "J. Cole"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 162026,
+                        "isrc": "USUG12402405",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU",
+                        "release_artist_name": "J. Cole",
+                        "release_artist_names": [
+                            "J. Cole"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38476964845,
+                        "caa_release_mbid": "427a108c-377b-49bd-a1cf-e6545dd6c63b",
+                        "recording_mbid": "faa90038-2875-4d61-9477-f14d549bb482",
+                        "recording_name": "Huntin’ Wabbitz",
+                        "release_group_mbid": "26ec7586-7419-4e57-a77c-aad8537fb794",
+                        "release_mbid": "ddbf4a4a-1f8e-49ad-b8a4-21481e403352"
+                    },
+                    "release_name": "Might Delete Later",
+                    "track_name": "Huntin’ Wabbitz"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791815794,
+                "listened_at": 1791815041,
+                "recording_msid": "f4f28375-b614-4656-9443-51a606b429e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Raftaar",
+                            "Epr Iyer"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 194833,
+                        "isrc": "QMDA72484887",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5dh6068sF2UqWnX4LBn06n",
+                        "release_artist_name": "Raftaar",
+                        "release_artist_names": [
+                            "Raftaar"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36",
+                            "https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/5dh6068sF2UqWnX4LBn06n",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Raftaar, Epr Iyer",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f5f329bd-7fce-4b28-8208-440a96eeee91",
+                            "bced90c5-3277-48dd-8cb4-c6133d53d834"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Raftaar",
+                                "artist_mbid": "f5f329bd-7fce-4b28-8208-440a96eeee91",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "EPR Iyer",
+                                "artist_mbid": "bced90c5-3277-48dd-8cb4-c6133d53d834",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44586925668,
+                        "caa_release_mbid": "a7e90840-b1b3-49b3-bfe0-0e3d2b884c7a",
+                        "recording_mbid": "4015a65d-fe5a-4bf8-a3e9-03262f270470",
+                        "recording_name": "BANJO BOUNCE",
+                        "release_group_mbid": "5d1d23d9-b4ca-4ab7-b917-259b74313d8c",
+                        "release_mbid": "a7e90840-b1b3-49b3-bfe0-0e3d2b884c7a"
+                    },
+                    "release_name": "HARD DRIVE Vol. 2",
+                    "track_name": "BANJO BOUNCE"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791815794,
+                "listened_at": 1791814794,
+                "recording_msid": "3398ea96-c781-476a-b52f-c4fd8c80689c",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Clipse",
+                            "Ab-Liva",
+                            "Pusha T",
+                            "Malice"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 153466,
+                        "isrc": "QZD442001492",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6vh3knkD2m9behBKvuKePP",
+                        "release_artist_name": "Clipse, Pusha T, Malice",
+                        "release_artist_names": [
+                            "Clipse",
+                            "Pusha T",
+                            "Malice"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2",
+                            "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy",
+                            "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2",
+                            "https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF",
+                            "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy",
+                            "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6vh3knkD2m9behBKvuKePP",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Clipse, Ab-Liva, Pusha T, Malice",
+                    "release_name": "Let God Sort Em Out",
+                    "track_name": "Inglorious Bastards"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791808169,
+                "recording_msid": "04788ae6-9293-42d7-a0f4-84a31d6529a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Badshah",
+                            "DIVINE",
+                            "Nikhita Gandhi"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 208163,
+                        "isrc": "INUM72400157",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc",
+                        "release_artist_name": "Badshah",
+                        "release_artist_names": [
+                            "Badshah"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1",
+                            "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz",
+                            "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Badshah, DIVINE, Nikhita Gandhi",
+                    "release_name": "Ek Tha Raja",
+                    "track_name": "O’Sajna"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791809253,
+                "listened_at": 1791806849,
+                "recording_msid": "4ad4562a-d27c-4b4b-b59e-2a97d31678de",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nanku",
+                    "release_name": "Naharpur Prints",
+                    "track_name": "Zubaida"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791806849,
+                "recording_msid": "e23899fa-ce0a-499a-ac4e-5a98c23d62dd",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Umair",
+                            "AHSAN",
+                            "Ab 17"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 173114,
+                        "isrc": "AEA182400052",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4sOEWzDRzVdZaTvVc3T7dO",
+                        "release_artist_name": "Umair",
+                        "release_artist_names": [
+                            "Umair"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi",
+                            "https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR",
+                            "https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4sOEWzDRzVdZaTvVc3T7dO",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Umair, AHSAN, Ab 17",
+                    "release_name": "ROCKSTAR WITHOUT A GUITAR",
+                    "track_name": "BROKE FLEX (feat. AHSAN & Ab 17)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791809253,
+                "listened_at": 1791806675,
+                "recording_msid": "107c597e-f605-44da-8f46-8b9a0bd0c145",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3fa0c87f-3629-4482-b1ea-706456e7f422",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "umair",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3fa0c87f-3629-4482-b1ea-706456e7f422",
+                            "1a6f51a1-5efe-4231-9adc-f605e57227fb",
+                            "da2cb088-12dc-47c7-91b8-509fd3369bc5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Umair",
+                                "artist_mbid": "3fa0c87f-3629-4482-b1ea-706456e7f422",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Ahsan Ali",
+                                "artist_mbid": "1a6f51a1-5efe-4231-9adc-f605e57227fb",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ab 17",
+                                "artist_mbid": "da2cb088-12dc-47c7-91b8-509fd3369bc5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45004014789,
+                        "caa_release_mbid": "ba03b68a-f846-487b-81cd-077c77b653c3",
+                        "recording_mbid": "421c1583-a378-4723-8f25-3890f075e6e8",
+                        "recording_name": "BROKE FLEX",
+                        "release_group_mbid": "be243e8f-4bfa-409d-8902-a678abbb9990",
+                        "release_mbid": "ba03b68a-f846-487b-81cd-077c77b653c3"
+                    },
+                    "release_name": "ROCKSTAR WITHOUT A GUITAR",
+                    "track_name": "BROKE FLEX (feat. AHSAN & Ab 17)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791806675,
+                "recording_msid": "18a4afef-2ad8-40dd-9b5c-737b302d3bc5",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Bhaktaaa",
+                            "Seedhe Maut",
+                            "KYABC",
+                            "Hisab"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 184375,
+                        "isrc": "OZHN72357843",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6jXsxMSsxnCOZDTIKsog99",
+                        "release_artist_name": "Bhaktaaa",
+                        "release_artist_names": [
+                            "Bhaktaaa"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3VstVXikSOeiaQWdZUnFtY",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv",
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo",
+                            "https://open.spotify.com/artist/3Ym9lcXtCxYmqKUzSMsK8R",
+                            "https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6jXsxMSsxnCOZDTIKsog99",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Bhaktaaa, Seedhe Maut, KYABC, Hisab",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ee923391-8a39-45ee-a84a-9583e875300f",
+                            "485f576c-6ade-4c0f-9406-34720f15fb02",
+                            "abf2310a-d0eb-4efb-baaa-28a9b3f60548",
+                            "cb46fcaf-fd7a-4c2a-9529-7febadf4a57f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bhaktaaa",
+                                "artist_mbid": "ee923391-8a39-45ee-a84a-9583e875300f",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Seedhe Maut",
+                                "artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "KYABC",
+                                "artist_mbid": "abf2310a-d0eb-4efb-baaa-28a9b3f60548",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Hisab",
+                                "artist_mbid": "cb46fcaf-fd7a-4c2a-9529-7febadf4a57f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "96a4da13-fb61-4fe5-a0b7-d8af77fac55d",
+                        "recording_name": "7:30",
+                        "release_group_mbid": "820f6766-a01d-41de-b237-6ea1843a4c9e",
+                        "release_mbid": "b499a176-8293-43a0-85e4-2dbe72f33298"
+                    },
+                    "release_name": "Kaan Ke Neeche",
+                    "track_name": "7:30"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791809253,
+                "listened_at": 1791806491,
+                "recording_msid": "42435a1a-a5fd-4318-833c-1fbf4961368a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bhaktaaa",
+                    "release_name": "Kaan Ke Neeche",
+                    "track_name": "7:30"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791806491,
+                "recording_msid": "eba0ae9a-cb4c-4b98-8f49-c8142369382f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "King",
+                            "MC Heam"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 228563,
+                        "isrc": "INW262403244",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6SrnbEcHdC1NIEv0KDrTX1",
+                        "release_artist_name": "King",
+                        "release_artist_names": [
+                            "King"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU",
+                            "https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6SrnbEcHdC1NIEv0KDrTX1",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "King, MC Heam",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bda9891c-f6a4-442b-8f1c-65429c3347d8",
+                            "37ca6039-27a4-4acd-bc5f-6a560b688f82"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "King",
+                                "artist_mbid": "bda9891c-f6a4-442b-8f1c-65429c3347d8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "MC Heam",
+                                "artist_mbid": "37ca6039-27a4-4acd-bc5f-6a560b688f82",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41335576876,
+                        "caa_release_mbid": "31fe146d-0f1f-41d7-8d3d-8c1f54c8271a",
+                        "recording_mbid": "07fa60a8-ed73-406f-bca9-6c04d85b1007",
+                        "recording_name": "SAZA",
+                        "release_group_mbid": "39bea40c-ebde-4ba5-acad-653f81afa640",
+                        "release_mbid": "31fe146d-0f1f-41d7-8d3d-8c1f54c8271a"
+                    },
+                    "release_name": "MONOPOLY MOVES",
+                    "track_name": "SAZA"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791806262,
+                "recording_msid": "10dfd0d8-182a-4c5b-97d5-23d45ebbdf33",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "81a72ce5-aa4c-48f1-b3a7-1f99ba0df29e",
+                        "lastfm_release_mbid": "31fe146d-0f1f-41d7-8d3d-8c1f54c8271a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "King",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bda9891c-f6a4-442b-8f1c-65429c3347d8",
+                            "37ca6039-27a4-4acd-bc5f-6a560b688f82"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "King",
+                                "artist_mbid": "bda9891c-f6a4-442b-8f1c-65429c3347d8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "MC Heam",
+                                "artist_mbid": "37ca6039-27a4-4acd-bc5f-6a560b688f82",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41335576876,
+                        "caa_release_mbid": "31fe146d-0f1f-41d7-8d3d-8c1f54c8271a",
+                        "recording_mbid": "07fa60a8-ed73-406f-bca9-6c04d85b1007",
+                        "recording_name": "SAZA",
+                        "release_group_mbid": "39bea40c-ebde-4ba5-acad-653f81afa640",
+                        "release_mbid": "31fe146d-0f1f-41d7-8d3d-8c1f54c8271a"
+                    },
+                    "release_name": "MONOPOLY MOVES",
+                    "track_name": "SAZA"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791806262,
+                "recording_msid": "5e19d2fc-c264-42a6-a56b-bb6484b4d2fe",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Raga",
+                            "Seedhe Maut",
+                            "Hashbass"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 225882,
+                        "isrc": "INUM72601190",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4nMUzO2UV5pnabuhFx6ay9",
+                        "release_artist_name": "Raga",
+                        "release_artist_names": [
+                            "Raga"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO",
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo",
+                            "https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4nMUzO2UV5pnabuhFx6ay9",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Raga, Seedhe Maut, Hashbass",
+                    "release_name": "NO FORMULA",
+                    "track_name": "Kuch Mat Kar"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791806034,
+                "recording_msid": "05a090eb-9220-47e9-ac7b-63d2e74839de",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Seedhe Maut"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 211200,
+                        "isrc": "DGA092444248",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K",
+                        "release_artist_name": "Seedhe Maut",
+                        "release_artist_names": [
+                            "Seedhe Maut"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Seedhe Maut",
+                    "release_name": "SHAKTI",
+                    "track_name": "Raat Ki Rani"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791806034,
+                "recording_msid": "434830b9-8010-41d4-b031-6fe611431cae",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "f3d7c0f9-f3f1-4d05-8059-70143fe6a831",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Raga",
+                    "release_name": "No Formula",
+                    "track_name": "Kuch Mat Kar"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791805823,
+                "recording_msid": "712f37eb-68a1-46f0-9b4b-db56d1b3a7af",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "arslan.",
+                            "30KEY!",
+                            "Lash curry"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 223384,
+                        "isrc": "FRX282645300",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0Wd345qDbr1bDOUPFKps9Y",
+                        "release_artist_name": "arslan., 30KEY!",
+                        "release_artist_names": [
+                            "arslan.",
+                            "30KEY!"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0RQQX1we0Nurx4WOpvCHa8",
+                            "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/0EXkV8ieZfi1XVmNPsjeQM",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0RQQX1we0Nurx4WOpvCHa8",
+                            "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y",
+                            "https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/0Wd345qDbr1bDOUPFKps9Y",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "arslan., 30KEY!, Lash curry",
+                    "release_name": "blur.",
+                    "track_name": "letter."
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791805822,
+                "recording_msid": "d0c9d43d-1d1b-4e79-9db7-d09a69feb77b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                        "lastfm_release_mbid": "044294c7-7e0d-4451-b5e6-cd796bc939f8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Seedhe Maut",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "485f576c-6ade-4c0f-9406-34720f15fb02"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Seedhe Maut",
+                                "artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44580364187,
+                        "caa_release_mbid": "044294c7-7e0d-4451-b5e6-cd796bc939f8",
+                        "recording_mbid": "d72aade7-4c46-4eb0-9e01-e787bbf15a47",
+                        "recording_name": "Raat Ki Raani",
+                        "release_group_mbid": "642fa233-965b-4d70-8cf7-55862cc98ea6",
+                        "release_mbid": "044294c7-7e0d-4451-b5e6-cd796bc939f8"
+                    },
+                    "release_name": "SHAKTI",
+                    "track_name": "Raat ki Rani"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791805577,
+                "recording_msid": "4eae9576-e6d2-466a-95ea-98123e5ecd7f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Bharat Chauhan",
+                            "Seedhe Maut"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 274104,
+                        "isrc": "QM4TW2442121",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1Y7FQSN29oNXHZBGMkADeH",
+                        "release_artist_name": "Bharat Chauhan",
+                        "release_artist_names": [
+                            "Bharat Chauhan"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4q0cNzhq7PZQX0ugAq3nhn",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe",
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1Y7FQSN29oNXHZBGMkADeH",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Bharat Chauhan, Seedhe Maut",
+                    "release_name": "Shaayar",
+                    "track_name": "Shaayar"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791805577,
+                "recording_msid": "ed558914-3e12-4fb3-a087-374947faa45f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arslan.",
+                    "release_name": "blur.",
+                    "track_name": "letter."
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791805301,
+                "recording_msid": "32dd1c2e-12ef-4976-ba62-d7e754081825",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "AFKAP"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 193263,
+                        "isrc": "DGA0Q2316042",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/47I3fpVKJ3qRQuFgiKel0U",
+                        "release_artist_name": "AFKAP",
+                        "release_artist_names": [
+                            "AFKAP"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2Jh61sm2BXpxteyVsgMSvO",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/47I3fpVKJ3qRQuFgiKel0U",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "AFKAP",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "17b27877-af50-46a6-a4af-fe078f9029a9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "AFKAP",
+                                "artist_mbid": "17b27877-af50-46a6-a4af-fe078f9029a9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38002331892,
+                        "caa_release_mbid": "e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa",
+                        "recording_mbid": "78f34441-36eb-4975-8e9f-1e802ddbbe8f",
+                        "recording_name": "Waapsi",
+                        "release_group_mbid": "144d8a55-69bd-41fc-af44-8eb9542ccc4f",
+                        "release_mbid": "e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa"
+                    },
+                    "release_name": "Parat",
+                    "track_name": "Waapsi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791805301,
+                "recording_msid": "4f2b9e8b-7f25-4a55-8fc2-5539d5247350",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bharat Chauhan",
+                    "release_name": "Shaayar",
+                    "track_name": "Shaayar"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791805050,
+                "recording_msid": "0b970761-eddb-409d-ad54-3f9652566cef",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Afkap",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "17b27877-af50-46a6-a4af-fe078f9029a9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "AFKAP",
+                                "artist_mbid": "17b27877-af50-46a6-a4af-fe078f9029a9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38002331892,
+                        "caa_release_mbid": "e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa",
+                        "recording_mbid": "78f34441-36eb-4975-8e9f-1e802ddbbe8f",
+                        "recording_name": "Waapsi",
+                        "release_group_mbid": "144d8a55-69bd-41fc-af44-8eb9542ccc4f",
+                        "release_mbid": "e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa"
+                    },
+                    "release_name": "Parat",
+                    "track_name": "Waapsi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791805050,
+                "recording_msid": "264a62f3-b2fd-49d0-806b-e8d82b8fb73f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Farhan Khan",
+                            "Vedang"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 175200,
+                        "isrc": "FRX872586942",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3THa6BajHEzmvKnSXJtWLl",
+                        "release_artist_name": "Farhan Khan",
+                        "release_artist_names": [
+                            "Farhan Khan"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4vLFBiNGo1HvDgdsggFQ16",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy",
+                            "https://open.spotify.com/artist/6dip5H4Q9s5YCe85f8YI1M"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/3THa6BajHEzmvKnSXJtWLl",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Farhan Khan, Vedang",
+                    "release_name": "Alif Laila",
+                    "track_name": "Raaz"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804874,
+                "recording_msid": "f54e5daf-07e4-4daf-8f39-dd948acf3b0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7d733e05-96cb-4043-8389-82f001419079",
+                        "lastfm_release_mbid": "3deee438-9fea-420f-87b4-ad355ab5e91e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Farhan Khan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7d733e05-96cb-4043-8389-82f001419079",
+                            "a124fedb-ce02-48c0-92e9-89236bb292d2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Farhan Khan",
+                                "artist_mbid": "7d733e05-96cb-4043-8389-82f001419079",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Mr. Doss",
+                                "artist_mbid": "a124fedb-ce02-48c0-92e9-89236bb292d2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44612484877,
+                        "caa_release_mbid": "1bcfca35-bf15-440c-8c0a-a44e19796443",
+                        "recording_mbid": "9b0b3442-9ef0-462a-bd1d-8ef9194ea273",
+                        "recording_name": "Raaz",
+                        "release_group_mbid": "1de389d4-e14b-4e03-aff6-49f0f9549e7d",
+                        "release_mbid": "3deee438-9fea-420f-87b4-ad355ab5e91e"
+                    },
+                    "release_name": "Alif Laila",
+                    "track_name": "Raaz"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791804874,
+                "recording_msid": "f9be4117-4728-4348-ac51-a3c220d71421",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Seedhe Maut"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 139520,
+                        "isrc": "INA4Z2200119",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3u28I7Jj8yitU3il5s77yM",
+                        "release_artist_name": "Seedhe Maut",
+                        "release_artist_names": [
+                            "Seedhe Maut"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6pfy67TobYnXA5vrNa2aCB",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/3u28I7Jj8yitU3il5s77yM",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Seedhe Maut",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "485f576c-6ade-4c0f-9406-34720f15fb02"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Seedhe Maut",
+                                "artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37743132079,
+                        "caa_release_mbid": "252a10c6-701d-4192-b52c-a21d2d08d1dd",
+                        "recording_mbid": "4fc3ec02-bcdb-4b3c-ba65-c23ee336ab38",
+                        "recording_name": "Brand New",
+                        "release_group_mbid": "ed36fcb8-f7c4-4291-8734-4c34900c3142",
+                        "release_mbid": "252a10c6-701d-4192-b52c-a21d2d08d1dd"
+                    },
+                    "release_name": "Lunch Break",
+                    "track_name": "Brand New"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804735,
+                "recording_msid": "64d23691-5f01-497b-a392-115cb2493ca2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Seedhe Maut",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "485f576c-6ade-4c0f-9406-34720f15fb02"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Seedhe Maut",
+                                "artist_mbid": "485f576c-6ade-4c0f-9406-34720f15fb02",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37743132079,
+                        "caa_release_mbid": "252a10c6-701d-4192-b52c-a21d2d08d1dd",
+                        "recording_mbid": "4fc3ec02-bcdb-4b3c-ba65-c23ee336ab38",
+                        "recording_name": "Brand New",
+                        "release_group_mbid": "ed36fcb8-f7c4-4291-8734-4c34900c3142",
+                        "release_mbid": "252a10c6-701d-4192-b52c-a21d2d08d1dd"
+                    },
+                    "release_name": "Lunch break",
+                    "track_name": "Brand New"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791804735,
+                "recording_msid": "a813eb58-a370-4623-a4bc-698b6d72979a",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Qaab",
+                            "Frappe Ash"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 125142,
+                        "isrc": "FR2X42508513",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2k5mrYsuX2Woka7OsKOkNu",
+                        "release_artist_name": "Qaab, Frappe Ash",
+                        "release_artist_names": [
+                            "Qaab",
+                            "Frappe Ash"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6",
+                            "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5ERR8EhppdLG2cDLJfTmRo",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6",
+                            "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2k5mrYsuX2Woka7OsKOkNu",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Qaab, Frappe Ash",
+                    "release_name": "ROMP",
+                    "track_name": "Weird"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804609,
+                "recording_msid": "0d1b7c9c-0f05-48c4-917e-b61169f79995",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Qaab",
+                    "release_name": "ROMP",
+                    "track_name": "Weird"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791810291,
+                "listened_at": 1791804609,
+                "recording_msid": "918da22f-8c65-4e0c-9d9c-0b7a504cb5ad",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "KR$NA",
+                            "Raftaar",
+                            "Phenom"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 184800,
+                        "isrc": "INK492500333",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5",
+                        "release_artist_name": "KR$NA",
+                        "release_artist_names": [
+                            "KR$NA"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t",
+                            "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36",
+                            "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "KR$NA, Raftaar, Phenom",
+                    "release_name": "Yours Truly",
+                    "track_name": "Buss Down"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804424,
+                "recording_msid": "e2b17400-49e0-4aa5-8ed9-29a4f7768c4e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "86ba68eb-ea24-4e78-a009-b35e99cb6193",
+                        "lastfm_release_mbid": "1acd851c-3c36-44d7-bac7-2881b5f0e0cf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kr$na",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "86ba68eb-ea24-4e78-a009-b35e99cb6193",
+                            "f5f329bd-7fce-4b28-8208-440a96eeee91"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "KR$NA",
+                                "artist_mbid": "86ba68eb-ea24-4e78-a009-b35e99cb6193",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Raftaar",
+                                "artist_mbid": "f5f329bd-7fce-4b28-8208-440a96eeee91",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44587069442,
+                        "caa_release_mbid": "1acd851c-3c36-44d7-bac7-2881b5f0e0cf",
+                        "recording_mbid": "acaa39dc-a1e8-4f77-957d-14c9f184da66",
+                        "recording_name": "Buss Down",
+                        "release_group_mbid": "5c812475-7eb0-41d5-a650-2d47c9343834",
+                        "release_mbid": "1acd851c-3c36-44d7-bac7-2881b5f0e0cf"
+                    },
+                    "release_name": "Yours Truly",
+                    "track_name": "Buss Down"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791804408,
+                "recording_msid": "c74fb570-6dea-4f87-aff9-f907cc611b1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Natiq",
+                            "toorjo dey",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 135272,
+                        "isrc": "INN2I2528096",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1cYfJqUKmNuDo3ub2ryXFa",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/4hTKmmAjtobKYm3DJJuSkL",
+                            "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1cYfJqUKmNuDo3ub2ryXFa",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 12
+                    },
+                    "artist_name": "Arpit Bala, Natiq, toorjo dey, Angad Virk",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791804273,
+                "recording_msid": "21e8b1fc-f6fd-4601-b36a-9a41a6fe35e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Adil",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 253446,
+                        "isrc": "INN2I2528106",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2HfWaAix2oVwy3OXPAB3Tn",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2HfWaAix2oVwy3OXPAB3Tn",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 11
+                    },
+                    "artist_name": "Arpit Bala, Adil, A.O.D., Angad Virk",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804272,
+                "recording_msid": "77465b4d-b3e9-4219-a5f6-dfa0ca093f60",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791804019,
+                "recording_msid": "f89be546-94b1-4c1c-9de6-b91235ef5a89",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 188571,
+                        "isrc": "INN2I2528100",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2NGWXHAnFMBs6CWaG2Cm9s",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2NGWXHAnFMBs6CWaG2Cm9s",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791804018,
+                "recording_msid": "05df35d3-9029-44d8-ac81-9979d732797e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791803831,
+                "recording_msid": "a86902cc-4138-45b7-8684-d0d45b3d895e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat - Instrumental Version"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791803821,
+                "recording_msid": "eff79ca4-787a-43a5-a80f-2cd8f4cfe40d",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Adil"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 205800,
+                        "isrc": "INN2I2528104",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Arpit Bala, Adil",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "79969e85-fa70-4fc7-9fc2-78694922be6a",
+                        "recording_name": "Rakhlo Tum Chupaake",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Rakhlo Tum Chupaake"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791803221,
+                "recording_msid": "eff79ca4-787a-43a5-a80f-2cd8f4cfe40d",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Adil"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 205800,
+                        "isrc": "INN2I2528104",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Arpit Bala, Adil",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "79969e85-fa70-4fc7-9fc2-78694922be6a",
+                        "recording_name": "Rakhlo Tum Chupaake",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Rakhlo Tum Chupaake"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791802460,
+                "recording_msid": "58f7f89d-b0e6-414d-8319-5dc217e51421",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "pho",
+                            "Adil",
+                            "NEVERSOBER"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 221500,
+                        "isrc": "INN2I2528098",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2ZqdxikKZXZM8cnwarRaP6",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/2ZqdxikKZXZM8cnwarRaP6",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Arpit Bala, pho, Adil, NEVERSOBER",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "5b02e069-ff83-48f3-849c-88163725366c",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                            "9bf4a5c4-fa17-492a-bdaf-4b09e797c62b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "pho",
+                                "artist_mbid": "5b02e069-ff83-48f3-849c-88163725366c",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "NEVERSOBER",
+                                "artist_mbid": "9bf4a5c4-fa17-492a-bdaf-4b09e797c62b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "704ca159-5b9a-4205-8a7c-7ae1c4c3fb4d",
+                        "recording_name": "Best Friend",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Best Friend"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791802458,
+                "recording_msid": "82d63d31-be2a-4258-b64e-520bb88e3657",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Rakhlo Tum Chupaake"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791802224,
+                "recording_msid": "33d72caf-00d3-4cd0-a60c-b2a56c3a7665",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Adil",
+                            "Karan Kanchan",
+                            "A.O.D."
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 206892,
+                        "isrc": "INN2I2522431",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1BWVPe0GWmMXysg0zRePkN",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1BWVPe0GWmMXysg0zRePkN",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Arpit Bala, Adil, Karan Kanchan, A.O.D.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                            "456a7fd3-771f-4315-b86c-b9cc6af62b0c",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Karan Kanchan",
+                                "artist_mbid": "456a7fd3-771f-4315-b86c-b9cc6af62b0c",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "33d4659c-82a3-4857-8b1c-2026c1cbe175",
+                        "recording_name": "Kaise Manaye",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Kaise Manaye"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791802223,
+                "recording_msid": "6c29f67a-6815-409e-92a1-f7bc15f385bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Best Friend"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791801910,
+                "recording_msid": "0f5e91db-5a27-48db-b0fb-2362605c18c8",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 219375,
+                        "isrc": "INN2I2528102",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4yuXX16XxOsTJzt5GxaOr6",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4yuXX16XxOsTJzt5GxaOr6",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "a5772dda-dbca-4f38-83a4-721cd04be5ef",
+                        "recording_name": "Daraaz Mein",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Daraaz Mein"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791801909,
+                "recording_msid": "0a0304ab-2f5b-4f3d-81a6-2990d1f3bfaa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Kaise Manaye"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791801690,
+                "recording_msid": "77cd5fff-a05e-4690-83b6-a05c759684d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk",
+                            "Karan Kanchan"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 267142,
+                        "isrc": "INN2I2528109",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/40y1QozBRpdIhoMqlqiDc7",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg",
+                            "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/40y1QozBRpdIhoMqlqiDc7",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk, Karan Kanchan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                            "456a7fd3-771f-4315-b86c-b9cc6af62b0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Karan Kanchan",
+                                "artist_mbid": "456a7fd3-771f-4315-b86c-b9cc6af62b0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "5aec684f-9d33-4402-b8da-96b9151068dd",
+                        "recording_name": "Taaron Se",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Taaron Se"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791801689,
+                "recording_msid": "e64db5ec-91d2-4990-b42c-6a12a4440b0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Daraaz Mein"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791801415,
+                "recording_msid": "c33b98ee-e954-4cfc-a554-5c542fb77c60",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Natiq",
+                            "toorjo dey",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 135272,
+                        "isrc": "INN2I2528097",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1RuaPHz4OzywSwofjxJYEK",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/4hTKmmAjtobKYm3DJJuSkL",
+                            "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1RuaPHz4OzywSwofjxJYEK",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Arpit Bala, Natiq, toorjo dey, Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "965458e0-00ed-486c-9a1d-97a99460cde4",
+                            "cdb4b1b0-fc84-4c23-be69-37c2506271c6",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Natiq",
+                                "artist_mbid": "965458e0-00ed-486c-9a1d-97a99460cde4",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "toorjo dey",
+                                "artist_mbid": "cdb4b1b0-fc84-4c23-be69-37c2506271c6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "ee3d48b5-558d-4ce9-a1b1-df6a23428ea6",
+                        "recording_name": "Champakali",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791801414,
+                "recording_msid": "747a44b9-a568-4d3f-b8bb-9c80759d5ab7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Taaron Se"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791804526,
+                "listened_at": 1791801273,
+                "recording_msid": "47032bbb-97ed-4f6e-886e-c20a7298f8f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "sufr",
+                            "Adil",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 253440,
+                        "isrc": "INN2I2528107",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Arpit Bala, sufr, Adil, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "5af350d3-fd16-4e48-a103-7084fb14660f",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "sufr",
+                                "artist_mbid": "5af350d3-fd16-4e48-a103-7084fb14660f",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "3cca3146-9df2-472e-8302-ffe4481659ae",
+                        "recording_name": "Chuppi",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791801272,
+                "recording_msid": "3ffba218-fbe7-4416-a907-f614e6b13352",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791800971,
+                "listened_at": 1791800812,
+                "recording_msid": "a0acff39-ce12-4f78-8079-6495f04bec52",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 188571,
+                        "isrc": "INN2I2519363",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1jwSHprYPkvenDY0CZNUEI",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1jwSHprYPkvenDY0CZNUEI",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "53431a2b-2aa6-4c11-8fd6-00b9c622d599",
+                        "recording_name": "Pyari Amaanat",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791800811,
+                "recording_msid": "892abc83-539a-47a6-943e-51137dfbe6fb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791800623,
+                "recording_msid": "28e65780-268d-4bff-93a0-4cd0149916f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791806643,
+                "listened_at": 1791785194,
+                "recording_msid": "747a44b9-a568-4d3f-b8bb-9c80759d5ab7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Taaron Se"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791788611,
+                "listened_at": 1791785194,
+                "recording_msid": "77cd5fff-a05e-4690-83b6-a05c759684d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk",
+                            "Karan Kanchan"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 267142,
+                        "isrc": "INN2I2528109",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/40y1QozBRpdIhoMqlqiDc7",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg",
+                            "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/40y1QozBRpdIhoMqlqiDc7",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk, Karan Kanchan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                            "456a7fd3-771f-4315-b86c-b9cc6af62b0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Karan Kanchan",
+                                "artist_mbid": "456a7fd3-771f-4315-b86c-b9cc6af62b0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "5aec684f-9d33-4402-b8da-96b9151068dd",
+                        "recording_name": "Taaron Se",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Taaron Se"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791773748,
+                "listened_at": 1791771195,
+                "recording_msid": "c33b98ee-e954-4cfc-a554-5c542fb77c60",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "Natiq",
+                            "toorjo dey",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 135272,
+                        "isrc": "INN2I2528097",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1RuaPHz4OzywSwofjxJYEK",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/4hTKmmAjtobKYm3DJJuSkL",
+                            "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1RuaPHz4OzywSwofjxJYEK",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Arpit Bala, Natiq, toorjo dey, Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "965458e0-00ed-486c-9a1d-97a99460cde4",
+                            "cdb4b1b0-fc84-4c23-be69-37c2506271c6",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Natiq",
+                                "artist_mbid": "965458e0-00ed-486c-9a1d-97a99460cde4",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "toorjo dey",
+                                "artist_mbid": "cdb4b1b0-fc84-4c23-be69-37c2506271c6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "ee3d48b5-558d-4ce9-a1b1-df6a23428ea6",
+                        "recording_name": "Champakali",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791773748,
+                "listened_at": 1791771060,
+                "recording_msid": "47032bbb-97ed-4f6e-886e-c20a7298f8f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "sufr",
+                            "Adil",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 253440,
+                        "isrc": "INN2I2528107",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Arpit Bala, sufr, Adil, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "5af350d3-fd16-4e48-a103-7084fb14660f",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "sufr",
+                                "artist_mbid": "5af350d3-fd16-4e48-a103-7084fb14660f",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "3cca3146-9df2-472e-8302-ffe4481659ae",
+                        "recording_name": "Chuppi",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791775404,
+                "listened_at": 1791771059,
+                "recording_msid": "3ffba218-fbe7-4416-a907-f614e6b13352",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Champakali"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791773748,
+                "listened_at": 1791770807,
+                "recording_msid": "a0acff39-ce12-4f78-8079-6495f04bec52",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 188571,
+                        "isrc": "INN2I2519363",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1jwSHprYPkvenDY0CZNUEI",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/1jwSHprYPkvenDY0CZNUEI",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Arpit Bala, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "53431a2b-2aa6-4c11-8fd6-00b9c622d599",
+                        "recording_name": "Pyari Amaanat",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791775404,
+                "listened_at": 1791770806,
+                "recording_msid": "892abc83-539a-47a6-943e-51137dfbe6fb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791775404,
+                "listened_at": 1791770579,
+                "recording_msid": "28e65780-268d-4bff-93a0-4cd0149916f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791775404,
+                "listened_at": 1791740187,
+                "recording_msid": "09362c7d-2b32-481f-bd7a-ac04dc4458cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                        "lastfm_release_mbid": "0de11922-563e-46ad-9230-cfc76b69d8d3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Last Dinosaurs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "546b225b-162d-4b81-b649-032616736db7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Last Dinosaurs",
+                                "artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12061972065,
+                        "caa_release_mbid": "d4009472-b2fd-4277-b808-102c6e6cb79b",
+                        "recording_mbid": "62e1dac9-1e50-4f73-9641-620054057233",
+                        "recording_name": "Exie",
+                        "release_group_mbid": "85636762-e23a-4a0b-ad3e-be3ffbc644ce",
+                        "release_mbid": "e77eb3d3-19f0-4b4d-852e-f591bc1cd681",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3638614762"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            }
+                        ]
+                    },
+                    "release_name": "Wellnxss",
+                    "track_name": "Exie"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791744617,
+                "listened_at": 1791740187,
+                "recording_msid": "2999f38d-3094-43a1-8cd0-20eb5fa6a9d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Last Dinosaurs"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 225225,
+                        "isrc": "CAN112502183",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4UdLgUrLZclWVQFQpmnBrz",
+                        "release_artist_name": "Last Dinosaurs",
+                        "release_artist_names": [
+                            "Last Dinosaurs"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2cpSyJLmccdURinGZ9lLMq",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4UdLgUrLZclWVQFQpmnBrz",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Last Dinosaurs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "546b225b-162d-4b81-b649-032616736db7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Last Dinosaurs",
+                                "artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12061972065,
+                        "caa_release_mbid": "d4009472-b2fd-4277-b808-102c6e6cb79b",
+                        "recording_mbid": "62e1dac9-1e50-4f73-9641-620054057233",
+                        "recording_name": "Exie",
+                        "release_group_mbid": "85636762-e23a-4a0b-ad3e-be3ffbc644ce",
+                        "release_mbid": "e77eb3d3-19f0-4b4d-852e-f591bc1cd681",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3638614762"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            }
+                        ]
+                    },
+                    "release_name": "Wellnxss",
+                    "track_name": "Exie"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791775404,
+                "listened_at": 1791738460,
+                "recording_msid": "09362c7d-2b32-481f-bd7a-ac04dc4458cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                        "lastfm_release_mbid": "0de11922-563e-46ad-9230-cfc76b69d8d3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Last Dinosaurs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "546b225b-162d-4b81-b649-032616736db7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Last Dinosaurs",
+                                "artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12061972065,
+                        "caa_release_mbid": "d4009472-b2fd-4277-b808-102c6e6cb79b",
+                        "recording_mbid": "62e1dac9-1e50-4f73-9641-620054057233",
+                        "recording_name": "Exie",
+                        "release_group_mbid": "85636762-e23a-4a0b-ad3e-be3ffbc644ce",
+                        "release_mbid": "e77eb3d3-19f0-4b4d-852e-f591bc1cd681",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3638614762"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            }
+                        ]
+                    },
+                    "release_name": "Wellnxss",
+                    "track_name": "Exie"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791739001,
+                "listened_at": 1791738460,
+                "recording_msid": "2999f38d-3094-43a1-8cd0-20eb5fa6a9d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Last Dinosaurs"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 225225,
+                        "isrc": "CAN112502183",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4UdLgUrLZclWVQFQpmnBrz",
+                        "release_artist_name": "Last Dinosaurs",
+                        "release_artist_names": [
+                            "Last Dinosaurs"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2cpSyJLmccdURinGZ9lLMq",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/4UdLgUrLZclWVQFQpmnBrz",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Last Dinosaurs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "546b225b-162d-4b81-b649-032616736db7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Last Dinosaurs",
+                                "artist_mbid": "546b225b-162d-4b81-b649-032616736db7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12061972065,
+                        "caa_release_mbid": "d4009472-b2fd-4277-b808-102c6e6cb79b",
+                        "recording_mbid": "62e1dac9-1e50-4f73-9641-620054057233",
+                        "recording_name": "Exie",
+                        "release_group_mbid": "85636762-e23a-4a0b-ad3e-be3ffbc644ce",
+                        "release_mbid": "e77eb3d3-19f0-4b4d-852e-f591bc1cd681",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3638614762"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1850831216"
+                            }
+                        ]
+                    },
+                    "release_name": "Wellnxss",
+                    "track_name": "Exie"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791737280,
+                "recording_msid": "6c923f76-ac53-4d13-a2f2-0e5c17730e84",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_release_mbid": "66de5e14-0642-4803-998c-3ecdf504134d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "recording_mbid": "23d43717-4dcb-4a6e-a6ed-bd1ba42525eb"
+                    },
+                    "release_name": "HEROES & VILLAINS",
+                    "track_name": "Trance (with Travis Scott & Young Thug)"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791739001,
+                "listened_at": 1791737232,
+                "recording_msid": "47032bbb-97ed-4f6e-886e-c20a7298f8f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Arpit Bala",
+                            "sufr",
+                            "Adil",
+                            "A.O.D.",
+                            "Angad Virk"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 253440,
+                        "isrc": "INN2I2528107",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "release_artist_name": "Arpit Bala",
+                        "release_artist_names": [
+                            "Arpit Bala"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jM78a6vX4iA10kgwzwjj9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9",
+                            "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F",
+                            "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ",
+                            "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft",
+                            "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/0xiPYTz8MA6eQtJOgRiGWk",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Arpit Bala, sufr, Adil, A.O.D., Angad Virk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                            "5af350d3-fd16-4e48-a103-7084fb14660f",
+                            "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                            "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                            "7c21be2e-df8f-428d-9503-1ff284f571e2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Arpit Bala",
+                                "artist_mbid": "de4c9097-55ea-4dd2-878f-1e205bcc8dbf",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "sufr",
+                                "artist_mbid": "5af350d3-fd16-4e48-a103-7084fb14660f",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Adil",
+                                "artist_mbid": "22875126-b6ca-4d5b-b99c-e5904e9cb0f5",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "A.O.D.",
+                                "artist_mbid": "858644a7-2ad2-4e7e-8238-924049ab2c92",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Angad Virk",
+                                "artist_mbid": "7c21be2e-df8f-428d-9503-1ff284f571e2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44672411531,
+                        "caa_release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78",
+                        "recording_mbid": "3cca3146-9df2-472e-8302-ffe4481659ae",
+                        "recording_name": "Chuppi",
+                        "release_group_mbid": "44826a08-64e4-4db6-821f-5693546a35d6",
+                        "release_mbid": "8a9b081a-2129-4e44-aa32-a9efb51ffe78"
+                    },
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Chuppi"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791736745,
+                "recording_msid": "28e65780-268d-4bff-93a0-4cd0149916f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Arpit Bala",
+                    "release_name": "Keychain Laalu",
+                    "track_name": "Pyari Amaanat"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791737239,
+                "listened_at": 1791736742,
+                "recording_msid": "1088e806-edc9-4741-8e8e-46199ba11bd5",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Sukha",
+                            "Chani Nattan",
+                            "Prodgk",
+                            "Gurlez Akhtar"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 161000,
+                        "isrc": "TCAHO2323601",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO",
+                        "release_artist_name": "Sukha",
+                        "release_artist_names": [
+                            "Sukha"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG",
+                            "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp",
+                            "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0",
+                            "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                            "2188b359-5c8b-4d46-b0a8-8f08ff3b6078"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sukha",
+                                "artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gurlez Akhtar",
+                                "artist_mbid": "2188b359-5c8b-4d46-b0a8-8f08ff3b6078",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37268333030,
+                        "caa_release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f",
+                        "recording_mbid": "d1a31754-2e10-4cb5-95c7-249098665520",
+                        "recording_name": "8 Asle",
+                        "release_group_mbid": "43684d2e-4cd7-4515-b6e3-95cc0cbda6c6",
+                        "release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f"
+                    },
+                    "release_name": "UNDISPUTED",
+                    "track_name": "8 ASLE"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791736526,
+                "recording_msid": "14556b7e-3925-4b63-95e7-713fe136ee8b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sukha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                            "2188b359-5c8b-4d46-b0a8-8f08ff3b6078"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sukha",
+                                "artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gurlez Akhtar",
+                                "artist_mbid": "2188b359-5c8b-4d46-b0a8-8f08ff3b6078",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37268333030,
+                        "caa_release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f",
+                        "recording_mbid": "d1a31754-2e10-4cb5-95c7-249098665520",
+                        "recording_name": "8 Asle",
+                        "release_group_mbid": "43684d2e-4cd7-4515-b6e3-95cc0cbda6c6",
+                        "release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f"
+                    },
+                    "release_name": "UNDISPUTED",
+                    "track_name": "8 ASLE"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791736330,
+                "recording_msid": "8b9519cf-dc40-4e74-82af-07a6a61b1bb7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                        "lastfm_release_mbid": "6ace4873-239e-48a3-8f22-b776efedde3f",
+                        "lastfm_track_mbid": "220e8ab8-846a-4298-9aa6-fca619075977",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sukha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e6f281f5-ca08-4963-a0c3-edefa93051f6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sukha",
+                                "artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36261661324,
+                        "caa_release_mbid": "6ace4873-239e-48a3-8f22-b776efedde3f",
+                        "recording_mbid": "220e8ab8-846a-4298-9aa6-fca619075977",
+                        "recording_name": "Attraction",
+                        "release_group_mbid": "fb994ad9-e335-4550-8f72-6dd173f7a62e",
+                        "release_mbid": "6ace4873-239e-48a3-8f22-b776efedde3f"
+                    },
+                    "release_name": "Attraction",
+                    "track_name": "Attraction"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791736199,
+                "recording_msid": "1973b98d-8dee-44e4-a9ce-b396fdd08de8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                        "lastfm_track_mbid": "ec859c2f-b4df-4e68-94a4-ad4719581d81",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sukha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e6f281f5-ca08-4963-a0c3-edefa93051f6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sukha",
+                                "artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44705234393,
+                        "caa_release_mbid": "be66851f-5cee-4f92-b8a2-42bf0af89269",
+                        "recording_mbid": "ec859c2f-b4df-4e68-94a4-ad4719581d81",
+                        "recording_name": "Wang",
+                        "release_group_mbid": "3d87a7db-a323-47e8-895a-b0ab3b0b42c2",
+                        "release_mbid": "be66851f-5cee-4f92-b8a2-42bf0af89269"
+                    },
+                    "release_name": "RUMOUR HAS IT",
+                    "track_name": "WANG"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791736052,
+                "recording_msid": "14556b7e-3925-4b63-95e7-713fe136ee8b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sukha",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                            "2188b359-5c8b-4d46-b0a8-8f08ff3b6078"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sukha",
+                                "artist_mbid": "e6f281f5-ca08-4963-a0c3-edefa93051f6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gurlez Akhtar",
+                                "artist_mbid": "2188b359-5c8b-4d46-b0a8-8f08ff3b6078",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37268333030,
+                        "caa_release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f",
+                        "recording_mbid": "d1a31754-2e10-4cb5-95c7-249098665520",
+                        "recording_name": "8 Asle",
+                        "release_group_mbid": "43684d2e-4cd7-4515-b6e3-95cc0cbda6c6",
+                        "release_mbid": "8cd04b22-39f6-41ed-b8a3-e9fb79cd016f"
+                    },
+                    "release_name": "UNDISPUTED",
+                    "track_name": "8 ASLE"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791735919,
+                "recording_msid": "43bf4ebe-2e25-48ab-a5ea-408966673c9d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "f3d7c0f9-f3f1-4d05-8059-70143fe6a831",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Raga",
+                    "release_name": "No Formula",
+                    "track_name": "Untitled"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791737239,
+                "listened_at": 1791735765,
+                "recording_msid": "03700c9d-05b1-4e38-b2b0-b60ab7959fac",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Raftaar",
+                            "Prabh Deep"
+                        ],
+                        "discnumber": 1,
+                        "duration_ms": 169599,
+                        "isrc": "INK492300258",
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6XQZXteMzrGkV3ogDLmf2R",
+                        "release_artist_name": "Raftaar, Prabh Deep",
+                        "release_artist_names": [
+                            "Raftaar",
+                            "Prabh Deep"
+                        ],
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36",
+                            "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36",
+                            "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+                        ],
+                        "spotify_id": "https://open.spotify.com/track/6XQZXteMzrGkV3ogDLmf2R",
+                        "submission_client": "listenbrainz",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Raftaar, Prabh Deep",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f5f329bd-7fce-4b28-8208-440a96eeee91",
+                            "76c7ee4d-8ddb-4f49-aeb3-a5c8c8a4ee92"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Raftaar",
+                                "artist_mbid": "f5f329bd-7fce-4b28-8208-440a96eeee91",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Prabh Deep",
+                                "artist_mbid": "76c7ee4d-8ddb-4f49-aeb3-a5c8c8a4ee92",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44611704641,
+                        "caa_release_mbid": "06c3767b-5fe7-49c9-9b44-2df80d26bc20",
+                        "recording_mbid": "cb5bb02f-5b28-4dd7-b7de-c5de54aa9e6e",
+                        "recording_name": "ABBU",
+                        "release_group_mbid": "a65c65b7-376b-41b9-9cc4-5448cf811676",
+                        "release_mbid": "06c3767b-5fe7-49c9-9b44-2df80d26bc20"
+                    },
+                    "release_name": "PRAA",
+                    "track_name": "ABBU"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791735765,
+                "recording_msid": "3f9a69d0-95f2-440f-ad75-f2e76df8ef42",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Aytee",
+                    "release_name": "2026 Flow",
+                    "track_name": "2026 Flow"
+                },
+                "user_name": "aaryan09"
+            },
+            {
+                "inserted_at": 1791741727,
+                "listened_at": 1791735595,
+                "recording_msid": "3a5ece3a-c1dd-4793-907d-0da66424f643",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Raftaar",
+                    "release_name": "PRAA",
+                    "track_name": "ABBU"
+                },
+                "user_name": "aaryan09"
+            }
+        ],
+        "oldest_listen_ts": 1692067581,
+        "user_id": "aaryan09"
+    }
+}

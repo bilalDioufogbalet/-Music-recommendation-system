@@ -1,0 +1,3188 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1788461951,
+        "listens": [
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461951,
+                "recording_msid": "53dd7616-9245-4e49-b68c-5eeff10de945",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 160500,
+                        "ms_played": 160500,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7xkMZyehFJOBrwBPYAHxlC",
+                        "release_artist_name": "Travis World",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3Vx2lTfiZFZiwveCs8lJiq",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng",
+                            "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Lyrikal, Travis World",
+                    "release_name": "Stink Waist Riddim",
+                    "track_name": "Stink Waist"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461790,
+                "recording_msid": "d966e2eb-94bd-4380-9746-0d7f59ec2e08",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 222000,
+                        "ms_played": 222000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1gjhClNRAQ1NQl89Vu3d5u",
+                        "release_artist_name": "V'ghn, Terra D Governor, Kay Frass",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG",
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR",
+                            "https://open.spotify.com/artist/2ekr7PoTX7RQMo2I5YL5CY"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3hFC1Meo8wBFRERUqOWk8m",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG",
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR",
+                            "https://open.spotify.com/artist/2ekr7PoTX7RQMo2I5YL5CY"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "V'ghn, Terra D Governor, Kay Frass",
+                    "release_name": "Jab Decisions (Roadmix)",
+                    "track_name": "Jab Decisions - Roadmix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461568,
+                "recording_msid": "50a93ab4-b7b2-4786-9fa6-0c56f251aedc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159004,
+                        "ms_played": 159004,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/03dTZizg1pIS4c3o6zmNuY",
+                        "release_artist_name": "Jagwa De Champ",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/37BsvAlvIUAOxdBzhik6CV",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jagwa De Champ",
+                    "release_name": "Hand Pun Yuh Knee (Freestyle) [Gutter Perk Riddim]",
+                    "track_name": "Hand Pun Yuh Knee (Freestyle) [Gutter Perk Riddim]"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461408,
+                "recording_msid": "ec77fdd1-1f71-4383-b998-2ae2d4c4c852",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 156081,
+                        "ms_played": 156082,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/44OHYFh8tFrGuykxeR6ebA",
+                        "release_artist_name": "Terra D Governor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2S312d7TrhTkHUv56zdyn9",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "Same Zoom Zoom",
+                    "track_name": "Same Zoom Zoom"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461252,
+                "recording_msid": "c5593222-1107-4464-904a-7abbabd6a776",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159000,
+                        "ms_played": 159000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/76LESPclkBSiZFEZNqPWew",
+                        "release_artist_name": "Prestigebeatz473",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6DONHEzCJeGY2hAkyn96Fh"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3WWU72BaK92HotvbCqqP8H",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6DONHEzCJeGY2hAkyn96Fh",
+                            "https://open.spotify.com/artist/1pTTwu7PM1ykRW4kQQLI0w"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Prestigebeatz473, General PP",
+                    "release_name": "Dog Mas Riddim",
+                    "track_name": "Loving Still"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788461092,
+                "recording_msid": "8e6b0e5d-e37d-41af-af10-39f8db3f641e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 110915,
+                        "ms_played": 110915,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4n7E5ihpKh3OPOwL0Gucwe",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4PC6c1EFUk1YE71SNzw9YK",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2ZEshXlGHVCfXKRBsEyema"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Keith Currency",
+                    "release_name": "Party Truck Riddim",
+                    "track_name": "W.T.A.C"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460981,
+                "recording_msid": "7c122044-6b46-42e4-8b4b-6d372d00f292",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 161818,
+                        "ms_played": 161818,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5XIMfSaCOBvR8tRnl6Xd3x",
+                        "release_artist_name": "Hollywood HP",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0VTIFKIaBzT7LrtNoOcOR6"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3JtTjtl2ZinNL06nBej0JG",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0VTIFKIaBzT7LrtNoOcOR6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Hollywood HP",
+                    "release_name": "Lemme Waist It",
+                    "track_name": "Lemme Waist It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460818,
+                "recording_msid": "0b3562d1-b472-47a5-a215-2f7a2f31bdb4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159000,
+                        "ms_played": 159000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4Nc0jbbokqQfXLYmOCRhvo",
+                        "release_artist_name": "Problem Child",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1gyyAY2plzNGH0VB0ZOHa5",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Problem Child",
+                    "release_name": "Baddest Boy Riddim",
+                    "track_name": "Rosalie"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460659,
+                "recording_msid": "f270be76-06e5-4e0c-8dc2-352a8f8aaccb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 156000,
+                        "ms_played": 156000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/10v6b5riUHa17tAC2coHeF",
+                        "release_artist_name": "Travis World",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/72BGOuMnHwEtsL8KPe2UDs",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR",
+                            "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Terra D Governor, Travis World",
+                    "release_name": "Midnight Mas Riddim",
+                    "track_name": "Get On"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460502,
+                "recording_msid": "9591b329-bb45-43c6-bd87-e279442c4763",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 181500,
+                        "ms_played": 162877,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7c1zddaHoYyv0nuBESq3fF",
+                        "release_artist_name": "Terra D Governor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1aBCNZDsq6SLZKv4hE2Wu6",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "She's A Maroon",
+                    "track_name": "She's A Maroon"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460236,
+                "recording_msid": "73ee8c6f-9fd4-441b-96ae-eca6f6ea0b58",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 142288,
+                        "ms_played": 40553,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3HWD8KNDFYwhdReuwd7czk",
+                        "release_artist_name": "Terra D Governor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5jo2zzBlkuG4ih6PCkiYnr",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "Korra Katara",
+                    "track_name": "Korra Katara"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460195,
+                "recording_msid": "d32eae8f-a674-49da-9681-7583914d3246",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 266472,
+                        "ms_played": 98103,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7gFJJ4Ae6RvDXvuHmDxVkf",
+                        "release_artist_name": "Snakey",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7c2ETu8AoS4Zb7PU8THkp6"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2LoOE8tfocDomFHYJTUtX1",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7c2ETu8AoS4Zb7PU8THkp6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Snakey",
+                    "release_name": "Raging Seas",
+                    "track_name": "Raging Seas"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460097,
+                "recording_msid": "bdcf5b91-7e64-416e-a31a-4c5cd224ffdf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 165000,
+                        "ms_played": 31006,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5OyDDQJeHOkR9rP1rAk5ob",
+                        "release_artist_name": "Blama, Shanny D, Prezzi Don, Fligh",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3oG2KMX6FwUOxELrZMiQND",
+                            "https://open.spotify.com/artist/6GdhXKfXJStdUbkGDfkrqu",
+                            "https://open.spotify.com/artist/1lnF17lx25f599olDlld1t",
+                            "https://open.spotify.com/artist/7i02mkv2K3l6DmwFfgzhrK"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6f4vSWKxkPamWDY8EaBTWC",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3oG2KMX6FwUOxELrZMiQND"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Blama",
+                    "release_name": "Sillowett Riddim",
+                    "track_name": "Polygamy"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788460066,
+                "recording_msid": "0cbb13b0-7b83-40ed-a5bd-e34f00671b05",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 202478,
+                        "ms_played": 140550,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/23hPXsACn8jDjKcdKvpyGy",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/53HIpbSHHWbHin9s5QdHDQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Problem Child",
+                    "release_name": "Xcitementz Riddim",
+                    "track_name": "Party Time"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788459925,
+                "recording_msid": "bdcf5b91-7e64-416e-a31a-4c5cd224ffdf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 165000,
+                        "ms_played": 165000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5OyDDQJeHOkR9rP1rAk5ob",
+                        "release_artist_name": "Blama, Shanny D, Prezzi Don, Fligh",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3oG2KMX6FwUOxELrZMiQND",
+                            "https://open.spotify.com/artist/6GdhXKfXJStdUbkGDfkrqu",
+                            "https://open.spotify.com/artist/1lnF17lx25f599olDlld1t",
+                            "https://open.spotify.com/artist/7i02mkv2K3l6DmwFfgzhrK"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6f4vSWKxkPamWDY8EaBTWC",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3oG2KMX6FwUOxELrZMiQND"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Blama",
+                    "release_name": "Sillowett Riddim",
+                    "track_name": "Polygamy"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788459759,
+                "recording_msid": "6c83a79e-74ca-4de0-af38-ac706dd29490",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159048,
+                        "ms_played": 159048,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2zsYo9hL8AXtqsW4K2Wo13",
+                        "release_artist_name": "ALX",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1XWD8vVrvQ96BxdNLwsij4"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4w4QWIvmzAgsZ64N5Nkplo",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1XWD8vVrvQ96BxdNLwsij4",
+                            "https://open.spotify.com/artist/3ub8FiH02975dRgmpNlA1o"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "ALX, Jasper YMC",
+                    "release_name": "Rum Island Riddim",
+                    "track_name": "Rum Island"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788459599,
+                "recording_msid": "fb938e43-0fd6-4287-86a7-32681c67898a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 183000,
+                        "ms_played": 183000,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2lRJqKWwfclBT81uaqm065",
+                        "release_artist_name": "Terra D Governor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3eyUd0MmIqqDgLVQMewsPj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "Oil Down & Soca",
+                    "track_name": "Oil Down & Soca"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788459416,
+                "recording_msid": "a3cc0cec-5f40-41ff-be31-0d64ccf18b15",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 154500,
+                        "ms_played": 153193,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5KYFjG4qCVKVvvLZF5ey5R",
+                        "release_artist_name": "Jambalasee Grenada",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4wHL3blo7QAYyqNU50wFJU"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3ys4z3qxog4BXh96LGvZJa",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4wHL3blo7QAYyqNU50wFJU",
+                            "https://open.spotify.com/artist/1DneccJEcCKHAh3F9MFMy8"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Jambalasee Grenada, Duwan De Entertainer",
+                    "release_name": "HEADPIECE RIDDIM",
+                    "track_name": "Speed"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788459262,
+                "recording_msid": "76f57807-583c-4726-a781-0ea3dee8d053",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166450,
+                        "ms_played": 97093,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V",
+                            "https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Deno Outta Range Mason, Temptress",
+                    "release_name": "Dennis Riddim",
+                    "track_name": "Ah Doh Have"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788458906,
+                "recording_msid": "0124829d-4f80-454e-8df0-4e5367b55a88",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 144000,
+                        "ms_played": 56753,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2boO1TPStBV95EE3tZbpBH",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5o2uvn6iblMtBr2N36iKqZ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/26XGjOXHl9VOiPtxXakyLE"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Tallpree",
+                    "release_name": "Black Crown Riddim",
+                    "track_name": "Take Jab"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788458715,
+                "recording_msid": "76f57807-583c-4726-a781-0ea3dee8d053",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166450,
+                        "ms_played": 69993,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V",
+                            "https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Deno Outta Range Mason, Temptress",
+                    "release_name": "Dennis Riddim",
+                    "track_name": "Ah Doh Have"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788458644,
+                "recording_msid": "fb14dd3c-9712-4570-a1d1-082d496c7572",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 115147,
+                        "ms_played": 45189,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2fG3O7rdVEJDUU6O4rGCqR",
+                        "release_artist_name": "Intlprostyle",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/31nnLZH0ruL5kWUpgwTt6O"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6AqrfyNiYTd0r9hvcSCdUD",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/31nnLZH0ruL5kWUpgwTt6O",
+                            "https://open.spotify.com/artist/1QRIl6m9cXEpIR3C4uaGYH"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Intlprostyle, Harmony & Merkayla",
+                    "release_name": "Childs Play",
+                    "track_name": "Childs Play"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788445574,
+                "recording_msid": "7ae430eb-121a-46ba-8c06-9144d1f35a38",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147816,
+                        "ms_played": 144370,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2WodPZFjDBEzfpNmpl1Kxr",
+                        "release_artist_name": "DREJ, Father Philis, Mikado",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4Wg5EIWn3hXJyieOo4JWtT",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Father Philis, Mikado",
+                    "release_name": "Trouble (She Hate Men) [Barbados Remix]",
+                    "track_name": "Trouble (She Hate Men) - Barbados Remix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788439673,
+                "recording_msid": "0033b495-684b-405d-89b8-1e2e3512b77c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 98104,
+                        "ms_played": 98105,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4x6SO9thjlQgajzzxRzlhR",
+                        "release_artist_name": "DREJ, Stonebwoy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6BQVkwnX0bQGBWCgDPKOnk",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Stonebwoy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788439403,
+                "recording_msid": "9244c48c-85cb-4f83-8841-76f50831199e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 97189,
+                        "ms_played": 97190,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6Ai9TqZGZcmtP00UqMYlfy",
+                        "release_artist_name": "DREJ, Shaggy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/08x0gD8rNHEWbGj0FuOiPQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Shaggy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788439306,
+                "recording_msid": "19a133f7-e62b-41a6-832f-c17dfa5ab414",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 121521,
+                        "ms_played": 121522,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/23asgIQczGVPFN6v9thXwj",
+                        "release_artist_name": "Jordan English",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6qwHl9RlcugbOnjwA64LsW",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jordan English",
+                    "release_name": "Weatherman 3style",
+                    "track_name": "Weatherman 3style"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788439178,
+                "recording_msid": "b1f29238-9ba4-4d63-81bf-05dc593dbb2f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 94634,
+                        "ms_played": 80803,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3HtHah6aJ8GeKhMpbRdOcC",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "f0ee17c3-cdb5-4059-9e18-b418da3128f4",
+                        "recording_name": "Broski and Bine",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3HtHah6aJ8GeKhMpbRdOcC"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Broski and Bine"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788430549,
+                "recording_msid": "f796f292-cb43-4739-a892-a26e23d6ef07",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 179310,
+                        "ms_played": 179310,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2N298csE70Bcuuelaf9CQ8",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "37753ad7-55ec-415b-be71-24869573195c",
+                        "recording_name": "Playhouses",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2N298csE70Bcuuelaf9CQ8"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Playhouses"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788430370,
+                "recording_msid": "d437f1f9-0de4-4687-b5dd-cfca475a37d5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 264827,
+                        "ms_played": 264828,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5dJwElylJ1dNRuwnyY98KX",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "4baacee2-171e-440c-87a2-1782d44898d2",
+                        "recording_name": "Heisenberg",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5dJwElylJ1dNRuwnyY98KX"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Heisenberg"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788430105,
+                "recording_msid": "6c2af914-975a-41fc-8824-c9db7b406d18",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 210652,
+                        "ms_played": 210652,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/712QKHfYhgB56EblzSkfcc",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "89b27672-3773-4b1a-bcd0-e88193eb2fb4",
+                        "recording_name": "Good When We’re Sober",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/712QKHfYhgB56EblzSkfcc"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Good When We’re Sober"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788429894,
+                "recording_msid": "3431fdf6-4e40-4b42-a66f-bc515fdce76e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 211648,
+                        "ms_played": 211648,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT",
+                            "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Catch, Young Adz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456",
+                            "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Young Adz",
+                                "artist_mbid": "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "5edb4818-9d2d-46ac-9db9-fc1e95b8f23f",
+                        "recording_name": "Target",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Target"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788429683,
+                "recording_msid": "7073426a-566a-4769-bd7d-941a32a51f16",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 198202,
+                        "ms_played": 198202,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1s7yN66kG0Yg0GfmKecd4b",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "bcd9773d-d392-4363-b4ce-080b404bc2d1",
+                        "recording_name": "Shine Your Light",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1s7yN66kG0Yg0GfmKecd4b"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Shine Your Light"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788429484,
+                "recording_msid": "c094a2f3-5a22-4723-a0a6-fac03d799537",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228571,
+                        "ms_played": 228571,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2dHz7L4IDCk5ZgxiUqo8wM",
+                        "release_artist_name": "Catch",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Catch",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd540890-edc1-456a-a8f4-b82741c18456"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Catch",
+                                "artist_mbid": "bd540890-edc1-456a-a8f4-b82741c18456",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "4881fb26-c391-4dff-8d24-f5b43005e90c",
+                        "recording_name": "Imagine Being Me",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2dHz7L4IDCk5ZgxiUqo8wM"
+                            }
+                        ]
+                    },
+                    "release_name": "The Elephant In The Room",
+                    "track_name": "Imagine Being Me"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788429255,
+                "recording_msid": "5e77e8f4-a7ef-4757-82ed-9a795183400a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 143789,
+                        "ms_played": 63472,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG",
+                        "release_artist_name": "Father Philis",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Father Philis",
+                    "release_name": "Face Beat",
+                    "track_name": "Face Beat"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788421036,
+                "recording_msid": "7ae430eb-121a-46ba-8c06-9144d1f35a38",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147816,
+                        "ms_played": 147817,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2WodPZFjDBEzfpNmpl1Kxr",
+                        "release_artist_name": "DREJ, Father Philis, Mikado",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4Wg5EIWn3hXJyieOo4JWtT",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Father Philis, Mikado",
+                    "release_name": "Trouble (She Hate Men) [Barbados Remix]",
+                    "track_name": "Trouble (She Hate Men) - Barbados Remix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788420880,
+                "recording_msid": "626f610d-a185-4ea6-bf04-3dde9fa8e0cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132093,
+                        "ms_played": 45589,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7kFqyfQihbwrq5jGmtV04t",
+                        "release_artist_name": "Father Philis",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/0EApvgsgwy8BT5CXYrAhUn",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Father Philis",
+                    "release_name": "Shaking It",
+                    "track_name": "Shaking It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788420815,
+                "recording_msid": "9ceca18e-4339-4ef2-abaa-7a78e2d88b12",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133953,
+                        "ms_played": 48475,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0vqJmztu0URVvN2meH6fhk",
+                        "release_artist_name": "Lady Lava",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5Idxz0gEOK0RTEOjIoikte",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Lady Lava",
+                    "release_name": "Matrix",
+                    "track_name": "Matrix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788420767,
+                "recording_msid": "062e4adb-ad2d-468f-aa35-a8cb40cd3bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133953,
+                        "ms_played": 133953,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3sn1OOxiqlxZOXstCZqPx5",
+                        "release_artist_name": "Yung Bredda",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7CaUCP3fIyOZEyqso5OaE7",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Yung Bredda",
+                    "release_name": "Touch It",
+                    "track_name": "Touch It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788420575,
+                "recording_msid": "6c2e9875-b64a-4542-8af0-7b539e3820f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 180928,
+                        "ms_played": 168180,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0H1qmliAWAZ7GKu73DjVJp",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Problem Child",
+                    "release_name": "The Power Pack",
+                    "track_name": "Fraid Horn"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788397700,
+                "recording_msid": "9ceca18e-4339-4ef2-abaa-7a78e2d88b12",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133953,
+                        "ms_played": 81350,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0vqJmztu0URVvN2meH6fhk",
+                        "release_artist_name": "Lady Lava",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5Idxz0gEOK0RTEOjIoikte",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Lady Lava",
+                    "release_name": "Matrix",
+                    "track_name": "Matrix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788362403,
+                "recording_msid": "062e4adb-ad2d-468f-aa35-a8cb40cd3bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133953,
+                        "ms_played": 133953,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3sn1OOxiqlxZOXstCZqPx5",
+                        "release_artist_name": "Yung Bredda",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7CaUCP3fIyOZEyqso5OaE7",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Yung Bredda",
+                    "release_name": "Touch It",
+                    "track_name": "Touch It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788362269,
+                "recording_msid": "7667115d-fa12-471d-8e5a-63494abe802a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 129767,
+                        "ms_played": 129767,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/1RVnO94Iq3YGTwgOH7Iry1",
+                        "release_artist_name": "Tempa",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1uk9oCa4c4H4PQVMeN2S3Y",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Tempa",
+                    "release_name": "Funds",
+                    "track_name": "Funds"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788362138,
+                "recording_msid": "07dcf657-7459-4308-be0e-f8cd23188bf2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 115348,
+                        "ms_played": 115349,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5YbFLwvYw86TPWpEQFSNAL",
+                        "release_artist_name": "Sackie",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3eAa7D4jPrj8nOaIOTpj2T",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Sackie",
+                    "release_name": "Wicked Gyal Anthem",
+                    "track_name": "Wicked Gyal Anthem"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788362022,
+                "recording_msid": "70ec745c-3cfb-4d1b-b128-b63e5c141785",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 135813,
+                        "ms_played": 135814,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5UA2WYq4JuZtfh09dV9345",
+                        "release_artist_name": "Trinidad Killa",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/0v4M7AXjui1AeQBEmYlSrW",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Trinidad Killa",
+                    "release_name": "Peace",
+                    "track_name": "Peace"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361886,
+                "recording_msid": "626f610d-a185-4ea6-bf04-3dde9fa8e0cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132093,
+                        "ms_played": 71340,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7kFqyfQihbwrq5jGmtV04t",
+                        "release_artist_name": "Father Philis",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/0EApvgsgwy8BT5CXYrAhUn",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Father Philis",
+                    "release_name": "Shaking It",
+                    "track_name": "Shaking It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361815,
+                "recording_msid": "6c2e9875-b64a-4542-8af0-7b539e3820f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 180928,
+                        "ms_played": 180928,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0H1qmliAWAZ7GKu73DjVJp",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Problem Child",
+                    "release_name": "The Power Pack",
+                    "track_name": "Fraid Horn"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361633,
+                "recording_msid": "c001101a-4f06-42c7-b31b-0638618c71ac",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173731,
+                        "ms_played": 232511,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq",
+                            "https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Mr. Killa, Mr. Legz HT",
+                    "release_name": "Jumbie Jab Riddim",
+                    "track_name": "Party Bad"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361400,
+                "recording_msid": "ebb92034-01ff-4fd9-bdcb-fa9456e7e174",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 141951,
+                        "ms_played": 141951,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7kLAqj4ykewzFmATvHSHNY",
+                        "release_artist_name": "Umpa",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0JrChRig4ROmK0AqwZsXXq"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7DS6yYLRHHGgXPcyWcDG0j",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0JrChRig4ROmK0AqwZsXXq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Umpa",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b9ad4a33-becf-401b-966c-500a4ceac28f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Umpa",
+                                "artist_mbid": "b9ad4a33-becf-401b-966c-500a4ceac28f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "8bafa61b-abd9-4474-8a6e-a6c49d49afcd",
+                        "recording_name": "Plat",
+                        "release_group_mbid": "846de0ca-4022-48b3-b292-8b6ed7ab5e58",
+                        "release_mbid": "413bf251-db55-4fac-9c7a-1033b8b52e8c"
+                    },
+                    "release_name": "Plat",
+                    "track_name": "Plat"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361257,
+                "recording_msid": "452dd1f8-f058-4fee-ade6-bf0319f711eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 141818,
+                        "ms_played": 141818,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4hYlMt88kDIIVzbXQg5vkE",
+                        "release_artist_name": "Marzville, Klassik Frescobar",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P",
+                            "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5Cx9EvnH8mZfAG4yton1CZ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P",
+                            "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Marzville, Klassik Frescobar",
+                    "release_name": "Too Much",
+                    "track_name": "Too Much"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788361115,
+                "recording_msid": "c41993e6-9d07-4b04-a751-69d713da5d87",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 145822,
+                        "ms_played": 145823,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2OiXk3gSGomwjNnfSM9q6D",
+                        "release_artist_name": "Romain Jov",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5CmuARFTRnU2yOFk23iixm"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1dTBoXNaDvn7DDwblQdhiG",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5CmuARFTRnU2yOFk23iixm"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Romain Jov",
+                    "release_name": "Heatwave Bouyon",
+                    "track_name": "Heatwave Bouyon"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360969,
+                "recording_msid": "81f6ba4f-044d-4ec4-9dbe-ab15e4db86f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137799,
+                        "ms_played": 137799,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/54Xnf7qRLVvSqyznNUnZTe",
+                        "release_artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5ChZoGznH2sydaJfbsIhl5",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                    "release_name": "WHINE N STICK",
+                    "track_name": "WHINE N STICK"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360830,
+                "recording_msid": "aad8e4e8-f963-4a79-90bf-fbb7e2983d17",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249939,
+                        "ms_played": 249940,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6VtEdTcLD7HWO445wMBnl5",
+                        "release_artist_name": "Ridge",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4PNA2E1SI1FICyyUkpiPFv",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Ridge",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f8d72808-a945-4501-a4c8-a977d8f3be5d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ridge",
+                                "artist_mbid": "f8d72808-a945-4501-a4c8-a977d8f3be5d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42541682670,
+                        "caa_release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda",
+                        "recording_mbid": "6ffbc908-6c9e-4ba8-94d2-cf6d45223621",
+                        "recording_name": "Nasty Business",
+                        "release_group_mbid": "cd1424d4-58ee-4bb1-91e3-0b074d2064ee",
+                        "release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda"
+                    },
+                    "release_name": "On D Head",
+                    "track_name": "Nasty Business"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360580,
+                "recording_msid": "a8fac6c9-e0f1-4b2c-9a87-b5e8ee9e9234",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 142354,
+                        "ms_played": 142354,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI",
+                        "release_artist_name": "Ayetian, Govana, Nvtzz",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Ayetian, Govana, Nvtzz",
+                    "release_name": "Wah Yo Deh Pan",
+                    "track_name": "Wah Yo Deh Pan"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360437,
+                "recording_msid": "c8f9c8bb-381f-4c47-a034-91be7c3da9b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132731,
+                        "ms_played": 132731,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/10gHzhSIAn0G6Ef4Ris3D3",
+                        "release_artist_name": "Aidonia",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1ZPfdwprKy7SO6iuJY42B8",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Aidonia",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f2280d79-264d-4b27-b11a-9a77097869ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aidonia",
+                                "artist_mbid": "f2280d79-264d-4b27-b11a-9a77097869ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46152983358,
+                        "caa_release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833",
+                        "recording_mbid": "aa429e6a-afec-43eb-a65c-946c1f6536ec",
+                        "recording_name": "Le Le Le",
+                        "release_group_mbid": "5c4e0918-ae7b-41a8-b8df-19b3980f4b7a",
+                        "release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833"
+                    },
+                    "release_name": "Le Le Le",
+                    "track_name": "Le Le Le"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360304,
+                "recording_msid": "a2259c8f-d26c-441e-bba0-c7a37bc60511",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 163220,
+                        "ms_played": 163220,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0UBALLtbFfFr6LBYcjr0so",
+                        "release_artist_name": "Iamtresor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/60P3oWZad2mrPhIlEl0mh3",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Iamtresor",
+                    "release_name": "Ice Cream Whine",
+                    "track_name": "Ice Cream Whine"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788360140,
+                "recording_msid": "2c6ae588-062b-4b27-b218-6fad6501daf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 189231,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5yfHuO95qko8jXQTvqH6oG",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Full Blown, Kes",
+                    "release_name": "Big Links Riddim",
+                    "track_name": "No Sweetness"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788359950,
+                "recording_msid": "22cf0543-737b-47ec-9772-cb6021b6f957",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 170769,
+                        "ms_played": 170769,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X",
+                        "release_artist_name": "Full Blown, Yung Bredda",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2FTBVtk2epsaWph60TJBPL",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Full Blown, Yung Bredda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                            "c0e9363d-e060-4515-900f-5a2b183018ab"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Full Blown",
+                                "artist_mbid": "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Yung Bredda",
+                                "artist_mbid": "c0e9363d-e060-4515-900f-5a2b183018ab",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44407975748,
+                        "caa_release_mbid": "8ea5d350-c9fc-49b8-9e25-cb1cacd48334",
+                        "recording_mbid": "bf511efc-69a6-4c2c-8223-91185931ceb3",
+                        "recording_name": "The Greatest Bend Over (Take It Easy)",
+                        "release_group_mbid": "a476fc55-197b-4206-b830-b861da81c2a0",
+                        "release_mbid": "d5692e59-04f8-469e-8e78-abcb8f17b765"
+                    },
+                    "release_name": "The Greatest Bend Over (Take It Easy)",
+                    "track_name": "The Greatest Bend Over (Take It Easy)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788359779,
+                "recording_msid": "b2a1b837-4f17-471e-af19-ee2e2655e92e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 191111,
+                        "ms_played": 191111,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU",
+                        "release_artist_name": "Stadic",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0",
+                            "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Stadic, Mr. Killa",
+                    "release_name": "Planet Jab Riddim",
+                    "track_name": "Run Wid It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358847,
+                "recording_msid": "090c4edc-d4b7-4b51-b0cd-dfa3a9d2e5c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239978,
+                        "ms_played": 239979,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3WyWZJJzxjmxoq3iidIss5",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "The Power Pack",
+                    "track_name": "Come Back"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358607,
+                "recording_msid": "98848411-873a-4639-81cb-cc04b011cd82",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133120,
+                        "ms_played": 133120,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2J2LRu5mABWiMNLDBHuAeQ",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/087zl7DT0erBrwIsALBdNL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Kennie Montana",
+                    "release_name": "The Power Pack",
+                    "track_name": "It's You"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358473,
+                "recording_msid": "83ad5e09-77c8-4ace-997a-66a7c9c3d7eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 189231,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5OhYypquw5Q4DCAjkq06VC",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Machel Montano, Full Blown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cf5ffa07-4fb4-47a1-9d61-8721ae9af576",
+                            "3fc4f118-47b0-4359-bd1f-45ab07389604"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Machel Montano",
+                                "artist_mbid": "cf5ffa07-4fb4-47a1-9d61-8721ae9af576",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Full Blown",
+                                "artist_mbid": "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "dc1be2c6-741c-473b-ac6d-fbf93bf94afc",
+                        "recording_name": "The Truth",
+                        "release_group_mbid": "909cdc4a-0d54-4f90-adc0-fe276ef48a68",
+                        "release_mbid": "de8a888f-a4a7-4b04-9772-f22a570fe2bd"
+                    },
+                    "release_name": "Big Links Riddim",
+                    "track_name": "The Truth"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358283,
+                "recording_msid": "7ae430eb-121a-46ba-8c06-9144d1f35a38",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147816,
+                        "ms_played": 147817,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2WodPZFjDBEzfpNmpl1Kxr",
+                        "release_artist_name": "DREJ, Father Philis, Mikado",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4Wg5EIWn3hXJyieOo4JWtT",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Father Philis, Mikado",
+                    "release_name": "Trouble (She Hate Men) [Barbados Remix]",
+                    "track_name": "Trouble (She Hate Men) - Barbados Remix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358135,
+                "recording_msid": "0033b495-684b-405d-89b8-1e2e3512b77c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 98104,
+                        "ms_played": 98105,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4x6SO9thjlQgajzzxRzlhR",
+                        "release_artist_name": "DREJ, Stonebwoy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6BQVkwnX0bQGBWCgDPKOnk",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Stonebwoy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788358036,
+                "recording_msid": "9244c48c-85cb-4f83-8841-76f50831199e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 97189,
+                        "ms_played": 97190,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6Ai9TqZGZcmtP00UqMYlfy",
+                        "release_artist_name": "DREJ, Shaggy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/08x0gD8rNHEWbGj0FuOiPQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Shaggy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788357939,
+                "recording_msid": "19a133f7-e62b-41a6-832f-c17dfa5ab414",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 121521,
+                        "ms_played": 121522,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/23asgIQczGVPFN6v9thXwj",
+                        "release_artist_name": "Jordan English",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6qwHl9RlcugbOnjwA64LsW",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jordan English",
+                    "release_name": "Weatherman 3style",
+                    "track_name": "Weatherman 3style"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788352428,
+                "recording_msid": "c001101a-4f06-42c7-b31b-0638618c71ac",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173731,
+                        "ms_played": 195331,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq",
+                            "https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Mr. Killa, Mr. Legz HT",
+                    "release_name": "Jumbie Jab Riddim",
+                    "track_name": "Party Bad"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788352223,
+                "recording_msid": "ebb92034-01ff-4fd9-bdcb-fa9456e7e174",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 141951,
+                        "ms_played": 141951,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/7kLAqj4ykewzFmATvHSHNY",
+                        "release_artist_name": "Umpa",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0JrChRig4ROmK0AqwZsXXq"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/7DS6yYLRHHGgXPcyWcDG0j",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0JrChRig4ROmK0AqwZsXXq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Umpa",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b9ad4a33-becf-401b-966c-500a4ceac28f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Umpa",
+                                "artist_mbid": "b9ad4a33-becf-401b-966c-500a4ceac28f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "8bafa61b-abd9-4474-8a6e-a6c49d49afcd",
+                        "recording_name": "Plat",
+                        "release_group_mbid": "846de0ca-4022-48b3-b292-8b6ed7ab5e58",
+                        "release_mbid": "413bf251-db55-4fac-9c7a-1033b8b52e8c"
+                    },
+                    "release_name": "Plat",
+                    "track_name": "Plat"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788352081,
+                "recording_msid": "452dd1f8-f058-4fee-ade6-bf0319f711eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 141818,
+                        "ms_played": 141818,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4hYlMt88kDIIVzbXQg5vkE",
+                        "release_artist_name": "Marzville, Klassik Frescobar",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P",
+                            "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5Cx9EvnH8mZfAG4yton1CZ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P",
+                            "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Marzville, Klassik Frescobar",
+                    "release_name": "Too Much",
+                    "track_name": "Too Much"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788351938,
+                "recording_msid": "c41993e6-9d07-4b04-a751-69d713da5d87",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 145822,
+                        "ms_played": 145823,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2OiXk3gSGomwjNnfSM9q6D",
+                        "release_artist_name": "Romain Jov",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5CmuARFTRnU2yOFk23iixm"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1dTBoXNaDvn7DDwblQdhiG",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5CmuARFTRnU2yOFk23iixm"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Romain Jov",
+                    "release_name": "Heatwave Bouyon",
+                    "track_name": "Heatwave Bouyon"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788351792,
+                "recording_msid": "81f6ba4f-044d-4ec4-9dbe-ab15e4db86f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137799,
+                        "ms_played": 137799,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/54Xnf7qRLVvSqyznNUnZTe",
+                        "release_artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5ChZoGznH2sydaJfbsIhl5",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                    "release_name": "WHINE N STICK",
+                    "track_name": "WHINE N STICK"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788351654,
+                "recording_msid": "aad8e4e8-f963-4a79-90bf-fbb7e2983d17",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249939,
+                        "ms_played": 249940,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6VtEdTcLD7HWO445wMBnl5",
+                        "release_artist_name": "Ridge",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4PNA2E1SI1FICyyUkpiPFv",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Ridge",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f8d72808-a945-4501-a4c8-a977d8f3be5d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ridge",
+                                "artist_mbid": "f8d72808-a945-4501-a4c8-a977d8f3be5d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42541682670,
+                        "caa_release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda",
+                        "recording_mbid": "6ffbc908-6c9e-4ba8-94d2-cf6d45223621",
+                        "recording_name": "Nasty Business",
+                        "release_group_mbid": "cd1424d4-58ee-4bb1-91e3-0b074d2064ee",
+                        "release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda"
+                    },
+                    "release_name": "On D Head",
+                    "track_name": "Nasty Business"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788351403,
+                "recording_msid": "a8fac6c9-e0f1-4b2c-9a87-b5e8ee9e9234",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 142354,
+                        "ms_played": 142354,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI",
+                        "release_artist_name": "Ayetian, Govana, Nvtzz",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Ayetian, Govana, Nvtzz",
+                    "release_name": "Wah Yo Deh Pan",
+                    "track_name": "Wah Yo Deh Pan"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788351261,
+                "recording_msid": "c8f9c8bb-381f-4c47-a034-91be7c3da9b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132731,
+                        "ms_played": 433271,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/10gHzhSIAn0G6Ef4Ris3D3",
+                        "release_artist_name": "Aidonia",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1ZPfdwprKy7SO6iuJY42B8",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Aidonia",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f2280d79-264d-4b27-b11a-9a77097869ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aidonia",
+                                "artist_mbid": "f2280d79-264d-4b27-b11a-9a77097869ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46152983358,
+                        "caa_release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833",
+                        "recording_mbid": "aa429e6a-afec-43eb-a65c-946c1f6536ec",
+                        "recording_name": "Le Le Le",
+                        "release_group_mbid": "5c4e0918-ae7b-41a8-b8df-19b3980f4b7a",
+                        "release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833"
+                    },
+                    "release_name": "Le Le Le",
+                    "track_name": "Le Le Le"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788350827,
+                "recording_msid": "a2259c8f-d26c-441e-bba0-c7a37bc60511",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 163220,
+                        "ms_played": 161100,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0UBALLtbFfFr6LBYcjr0so",
+                        "release_artist_name": "Iamtresor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/60P3oWZad2mrPhIlEl0mh3",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Iamtresor",
+                    "release_name": "Ice Cream Whine",
+                    "track_name": "Ice Cream Whine"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788350655,
+                "recording_msid": "2c6ae588-062b-4b27-b218-6fad6501daf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 189231,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5yfHuO95qko8jXQTvqH6oG",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Full Blown, Kes",
+                    "release_name": "Big Links Riddim",
+                    "track_name": "No Sweetness"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788350423,
+                "recording_msid": "2c6ae588-062b-4b27-b218-6fad6501daf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 131200,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5yfHuO95qko8jXQTvqH6oG",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Full Blown, Kes",
+                    "release_name": "Big Links Riddim",
+                    "track_name": "No Sweetness"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788350146,
+                "recording_msid": "22cf0543-737b-47ec-9772-cb6021b6f957",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 170769,
+                        "ms_played": 170769,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X",
+                        "release_artist_name": "Full Blown, Yung Bredda",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2FTBVtk2epsaWph60TJBPL",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Full Blown, Yung Bredda",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                            "c0e9363d-e060-4515-900f-5a2b183018ab"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Full Blown",
+                                "artist_mbid": "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Yung Bredda",
+                                "artist_mbid": "c0e9363d-e060-4515-900f-5a2b183018ab",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44407975748,
+                        "caa_release_mbid": "8ea5d350-c9fc-49b8-9e25-cb1cacd48334",
+                        "recording_mbid": "bf511efc-69a6-4c2c-8223-91185931ceb3",
+                        "recording_name": "The Greatest Bend Over (Take It Easy)",
+                        "release_group_mbid": "a476fc55-197b-4206-b830-b861da81c2a0",
+                        "release_mbid": "d5692e59-04f8-469e-8e78-abcb8f17b765"
+                    },
+                    "release_name": "The Greatest Bend Over (Take It Easy)",
+                    "track_name": "The Greatest Bend Over (Take It Easy)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788349975,
+                "recording_msid": "b2a1b837-4f17-471e-af19-ee2e2655e92e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 191111,
+                        "ms_played": 104050,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU",
+                        "release_artist_name": "Stadic",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0",
+                            "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Stadic, Mr. Killa",
+                    "release_name": "Planet Jab Riddim",
+                    "track_name": "Run Wid It"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788349693,
+                "recording_msid": "090c4edc-d4b7-4b51-b0cd-dfa3a9d2e5c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239978,
+                        "ms_played": 240839,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3WyWZJJzxjmxoq3iidIss5",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "The Power Pack",
+                    "track_name": "Come Back"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788349443,
+                "recording_msid": "090c4edc-d4b7-4b51-b0cd-dfa3a9d2e5c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239978,
+                        "ms_played": 63780,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3WyWZJJzxjmxoq3iidIss5",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "The Power Pack",
+                    "track_name": "Come Back"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788344357,
+                "recording_msid": "98848411-873a-4639-81cb-cc04b011cd82",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133120,
+                        "ms_played": 133120,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2J2LRu5mABWiMNLDBHuAeQ",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/087zl7DT0erBrwIsALBdNL"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Kennie Montana",
+                    "release_name": "The Power Pack",
+                    "track_name": "It's You"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788344224,
+                "recording_msid": "83ad5e09-77c8-4ace-997a-66a7c9c3d7eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 107190,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5OhYypquw5Q4DCAjkq06VC",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Machel Montano, Full Blown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cf5ffa07-4fb4-47a1-9d61-8721ae9af576",
+                            "3fc4f118-47b0-4359-bd1f-45ab07389604"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Machel Montano",
+                                "artist_mbid": "cf5ffa07-4fb4-47a1-9d61-8721ae9af576",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Full Blown",
+                                "artist_mbid": "3fc4f118-47b0-4359-bd1f-45ab07389604",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "dc1be2c6-741c-473b-ac6d-fbf93bf94afc",
+                        "recording_name": "The Truth",
+                        "release_group_mbid": "909cdc4a-0d54-4f90-adc0-fe276ef48a68",
+                        "release_mbid": "de8a888f-a4a7-4b04-9772-f22a570fe2bd"
+                    },
+                    "release_name": "Big Links Riddim",
+                    "track_name": "The Truth"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788343619,
+                "recording_msid": "7ae430eb-121a-46ba-8c06-9144d1f35a38",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147816,
+                        "ms_played": 280467,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/2WodPZFjDBEzfpNmpl1Kxr",
+                        "release_artist_name": "DREJ, Father Philis, Mikado",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4Wg5EIWn3hXJyieOo4JWtT",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK",
+                            "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Father Philis, Mikado",
+                    "release_name": "Trouble (She Hate Men) [Barbados Remix]",
+                    "track_name": "Trouble (She Hate Men) - Barbados Remix"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788343339,
+                "recording_msid": "0033b495-684b-405d-89b8-1e2e3512b77c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 98104,
+                        "ms_played": 92230,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4x6SO9thjlQgajzzxRzlhR",
+                        "release_artist_name": "DREJ, Stonebwoy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6BQVkwnX0bQGBWCgDPKOnk",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Stonebwoy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788343246,
+                "recording_msid": "9244c48c-85cb-4f83-8841-76f50831199e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 97189,
+                        "ms_played": 97190,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6Ai9TqZGZcmtP00UqMYlfy",
+                        "release_artist_name": "DREJ, Shaggy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/08x0gD8rNHEWbGj0FuOiPQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Shaggy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788343148,
+                "recording_msid": "f6056ec9-70c9-48e5-be80-6643e4a95602",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 180821,
+                        "ms_played": 180821,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4vXUtuG3ZHA03kdttp2nqX",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/2ZEshXlGHVCfXKRBsEyema"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Keith Currency",
+                    "release_name": "The Power Pack",
+                    "track_name": "Back Chat"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788342967,
+                "recording_msid": "551269ec-033f-414d-9f08-9cccae8e4878",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 157141,
+                        "ms_played": 157141,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4YmBwFRH5EcWbI4NkQESDg",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5KGyeJM999mQs8rSlBSoya"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "L Pank",
+                    "release_name": "The Power Pack",
+                    "track_name": "Love Yuh Bad"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788342809,
+                "recording_msid": "6c2e9875-b64a-4542-8af0-7b539e3820f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 180928,
+                        "ms_played": 180928,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0H1qmliAWAZ7GKu73DjVJp",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Problem Child",
+                    "release_name": "The Power Pack",
+                    "track_name": "Fraid Horn"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788342628,
+                "recording_msid": "19a133f7-e62b-41a6-832f-c17dfa5ab414",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 121521,
+                        "ms_played": 121522,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/23asgIQczGVPFN6v9thXwj",
+                        "release_artist_name": "Jordan English",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6qwHl9RlcugbOnjwA64LsW",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jordan English",
+                    "release_name": "Weatherman 3style",
+                    "track_name": "Weatherman 3style"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788331200,
+                "recording_msid": "090c4edc-d4b7-4b51-b0cd-dfa3a9d2e5c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239978,
+                        "ms_played": 78037,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/3WyWZJJzxjmxoq3iidIss5",
+                        "release_artist_name": "Various Artists",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1sjKBW0dmp9FZX4nE3Axbj",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Terra D Governor",
+                    "release_name": "The Power Pack",
+                    "track_name": "Come Back"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788289085,
+                "recording_msid": "a3cc0cec-5f40-41ff-be31-0d64ccf18b15",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 154500,
+                        "ms_played": 93035,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5KYFjG4qCVKVvvLZF5ey5R",
+                        "release_artist_name": "Jambalasee Grenada",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/4wHL3blo7QAYyqNU50wFJU"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/3ys4z3qxog4BXh96LGvZJa",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/4wHL3blo7QAYyqNU50wFJU",
+                            "https://open.spotify.com/artist/1DneccJEcCKHAh3F9MFMy8"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Jambalasee Grenada, Duwan De Entertainer",
+                    "release_name": "HEADPIECE RIDDIM",
+                    "track_name": "Speed"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788288361,
+                "recording_msid": "9244c48c-85cb-4f83-8841-76f50831199e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 97189,
+                        "ms_played": 97190,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6Ai9TqZGZcmtP00UqMYlfy",
+                        "release_artist_name": "DREJ, Shaggy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/08x0gD8rNHEWbGj0FuOiPQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Shaggy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788288237,
+                "recording_msid": "19a133f7-e62b-41a6-832f-c17dfa5ab414",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 121521,
+                        "ms_played": 121522,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/23asgIQczGVPFN6v9thXwj",
+                        "release_artist_name": "Jordan English",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6qwHl9RlcugbOnjwA64LsW",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7kAGcHkpYvc69uFQ3YZncW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jordan English",
+                    "release_name": "Weatherman 3style",
+                    "track_name": "Weatherman 3style"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788288115,
+                "recording_msid": "9244c48c-85cb-4f83-8841-76f50831199e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 97189,
+                        "ms_played": 80704,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6Ai9TqZGZcmtP00UqMYlfy",
+                        "release_artist_name": "DREJ, Shaggy",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/08x0gD8rNHEWbGj0FuOiPQ",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/7EmIUQO16ShAglPTjy1vWT",
+                            "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "DREJ, Shaggy",
+                    "release_name": "Trouble (She Hate Men)",
+                    "track_name": "Trouble (She Hate Men)"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788288004,
+                "recording_msid": "81f6ba4f-044d-4ec4-9dbe-ab15e4db86f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137799,
+                        "ms_played": 71740,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/54Xnf7qRLVvSqyznNUnZTe",
+                        "release_artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/5ChZoGznH2sydaJfbsIhl5",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J",
+                            "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv",
+                            "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Kid Billionz, IQ, Ugly Andz.",
+                    "release_name": "WHINE N STICK",
+                    "track_name": "WHINE N STICK"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788274931,
+                "recording_msid": "aad8e4e8-f963-4a79-90bf-fbb7e2983d17",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249939,
+                        "ms_played": 249940,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/6VtEdTcLD7HWO445wMBnl5",
+                        "release_artist_name": "Ridge",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/4PNA2E1SI1FICyyUkpiPFv",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3Oc7o3kzzpLium0YxZPVri"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Ridge",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f8d72808-a945-4501-a4c8-a977d8f3be5d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ridge",
+                                "artist_mbid": "f8d72808-a945-4501-a4c8-a977d8f3be5d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42541682670,
+                        "caa_release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda",
+                        "recording_mbid": "6ffbc908-6c9e-4ba8-94d2-cf6d45223621",
+                        "recording_name": "Nasty Business",
+                        "release_group_mbid": "cd1424d4-58ee-4bb1-91e3-0b074d2064ee",
+                        "release_mbid": "eccc2815-3031-4c40-97b2-9efc4cea4fda"
+                    },
+                    "release_name": "On D Head",
+                    "track_name": "Nasty Business"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788274681,
+                "recording_msid": "a8fac6c9-e0f1-4b2c-9a87-b5e8ee9e9234",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 142354,
+                        "ms_played": 142354,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI",
+                        "release_artist_name": "Ayetian, Govana, Nvtzz",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P",
+                            "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39",
+                            "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Ayetian, Govana, Nvtzz",
+                    "release_name": "Wah Yo Deh Pan",
+                    "track_name": "Wah Yo Deh Pan"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788274538,
+                "recording_msid": "c8f9c8bb-381f-4c47-a034-91be7c3da9b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132731,
+                        "ms_played": 202361,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/10gHzhSIAn0G6Ef4Ris3D3",
+                        "release_artist_name": "Aidonia",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/1ZPfdwprKy7SO6iuJY42B8",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Aidonia",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f2280d79-264d-4b27-b11a-9a77097869ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aidonia",
+                                "artist_mbid": "f2280d79-264d-4b27-b11a-9a77097869ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46152983358,
+                        "caa_release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833",
+                        "recording_mbid": "aa429e6a-afec-43eb-a65c-946c1f6536ec",
+                        "recording_name": "Le Le Le",
+                        "release_group_mbid": "5c4e0918-ae7b-41a8-b8df-19b3980f4b7a",
+                        "release_mbid": "e21ed458-cd94-4d86-b3b5-0c95df6d0833"
+                    },
+                    "release_name": "Le Le Le",
+                    "track_name": "Le Le Le"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788274336,
+                "recording_msid": "a2259c8f-d26c-441e-bba0-c7a37bc60511",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 163220,
+                        "ms_played": 43620,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/0UBALLtbFfFr6LBYcjr0so",
+                        "release_artist_name": "Iamtresor",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/60P3oWZad2mrPhIlEl0mh3",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/48c0nKrL6KCUjDSwBCYc33"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Iamtresor",
+                    "release_name": "Ice Cream Whine",
+                    "track_name": "Ice Cream Whine"
+                },
+                "user_name": "Kilo.cozel52"
+            },
+            {
+                "inserted_at": 1789095913,
+                "listened_at": 1788274196,
+                "recording_msid": "2c6ae588-062b-4b27-b218-6fad6501daf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189230,
+                        "ms_played": 189231,
+                        "music_service": "spotify.com",
+                        "origin_url": "https://open.spotify.com/track/5yfHuO95qko8jXQTvqH6oG",
+                        "release_artist_name": "Machel Montano, Full Blown",
+                        "spotify_album_artist_ids": [
+                            "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ",
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+                        ],
+                        "spotify_album_id": "https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg",
+                        "spotify_artist_ids": [
+                            "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC",
+                            "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+                        ],
+                        "submission_client": "ListenBrainz Archive Importer",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Full Blown, Kes",
+                    "release_name": "Big Links Riddim",
+                    "track_name": "No Sweetness"
+                },
+                "user_name": "Kilo.cozel52"
+            }
+        ],
+        "oldest_listen_ts": 1531954897,
+        "user_id": "Kilo.cozel52"
+    }
+}

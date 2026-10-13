@@ -1,0 +1,2697 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791736851,
+        "listens": [
+            {
+                "inserted_at": 1791750217,
+                "listened_at": 1791742873,
+                "recording_msid": "19f39379-4c59-448f-a31c-839ad0c451f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                        "lastfm_release_mbid": "5f70f8b6-0b7e-43ae-8a9c-7fa1eed7f38f",
+                        "lastfm_track_mbid": "8bf3e27f-8a0f-47fc-8efb-a34274e69a0b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "XXXTENTACION",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "61af87f4-16ee-4431-8504-cc06187079fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "XXXTENTACION",
+                                "artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19468690550,
+                        "caa_release_mbid": "d2d28cad-918d-4499-8b03-7da4d6fd81a0",
+                        "recording_mbid": "89fefa63-c7ec-49a8-8b19-4d7e0d52eb8d",
+                        "recording_name": "Moonlight",
+                        "release_group_mbid": "311ae629-ee9e-443e-9c38-d7a5c97679d5",
+                        "release_mbid": "1e01d59d-a99f-40b8-8bd6-92d7fd26c309"
+                    },
+                    "release_name": "?",
+                    "track_name": "Moonlight"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791736851,
+                "recording_msid": "cf3c4eec-49e4-446a-a7a1-dbfe6d7143f0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "c1197a12-e19f-4ab9-84df-fc2c5de05ec6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tayron Kwidan's",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ebed45a3-fb96-4c9c-b6c6-4c578ef01593"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tayron Kwidan's",
+                                "artist_mbid": "ebed45a3-fb96-4c9c-b6c6-4c578ef01593",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44535816663,
+                        "caa_release_mbid": "a25e774e-535c-4d22-80c3-e11acd183091",
+                        "recording_mbid": "c1197a12-e19f-4ab9-84df-fc2c5de05ec6",
+                        "recording_name": "FLOU",
+                        "release_group_mbid": "a0b47e7f-742a-4ccf-a091-87b664527f11",
+                        "release_mbid": "a25e774e-535c-4d22-80c3-e11acd183091"
+                    },
+                    "release_name": "TOO BABY",
+                    "track_name": "FLOU"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791736544,
+                "recording_msid": "86ded241-6f6e-47b5-b21e-79d994572f64",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                        "lastfm_release_mbid": "80e6e4c5-4330-4c23-8c95-b4e16fafa4f7",
+                        "lastfm_track_mbid": "4cc3ffcf-3d13-4fc8-abee-fba9ddf09c7a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Damso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13925662926,
+                        "caa_release_mbid": "9174cb0f-55ba-4f68-976f-b1c70477738d",
+                        "recording_mbid": "df0f99cc-ebf0-4afb-97a5-5a7d29416e90",
+                        "recording_name": "Autotune",
+                        "release_group_mbid": "1fd02a81-aff7-4403-9eb4-d43c5e06639b",
+                        "release_mbid": "f8f8cd56-3836-470b-b711-d05d837a629e"
+                    },
+                    "release_name": "Batterie Faible",
+                    "track_name": "Autotune"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791736293,
+                "recording_msid": "cdc95882-0ac9-4769-bed4-1dba942d16e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gazo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                            "2bd0c272-dd22-4395-8381-18fa2fa59f1e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gazo",
+                                "artist_mbid": "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Tiakola",
+                                "artist_mbid": "2bd0c272-dd22-4395-8381-18fa2fa59f1e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32933044835,
+                        "caa_release_mbid": "878b1a7d-3d2a-4c4e-9b52-54a1455810fd",
+                        "recording_mbid": "556758a5-ca56-4cbb-be3f-b4f0ceba586a",
+                        "recording_name": "FLEURS",
+                        "release_group_mbid": "93c0058b-093e-419a-a2f7-d485d641ff82",
+                        "release_mbid": "878b1a7d-3d2a-4c4e-9b52-54a1455810fd"
+                    },
+                    "track_name": "FLEURS (feat. Tiakola)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791736108,
+                "recording_msid": "d0dd905b-1a6c-4587-ac76-b41cb5657a4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kim",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d52aa282-9276-4080-9131-f37ad7d9aa6a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kim",
+                                "artist_mbid": "d52aa282-9276-4080-9131-f37ad7d9aa6a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29202019408,
+                        "caa_release_mbid": "8d9c1701-43f5-4938-b597-e026a60572f8",
+                        "recording_mbid": "de10754a-96fb-42db-b098-45c64b7a9148",
+                        "recording_name": "Fuck Love",
+                        "release_group_mbid": "88b5def1-d002-4cd5-9d02-5c2c109babca",
+                        "release_mbid": "8d9c1701-43f5-4938-b597-e026a60572f8"
+                    },
+                    "release_name": "Love & Lové",
+                    "track_name": "Love & Lové"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791735528,
+                "recording_msid": "37ff00b0-4318-4325-93c9-4c9924c9cfc6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                        "lastfm_release_mbid": "1f1dcbfd-d191-4da5-9cec-66dd194a3ed9",
+                        "lastfm_track_mbid": "0afa9227-1942-42a9-86ca-b38d742518ae",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ariana Grande",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ariana Grande",
+                                "artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27301517082,
+                        "caa_release_mbid": "f3c1f76d-d436-4402-8888-1fdcf9e6cba8",
+                        "recording_mbid": "72436ce7-c14d-48c6-9e48-c166ac4a5db4",
+                        "recording_name": "needy",
+                        "release_group_mbid": "485d3241-ef02-49a4-88df-a03eaa86d9cd",
+                        "release_mbid": "d8e0c6db-023f-402e-9825-11476dba2199"
+                    },
+                    "release_name": "thank u, next",
+                    "track_name": "needy"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734966,
+                "recording_msid": "820db6a3-1d3b-452e-989e-71c68fc091d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+                        "lastfm_track_mbid": "7424b1d1-09d8-4578-afd6-44d3e6bd4fe3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Peep",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "92da4329-77a4-425c-8e92-4280110cace9",
+                            "61af87f4-16ee-4431-8504-cc06187079fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Peep",
+                                "artist_mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "XXXTENTACION",
+                                "artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23829173904,
+                        "caa_release_mbid": "62866cf5-52fd-43d3-b550-c3620ceb7f48",
+                        "recording_mbid": "b7118e70-bc72-4f5e-84d6-7ecdfdcc4252",
+                        "recording_name": "Falling Down",
+                        "release_group_mbid": "b61537ee-dbc6-4203-9ef9-b5bb4b17fbd2",
+                        "release_mbid": "62866cf5-52fd-43d3-b550-c3620ceb7f48"
+                    },
+                    "release_name": "Come Over When You're Sober, Pt. 2",
+                    "track_name": "Falling Down - Bonus Track"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734809,
+                "recording_msid": "f82f810d-d88c-4b7e-af81-c0b2c8de3d80",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                        "lastfm_release_mbid": "6d50b672-4f8e-4b7a-917b-1ded22808632",
+                        "lastfm_track_mbid": "82234fa7-9b39-4168-a10a-4bdd3d509dfd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Steve Lacy",
+                                "artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36432006507,
+                        "caa_release_mbid": "b6782fa5-d657-4116-96fd-d0175277b7bf",
+                        "recording_mbid": "4f59eb16-913b-4659-b509-0c3cf9e518bb",
+                        "recording_name": "Static",
+                        "release_group_mbid": "ab1c1fd8-f769-4d78-90bc-4677f8ad8c22",
+                        "release_mbid": "b6782fa5-d657-4116-96fd-d0175277b7bf"
+                    },
+                    "release_name": "Gemini Rights",
+                    "track_name": "Static"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734628,
+                "recording_msid": "a201ddc8-6c79-4657-bbe7-0f702522e550",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                        "lastfm_release_mbid": "523f5e88-9988-436d-ab60-6d514c1f0e15",
+                        "lastfm_track_mbid": "956006c8-bcee-4da4-b4dd-d3b7afc97dbd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tyler, The Creator",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                            "d0c7656d-8169-4f77-9dbe-b8f24e40105d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tyler, The Creator",
+                                "artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kali Uchis",
+                                "artist_mbid": "d0c7656d-8169-4f77-9dbe-b8f24e40105d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25471990936,
+                        "caa_release_mbid": "dd09e440-879d-447b-9dfa-8547b369548e",
+                        "recording_mbid": "e232b26b-2100-4269-9f96-3f3f49c57c2d",
+                        "recording_name": "See You Again",
+                        "release_group_mbid": "e248e931-c26c-4c94-aba2-2f89ce583901",
+                        "release_mbid": "88aba80a-e240-4464-8dad-a32654ba1348",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/384157591"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1254572572"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/42260193"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/42260193"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/76331732"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=TGgcC5xg9YI"
+                            }
+                        ]
+                    },
+                    "release_name": "Flower Boy",
+                    "track_name": "See You Again (feat. Kali Uchis)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734386,
+                "recording_msid": "64376543-d0d5-4538-9ad3-d931e51bd96b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "328d146c-79f1-4eb6-9e40-8ee5710c14e5",
+                        "lastfm_track_mbid": "b375a0d6-911a-3240-8f13-c0dd93252c3e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Imogen Heap",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "328d146c-79f1-4eb6-9e40-8ee5710c14e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Imogen Heap",
+                                "artist_mbid": "328d146c-79f1-4eb6-9e40-8ee5710c14e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31612233862,
+                        "caa_release_mbid": "e76a46a6-8ee5-40d2-8966-cdbed42250c9",
+                        "recording_mbid": "850aa908-f047-46f3-a190-d037feddf38f",
+                        "recording_name": "Just for Now",
+                        "release_group_mbid": "a100260d-0576-372f-a07b-4b22db1a77e2",
+                        "release_mbid": "25f193c9-b197-4f19-9c2c-2d493d9e1f60",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/26gWiL3Kns8E9gYUEzduIl"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/462743979"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1841923204"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1841923204"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3571262161"
+                            }
+                        ]
+                    },
+                    "release_name": "Speak For Yourself (Deluxe Version)",
+                    "track_name": "Just for Now"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734220,
+                "recording_msid": "d86f7114-9db5-43e2-bd65-f2f611da2fbb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+                        "lastfm_release_mbid": "873c9fc0-b2a2-4db4-a855-e4ecbcec9cbb",
+                        "lastfm_track_mbid": "2e89e8fe-0b9b-4381-afcf-a156d4ccf0fc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juice WRLD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4e4ebde4-0c56-4dec-844b-6c73adcdd92d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juice WRLD",
+                                "artist_mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27586979070,
+                        "caa_release_mbid": "16b5e8b0-8b47-4f4d-9c5c-03ed42a5479b",
+                        "recording_mbid": "f177e09a-16b5-4b1e-8614-4d36efeab726",
+                        "recording_name": "All Girls Are the Same",
+                        "release_group_mbid": "a77ca67d-a946-4582-b365-0fac3fa1bb10",
+                        "release_mbid": "4f2e1d14-fb7b-4cb0-9ea8-98f6220ff124"
+                    },
+                    "release_name": "Goodbye & Good Riddance",
+                    "track_name": "All Girls Are the Same"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791734034,
+                "recording_msid": "7251f275-3478-408f-bfeb-3c4d4bde0e5c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Skyper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b364c8d8-116b-4b5d-b2ef-0435ed3314e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Skyper",
+                                "artist_mbid": "b364c8d8-116b-4b5d-b2ef-0435ed3314e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43812314108,
+                        "caa_release_mbid": "a7f0e982-7912-4427-8b0e-2db4f987f17b",
+                        "recording_mbid": "d75307a3-f109-4bb9-b635-bc021759f075",
+                        "recording_name": "Hero - slowed",
+                        "release_group_mbid": "babd1bef-6edf-422e-b974-85e2bc5dc5af",
+                        "release_mbid": "6232f40e-17ae-42fc-940f-848c4bc0915a"
+                    },
+                    "release_name": "Hero",
+                    "track_name": "Hero - slowed"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791733638,
+                "recording_msid": "3fdae866-60fa-4ac5-8a4a-cbb9d2d53773",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2d2ca38f-a8f8-4744-973a-d25275e5d3db",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SICKBOYRARI",
+                    "release_name": "Princess Cuts My Wrist",
+                    "track_name": "Princess Cuts My Wrist"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791733535,
+                "recording_msid": "6153e580-4252-41a1-ba63-220880d65e0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+                        "lastfm_track_mbid": "5b2e8994-f2cb-48c3-b5d3-e7d4351f7a9e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dominic Fike",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e337c918-098f-418e-97a2-81dc224b1bf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dominic Fike",
+                                "artist_mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22811676276,
+                        "caa_release_mbid": "e96a7f3f-c5d9-4842-8f14-58fd5e67b327",
+                        "recording_mbid": "5b2e8994-f2cb-48c3-b5d3-e7d4351f7a9e",
+                        "recording_name": "Babydoll",
+                        "release_group_mbid": "d8d6b92f-be29-4e93-aedc-3015649394ab",
+                        "release_mbid": "e96a7f3f-c5d9-4842-8f14-58fd5e67b327"
+                    },
+                    "release_name": "Don't Forget About Me, Demos",
+                    "track_name": "Babydoll"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791733190,
+                "recording_msid": "0376368f-eaba-4dcd-a481-a59afbd7aaae",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                        "lastfm_release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "lastfm_track_mbid": "6efd865d-1529-4cb8-8f09-c270add32f0a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Frank Ocean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e520459c-dff4-491d-a6e4-c97be35e0044"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Frank Ocean",
+                                "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32623366008,
+                        "caa_release_mbid": "8294645a-f996-44b6-9060-7f189b9f59f3",
+                        "recording_mbid": "3e341bc1-16e2-43e3-adf5-d7a8c2059b0d",
+                        "recording_name": "Nights",
+                        "release_group_mbid": "0da340a0-6ad7-4fc2-a272-6f94393a7831",
+                        "release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/65484197"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1856864557"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1146195720"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1146195720"
+                            }
+                        ]
+                    },
+                    "release_name": "Blonde",
+                    "track_name": "Nights"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791733109,
+                "recording_msid": "0483a5e1-8d29-47db-afd7-b808f52d9b26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                        "lastfm_release_mbid": "c26b96eb-a3d8-47fd-925d-2b48f949001e",
+                        "lastfm_track_mbid": "7d81daec-341a-4931-bec6-8b0f533254c3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Steve Lacy",
+                                "artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26731598770,
+                        "caa_release_mbid": "c26b96eb-a3d8-47fd-925d-2b48f949001e",
+                        "recording_mbid": "7d81daec-341a-4931-bec6-8b0f533254c3",
+                        "recording_name": "C U Girl",
+                        "release_group_mbid": "4c8782e2-cf4f-4da0-8eb0-c446af527680",
+                        "release_mbid": "c26b96eb-a3d8-47fd-925d-2b48f949001e"
+                    },
+                    "release_name": "C U Girl",
+                    "track_name": "C U Girl"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791729369,
+                "recording_msid": "9f84216b-5920-4791-8e26-a864f5f01cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mig",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fda8ae02-441b-485b-aa49-78e269338d6a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mig",
+                                "artist_mbid": "fda8ae02-441b-485b-aa49-78e269338d6a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "2fd4cc3f-7a02-4b5b-bccd-73704ddb52ca",
+                        "recording_name": "Pas ralentir",
+                        "release_group_mbid": "e631ec59-cfed-4c9f-afef-99c4eccfa6b1",
+                        "release_mbid": "06039bbc-c3f3-4769-a99d-afb6913ea51c"
+                    },
+                    "release_name": "Pas de ralentir 2",
+                    "track_name": "Pas de ralentir 2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791737931,
+                "listened_at": 1791729209,
+                "recording_msid": "2c749951-f1a8-4069-8735-cd0790e8688e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb96c37d-cb64-48d2-9b67-56a0eafb1e45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rvfleuze",
+                                "artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43060013592,
+                        "caa_release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab",
+                        "recording_mbid": "f9feb034-6dad-48be-a08f-c95051079f5e",
+                        "recording_name": "Serrure XXX",
+                        "release_group_mbid": "fe43ac10-15fc-406f-a4c9-4836a9693b7a",
+                        "release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab"
+                    },
+                    "release_name": "Serrure #3",
+                    "track_name": "Serrure #3"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791729034,
+                "recording_msid": "43fd9eba-2acb-46c2-9f7a-40553424952e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb96c37d-cb64-48d2-9b67-56a0eafb1e45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rvfleuze",
+                                "artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43060013592,
+                        "caa_release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab",
+                        "recording_mbid": "f9feb034-6dad-48be-a08f-c95051079f5e",
+                        "recording_name": "Serrure XXX",
+                        "release_group_mbid": "fe43ac10-15fc-406f-a4c9-4836a9693b7a",
+                        "release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab"
+                    },
+                    "release_name": "Serrure #1",
+                    "track_name": "Serrure #1"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791728415,
+                "recording_msid": "57e02f55-ca7e-4f9a-b212-4e2235c40cf4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "6aea88cf-d3a5-4367-8215-5554f7226c32",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba La D",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19867531535,
+                        "caa_release_mbid": "6aea88cf-d3a5-4367-8215-5554f7226c32",
+                        "recording_mbid": "016a522e-8ca3-4e0a-b0ac-f95936dac0fa",
+                        "recording_name": "Ténébreux #4",
+                        "release_group_mbid": "7762f3de-05a8-493c-b495-d52b884c4c27",
+                        "release_mbid": "6aea88cf-d3a5-4367-8215-5554f7226c32"
+                    },
+                    "release_name": "Ténébreux",
+                    "track_name": "Ténébreux #4"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791728231,
+                "recording_msid": "88804d79-72d8-4931-befc-66850cedf920",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "e1032d6a-785a-41a3-a516-3faaaf68ddb1",
+                        "lastfm_track_mbid": "6bd1664e-5c9b-4939-8a97-54fea921d683",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478799408,
+                        "caa_release_mbid": "ee310a92-923a-40c5-92ad-3e64fc40ebbf",
+                        "recording_mbid": "3c0273ec-2ccb-42f4-bb53-bab10337bcd1",
+                        "recording_name": "La Détaille",
+                        "release_group_mbid": "29e6caba-47bb-461a-8e9a-dc11a61c0e69",
+                        "release_mbid": "e1032d6a-785a-41a3-a516-3faaaf68ddb1"
+                    },
+                    "release_name": "L'Affranchi (Deluxe)",
+                    "track_name": "La détaille"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791727973,
+                "recording_msid": "6f43528b-2c17-479a-bc4b-d7b2d9ff95d2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2efd739f-b833-44b7-9228-b2c200ac1afa",
+                        "lastfm_release_mbid": "36a3ef7d-de0c-4c7c-b4e7-071f14b8f710",
+                        "lastfm_track_mbid": "62099f32-d2fb-41be-b1ec-103beeaa9a03",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Moha La Squale",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2efd739f-b833-44b7-9228-b2c200ac1afa"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Moha La Squale",
+                                "artist_mbid": "2efd739f-b833-44b7-9228-b2c200ac1afa",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31868742992,
+                        "caa_release_mbid": "0e799946-ae2a-4656-84d1-ee06fba83821",
+                        "recording_mbid": "921fdf18-e983-4cd7-aafd-3d8b3f67155a",
+                        "recording_name": "J’me balade",
+                        "release_group_mbid": "120522ac-2d79-4c4c-baa2-6bbdb584b98c",
+                        "release_mbid": "0e799946-ae2a-4656-84d1-ee06fba83821"
+                    },
+                    "release_name": "Bendero",
+                    "track_name": "J'me balade"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791727779,
+                "recording_msid": "340f02cb-d2f6-45fb-a94b-7f096007badb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                        "lastfm_release_mbid": "a892615d-17ce-4f35-8b42-4a385d726d6f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Leto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                            "2bd0c272-dd22-4395-8381-18fa2fa59f1e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Leto",
+                                "artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Tiakola",
+                                "artist_mbid": "2bd0c272-dd22-4395-8381-18fa2fa59f1e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30434205956,
+                        "caa_release_mbid": "a892615d-17ce-4f35-8b42-4a385d726d6f",
+                        "recording_mbid": "ba7fd760-cc3b-4dcb-bd46-586d063421e3",
+                        "recording_name": "Mapessa",
+                        "release_group_mbid": "c10d4fae-98de-4df4-8737-ebad6e77cf0e",
+                        "release_mbid": "a892615d-17ce-4f35-8b42-4a385d726d6f"
+                    },
+                    "release_name": "17%",
+                    "track_name": "Mapessa (feat. Tiakola)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791727621,
+                "recording_msid": "e0c89f77-10e3-4219-b3d8-8c046c5238cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lvb sosa",
+                    "release_name": "Kalash",
+                    "track_name": "Kalash"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791727354,
+                "recording_msid": "571c9d1a-794c-4b84-939f-d31fd67833e9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La ZT",
+                    "release_name": "Pas là",
+                    "track_name": "Pas là"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791727121,
+                "recording_msid": "564d73ea-50a4-4273-94ba-392999d4ccce",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "28209158-9ec6-4395-801a-259447857ea8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fresh laDouille",
+                    "release_name": "Pas la Peine",
+                    "track_name": "Pas la Peine"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726942,
+                "recording_msid": "9b1c8ee8-f888-4c31-a4d2-bce6994438f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "840a10af-137f-44ab-8253-d37e27ed8a88",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Konieur",
+                    "release_name": "OLASKURT",
+                    "track_name": "OLASKURT"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726793,
+                "recording_msid": "daebbf31-f4b9-4bc6-94f4-0f6158d34bcb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb96c37d-cb64-48d2-9b67-56a0eafb1e45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rvfleuze",
+                                "artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43060013592,
+                        "caa_release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab",
+                        "recording_mbid": "bad2bf25-775a-409e-939d-5f25632fe6fb",
+                        "recording_name": "Redbull",
+                        "release_group_mbid": "fe43ac10-15fc-406f-a4c9-4836a9693b7a",
+                        "release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab"
+                    },
+                    "release_name": "EALS",
+                    "track_name": "Red Bull"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726560,
+                "recording_msid": "45c64b7e-1d30-4c6c-80f6-30d722d5799e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "S2R GANG",
+                    "release_name": "Dans la ville",
+                    "track_name": "DLV #4 Libérable"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726420,
+                "recording_msid": "48540022-ceb2-4079-adeb-77bc8750b005",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Djvck",
+                    "release_name": "TERMINAL GRIS #4",
+                    "track_name": "TERMINAL GRIS #4"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726268,
+                "recording_msid": "15c5475a-9c01-421b-8b87-47c5dfd4feca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "012da0e5-f3cd-40bf-913d-25cc973d0408",
+                        "lastfm_release_mbid": "b0c0fdab-f157-4de3-8a07-766600d1252a",
+                        "lastfm_track_mbid": "0cf93068-579e-4c1b-bb86-8c920c86a1c6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKÉ140",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "012da0e5-f3cd-40bf-913d-25cc973d0408"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "1PLIKÉ140",
+                                "artist_mbid": "012da0e5-f3cd-40bf-913d-25cc973d0408",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28994878678,
+                        "caa_release_mbid": "b0c0fdab-f157-4de3-8a07-766600d1252a",
+                        "recording_mbid": "0cf93068-579e-4c1b-bb86-8c920c86a1c6",
+                        "recording_name": "ONGBAK 2",
+                        "release_group_mbid": "ea537102-0310-4980-b1a5-5f589eb4d7db",
+                        "release_mbid": "b0c0fdab-f157-4de3-8a07-766600d1252a",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/211549602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1601411335"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1601411335"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1613965152"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3OnU44Ccilku0LTXIY7JIS"
+                            }
+                        ]
+                    },
+                    "release_name": "ARRÊTEZ-LE !",
+                    "track_name": "ONGBAK 2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791726029,
+                "recording_msid": "97c870e4-e633-414c-9ca1-0d18a3993adc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6c631128-75fe-4dc3-ae18-be4573c8d2f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Scott",
+                    "release_name": "94",
+                    "track_name": "94"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791725885,
+                "recording_msid": "61cca266-8b59-49c3-9272-656bf7ba7465",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "TVLM",
+                    "release_name": "La D.A",
+                    "track_name": "La D.A"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791725671,
+                "recording_msid": "acabbe7d-89d0-4ca7-b31c-57bcd9584a28",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                        "lastfm_release_mbid": "5a8d1c7f-f614-4045-be56-fb62089c4a9b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Leto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Leto",
+                                "artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23392447295,
+                        "caa_release_mbid": "5a8d1c7f-f614-4045-be56-fb62089c4a9b",
+                        "recording_mbid": "52563619-2d21-450b-a79d-8f9ec84bb115",
+                        "recording_name": "Tes parents",
+                        "release_group_mbid": "31a3a26b-0f8e-40d4-9aab-4a88e90f85a7",
+                        "release_mbid": "5a8d1c7f-f614-4045-be56-fb62089c4a9b"
+                    },
+                    "release_name": "Trap$tar 2",
+                    "track_name": "Tes parents (feat. Ninho)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791729253,
+                "listened_at": 1791722535,
+                "recording_msid": "a079ca4e-cd04-444f-bfad-b04fc1653e86",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nono La Grinta",
+                    "release_name": "75022",
+                    "track_name": "Sans faire exprès (feat. NJK)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791722334,
+                "recording_msid": "a769d79f-fe9c-451b-a859-2e1e1574a9e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_track_mbid": "530c8a8b-5196-4cc5-b2ca-4d448eb5ad50",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                            "e369e789-6f07-4ce8-a70f-e136bc57bf3b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Niska",
+                                "artist_mbid": "e369e789-6f07-4ce8-a70f-e136bc57bf3b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478799408,
+                        "caa_release_mbid": "ee310a92-923a-40c5-92ad-3e64fc40ebbf",
+                        "recording_mbid": "fdde3d58-3b02-4e58-8fb1-e3e3ce263dac",
+                        "recording_name": "RR 9.1",
+                        "release_group_mbid": "29e6caba-47bb-461a-8e9a-dc11a61c0e69",
+                        "release_mbid": "17a54d43-2e95-4ba8-b9eb-cae204bf093e"
+                    },
+                    "release_name": "L' Affranchi",
+                    "track_name": "RR 9.1"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791722012,
+                "recording_msid": "27bee018-249d-47fc-86b7-ffbd8f20c497",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71359a06-8384-4f14-80df-833763af18a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "L2B",
+                    "release_name": "Guette le flow",
+                    "track_name": "Guette le flow"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791721657,
+                "recording_msid": "ca5176b0-4f7c-4252-ac23-c5cd26b92ef3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "227d4a96-9f3e-4664-881c-062227e29b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25607171606,
+                        "caa_release_mbid": "c4e0a080-081d-4702-b164-48727d00974e",
+                        "recording_mbid": "241e924f-908a-412d-b8a1-5fcdf11dfda2",
+                        "recording_name": "Zipette",
+                        "release_group_mbid": "2e663084-48df-4208-ada9-06609d242769",
+                        "release_mbid": "e548a296-6982-43a8-bfce-acc362204f13"
+                    },
+                    "release_name": "M.I.L.S 3",
+                    "track_name": "ZIPETTE"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791721418,
+                "recording_msid": "2b85fb02-139e-40a2-85a0-279ba029bccd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                        "lastfm_release_mbid": "023095ff-12fa-495a-b3e7-2d97a182e6bb",
+                        "lastfm_track_mbid": "2d764fed-7d47-4c82-9b09-f66683e0c3e5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Damso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20490268302,
+                        "caa_release_mbid": "023095ff-12fa-495a-b3e7-2d97a182e6bb",
+                        "recording_mbid": "d720c2d0-b2c3-43c0-913b-a27c992b3ed1",
+                        "recording_name": "60 années",
+                        "release_group_mbid": "c8aea4a2-4d94-41be-968c-2dd3e4affcbf",
+                        "release_mbid": "dc1b5bf5-a76c-4d07-a916-0694d478c773"
+                    },
+                    "release_name": "Lithopédion",
+                    "track_name": "60 Années"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791721208,
+                "recording_msid": "c7fdad4d-f149-4b80-91c0-4817f9d79633",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "81920682-bb79-4b62-afa8-fe8dece0227c",
+                        "lastfm_release_mbid": "0fbacdf0-88fe-40c9-ad4c-2dcc00dc8cfc",
+                        "lastfm_track_mbid": "69e52d09-30e3-4048-84a9-6f8361322543",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kaaris",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81920682-bb79-4b62-afa8-fe8dece0227c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kaaris",
+                                "artist_mbid": "81920682-bb79-4b62-afa8-fe8dece0227c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25264365926,
+                        "caa_release_mbid": "54a5d39a-4c8b-4d4e-8f1a-b45f8d0f6edc",
+                        "recording_mbid": "30d6c66a-14fc-43ac-b062-35b21917fdfb",
+                        "recording_name": "Gun Salute",
+                        "release_group_mbid": "1f16039d-8c23-4d66-81c9-a7fb96a66f4f",
+                        "release_mbid": "0fbacdf0-88fe-40c9-ad4c-2dcc00dc8cfc"
+                    },
+                    "release_name": "Or Noir Part 3",
+                    "track_name": "Gun salute"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791721095,
+                "recording_msid": "1f9f67c0-aafd-4b10-a81a-1ba520d687a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "01686373-77ef-414c-8b27-7e0f5e003d78",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chicaille Argenté",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "01686373-77ef-414c-8b27-7e0f5e003d78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chicaille Argenté",
+                                "artist_mbid": "01686373-77ef-414c-8b27-7e0f5e003d78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42487153044,
+                        "caa_release_mbid": "f9caaf39-d698-4f65-bafa-dda1c251099d",
+                        "recording_mbid": "762611cf-9c27-4258-9f69-20eab7380844",
+                        "recording_name": "Freestyle IGTV 3",
+                        "release_group_mbid": "20dbcbdc-d857-4f9e-a9fb-0dd05ae66705",
+                        "release_mbid": "f9caaf39-d698-4f65-bafa-dda1c251099d",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1725541764"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2618627082"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/339716654"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1725541764"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1FhoErn0NAThuJDrS60Ysf"
+                            }
+                        ]
+                    },
+                    "release_name": "RESET",
+                    "track_name": "Freestyle IGTV 3"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791720839,
+                "recording_msid": "5a456349-75e7-4a4b-8057-d93f039aaf9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "77e39bf6-c28b-46e8-980c-bd6fe5c7d0f7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Timar",
+                    "release_name": "IA",
+                    "track_name": "IA"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791713526,
+                "recording_msid": "0d1c6561-7829-41d6-b84d-f77e63941dfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "M2J OFFICIEL",
+                    "release_name": "MAUDIT #3",
+                    "track_name": "MAUDIT #3"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791713198,
+                "recording_msid": "504b35a1-69ed-4351-b012-94581ec3abf8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "2zg",
+                    "release_name": "Termine-les",
+                    "track_name": "Termine-les"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791713028,
+                "recording_msid": "d9315ea4-e1ad-4176-96ee-6070a87c12ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dexter HMC",
+                    "release_name": "BRAV-M",
+                    "track_name": "BRAV-M"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791712850,
+                "recording_msid": "8f30f550-61fa-4434-bf12-6dab8b883f2b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKÉ140",
+                    "release_name": "1PLIKÉ140 x Fumez The Engineer - Plugged In Freestyle",
+                    "track_name": "1PLIKÉ140 x Fumez The Engineer - Plugged In Freestyle"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791712621,
+                "recording_msid": "887f7116-2d50-446b-b460-0d34dc5bb60e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "HLD",
+                    "release_name": "Drogue",
+                    "track_name": "AMG"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791712334,
+                "recording_msid": "68944141-d7fc-471e-9491-d78a697f1e4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0efa01aa-2725-48af-a7df-273faa718ed6",
+                        "lastfm_track_mbid": "46d4e2fd-26e6-38e9-986a-818823033900",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kassav'",
+                    "release_name": "Les Trésors du Zouk",
+                    "track_name": "Bèl Kréati"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791712142,
+                "recording_msid": "d7d9cd74-41b4-4016-bb3e-45a09a16d666",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mikado",
+                    "release_name": "LA PLI SI TOL (Shatta Remix)",
+                    "track_name": "LA PLI SI TOL - Shatta Remix"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711989,
+                "recording_msid": "01665381-ecb1-492c-8d07-52a7906689b7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lünik",
+                    "release_name": "CHOKOLA",
+                    "track_name": "CHOKOLA"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711651,
+                "recording_msid": "25d27f6a-dceb-483d-82e9-16d968aa5b95",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "04a3d2a0-159f-4de2-adf5-bd553235670d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Carimi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ed6faed6-b839-4a82-84cc-ce0074d6ffec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Carimi",
+                                "artist_mbid": "ed6faed6-b839-4a82-84cc-ce0074d6ffec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21427784498,
+                        "caa_release_mbid": "04a3d2a0-159f-4de2-adf5-bd553235670d",
+                        "recording_mbid": "f91f90e6-e02a-4012-a833-e3dd9800cd46",
+                        "recording_name": "Ayiti (Bang Bang)",
+                        "release_group_mbid": "9ac405db-d4fe-31c1-82d1-e9195e8be87a",
+                        "release_mbid": "04a3d2a0-159f-4de2-adf5-bd553235670d"
+                    },
+                    "release_name": "Bang Bang",
+                    "track_name": "Ayiti - Bang Bang"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711529,
+                "recording_msid": "a31368e9-e05a-4ff8-9ac1-a812ba0a6112",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6fcc034a-f0a7-4084-a205-b6622ff9cfd0",
+                        "lastfm_release_mbid": "11014da5-d9f6-4483-9835-97b51f5ea51d",
+                        "lastfm_track_mbid": "bcbbdf62-3349-4fcd-9b14-9d949fc811dd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "WeRenoi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6fcc034a-f0a7-4084-a205-b6622ff9cfd0",
+                            "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                            "1a22b304-afa9-4d5c-ab0d-c6d717534af7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "WeRenoi",
+                                "artist_mbid": "6fcc034a-f0a7-4084-a205-b6622ff9cfd0",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "SDM",
+                                "artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Vacra",
+                                "artist_mbid": "1a22b304-afa9-4d5c-ab0d-c6d717534af7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42017575298,
+                        "caa_release_mbid": "465e4817-fac5-46c1-b609-2163fa1c84ca",
+                        "recording_mbid": "bcbbdf62-3349-4fcd-9b14-9d949fc811dd",
+                        "recording_name": "Jalouse",
+                        "release_group_mbid": "5551d56d-8762-4dc9-8b0a-7098751a0e4e",
+                        "release_mbid": "dbc51f07-6404-447b-b205-9105c687f036"
+                    },
+                    "release_name": "Diamant Noir",
+                    "track_name": "Jalouse"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711454,
+                "recording_msid": "082a156b-fef9-4809-b216-42638de50f16",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dexter HMC",
+                    "release_name": "101 Rue Cerçay (IGTV 4)",
+                    "track_name": "101 Rue Cerçay (IGTV 4)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711261,
+                "recording_msid": "7d4f5ce4-2c27-48ad-a034-8cd1d7a0e310",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JRK 19",
+                    "release_name": "GSO",
+                    "track_name": "GSO"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791711111,
+                "recording_msid": "ea8410c4-6865-41bd-ac8c-67f1b8f9bc15",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "49ae11d8-5ebc-4057-8cb8-dcbbc005b1b8",
+                        "lastfm_track_mbid": "1ff1e12c-c155-4aa2-9e60-d925d440fb7f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "bello&dallas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "114f87ca-04b6-4cb7-9748-187a10bdf14a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bello&Dallas",
+                                "artist_mbid": "114f87ca-04b6-4cb7-9748-187a10bdf14a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45315150679,
+                        "caa_release_mbid": "49ae11d8-5ebc-4057-8cb8-dcbbc005b1b8",
+                        "recording_mbid": "1ff1e12c-c155-4aa2-9e60-d925d440fb7f",
+                        "recording_name": "Arena de cuba",
+                        "release_group_mbid": "a2122e33-1bfd-4218-ac69-d99da6b05b0a",
+                        "release_mbid": "49ae11d8-5ebc-4057-8cb8-dcbbc005b1b8"
+                    },
+                    "release_name": "Sarah B.",
+                    "track_name": "Arena de Cuba"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791710856,
+                "recording_msid": "7ddc625a-0219-4252-be61-7c28d80ff99e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKATION",
+                    "release_name": "BATARD",
+                    "track_name": "BATARD 3"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791710652,
+                "recording_msid": "06814b06-0580-4889-9ab1-5ec5c8262d7e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "zd",
+                    "release_name": "Industrie 2",
+                    "track_name": "Industrie 2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791710470,
+                "recording_msid": "b352e7a7-0fa4-43fa-ad72-ba4536bfc172",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Cat",
+                    "release_name": "LAUSANNE",
+                    "track_name": "LAUSANNE"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791710277,
+                "recording_msid": "002766c0-4a1e-4f24-bb00-9793d40a8cbf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "e1032d6a-785a-41a3-a516-3faaaf68ddb1",
+                        "lastfm_track_mbid": "1ab67c65-5180-47c7-a886-0056d6caa053",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478799408,
+                        "caa_release_mbid": "ee310a92-923a-40c5-92ad-3e64fc40ebbf",
+                        "recording_mbid": "07e6b909-563b-4b15-9bcf-b5b08b785aaf",
+                        "recording_name": "O.G.",
+                        "release_group_mbid": "29e6caba-47bb-461a-8e9a-dc11a61c0e69",
+                        "release_mbid": "17a54d43-2e95-4ba8-b9eb-cae204bf093e"
+                    },
+                    "release_name": "L'Affranchi (Deluxe)",
+                    "track_name": "O.G"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791724775,
+                "listened_at": 1791653782,
+                "recording_msid": "42e7bc18-8ddc-4c0c-a6f4-d2d2b719d617",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "a603cf37-dcc7-418e-90b9-5f33f660666d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "c234fa42-e6a6-443e-937e-2f4b073538a3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Chris Brown",
+                                "artist_mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26081476734,
+                        "caa_release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "recording_mbid": "764cdd9d-b32d-4dfb-9624-c91fccc04888",
+                        "recording_name": "Not You Too",
+                        "release_group_mbid": "bb944494-b3e7-4be2-952e-171a1743868e",
+                        "release_mbid": "033a6241-a0c5-43b8-882d-84d9e90ccb77",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi"
+                            }
+                        ]
+                    },
+                    "release_name": "Dark Lane Demo Tapes",
+                    "track_name": "Not You Too (feat. Chris Brown)"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791660881,
+                "listened_at": 1791653448,
+                "recording_msid": "7295302c-4ccf-436a-82e4-ec1d9b8dc81c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d75b3154-fb27-479b-b40b-b1b71872a3e0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lloyd",
+                    "release_name": "Hot New Joints 2014, Vol. 1",
+                    "track_name": "All I Need"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791660881,
+                "listened_at": 1791653226,
+                "recording_msid": "4f4a82fc-5b2e-4943-9461-25dccf081319",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9167f739-da47-4495-9d63-9c13b40114ac",
+                        "lastfm_release_mbid": "1b6dbf31-79e5-4ce2-8166-fd021a2335bd",
+                        "lastfm_track_mbid": "f4322597-5707-4b1b-8a9a-80a5af0e5f05",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Summer Walker",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9167f739-da47-4495-9d63-9c13b40114ac"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Summer Walker",
+                                "artist_mbid": "9167f739-da47-4495-9d63-9c13b40114ac",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45517209191,
+                        "caa_release_mbid": "d5e85009-63d2-4736-9e7f-e804a99e1e4c",
+                        "recording_mbid": "be759f3b-6a2a-494b-8db3-11d879a28a91",
+                        "recording_name": "Girls Need Love",
+                        "release_group_mbid": "ded10129-f232-4162-a8f1-d37441f0fdce",
+                        "release_mbid": "d5e85009-63d2-4736-9e7f-e804a99e1e4c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4ZjLwz9pYj84Uw7XkWBmFW"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj"
+                            }
+                        ]
+                    },
+                    "release_name": "Over It",
+                    "track_name": "Girls Need Love (with Drake) - Remix"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791660881,
+                "listened_at": 1791640904,
+                "recording_msid": "44eb8792-5ede-47db-8f27-a2fbd4333c4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                        "lastfm_release_mbid": "78a2765a-a8ea-45b1-bc19-243c3e9d98f5",
+                        "lastfm_track_mbid": "29241b8e-3463-44a9-8dae-1b14164b4e81",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb96c37d-cb64-48d2-9b67-56a0eafb1e45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rvfleuze",
+                                "artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43060013592,
+                        "caa_release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab",
+                        "recording_mbid": "f9feb034-6dad-48be-a08f-c95051079f5e",
+                        "recording_name": "Serrure XXX",
+                        "release_group_mbid": "fe43ac10-15fc-406f-a4c9-4836a9693b7a",
+                        "release_mbid": "d20d9703-712c-4c4a-a59e-dfe9afbd20ab"
+                    },
+                    "release_name": "Serrure #5",
+                    "track_name": "Serrure #5"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791640663,
+                "recording_msid": "d81f04df-1fac-4cf2-9fab-719b01d6ab5e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "012da0e5-f3cd-40bf-913d-25cc973d0408",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKÉ140",
+                    "release_name": "Cochi",
+                    "track_name": "Cochi"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791640476,
+                "recording_msid": "d645c2bc-7f5d-447e-8e82-93f465505ef9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lp2.0",
+                    "release_name": "INDIFFÉRENT",
+                    "track_name": "Je m'attendais pas à ça"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791640305,
+                "recording_msid": "3c6e37fd-f9ee-4fba-b6c0-b39f3ee620ff",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JLN LA B",
+                    "release_name": "Révolution",
+                    "track_name": "Révolution"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791640062,
+                "recording_msid": "86f6e751-ee0e-40a4-beb3-ce3a066beab2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "30c52f93-4dd0-4e43-adee-7c985d2534e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Beendo Z",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "30c52f93-4dd0-4e43-adee-7c985d2534e4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Beendo Z",
+                                "artist_mbid": "30c52f93-4dd0-4e43-adee-7c985d2534e4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45554597527,
+                        "caa_release_mbid": "45d3c9f6-fa0d-4aea-add7-080d13f15e45",
+                        "recording_mbid": "35fb8bca-07d3-43af-9149-a6044205af93",
+                        "recording_name": "C'est comme le Soleil",
+                        "release_group_mbid": "c93eb58b-d361-41cd-a930-7a26e2fdfd4b",
+                        "release_mbid": "45d3c9f6-fa0d-4aea-add7-080d13f15e45"
+                    },
+                    "release_name": "C'est comme le Soleil",
+                    "track_name": "C'est comme le Soleil"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791639908,
+                "recording_msid": "3e6adf7e-2bcc-4422-93e1-db99cb928f27",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hit 2 Rue",
+                    "release_name": "Hit 2 Rue",
+                    "track_name": "Teh"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791639723,
+                "recording_msid": "32ea7c84-0413-40de-8c18-d837ff4dc629",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_release_mbid": "8c47bedb-cbb5-49a1-b05b-da8e8dcd84d8",
+                        "lastfm_track_mbid": "4985fd02-139d-4ebf-82de-9ea5550ff01f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40930503072,
+                        "caa_release_mbid": "4091ed0f-ea0d-4136-bb00-d8ccbb4fb1ea",
+                        "recording_mbid": "90d5cee3-974b-44ba-8d48-a68a77f49d21",
+                        "recording_name": "Roro",
+                        "release_group_mbid": "e019a21d-d5c5-415d-80e3-4c44872644c6",
+                        "release_mbid": "da63d1d6-3557-4379-aeba-036039b66897"
+                    },
+                    "release_name": "Comme Prévu",
+                    "track_name": "Roro"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791643169,
+                "listened_at": 1791629577,
+                "recording_msid": "eef203c9-25e8-4d54-a45b-dea6f6d97860",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dexter HMC",
+                    "release_name": "ZOKORA DIDIER",
+                    "track_name": "ZOKORA DIDIER"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791629409,
+                "recording_msid": "2274f757-aa28-45da-a015-de318e03a65b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cf2925eb-8526-40ba-862e-d43a5f9a2b9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Saamou",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cf2925eb-8526-40ba-862e-d43a5f9a2b9c",
+                            "9ec53f69-9207-4489-b095-6d79391583ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Saamou Skuu",
+                                "artist_mbid": "cf2925eb-8526-40ba-862e-d43a5f9a2b9c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gambino La MG",
+                                "artist_mbid": "9ec53f69-9207-4489-b095-6d79391583ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42253912201,
+                        "caa_release_mbid": "db1172db-3428-4c79-b8c8-b10e9b0c5689",
+                        "recording_mbid": "1cee20b2-4d37-40c7-a505-6c18b8a63e87",
+                        "recording_name": "Touch Down",
+                        "release_group_mbid": "3660ff77-649b-4816-a6ef-3bc221d8383d",
+                        "release_mbid": "db1172db-3428-4c79-b8c8-b10e9b0c5689"
+                    },
+                    "release_name": "Touch Down",
+                    "track_name": "Touch Down"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791629226,
+                "recording_msid": "389f3deb-751e-4044-83db-1d26a8f7ab70",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "21ccdd06-5dae-4925-807e-9c4c9c387e44",
+                        "lastfm_track_mbid": "4d39c70e-7c14-495b-b171-139738987125",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41164701468,
+                        "caa_release_mbid": "21ccdd06-5dae-4925-807e-9c4c9c387e44",
+                        "recording_mbid": "279c4133-e3b4-4a68-8a59-67622c106b1d",
+                        "recording_name": "FeFe",
+                        "release_group_mbid": "fdf697cc-7b3e-488e-93dd-a46ba08c9491",
+                        "release_mbid": "21ccdd06-5dae-4925-807e-9c4c9c387e44"
+                    },
+                    "release_name": "FeFe",
+                    "track_name": "FeFe"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791628583,
+                "recording_msid": "9f84216b-5920-4791-8e26-a864f5f01cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mig",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fda8ae02-441b-485b-aa49-78e269338d6a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mig",
+                                "artist_mbid": "fda8ae02-441b-485b-aa49-78e269338d6a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "2fd4cc3f-7a02-4b5b-bccd-73704ddb52ca",
+                        "recording_name": "Pas ralentir",
+                        "release_group_mbid": "e631ec59-cfed-4c9f-afef-99c4eccfa6b1",
+                        "release_mbid": "06039bbc-c3f3-4769-a99d-afb6913ea51c"
+                    },
+                    "release_name": "Pas de ralentir 2",
+                    "track_name": "Pas de ralentir 2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791628157,
+                "recording_msid": "3d3390de-0ecd-4e42-91d4-78078afbdab9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "badb21aa-95f3-4883-bfc4-ff75737b3b6e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mous-K",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "badb21aa-95f3-4883-bfc4-ff75737b3b6e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mous-K",
+                                "artist_mbid": "badb21aa-95f3-4883-bfc4-ff75737b3b6e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44962141347,
+                        "caa_release_mbid": "9b5b0a58-718b-459b-903f-d5a2a5347260",
+                        "recording_mbid": "c482cc65-604e-4130-9a42-9e6ef641898e",
+                        "recording_name": "J'voulais",
+                        "release_group_mbid": "c3aa5edf-1047-48fc-9371-006eada3477c",
+                        "release_mbid": "9b5b0a58-718b-459b-903f-d5a2a5347260",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/118466483"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3cjfM3p90NmONjatWjBdwg"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1477531326"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/755817962"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1477531326"
+                            }
+                        ]
+                    },
+                    "release_name": "La Quicka",
+                    "track_name": "J'voulais"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791627805,
+                "recording_msid": "a0955b94-1a4e-4225-ba87-cde16c0231ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Genezio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "609a9087-2c79-4a1f-bf5b-9927f5173911",
+                            "e369e789-6f07-4ce8-a70f-e136bc57bf3b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Genezio",
+                                "artist_mbid": "609a9087-2c79-4a1f-bf5b-9927f5173911",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Niska",
+                                "artist_mbid": "e369e789-6f07-4ce8-a70f-e136bc57bf3b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43687074048,
+                        "caa_release_mbid": "272cbc1e-7651-4657-ac24-52c7292037d9",
+                        "recording_mbid": "2e11fbc7-0c39-4574-9ea0-5e669683c3df",
+                        "recording_name": "OG",
+                        "release_group_mbid": "42a07458-857e-4263-be36-e84a6dcdba1b",
+                        "release_mbid": "272cbc1e-7651-4657-ac24-52c7292037d9"
+                    },
+                    "release_name": "LES DENTS DU BONHEUR",
+                    "track_name": "OG"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791627661,
+                "recording_msid": "ecbeeebb-b281-4107-ac6c-970c26f8141c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "KTG 93",
+                    "release_name": "GIGN",
+                    "track_name": "GIGN"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791627322,
+                "recording_msid": "4bc5ec5f-fdb6-4621-91d1-f0eea031b0b8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "a6fb9bf7-5992-4d33-9caa-5afc1cc0c279",
+                        "lastfm_track_mbid": "655411bb-a945-47c2-aefa-1dff8767a06c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478739792,
+                        "caa_release_mbid": "e1a8df2a-611d-4dac-b968-454231a7a635",
+                        "recording_mbid": "876590f8-65fb-447e-a8fc-071bef859479",
+                        "recording_name": "ORgueilleux",
+                        "release_group_mbid": "46cf3653-1e41-4e8c-bea8-26407310739c",
+                        "release_mbid": "a6fb9bf7-5992-4d33-9caa-5afc1cc0c279"
+                    },
+                    "release_name": "VII",
+                    "track_name": "ORgueilleux"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791627039,
+                "recording_msid": "ecefc3fa-f2f4-4dd2-8e1c-2a11d8dc61b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mig",
+                    "release_name": "200",
+                    "track_name": "200"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791626872,
+                "recording_msid": "01a28500-4cd4-4982-822d-e14e6542302e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKATION",
+                    "release_name": "BATARD",
+                    "track_name": "BATARD 2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791626662,
+                "recording_msid": "c523ebc3-f0d6-45c4-8bc2-194be12db120",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Hasba22",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e03546b-6005-4350-aa84-ef2b58e937ac"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Hasba22",
+                                "artist_mbid": "9e03546b-6005-4350-aa84-ef2b58e937ac",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "c223d321-03b6-4b46-babc-a29e32b503ed",
+                        "recording_name": "CROSS",
+                        "release_group_mbid": "08bd403b-ee9b-47f1-85af-34ecd12305d9",
+                        "release_mbid": "020a6bf6-7bbc-4ebc-8d7f-97837ba55435"
+                    },
+                    "release_name": "22%",
+                    "track_name": "22%"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791626483,
+                "recording_msid": "b4c4be3e-d1c1-4086-b85d-5f36dc105af4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Kadrilla",
+                    "release_name": "Journée",
+                    "track_name": "Journée"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791626340,
+                "recording_msid": "b015e50f-cb68-4654-ae75-c9252249d6be",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "TVLM",
+                    "release_name": "Lajan",
+                    "track_name": "Lajan"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791626072,
+                "recording_msid": "0d1c6561-7829-41d6-b84d-f77e63941dfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "M2J OFFICIEL",
+                    "release_name": "MAUDIT #3",
+                    "track_name": "MAUDIT #3"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791625852,
+                "recording_msid": "c5c2d8ac-b02d-42cc-9c3e-eaf620c4cd34",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "M2J OFFICIEL",
+                    "release_name": "MAUDIT #2",
+                    "track_name": "MAUDIT #2"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791625520,
+                "recording_msid": "7ca22a42-17dc-4a50-9072-5d669624cc8d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "06039bbc-c3f3-4769-a99d-afb6913ea51c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mig",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fda8ae02-441b-485b-aa49-78e269338d6a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mig",
+                                "artist_mbid": "fda8ae02-441b-485b-aa49-78e269338d6a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "5ab37c85-194a-4ec0-850e-8806b8097a00",
+                        "recording_name": "Barbara Kean",
+                        "release_group_mbid": "e631ec59-cfed-4c9f-afef-99c4eccfa6b1",
+                        "release_mbid": "06039bbc-c3f3-4769-a99d-afb6913ea51c"
+                    },
+                    "release_name": "02 Géné",
+                    "track_name": "Barbara Kean"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791625394,
+                "recording_msid": "5a25ca91-dc06-4982-b18d-59d7662f4169",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "1PLIKATION",
+                    "release_name": "Freestyle",
+                    "track_name": "Kaya, Pt. 4"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791625256,
+                "recording_msid": "5e937e49-0ba9-4d2f-b498-7c4af169dd0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "TVLM",
+                    "release_name": "Tony Montana",
+                    "track_name": "Tony Montana"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791625089,
+                "recording_msid": "564d73ea-50a4-4273-94ba-392999d4ccce",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "28209158-9ec6-4395-801a-259447857ea8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fresh laDouille",
+                    "release_name": "Pas la Peine",
+                    "track_name": "Pas la Peine"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791624847,
+                "recording_msid": "f57b4057-2c2c-4487-bbb0-350be1811364",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Scott",
+                    "release_name": "Suarez",
+                    "track_name": "Suarez"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791624674,
+                "recording_msid": "84bdf642-bcb8-4890-a884-0ff54ad32c15",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Scott",
+                    "release_name": "LVAG",
+                    "track_name": "LVAG"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791624533,
+                "recording_msid": "dc6161b8-891f-47f5-bd6a-ce1fdcdf3287",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                        "lastfm_release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d",
+                        "lastfm_track_mbid": "6771673a-1061-4e6d-9258-332565aa5ea7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nono La Grinta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ef57061a-5919-4c3c-8905-ceb7615eb874"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nono La Grinta",
+                                "artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42267948454,
+                        "caa_release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d",
+                        "recording_mbid": "6771673a-1061-4e6d-9258-332565aa5ea7",
+                        "recording_name": "Paris",
+                        "release_group_mbid": "451250fd-9afb-4370-94bb-791b6617d236",
+                        "release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d"
+                    },
+                    "release_name": "RESTART",
+                    "track_name": "Paris"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791624274,
+                "recording_msid": "c60d9ecb-c234-45ff-9a6a-051c04cba826",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "41b6b479-b31a-44c6-8d73-2eeb677d8a1a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YAYA D",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0ac4cdd3-dc83-4179-9273-84d52ce2312b",
+                            "efe6a158-93c9-4bcd-899f-a1c9ef2da7dd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yaya D",
+                                "artist_mbid": "0ac4cdd3-dc83-4179-9273-84d52ce2312b",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Jolagreen23",
+                                "artist_mbid": "efe6a158-93c9-4bcd-899f-a1c9ef2da7dd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42187073362,
+                        "caa_release_mbid": "41b6b479-b31a-44c6-8d73-2eeb677d8a1a",
+                        "recording_mbid": "7d4adaee-3a76-4d3f-aae8-cba1d0db8264",
+                        "recording_name": "Player",
+                        "release_group_mbid": "4e5cc58e-b141-4ab9-973d-65992238c8c8",
+                        "release_mbid": "41b6b479-b31a-44c6-8d73-2eeb677d8a1a"
+                    },
+                    "release_name": "ANSTZ",
+                    "track_name": "PLAYER"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791623967,
+                "recording_msid": "c5287295-d96d-4b42-a6eb-49d938694045",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6fcc034a-f0a7-4084-a205-b6622ff9cfd0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "WeRenoi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6fcc034a-f0a7-4084-a205-b6622ff9cfd0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Werenoi",
+                                "artist_mbid": "6fcc034a-f0a7-4084-a205-b6622ff9cfd0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35109146593,
+                        "caa_release_mbid": "1accc8d0-cdf3-43f4-bf00-6f0bce433242",
+                        "recording_mbid": "6ae80c3b-b8da-4547-afe2-c4baf829753b",
+                        "recording_name": "Jamal",
+                        "release_group_mbid": "ac0f7656-4888-470d-b0c0-33a2fa3dfbb9",
+                        "release_mbid": "1accc8d0-cdf3-43f4-bf00-6f0bce433242"
+                    },
+                    "release_name": "Telegram",
+                    "track_name": "Jamal"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791623722,
+                "recording_msid": "ea971e52-6ae1-4f00-b424-c87ade378101",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "e1032d6a-785a-41a3-a516-3faaaf68ddb1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478799408,
+                        "caa_release_mbid": "ee310a92-923a-40c5-92ad-3e64fc40ebbf",
+                        "recording_mbid": "b99f9724-eab9-4668-94dd-a1735b61f512",
+                        "recording_name": "Le Magot",
+                        "release_group_mbid": "29e6caba-47bb-461a-8e9a-dc11a61c0e69",
+                        "release_mbid": "17a54d43-2e95-4ba8-b9eb-cae204bf093e"
+                    },
+                    "release_name": "L'Affranchi (Deluxe)",
+                    "track_name": "Le magot"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791623588,
+                "recording_msid": "ecbbe01b-6d6d-45cd-89e9-b30ad1aa459d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Blacko 24k",
+                    "release_name": "On opère",
+                    "track_name": "On opère"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791623373,
+                "recording_msid": "475ce5f8-bf43-4319-ba2b-ed1f8629f1bc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                        "lastfm_release_mbid": "a6fb9bf7-5992-4d33-9caa-5afc1cc0c279",
+                        "lastfm_track_mbid": "b5adb453-9350-406f-8664-49d900f1313f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Koba LaD",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27478739792,
+                        "caa_release_mbid": "e1a8df2a-611d-4dac-b968-454231a7a635",
+                        "recording_mbid": "1317c7c2-92d0-4b2b-bbc2-86822482c556",
+                        "recording_name": "Train de vie",
+                        "release_group_mbid": "46cf3653-1e41-4e8c-bea8-26407310739c",
+                        "release_mbid": "b61936cd-1577-4570-8229-d8928e44ebee"
+                    },
+                    "release_name": "VII",
+                    "track_name": "Train de vie"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791623147,
+                "recording_msid": "b40e9408-4b53-457a-b712-ca160c822d8d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shades",
+                    "release_name": "FREESTYLES RAPLUME 2024",
+                    "track_name": "Olivia Pope"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791622912,
+                "recording_msid": "dffee473-830f-4cbd-bb75-31508198d14e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Cat",
+                    "release_name": "FENTY BEAUTY",
+                    "track_name": "FENTY BEAUTY"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791629819,
+                "listened_at": 1791576375,
+                "recording_msid": "f8977511-2166-450c-a056-44412e1f4f5d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "17c882b8-7ead-4912-a922-8a5b9456d4f1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "release_name": "Argent Sale - A COLORS SHOW",
+                    "track_name": "Argent Sale - A COLORS SHOW"
+                },
+                "user_name": "Rap7ddragon"
+            },
+            {
+                "inserted_at": 1791574471,
+                "listened_at": 1791572659,
+                "recording_msid": "456bc13c-4a78-421a-bd8c-da8b0f1ea145",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f4fea4ff-8417-42b2-8692-7562c6e746ca",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISS",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "701f4533-69ae-4270-b5fb-f1142e2db50c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Iss",
+                                "artist_mbid": "701f4533-69ae-4270-b5fb-f1142e2db50c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42414256990,
+                        "caa_release_mbid": "f6c10f36-f3fb-4bfd-bd74-817200534a22",
+                        "recording_mbid": "8a1bce58-5bac-496a-a344-c06dcd391815",
+                        "recording_name": "91 Charo Gang",
+                        "release_group_mbid": "7ee302f8-1972-4194-8aa6-3a2993b94074",
+                        "release_mbid": "f6c10f36-f3fb-4bfd-bd74-817200534a22"
+                    },
+                    "release_name": "Libre 3.0",
+                    "track_name": "91 Charo Gang"
+                },
+                "user_name": "Rap7ddragon"
+            }
+        ],
+        "oldest_listen_ts": 1718385000,
+        "user_id": "Rap7ddragon"
+    }
+}

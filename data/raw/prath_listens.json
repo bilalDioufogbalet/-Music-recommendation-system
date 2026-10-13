@@ -1,0 +1,3443 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791551594,
+        "listens": [
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791682791,
+                "recording_msid": "fd1f86be-b574-4fb6-acd2-c2955b23ada4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "If_Itzzz",
+                    "release_name": "Part Time Travis",
+                    "track_name": "Part Time Travis"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791682559,
+                "recording_msid": "6dba6c69-ecca-4269-ac5a-2ccbb5372dac",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "d7b25f27-585f-4013-b41e-b40a7c3c6350",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "d7b25f27-585f-4013-b41e-b40a7c3c6350",
+                        "recording_name": "Pornography",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "Pornography"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791682358,
+                "recording_msid": "a3692ba7-502f-4fd9-ab99-8c009a6b1a0f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Farruko, Nicki Minaj, Bad Bunny",
+                    "track_name": "Krippy Kush (Travis Scott Remix) (feat. Travis Scott & Rvssian)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791682112,
+                "recording_msid": "a779b061-7451-4ba1-9b3d-b91fe765bd9d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "EMA",
+                    "track_name": "Travis Scott - Pipeline Good [V3]"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791681923,
+                "recording_msid": "df2be839-edf6-4c90-804f-35c6ad0843b3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Cactus",
+                    "release_name": "Rara",
+                    "track_name": "Rara"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791681800,
+                "recording_msid": "ed5f8f92-8fdd-402c-84d5-3568f4134e64",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "060c89e4-225b-4490-9f4e-e13a3269efa4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39867264963,
+                        "caa_release_mbid": "460e8ae7-ba22-4542-b193-f77ae9db7eca",
+                        "recording_mbid": "bdb58a16-caf7-464f-8ea0-99c69ab84b5b",
+                        "recording_name": "ALL RED",
+                        "release_group_mbid": "b3336d82-b9f9-4570-9c0b-54651284557f",
+                        "release_mbid": "460e8ae7-ba22-4542-b193-f77ae9db7eca"
+                    },
+                    "release_name": "ALL RED",
+                    "track_name": "All Red"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791681602,
+                "recording_msid": "48c50158-2173-444d-a656-9ccfbedb7b91",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "e0927e2e-d07e-46e1-870b-9e7fa883e969",
+                        "lastfm_track_mbid": "58b150ab-125f-4b85-a794-534cc7f2295e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "e0d3951e-7762-41c1-a249-7d50a541ab01",
+                        "recording_name": "DA WIZARD",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "cc80dac8-83d0-4764-b0e0-835f15775bfe"
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "DA WIZARD"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791681263,
+                "recording_msid": "62e3fd08-c339-4e15-b2dd-72eb03b25a5c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "25cc9817-b14b-4f2b-832d-cd82885eedca",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "f33e8fd2-8536-42e8-9169-fae50f850dd9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kacy Hill",
+                                "artist_mbid": "f33e8fd2-8536-42e8-9169-fae50f850dd9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "92155ba2-b134-4f38-b964-1d80eb1bd75e",
+                        "recording_name": "90210",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "90210 (feat. Kacy Hill)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791680939,
+                "recording_msid": "03f3f0d0-509d-445d-b001-168dc586b7df",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver, Rema",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede",
+                            "720c46ba-a0e4-4b58-aee2-3bd70c70901f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rema",
+                                "artist_mbid": "720c46ba-a0e4-4b58-aee2-3bd70c70901f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "375dea6b-3671-45be-a302-afb0055ec029",
+                        "recording_name": "Secondhand",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389868"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258333"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258333"
+                            }
+                        ]
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "Secondhand (feat. Rema)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791680769,
+                "recording_msid": "0cc21354-c87b-4a97-a2b5-574bd599c000",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "a5208cd2-1249-458b-9ab4-409e955e35fd",
+                        "lastfm_track_mbid": "f340a5b2-3303-4e0f-a78e-682539a71cfd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "0901ce0e-65c7-42db-a264-72b07dab8fa9",
+                        "recording_name": "outside",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13"
+                    },
+                    "release_name": "Birds in the Trap Sing McKnight",
+                    "track_name": "outside"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791680526,
+                "recording_msid": "1f63fb4c-0fed-4985-a47b-913cf05c3357",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, 21 Savage, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "37b2cb82-ef79-4d46-a184-a549450aa231",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34003705355,
+                        "caa_release_mbid": "7db95535-b487-47f8-8889-fbf4358518b6",
+                        "recording_mbid": "55d7e10b-5e6e-4136-bb67-b1ad22934def",
+                        "recording_name": "Pussy & Millions",
+                        "release_group_mbid": "81463cd8-2608-41d7-9112-acf9981dd054",
+                        "release_mbid": "a2c7dbee-dcf8-4fa7-90ee-e369d0409e57"
+                    },
+                    "release_name": "Her Loss",
+                    "track_name": "Pussy & Millions (feat. Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791680316,
+                "recording_msid": "416d520a-d1e6-4a68-9cb7-f5b6a57312b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "bda75eb1-e2bc-46b3-83fc-250d73d54004",
+                        "recording_name": "CAROUSEL",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "CAROUSEL"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791680232,
+                "recording_msid": "a96a4b82-9998-4120-918c-982403c464d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti, Red Coldhearted",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "22ee7b5b-db8b-4203-af62-9063b3c2ebcc"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Red Coldhearted",
+                                "artist_mbid": "22ee7b5b-db8b-4203-af62-9063b3c2ebcc",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19853555708,
+                        "caa_release_mbid": "5867dcc6-8707-414b-83c1-a42d9d537e9f",
+                        "recording_mbid": "6a48ed74-70c1-4e87-876b-4066226200d1",
+                        "recording_name": "Middle of the Summer",
+                        "release_group_mbid": "f7479a73-66a7-41be-9f77-9e70828a5809",
+                        "release_mbid": "5f940d8a-48e7-4b81-96dd-e316fccd123f"
+                    },
+                    "release_name": "Die Lit",
+                    "track_name": "Middle Of The Summer (feat. Red Coldhearted)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791679953,
+                "recording_msid": "03bbee5d-3859-4034-b201-acb2b872c98e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2e817d2f-34a3-3e6a-97e9-376453421fea",
+                        "lastfm_track_mbid": "2b3a00e7-7a56-4d1d-8ed1-27fde97204de",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43101510210,
+                        "caa_release_mbid": "9505501e-f98d-4975-9775-63a671f713e1",
+                        "recording_mbid": "986077d0-162b-43b3-b8ff-514cfd774eba",
+                        "recording_name": "Heartless",
+                        "release_group_mbid": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+                        "release_mbid": "6ddf8a06-f80f-324c-892e-04731f5c4d62",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/63863048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/130412300"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440895165"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440895165"
+                            }
+                        ]
+                    },
+                    "release_name": "808s & Heartbreak",
+                    "track_name": "Heartless"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791679758,
+                "recording_msid": "e3decdaf-4f05-47bc-88e1-458b642c1d4f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34245704917,
+                        "caa_release_mbid": "0ae489aa-064f-4400-8879-e66cd2743329",
+                        "recording_mbid": "0e110d76-ab44-446e-8354-a0655d24484a",
+                        "recording_name": "Raindrops (Insane)",
+                        "release_group_mbid": "34b796b2-5c30-40a5-b957-80ef996c9128",
+                        "release_mbid": "067d55ab-5eb1-4a1b-96ae-8c67f1f50441"
+                    },
+                    "track_name": "Raindrops (Insane) [with Travis Scott]"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791679489,
+                "recording_msid": "3ff7b288-5784-49d2-97d3-28676fb095b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Playboi Carti, Future",
+                    "mbid_mapping": {
+                        "recording_mbid": "cdeb2b00-5617-43dc-a543-3fb989816b37"
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "WHERE WAS YOU"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791673048,
+                "recording_msid": "62e3fd08-c339-4e15-b2dd-72eb03b25a5c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "25cc9817-b14b-4f2b-832d-cd82885eedca",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "f33e8fd2-8536-42e8-9169-fae50f850dd9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kacy Hill",
+                                "artist_mbid": "f33e8fd2-8536-42e8-9169-fae50f850dd9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "92155ba2-b134-4f38-b964-1d80eb1bd75e",
+                        "recording_name": "90210",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "90210 (feat. Kacy Hill)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791673047,
+                "recording_msid": "62e3fd08-c339-4e15-b2dd-72eb03b25a5c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "25cc9817-b14b-4f2b-832d-cd82885eedca",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "f33e8fd2-8536-42e8-9169-fae50f850dd9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kacy Hill",
+                                "artist_mbid": "f33e8fd2-8536-42e8-9169-fae50f850dd9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "92155ba2-b134-4f38-b964-1d80eb1bd75e",
+                        "recording_name": "90210",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "90210 (feat. Kacy Hill)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791672872,
+                "recording_msid": "7070848f-2914-4b0a-811a-b05817c4fe5b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Weeknd, JENNIE, Lily-Rose Depp",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                            "779351de-0da5-4943-928b-495a3c40e8c0",
+                            "f0d1252e-fb06-4790-bba7-78a0f3d1e577"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": " with "
+                            },
+                            {
+                                "artist_credit_name": "JENNIE",
+                                "artist_mbid": "779351de-0da5-4943-928b-495a3c40e8c0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lily‐Rose Depp",
+                                "artist_mbid": "f0d1252e-fb06-4790-bba7-78a0f3d1e577",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35818510130,
+                        "caa_release_mbid": "3b4e66b5-ff09-423c-afe5-2b49a409373b",
+                        "recording_mbid": "960ccae4-1615-4618-8f12-462a7df85daf",
+                        "recording_name": "One of the Girls",
+                        "release_group_mbid": "8901ef99-d8cd-402f-be5c-3777a5c624b6",
+                        "release_mbid": "3b4e66b5-ff09-423c-afe5-2b49a409373b"
+                    },
+                    "release_name": "The Idol Episode 4 (Music from the HBO Original Series)",
+                    "track_name": "One Of The Girls (with JENNIE, Lily Rose Depp)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791672699,
+                "recording_msid": "c3b4ffa5-5906-40b7-bc95-6b8d08d3cff2",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future, Metro Boomin, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38355932138,
+                        "caa_release_mbid": "34d138d9-77f6-48dd-accb-4a219debc213",
+                        "recording_mbid": "9aaf6fdf-42d6-42bd-89f8-514d0c19edee",
+                        "recording_name": "Cinderella",
+                        "release_group_mbid": "566b49e2-5642-4361-9e10-90456afa935a",
+                        "release_mbid": "36202f93-9002-4262-b259-9da02f676076"
+                    },
+                    "release_name": "We don't trust you",
+                    "track_name": "Cinderella"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791687030,
+                "listened_at": 1791672476,
+                "recording_msid": "33a61a2a-1e53-42f6-a448-4149f7b1332b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2e817d2f-34a3-3e6a-97e9-376453421fea",
+                        "lastfm_track_mbid": "2be62285-628a-4d85-8136-30ef75054804",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43101510210,
+                        "caa_release_mbid": "9505501e-f98d-4975-9775-63a671f713e1",
+                        "recording_mbid": "62ff96c2-e173-41eb-875b-061ccf7c339c",
+                        "recording_name": "Street Lights",
+                        "release_group_mbid": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+                        "release_mbid": "6ddf8a06-f80f-324c-892e-04731f5c4d62",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6j8gTlbhj9KJSeypNcNAS9"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/63863053"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/130412310"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440895179"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440895179"
+                            }
+                        ]
+                    },
+                    "release_name": "808s & Heartbreak",
+                    "track_name": "Street Lights"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791657657,
+                "recording_msid": "2cb0fbb6-ccd6-4c83-9712-24997f0e89fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Future, Molly Santana",
+                    "release_name": "ICEMAN",
+                    "track_name": "Ran To Atlanta (feat. Future & Molly Santana)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791657531,
+                "recording_msid": "93fe05f6-3c9e-454d-abde-2b8fdc1a9291",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "lastfm_track_mbid": "2542c457-0e38-4b22-b729-09306b70833e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "2542c457-0e38-4b22-b729-09306b70833e",
+                        "recording_name": "California Girls",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327277"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327277"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797506"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "California Girls"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791657183,
+                "recording_msid": "1396fa8e-12a8-4fb1-af34-71579897d9fc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0b92cfbb-3d3f-42c0-8f24-b9ffed2179ea",
+                        "lastfm_track_mbid": "179d5463-b9fd-4eae-baeb-fff790785b6f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32794741851,
+                        "caa_release_mbid": "7b556a72-5c34-44b5-bf45-fa730964d193",
+                        "recording_mbid": "f4d006a6-54b6-494a-93ec-bfdb52e5dc2b",
+                        "recording_name": "Blem",
+                        "release_group_mbid": "d039390b-2452-4a5c-9b2b-32e5e80f15e0",
+                        "release_mbid": "7b556a72-5c34-44b5-bf45-fa730964d193",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/144572218"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1440891677"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/71717735"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1440891677"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt"
+                            }
+                        ]
+                    },
+                    "release_name": "More Life",
+                    "track_name": "Blem"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791657077,
+                "recording_msid": "a2d3ce46-a314-4ed7-89f4-d42682f083bf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "c9c9c7cd-3cd4-49a7-b45f-872d5b455217",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "e919f36b-7314-4bd9-8f93-eb7dc05a8ed7",
+                        "recording_name": "OVERLY",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5tRylsadMpm8TydUgq7NWj"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "OVERLY"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791656798,
+                "recording_msid": "f9a9d77b-3d4e-4174-a648-3f2728b69493",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "adf4f990-11b0-4e4b-9485-5811e5ce790c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45130352535,
+                        "caa_release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2",
+                        "recording_mbid": "adf4f990-11b0-4e4b-9485-5811e5ce790c",
+                        "recording_name": "Rusty Intro",
+                        "release_group_mbid": "b91cbc13-7db2-405b-bc1d-e4757edb4ce0",
+                        "release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2"
+                    },
+                    "release_name": "Habibti",
+                    "track_name": "Rusty Intro"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791656645,
+                "recording_msid": "3ea88b61-e959-4b17-83d8-dff43a2352db",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Smiley",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f1de5f9e-7f58-4834-b584-6d91f19210bb",
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Smiley",
+                                "artist_mbid": "f1de5f9e-7f58-4834-b584-6d91f19210bb",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31357968737,
+                        "caa_release_mbid": "c8e500ec-90e8-4714-ba82-467345fbecf4",
+                        "recording_mbid": "6769ead0-b1a2-4573-aa07-1ffde349dd6f",
+                        "recording_name": "Over the Top",
+                        "release_group_mbid": "c5c7456a-c236-4e8c-b877-92e36eeab6c7",
+                        "release_mbid": "833611a4-5efc-43b2-b51b-222bd4df64ff"
+                    },
+                    "track_name": "Over The Top (feat. Drake)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791656461,
+                "recording_msid": "4b495c40-1367-41bf-92ea-99e8d56b5d34",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "DMnG",
+                    "release_name": "GIRLFRIEND",
+                    "track_name": "Girlfriend"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791656235,
+                "recording_msid": "4403860b-9e54-4221-a9ea-320b8f5c57fe",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert, WANMOR",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25604442789,
+                        "caa_release_mbid": "77c11f45-c808-4487-af46-39a26891403d",
+                        "recording_mbid": "003bf58c-d159-482a-8aa2-051a738d05b6",
+                        "recording_name": "Prices",
+                        "release_group_mbid": "4e60f08e-4b53-4139-a8c8-5bd81fad0d62",
+                        "release_mbid": "20e4f5e2-262c-428a-a1b3-f13b9b932f7e"
+                    },
+                    "release_name": "Eternal Atake",
+                    "track_name": "Prices"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655995,
+                "recording_msid": "3b463d59-e633-4e0a-bece-e1309e94e1eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "void, BABY BOI",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89fc0530-f20f-412c-b04c-19a5d1ab2d90",
+                            "13eb66b4-7352-487d-888d-e8ecd13d9222"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "VoiD",
+                                "artist_mbid": "89fc0530-f20f-412c-b04c-19a5d1ab2d90",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Baby Boi",
+                                "artist_mbid": "13eb66b4-7352-487d-888d-e8ecd13d9222",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44678835945,
+                        "caa_release_mbid": "2861c08c-1621-4311-956a-307130134628",
+                        "recording_mbid": "3170415f-33d9-411f-b906-560a7eec783b",
+                        "recording_name": "HIGHER",
+                        "release_group_mbid": "71c87acb-20e3-4c2c-a38d-8fa5f9558fcd",
+                        "release_mbid": "2861c08c-1621-4311-956a-307130134628"
+                    },
+                    "release_name": "ANARCHY",
+                    "track_name": "HIGHER"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655758,
+                "recording_msid": "fcfb5237-129d-4696-a3c8-664ee0da4666",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, The Weeknd, Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636681174,
+                        "caa_release_mbid": "112a0781-90a8-49c6-80bd-6fad872cb40b",
+                        "recording_mbid": "32082cc4-67ef-4d94-94e9-2f293d47ae8d",
+                        "recording_name": "Hurricane",
+                        "release_group_mbid": "279e8a72-c7a8-458f-a201-69c86e616a57",
+                        "release_mbid": "112a0781-90a8-49c6-80bd-6fad872cb40b"
+                    },
+                    "release_name": "DONDA",
+                    "track_name": "HURRICANE"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655611,
+                "recording_msid": "376203c7-0744-4f16-b939-685e6d3655f3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver, Yeat",
+                    "mbid_mapping": {
+                        "recording_mbid": "f4c37894-d89d-4560-9edb-c9c9555a7eb2"
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "Rendezvous (feat. Yeat)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655422,
+                "recording_msid": "3ff7b288-5784-49d2-97d3-28676fb095b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Playboi Carti, Future",
+                    "mbid_mapping": {
+                        "recording_mbid": "cdeb2b00-5617-43dc-a543-3fb989816b37"
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "WHERE WAS YOU"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655236,
+                "recording_msid": "23bc82f9-a330-4e97-84d9-95aca1699f31",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "txmmy",
+                    "release_name": "Señorita",
+                    "track_name": "Señorita"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791655080,
+                "recording_msid": "48c50158-2173-444d-a656-9ccfbedb7b91",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "e0927e2e-d07e-46e1-870b-9e7fa883e969",
+                        "lastfm_track_mbid": "58b150ab-125f-4b85-a794-534cc7f2295e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "e0d3951e-7762-41c1-a249-7d50a541ab01",
+                        "recording_name": "DA WIZARD",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "cc80dac8-83d0-4764-b0e0-835f15775bfe"
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "DA WIZARD"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791654890,
+                "recording_msid": "0c4dd127-3013-4fa9-8dfb-31b2cd02dfdf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "0409747d-d7d3-4bba-9cce-7e1bb8b4cf0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "recording_mbid": "e9b08eee-f805-43b6-b87b-3dd9da32130b"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "Antidote"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791662973,
+                "listened_at": 1791654609,
+                "recording_msid": "4e72b4ef-ebf0-4319-b134-a09d719706d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin, Travis Scott, Young Thug",
+                    "mbid_mapping": {
+                        "recording_mbid": "23d43717-4dcb-4a6e-a6ed-bd1ba42525eb"
+                    },
+                    "release_name": "HEROES & VILLAINS",
+                    "track_name": "Trance (with Travis Scott & Young Thug)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791601865,
+                "recording_msid": "7989e6d0-c9d8-45bb-bfbf-c35cb8c3a486",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Molly Jane",
+                    "track_name": "Travis Scott - sdp interlude (Extended)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791601800,
+                "recording_msid": "409cd3fc-3f05-4963-acee-36f40b47c313",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "ca765884-ca7e-4c51-bfd1-21cefda2bf90",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "a4e236ae-bb7b-480b-a96c-342faf9bd675",
+                        "recording_name": "LIKE WEEZY",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4zK082ykqJzJGzC64NXjp1"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "LIKE WEEZY"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791601659,
+                "recording_msid": "1a3bb483-195c-4dab-83de-3c146c9f37d8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug, Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "9d91a78f-a9dc-4860-bc57-828b37429e99",
+                        "recording_name": "Bad Bad Bad",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "e66e25c8-536f-4b1e-8057-634cc2502cbc"
+                    },
+                    "release_name": "So Much Fun",
+                    "track_name": "Bad Bad Bad (feat. Lil Baby)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791601496,
+                "recording_msid": "8b6e1343-b180-4ffd-ba6a-ec2e50c7d74d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "2a4b653c-8417-4185-87b0-42462c325ec0",
+                        "recording_name": "WAKE UP F1LTHY",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "WAKE UP F1LTHY (with Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791601205,
+                "recording_msid": "c0c7cc09-6626-4f29-8b11-e9b839290940",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30555492780,
+                        "caa_release_mbid": "7a041b0e-dd4e-4598-914b-733c3331f4e2",
+                        "recording_mbid": "3d83cd0f-42be-4af8-a359-64d06c2cd993",
+                        "recording_name": "Fair Trade",
+                        "release_group_mbid": "5c2e6a17-dc0b-42bc-8fcb-a60770505e37",
+                        "release_mbid": "7a041b0e-dd4e-4598-914b-733c3331f4e2"
+                    },
+                    "release_name": "Certified Lover Boy",
+                    "track_name": "Fair Trade (with Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791600944,
+                "recording_msid": "0cd195dd-3d2e-4dc6-b96a-35fce3a22cf3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SZA, Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36028473989,
+                        "caa_release_mbid": "a38f8a03-faf9-4f09-849e-e6596c16ae5c",
+                        "recording_mbid": "0a1d4a69-14ce-43aa-b112-5d075b5894e7",
+                        "recording_name": "Open Arms",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "SOS",
+                    "track_name": "Open Arms (feat. Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791600749,
+                "recording_msid": "fd1f86be-b574-4fb6-acd2-c2955b23ada4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "If_Itzzz",
+                    "release_name": "Part Time Travis",
+                    "track_name": "Part Time Travis"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791609247,
+                "listened_at": 1791600668,
+                "recording_msid": "376d90ec-d455-4953-b655-84a4f7829806",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Archspore, 391 views",
+                    "track_name": "Travis Scott - JUNGLE GYM (Audio) #LFND2"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791600531,
+                "recording_msid": "4ed06177-0643-41d6-86fd-083a84c4c162",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "43eb6482-3e42-4421-a134-6bdd3bb847a6",
+                        "lastfm_track_mbid": "49682821-081b-4fb7-8891-69840270b4fc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "69cf5831-fb34-4e83-970c-61d72f13deea",
+                        "recording_name": "New N3on",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "release_name": "Whole Lotta Red",
+                    "track_name": "New N3on"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791600260,
+                "recording_msid": "ce2fd2b9-3ece-42c1-988e-49fffc58e2aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, PARTYNEXTDOOR",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "f23ef341-33bd-47c1-b83c-846a78581f05"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "PARTYNEXTDOOR",
+                                "artist_mbid": "f23ef341-33bd-47c1-b83c-846a78581f05",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20033907159,
+                        "caa_release_mbid": "7ca149b4-5718-444c-a113-1e12c91c8058",
+                        "recording_mbid": "69a96bec-b69c-482a-95fc-40dfde41f0b2",
+                        "recording_name": "Ghost Town",
+                        "release_group_mbid": "6448381d-9d98-4f84-b99d-733b6acde906",
+                        "release_mbid": "1f6c7a72-6f5a-4d2b-8f37-158c649e7adf"
+                    },
+                    "release_name": "ye",
+                    "track_name": "Ghost Town"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791599938,
+                "recording_msid": "1487c7e2-1dff-45cc-8659-66d99611d23b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "e0927e2e-d07e-46e1-870b-9e7fa883e969",
+                        "lastfm_track_mbid": "5c577781-b889-4b14-9f05-f6f7c6baef42",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "5c577781-b889-4b14-9f05-f6f7c6baef42",
+                        "recording_name": "DUMBO",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1826343594"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/447742176"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3457399831"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1826343594"
+                            }
+                        ]
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "DUMBO"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791599643,
+                "recording_msid": "3853c8c7-d39b-4c33-b9a1-0a6afef7f4c2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "43eb6482-3e42-4421-a134-6bdd3bb847a6",
+                        "lastfm_track_mbid": "883d7cc5-b769-4adf-87eb-4f42069f4589",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "6526e2de-335d-439e-8f11-e35c40c84ef5",
+                        "recording_name": "Beno!",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "release_name": "Whole Lotta Red",
+                    "track_name": "Beno!"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791599421,
+                "recording_msid": "996e8361-8b39-426c-b290-9b5549cb2783",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver, Travis Scott",
+                    "mbid_mapping": {
+                        "recording_mbid": "6f7e78a9-f8ff-404e-873d-6cf6aca04dc5"
+                    },
+                    "release_name": "OCTANE",
+                    "track_name": "Rosary (feat. Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791598944,
+                "recording_msid": "a0b1d99f-979e-4109-80df-c28e04dffad8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Future, 2 Chainz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "dff0d392-4cd5-4052-9fbb-f485df3891e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "2 Chainz",
+                                "artist_mbid": "dff0d392-4cd5-4052-9fbb-f485df3891e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "8914cf3d-9b05-425b-8435-d2eb6e398d13",
+                        "recording_name": "3500",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "3500 (feat. Future & 2 Chainz)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791598692,
+                "recording_msid": "17521475-f0a4-47db-856f-b1267495067f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                        "lastfm_release_mbid": "0e6bd297-d1b2-4386-8c0a-8d50eb2a33a1",
+                        "lastfm_track_mbid": "0c660649-372c-4eb3-bc92-50bf537f047f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29197443146,
+                        "caa_release_mbid": "44ae223a-3963-415f-8a35-8958543fd576",
+                        "recording_mbid": "11275af9-c8bf-4e5c-a62c-f5d88074053a",
+                        "recording_name": "Tell Your Friends",
+                        "release_group_mbid": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e",
+                        "release_mbid": "2c633a54-a053-4671-866e-c1666887cd22"
+                    },
+                    "release_name": "Beauty Behind the Madness",
+                    "track_name": "Tell Your Friends"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791598381,
+                "recording_msid": "2645d44a-c6cd-4697-bcfa-ab6c0deaa6ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, James Blake, 21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "James Blake",
+                                "artist_mbid": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "b98e7007-db7f-45b1-b4b7-e448ac8600dc",
+                        "recording_name": "TIL FURTHER NOTICE",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "release_name": "UTOPIA",
+                    "track_name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791597966,
+                "recording_msid": "81ba551f-40a3-422a-bd8b-fc3bce70cb61",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, JAŸ-Z, J. Ivy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                            "2f39cc02-3dbb-4529-ab02-51aadbe7e4e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " featuring "
+                            },
+                            {
+                                "artist_credit_name": "Jay‐Z",
+                                "artist_mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "J. Ivy",
+                                "artist_mbid": "2f39cc02-3dbb-4529-ab02-51aadbe7e4e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37280144185,
+                        "caa_release_mbid": "da13b81f-7b09-3fb6-b5c9-8551f22c797e",
+                        "recording_mbid": "3d27a299-03df-4e04-90c1-559d3e7bc3c2",
+                        "recording_name": "Never Let Me Down",
+                        "release_group_mbid": "8a01217e-6947-3927-a39b-6691104694f1",
+                        "release_mbid": "11b6532c-0de0-45bb-84fc-7e99514a4cd5",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5yMmbDIvahQv8mmQMTS3Tg"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/92099365"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/51704600"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1412873485"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1412873485"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/06TqBu4Vi2DEu2F2wNTEnb"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/51704600"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/528869501"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0XMJORJKm4q3iorGAtcait"
+                            }
+                        ]
+                    },
+                    "release_name": "The College Dropout",
+                    "track_name": "Never Let Me Down"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791597753,
+                "recording_msid": "59648e16-85ab-47bb-97f8-373989131889",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Eminem, Lil Wayne, Kanye West",
+                    "track_name": "Forever (Official Music Video)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791600616,
+                "listened_at": 1791597500,
+                "recording_msid": "f4be0dc6-7d3a-4bff-ae0e-0a4be0528b5e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "lastfm_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "lastfm_track_mbid": "300f0c44-fd73-4026-8326-3bfea1756d30",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44282799204,
+                        "caa_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "recording_mbid": "c8fcb48e-18af-48b6-b634-0fc0e3032d73",
+                        "recording_name": "The Let Out",
+                        "release_group_mbid": "e3f03ef0-79a1-4636-8266-5d19f214fc37",
+                        "release_mbid": "e18904c4-92d6-496a-ab52-ef94a13b5b37",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/496439189"
+                            }
+                        ]
+                    },
+                    "release_name": "The Fall-Off",
+                    "track_name": "The Let Out"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791593009,
+                "listened_at": 1791591591,
+                "recording_msid": "5d7d6421-5602-40ea-9513-7795f00d81f0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "1036b808-f58c-4a3e-b461-a2c4492ecf1b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Nicki Minaj",
+                                "artist_mbid": "1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21407637412,
+                        "caa_release_mbid": "b40009d1-0993-4328-b6ac-c848a980e2b1",
+                        "recording_mbid": "e96c6a74-54f0-4f5e-be63-0cb5a344a0f4",
+                        "recording_name": "Transformer",
+                        "release_group_mbid": "e6c793cb-9ee7-4e9f-968b-497c062f1304",
+                        "release_mbid": "390b2084-4595-4e83-943b-645e70233b30",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/96861375"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1439124937"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2MfcvcvWSUkstTDZXYIakq"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/569294342"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/55112392"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1439124937"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/55112392"
+                            }
+                        ]
+                    },
+                    "track_name": "Transformer (Audio)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791585643,
+                "listened_at": 1791584250,
+                "recording_msid": "5a2297a6-4506-4125-aa02-b50f78fe8a8d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nemzzz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nemzzz",
+                                "artist_mbid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "a95f53c5-7693-49f3-afc8-b606c17c0b65",
+                        "recording_name": "GASS (feat. Travis Scott)"
+                    },
+                    "track_name": "GASS (feat. Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791585643,
+                "listened_at": 1791584035,
+                "recording_msid": "28316a6d-b36f-461c-ab3c-910f5b2b72f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "8154aef2-c69e-4d5a-8bea-25f3132e7c13",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chase B",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6d74cfaf-6c67-483f-a1fe-b85d48b2378d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chase",
+                                "artist_mbid": "6d74cfaf-6c67-483f-a1fe-b85d48b2378d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "60c9e3fc-5634-4f28-ab58-3d966b89030a",
+                        "recording_name": "B",
+                        "release_group_mbid": "d08a794e-3a57-4782-bd21-ed3beecf7814",
+                        "release_mbid": "d2569b4b-3b95-41de-9123-db1994577e91"
+                    },
+                    "release_name": "BE VERY AFRAID (Vol. 1)",
+                    "track_name": "Facts"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791585643,
+                "listened_at": 1791583806,
+                "recording_msid": "92cf2898-c142-4b7f-b703-085ee1dc9873",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, Ye, Andre Troutman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "97485b35-2187-4a17-ac38-f1a05fc1b5b9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ye",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Andre Troutman",
+                                "artist_mbid": "97485b35-2187-4a17-ac38-f1a05fc1b5b9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44791300701,
+                        "caa_release_mbid": "bd8f50bf-9ddd-41ad-8499-4e04c36ea655",
+                        "recording_mbid": "cf75cd49-ad0f-44a1-af83-0eaf5487bfc0",
+                        "recording_name": "ALL THE LOVE",
+                        "release_group_mbid": "56327267-51fb-472c-919e-d6ca258ebab2",
+                        "release_mbid": "57d3915f-504f-4a14-8877-ae873d125257",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3926892721"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+                            }
+                        ]
+                    },
+                    "release_name": "BULLY",
+                    "track_name": "ALL THE LOVE (feat. Andre Troutman)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791585643,
+                "listened_at": 1791583719,
+                "recording_msid": "7989e6d0-c9d8-45bb-bfbf-c35cb8c3a486",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Molly Jane",
+                    "track_name": "Travis Scott - sdp interlude (Extended)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791572007,
+                "recording_msid": "50a80fdf-9b30-4e4b-bd7a-28052f05d769",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "¥$, Kanye West, Ty Dolla $ign",
+                    "track_name": "River"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791571767,
+                "recording_msid": "4dd160cc-b260-42a4-bcc9-b30d3c1439ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin, Travis Scott, 21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34245737801,
+                        "caa_release_mbid": "2f58792e-a91a-4038-8828-c70e072492fd",
+                        "recording_mbid": "1125f56c-9f64-4ee7-9445-973f9df0db66",
+                        "recording_name": "Niagara Falls (Foot or 2)",
+                        "release_group_mbid": "34b796b2-5c30-40a5-b957-80ef996c9128",
+                        "release_mbid": "067d55ab-5eb1-4a1b-96ae-8c67f1f50441"
+                    },
+                    "release_name": "HEROES & VILLAINS",
+                    "track_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791571543,
+                "recording_msid": "0efda6eb-5401-4564-86c1-27f0b63476d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "407427a6-ecdb-47e5-8e40-6b1536f47593",
+                        "recording_name": "HOUSTONFORNICATION",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "HOUSTONFORNICATION"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791571360,
+                "recording_msid": "a0b27d42-f6c4-4dd2-9eea-67b648f2245a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32795066264,
+                        "caa_release_mbid": "e89408bd-ec73-4aec-af3b-e8ce9d5078a2",
+                        "recording_mbid": "e8c947d6-d3ef-4458-9961-f71f88cbea70",
+                        "recording_name": "Live From the Gutter",
+                        "release_group_mbid": "a2e3ca75-1e07-457b-973a-069e8d9c6c56",
+                        "release_mbid": "cc53d818-8482-41c2-ae4e-66727757a5a9"
+                    },
+                    "release_name": "What a Time To Be Alive",
+                    "track_name": "Live From the Gutter"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791571156,
+                "recording_msid": "33a61a2a-1e53-42f6-a448-4149f7b1332b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2e817d2f-34a3-3e6a-97e9-376453421fea",
+                        "lastfm_track_mbid": "2be62285-628a-4d85-8136-30ef75054804",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43101510210,
+                        "caa_release_mbid": "9505501e-f98d-4975-9775-63a671f713e1",
+                        "recording_mbid": "62ff96c2-e173-41eb-875b-061ccf7c339c",
+                        "recording_name": "Street Lights",
+                        "release_group_mbid": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+                        "release_mbid": "6ddf8a06-f80f-324c-892e-04731f5c4d62",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6j8gTlbhj9KJSeypNcNAS9"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/63863053"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/130412310"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440895179"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440895179"
+                            }
+                        ]
+                    },
+                    "release_name": "808s & Heartbreak",
+                    "track_name": "Street Lights"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791571031,
+                "recording_msid": "4e72b4ef-ebf0-4319-b134-a09d719706d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin, Travis Scott, Young Thug",
+                    "mbid_mapping": {
+                        "recording_mbid": "23d43717-4dcb-4a6e-a6ed-bd1ba42525eb"
+                    },
+                    "release_name": "HEROES & VILLAINS",
+                    "track_name": "Trance (with Travis Scott & Young Thug)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791570651,
+                "recording_msid": "733f2770-876d-4df6-add5-84e9dcd85ca6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_track_mbid": "7505ad2f-0e7c-4dbc-8281-3888730929e7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10953712152,
+                        "caa_release_mbid": "f420f175-4cba-4ae5-849f-2200e2f9216c",
+                        "recording_mbid": "906d5b83-ad72-414c-964b-af024e1c0447",
+                        "recording_name": "Fuck Up Some Commas",
+                        "release_group_mbid": "9ac43ae5-c0de-42f6-8365-b68de4966833",
+                        "release_mbid": "ae9420ff-9589-4f71-b4bd-29ac5b82b878"
+                    },
+                    "release_name": "DS2 (Deluxe)",
+                    "track_name": "Fuck Up Some Commas"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791570487,
+                "recording_msid": "ad40cf63-a6bb-43d3-97b8-f57ba04bdf35",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "¥$, Kanye West, Ty Dolla $ign",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "58daf317-be5f-439f-a04d-0d6727f1a3b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "¥$",
+                                "artist_mbid": "58daf317-be5f-439f-a04d-0d6727f1a3b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38023689906,
+                        "caa_release_mbid": "ac54ae52-6423-4835-952c-9a320d442f13",
+                        "recording_mbid": "cc122de1-fce1-4403-8f96-bc43f123be47",
+                        "recording_name": "BURN",
+                        "release_group_mbid": "c4d999c3-983d-4149-8580-9ccb4567a12a",
+                        "release_mbid": "124a70c0-451e-492a-b388-88206065e7fe"
+                    },
+                    "release_name": "Vultures 1",
+                    "track_name": "Burn"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791575089,
+                "listened_at": 1791570203,
+                "recording_msid": "1742177c-155a-4327-811e-814520301d85",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17513443505,
+                        "caa_release_mbid": "3c8821aa-7839-465a-86f7-8988b3bff12e",
+                        "recording_mbid": "056fbf4a-a354-447f-91a9-39e0fb823a64",
+                        "recording_name": "Love Galore",
+                        "release_group_mbid": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+                        "release_mbid": "2d5626a5-0fea-4604-97bb-4778c5c1e52f"
+                    },
+                    "track_name": "Love Galore (Official Video) (feat. Travis Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791564036,
+                "recording_msid": "58a47551-1ca3-4836-a01f-87d187c9e4e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Future, Young Thug, M.I.A.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "M.I.A.",
+                                "artist_mbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27348328338,
+                        "caa_release_mbid": "87ee4ef6-d980-43d1-9efb-ce7c06b4d4ac",
+                        "recording_mbid": "76a67752-05bf-49dd-bb48-4ee8f6fac2ac",
+                        "recording_name": "FRANCHISE",
+                        "release_group_mbid": "88e8e6f0-a46d-442d-9ce3-847c193d264a",
+                        "release_mbid": "e3582b41-2dc4-4b16-a21e-c587ceb7bdbd",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/156305625"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1532784716"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1532784716"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/102467911"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/102467911"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1089612082"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3z1R9MSXyRdCvFNtDFwGhB"
+                            }
+                        ]
+                    },
+                    "release_name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
+                    "track_name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791563887,
+                "recording_msid": "20e1373d-6274-49b0-8477-27e647783420",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chase B, Travis Scott, Don Toliver, Quavo, Ty Dolla $ign",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fd9ae276-af7a-4ca1-ba33-02696ece031d",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "a0723a3c-4135-438e-85c5-012712144ede",
+                            "6143403a-df6c-429e-8ee6-ef869896b0da",
+                            "7bd66c18-cb33-49aa-9279-140acedbdb49"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chase B",
+                                "artist_mbid": "fd9ae276-af7a-4ca1-ba33-02696ece031d",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ty Dolla $ign",
+                                "artist_mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44464705038,
+                        "caa_release_mbid": "8154aef2-c69e-4d5a-8bea-25f3132e7c13",
+                        "recording_mbid": "a59b2bf3-39de-4f24-9b2e-88e33f16ac1b",
+                        "recording_name": "Ring Ring",
+                        "release_group_mbid": "5dd736b1-efcf-4042-a95f-86e25f2e34f8",
+                        "release_mbid": "8154aef2-c69e-4d5a-8bea-25f3132e7c13"
+                    },
+                    "release_name": "Ring Ring",
+                    "track_name": "Ring Ring"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791563631,
+                "recording_msid": "90b48235-d38e-4c6e-a4ec-63df2f33eadd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Bad Bunny, The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bad Bunny",
+                                "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "28ca224c-489c-48e6-b0d8-a7c67851d9ca",
+                        "recording_name": "K‐POP",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "release_name": "Utopia",
+                    "track_name": "K-POP (feat. Bad Bunny & The Weeknd)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791563294,
+                "recording_msid": "7b7b5ec7-fb8e-4e5f-a559-7dc0f053fb0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Channel.Unreleased",
+                    "track_name": "Metro Boomin - Trance ft Travis Scott, Drake, Young Thug"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791563264,
+                "recording_msid": "002b69b3-07f1-4807-9d0f-8d14fce85c0b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "lastfm_track_mbid": "2cf0fc7f-5a12-4928-8f21-dfe06bcc5a0a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "2cf0fc7f-5a12-4928-8f21-dfe06bcc5a0a",
+                        "recording_name": "No Misery",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327275"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797505"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/68V6KjU8OVGYfebIAwsUza"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327275"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "No Misery"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791563080,
+                "recording_msid": "0a95a65b-94a5-4f6a-a7ef-51d0455e4ad4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "0d70a1d7-5465-4fa6-8520-9891527fbe6e",
+                        "lastfm_track_mbid": "2fa630fd-4eaa-4db1-ab9f-ca8fb4027322",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "75a38235-5db3-4545-bd4c-e4de9baee068",
+                        "recording_name": "Magnolia",
+                        "release_group_mbid": "cf49ee3e-658e-4bac-929f-eedec5ecf27d",
+                        "release_mbid": "b2d63750-05c8-4fa0-be7c-f7c3a4737a4a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=oCveByMXd_0"
+                            }
+                        ]
+                    },
+                    "release_name": "Playboi Carti",
+                    "track_name": "Magnolia"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791562870,
+                "recording_msid": "457af31e-d810-4400-967e-6959f077b35b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e81009e1-5cf8-4344-95bf-02356374421c",
+                        "lastfm_track_mbid": "5b20177b-2841-479a-a4f3-591179732053",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "5b20177b-2841-479a-a4f3-591179732053",
+                        "recording_name": "2024",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "28b8ff94-c1ab-4881-82c1-995df4e4d983",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
+                            }
+                        ]
+                    },
+                    "release_name": "MUSIC - SORRY 4 DA WAIT",
+                    "track_name": "2024"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791562617,
+                "recording_msid": "0125c56b-3d71-4acb-800a-f425c11fc993",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "dbc22816-428e-4194-9b53-d2a5cdc1b983",
+                        "recording_name": "NO BYSTANDERS",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "NO BYSTANDERS"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791562268,
+                "recording_msid": "1a4a63e5-b2ea-45ef-9f4f-9ce5d6532624",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22067926644,
+                        "caa_release_mbid": "de4bad60-728d-437f-a997-f00352a31bee",
+                        "recording_mbid": "5ebc2841-3320-44c2-838a-4f40aaf0235e",
+                        "recording_name": "out for the night",
+                        "release_group_mbid": "f56fbad2-66bc-4c51-b744-1349835e7a7c",
+                        "release_mbid": "1fedf6e5-ae2a-4d42-b274-3a3f6bff35ee"
+                    },
+                    "release_name": "i am > i was (Deluxe)",
+                    "track_name": "out for the night - part 2"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791562106,
+                "recording_msid": "4d2ffd9f-2e25-4cb1-8a80-cd8310fee9b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "narcsonalities, surelynotsibi, vampcult",
+                    "release_name": "Bulletproof",
+                    "track_name": "Bulletproof"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791561811,
+                "recording_msid": "196c6922-457c-490f-97dd-6aadb70a253c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0fb96892-3890-40d8-b374-43b7e5c67d27",
+                        "lastfm_track_mbid": "7256a797-30ee-4752-8360-5af9a3c909c0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, Pusha T",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "14ecd19f-7121-4192-8549-e5056241a42f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Pusha T",
+                                "artist_mbid": "14ecd19f-7121-4192-8549-e5056241a42f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39032890177,
+                        "caa_release_mbid": "cd474271-bd7a-4d53-ba9e-e9d5bd7958cb",
+                        "recording_mbid": "a24f67ff-a81e-4a95-817d-c0b4e5af3e6b",
+                        "recording_name": "Runaway",
+                        "release_group_mbid": "5d6e21e1-deb5-428e-bb42-c2a567f3619b",
+                        "release_mbid": "cd474271-bd7a-4d53-ba9e-e9d5bd7958cb",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440621284"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0jOL63hLMeSCHTXPdFkniq"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/4875690"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/7667065"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440621284"
+                            }
+                        ]
+                    },
+                    "release_name": "MY BEAUTIFUL DARK TWISTED FANTASY",
+                    "track_name": "Runaway"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791557061,
+                "recording_msid": "196c6922-457c-490f-97dd-6aadb70a253c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0fb96892-3890-40d8-b374-43b7e5c67d27",
+                        "lastfm_track_mbid": "7256a797-30ee-4752-8360-5af9a3c909c0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West, Pusha T",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "14ecd19f-7121-4192-8549-e5056241a42f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Pusha T",
+                                "artist_mbid": "14ecd19f-7121-4192-8549-e5056241a42f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39032890177,
+                        "caa_release_mbid": "cd474271-bd7a-4d53-ba9e-e9d5bd7958cb",
+                        "recording_mbid": "a24f67ff-a81e-4a95-817d-c0b4e5af3e6b",
+                        "recording_name": "Runaway",
+                        "release_group_mbid": "5d6e21e1-deb5-428e-bb42-c2a567f3619b",
+                        "release_mbid": "cd474271-bd7a-4d53-ba9e-e9d5bd7958cb",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440621284"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0jOL63hLMeSCHTXPdFkniq"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/4875690"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/7667065"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440621284"
+                            }
+                        ]
+                    },
+                    "release_name": "MY BEAUTIFUL DARK TWISTED FANTASY",
+                    "track_name": "Runaway"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791564648,
+                "listened_at": 1791556809,
+                "recording_msid": "f9c8c3e9-052f-40d8-898e-1c195f572c1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Duke, Travis Scott",
+                    "mbid_mapping": {
+                        "recording_mbid": "19e01d8e-8bfb-4e68-82bf-9d9ef7c9a276"
+                    },
+                    "release_name": "Lil Duke",
+                    "track_name": "On My Vibe (Feat. Travi$ Scott)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791551594,
+                "recording_msid": "60a71bcb-e45b-4fdd-b001-565ce6390b38",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "429732f1-eb97-492c-8823-798d1863ac62",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "e2557250-84a0-4b19-b296-ed4c075e63e7",
+                        "recording_name": "WALK",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5Qya13gFXqupr4sSmZMKDg"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "WALK"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791551379,
+                "recording_msid": "7b7b5ec7-fb8e-4e5f-a559-7dc0f053fb0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Channel.Unreleased",
+                    "track_name": "Metro Boomin - Trance ft Travis Scott, Drake, Young Thug"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791551232,
+                "recording_msid": "9ba6754e-6e78-457a-9e56-68c5d2756ad4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "0bad5e32-13f8-4a91-9fba-f51d6963b76e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "a03b7ae0-6833-459d-a8c7-15741e4e565f",
+                        "recording_name": "CRANK",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "CRANK"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791548229,
+                "recording_msid": "01d89d26-0bc7-4672-992b-09d2ae0a5a38",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "43eb6482-3e42-4421-a134-6bdd3bb847a6",
+                        "lastfm_track_mbid": "dd9f48b9-86ba-438b-9448-11fa9890c505",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "db045fdf-303e-4185-a7b4-e69f27274614",
+                        "recording_name": "Over",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "release_name": "Whole Lotta Red",
+                    "track_name": "Over"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791547982,
+                "recording_msid": "715f458f-472a-4599-8f0b-ac8bf5a826e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "1a810510-064b-4d4b-a3c1-b8d637a200c0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti, Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41495699074,
+                        "caa_release_mbid": "05ff6111-6188-4934-b826-d6b5e5a89596",
+                        "recording_mbid": "8380e1c8-df2f-435b-8d53-d130322b3c02",
+                        "recording_name": "wokeuplikethis*",
+                        "release_group_mbid": "33082eca-fd6b-4819-9fda-87770922f661",
+                        "release_mbid": "05ff6111-6188-4934-b826-d6b5e5a89596"
+                    },
+                    "release_name": "Playboi Carti",
+                    "track_name": "wokeuplikethis*"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791554305,
+                "listened_at": 1791546208,
+                "recording_msid": "715f458f-472a-4599-8f0b-ac8bf5a826e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "1a810510-064b-4d4b-a3c1-b8d637a200c0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti, Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41495699074,
+                        "caa_release_mbid": "05ff6111-6188-4934-b826-d6b5e5a89596",
+                        "recording_mbid": "8380e1c8-df2f-435b-8d53-d130322b3c02",
+                        "recording_name": "wokeuplikethis*",
+                        "release_group_mbid": "33082eca-fd6b-4819-9fda-87770922f661",
+                        "release_mbid": "05ff6111-6188-4934-b826-d6b5e5a89596"
+                    },
+                    "release_name": "Playboi Carti",
+                    "track_name": "wokeuplikethis*"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791547000,
+                "listened_at": 1791544500,
+                "recording_msid": "260e0c4c-d105-4c62-879f-0a11b9c4e079",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "0381496f-b809-49e3-8817-ffb473bc434d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "0381496f-b809-49e3-8817-ffb473bc434d",
+                        "recording_name": "I Can Tell",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "I Can Tell"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791547000,
+                "listened_at": 1791544176,
+                "recording_msid": "d8e4e823-3f71-4373-bc17-e1c792be3314",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "I Am Hip-Hop",
+                    "track_name": "Travis Scott - Swang ft. Rae Sremmurd"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791547000,
+                "listened_at": 1791543990,
+                "recording_msid": "73c170e0-252f-4d25-8ca2-8419a7dce115",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, YoungBoy Never Broke Again",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "0901ce0e-65c7-42db-a264-72b07dab8fa9",
+                        "recording_name": "outside",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13"
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "OUTSIDE"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791547000,
+                "listened_at": 1791543859,
+                "recording_msid": "29292887-27dd-4586-9131-adcca1bbdab2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "23883c62-18b7-407b-a8d1-2c66cb58fb7a",
+                        "lastfm_track_mbid": "9058fc45-6396-435f-9e2e-be6511bbd23a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30944412549,
+                        "caa_release_mbid": "8052a9d4-3d20-4f66-a94b-cc9d8cbc437a",
+                        "recording_mbid": "afcd34f4-e8ff-4976-8811-fe760cedb530",
+                        "recording_name": "Praise God",
+                        "release_group_mbid": "7f4792fe-b563-4554-849a-95a89be71f84",
+                        "release_mbid": "61b235f7-a362-4d4a-b6ce-a325964d313e"
+                    },
+                    "release_name": "Donda",
+                    "track_name": "Praise God"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791547000,
+                "listened_at": 1791543732,
+                "recording_msid": "313ea1f9-8365-4f6c-b7e8-3aa23746ae69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti, Skepta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "38474d18-9204-4f60-a137-1fcc6750b869"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Skepta",
+                                "artist_mbid": "38474d18-9204-4f60-a137-1fcc6750b869",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37514080159,
+                        "caa_release_mbid": "11fe09ea-695d-44ae-9a7e-e7f94108b4c7",
+                        "recording_mbid": "bcfdf829-9096-4c26-ad95-4fde4dd38fab",
+                        "recording_name": "Lean 4 Real",
+                        "release_group_mbid": "f7479a73-66a7-41be-9f77-9e70828a5809",
+                        "release_mbid": "5f940d8a-48e7-4b81-96dd-e316fccd123f"
+                    },
+                    "release_name": "Die Lit",
+                    "track_name": "Lean 4 Real (feat. Skepta)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791509804,
+                "listened_at": 1791503370,
+                "recording_msid": "0e47b9fb-4d9c-491d-a11c-a63482729b64",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "a5208cd2-1249-458b-9ab4-409e955e35fd",
+                        "lastfm_track_mbid": "338f7a8a-389a-4b57-9d11-ad582dadb3dd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27250409402,
+                        "caa_release_mbid": "a5208cd2-1249-458b-9ab4-409e955e35fd",
+                        "recording_mbid": "42e10857-5fc0-42b1-a9ad-070c9bf3e756",
+                        "recording_name": "guidance",
+                        "release_group_mbid": "2d87c53b-5e6b-40c6-9c37-d7fe7bec08bd",
+                        "release_mbid": "607c5f49-d968-40e1-b822-81d07c7fc774"
+                    },
+                    "release_name": "Birds in the Trap Sing McKnight",
+                    "track_name": "guidance"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791509804,
+                "listened_at": 1791503175,
+                "recording_msid": "7b7b5ec7-fb8e-4e5f-a559-7dc0f053fb0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Channel.Unreleased",
+                    "track_name": "Metro Boomin - Trance ft Travis Scott, Drake, Young Thug"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791509804,
+                "listened_at": 1791503174,
+                "recording_msid": "7b7b5ec7-fb8e-4e5f-a559-7dc0f053fb0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Channel.Unreleased",
+                    "track_name": "Metro Boomin - Trance ft Travis Scott, Drake, Young Thug"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791475563,
+                "listened_at": 1791473222,
+                "recording_msid": "2cb0fbb6-ccd6-4c83-9712-24997f0e89fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Future, Molly Santana",
+                    "release_name": "ICEMAN",
+                    "track_name": "Ran To Atlanta (feat. Future & Molly Santana)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791475563,
+                "listened_at": 1791470449,
+                "recording_msid": "2cb0fbb6-ccd6-4c83-9712-24997f0e89fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Future, Molly Santana",
+                    "release_name": "ICEMAN",
+                    "track_name": "Ran To Atlanta (feat. Future & Molly Santana)"
+                },
+                "user_name": "prath"
+            },
+            {
+                "inserted_at": 1791475563,
+                "listened_at": 1791469419,
+                "recording_msid": "49dbea82-8568-4a14-8254-2168a8a617e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott, Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "e356a034-f31d-436d-a6f5-fb0a15249add",
+                        "recording_name": "SKITZO",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "release_name": "UTOPIA",
+                    "track_name": "SKITZO (feat. Young Thug)"
+                },
+                "user_name": "prath"
+            }
+        ],
+        "oldest_listen_ts": 1782224456,
+        "user_id": "prath"
+    }
+}

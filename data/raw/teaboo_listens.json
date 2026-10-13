@@ -1,0 +1,3682 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1780742999,
+        "listens": [
+            {
+                "inserted_at": 1780743805,
+                "listened_at": 1780742999,
+                "recording_msid": "7da6ab7a-2d38-4dd5-ad2c-091d2ff34369",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Brawltime",
+                    "release_name": "Dragons and Fairies Soundtrack",
+                    "track_name": "Dragons and Fairies Soundtrack"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1779035692,
+                "listened_at": 1778667183,
+                "recording_msid": "3a639081-48ec-43a0-b594-2116835dd668",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "07832b42-8826-4ab1-acd3-c49a2f595ffe",
+                        "lastfm_release_mbid": "725d205f-264e-4e0c-a1ef-ecd8deea6eae",
+                        "lastfm_track_mbid": "d31a7b8f-73d1-4d21-a801-75abfb5a0ae4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "6LACK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "07832b42-8826-4ab1-acd3-c49a2f595ffe"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "6LACK",
+                                "artist_mbid": "07832b42-8826-4ab1-acd3-c49a2f595ffe",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45190192831,
+                        "caa_release_mbid": "3915acf1-0e87-4203-b6aa-ac6ec93ad6aa",
+                        "recording_mbid": "d31a7b8f-73d1-4d21-a801-75abfb5a0ae4",
+                        "recording_name": "Bird Flu",
+                        "release_group_mbid": "7c7d99b0-810a-458d-889c-5a566391a389",
+                        "release_mbid": "bcbca480-34f0-42e3-a77a-0ab0d25884fd"
+                    },
+                    "release_name": "Bird Flu",
+                    "track_name": "Bird Flu"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778670154,
+                "listened_at": 1778664912,
+                "recording_msid": "293c335c-732a-4188-9145-9fb51c56ccd1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "GOOLAME",
+                    "release_name": "Demonio Siniestro",
+                    "track_name": "Sindrome"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778665892,
+                "listened_at": 1778483303,
+                "recording_msid": "8c938b93-fc65-4cc4-9481-95d6bdfe0e4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f",
+                        "lastfm_track_mbid": "37e84f35-ec20-4a45-9903-00756ef0c2ee",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "recording_mbid": "defcdc8e-4d14-4584-87d2-b470b2f1fcc0"
+                    },
+                    "release_name": "2069'",
+                    "track_name": "Nouvelles"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778480498,
+                "listened_at": 1778479491,
+                "recording_msid": "ec45fbda-3896-4669-8e0d-47592c0899e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nono La Grinta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ef57061a-5919-4c3c-8905-ceb7615eb874"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nono La Grinta",
+                                "artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45146811477,
+                        "caa_release_mbid": "bb43e6ec-9e6a-42c5-8844-d2baffe9e9b8",
+                        "recording_mbid": "84fbcb59-a4cc-43c8-a8d6-808c8c3c80ef",
+                        "recording_name": "LOVE YOU",
+                        "release_group_mbid": "94b71cb7-b8ed-42ad-82a1-5751f829405e",
+                        "release_mbid": "bb43e6ec-9e6a-42c5-8844-d2baffe9e9b8"
+                    },
+                    "release_name": "LOVE YOU",
+                    "track_name": "LOVE YOU"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778480498,
+                "listened_at": 1778479344,
+                "recording_msid": "15c9d66d-961b-4b20-b834-e2ae54f7d488",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "15d97e20-69c3-4876-8dcc-3360c7d1251b",
+                        "lastfm_release_mbid": "6bcb0034-7f00-4b92-b608-28ab5d91f6b1",
+                        "lastfm_track_mbid": "987a1df2-2341-4277-8d9a-9c385755dba6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3648e742-f0d1-4b8c-9e38-316a82f85fc0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zola",
+                                "artist_mbid": "3648e742-f0d1-4b8c-9e38-316a82f85fc0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22478975249,
+                        "caa_release_mbid": "828f3a33-a691-4f92-8b24-79a16a882cd3",
+                        "recording_mbid": "ede2a89e-33f7-4afc-a026-b1f36b1069bf",
+                        "recording_name": "L1 L2",
+                        "release_group_mbid": "c8dba77c-590f-4e9a-bdc9-b060e687e99f",
+                        "release_mbid": "828f3a33-a691-4f92-8b24-79a16a882cd3"
+                    },
+                    "release_name": "Cicatrices",
+                    "track_name": "L1 L2"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778480498,
+                "listened_at": 1778479195,
+                "recording_msid": "dc3a8927-1d2c-4a38-898e-5d10819db0a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c0da285a-81ad-41a2-8d04-d4a7e6cfb90c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Mano 1.9",
+                    "release_name": "CHANEL",
+                    "track_name": "CHANEL"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1778480498,
+                "listened_at": 1777313300,
+                "recording_msid": "4300ebe7-5bdb-40ac-a366-609d2469e0a6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nono La Grinta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ef57061a-5919-4c3c-8905-ceb7615eb874"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nono La Grinta",
+                                "artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45146811477,
+                        "caa_release_mbid": "bb43e6ec-9e6a-42c5-8844-d2baffe9e9b8",
+                        "recording_mbid": "eabb4747-3c8b-4cb5-8aec-32c22713e644",
+                        "recording_name": "FLASH-BACK",
+                        "release_group_mbid": "94b71cb7-b8ed-42ad-82a1-5751f829405e",
+                        "release_mbid": "bb43e6ec-9e6a-42c5-8844-d2baffe9e9b8"
+                    },
+                    "release_name": "FLASH-BACK",
+                    "track_name": "FLASH-BACK"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1777317771,
+                "listened_at": 1777312393,
+                "recording_msid": "ca5176b0-4f7c-4252-ac23-c5cd26b92ef3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "227d4a96-9f3e-4664-881c-062227e29b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25607171606,
+                        "caa_release_mbid": "c4e0a080-081d-4702-b164-48727d00974e",
+                        "recording_mbid": "241e924f-908a-412d-b8a1-5fcdf11dfda2",
+                        "recording_name": "Zipette",
+                        "release_group_mbid": "2e663084-48df-4208-ada9-06609d242769",
+                        "release_mbid": "e548a296-6982-43a8-bfce-acc362204f13"
+                    },
+                    "release_name": "M.I.L.S 3",
+                    "track_name": "ZIPETTE"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1777317771,
+                "listened_at": 1777312244,
+                "recording_msid": "dc3a8927-1d2c-4a38-898e-5d10819db0a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c0da285a-81ad-41a2-8d04-d4a7e6cfb90c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Mano 1.9",
+                    "release_name": "CHANEL",
+                    "track_name": "CHANEL"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1777317771,
+                "listened_at": 1777312084,
+                "recording_msid": "e841e887-d7cb-4fcb-a433-59950333f4d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Leto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Leto",
+                                "artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45701210673,
+                        "caa_release_mbid": "19d2697f-0111-4f9c-ae4b-c354d98569de",
+                        "recording_mbid": "970be35e-99e8-4a36-86db-6935baa015aa",
+                        "recording_name": "Pineapple",
+                        "release_group_mbid": "24b09d11-f4ee-489e-ad9e-3b833769115c",
+                        "release_mbid": "19d2697f-0111-4f9c-ae4b-c354d98569de"
+                    },
+                    "release_name": "Pineapple",
+                    "track_name": "Pineapple"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1777317771,
+                "listened_at": 1777231785,
+                "recording_msid": "63187c9b-6518-417c-ad22-3943532b07a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gambi",
+                    "release_name": "RENÉ CAOVILLA",
+                    "track_name": "RENÉ CAOVILLA"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1775904348,
+                "listened_at": 1775901176,
+                "recording_msid": "5acaad47-c813-4efb-8c57-b5c91d299cea",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b",
+                        "lastfm_track_mbid": "daf9bed3-3f55-4368-b566-c423a4714ddc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "55304866-1b79-4365-a6b1-961c95e9fc57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PLK",
+                                "artist_mbid": "55304866-1b79-4365-a6b1-961c95e9fc57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19421763335,
+                        "caa_release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b",
+                        "recording_mbid": "ae431623-599c-4b04-a005-506459590359",
+                        "recording_name": "Copine",
+                        "release_group_mbid": "ac23e602-cd0b-4834-bbd5-b519c8d26437",
+                        "release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b"
+                    },
+                    "release_name": "Platinum",
+                    "track_name": "Copine"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1775904348,
+                "listened_at": 1775901011,
+                "recording_msid": "c22d1c27-2977-4159-9c69-570347be9419",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                        "lastfm_release_mbid": "594f8909-c2cd-4268-961d-f224e0bd5c95",
+                        "lastfm_track_mbid": "e647e4f7-c5c6-458d-9790-88697278b952",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Rvfleuze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cb96c37d-cb64-48d2-9b67-56a0eafb1e45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rvfleuze",
+                                "artist_mbid": "cb96c37d-cb64-48d2-9b67-56a0eafb1e45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44707060207,
+                        "caa_release_mbid": "594f8909-c2cd-4268-961d-f224e0bd5c95",
+                        "recording_mbid": "e647e4f7-c5c6-458d-9790-88697278b952",
+                        "recording_name": "PARLU",
+                        "release_group_mbid": "01738df7-a43b-4469-9970-e822aa8cafd6",
+                        "release_mbid": "594f8909-c2cd-4268-961d-f224e0bd5c95",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1884058271"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3911003931"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1884058271"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/510366522"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
+                            }
+                        ]
+                    },
+                    "release_name": "Numéro d'écrou",
+                    "track_name": "PARLU"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1775904348,
+                "listened_at": 1775161762,
+                "recording_msid": "2fd4516d-a095-4718-8155-cd89bd7e7564",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "release_name": "Grand Garçon",
+                    "track_name": "Jamie Bynoe-Gittens"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1775904348,
+                "listened_at": 1775160232,
+                "recording_msid": "2fd4516d-a095-4718-8155-cd89bd7e7564",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "release_name": "Grand Garçon",
+                    "track_name": "Jamie Bynoe-Gittens"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1775164770,
+                "listened_at": 1774906142,
+                "recording_msid": "1734904f-0b17-4210-b339-5997374b8417",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "15d97e20-69c3-4876-8dcc-3360c7d1251b",
+                        "lastfm_track_mbid": "9bfd6c8a-763f-4dc0-8bc2-b0e1ee1f6414",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3134d99c-a372-424a-9f65-d2dacfdccaba"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zola",
+                                "artist_mbid": "3134d99c-a372-424a-9f65-d2dacfdccaba",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "f54d89b8-bdbc-4534-965a-722ce13471d8",
+                        "recording_name": "California Girl",
+                        "release_group_mbid": "e17d9105-908d-4a1d-a3f8-c5c75bf9bfcf",
+                        "release_mbid": "6c06630e-e223-4ad0-a1ff-7d35dea1a5d8"
+                    },
+                    "release_name": "California Girl (Extrait de la BOF de \"Taxi 5\")",
+                    "track_name": "California Girl"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774905293,
+                "recording_msid": "cf8fb4d7-2848-4ee9-a047-5c0d955109ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                        "lastfm_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "lastfm_track_mbid": "9a6fcb2d-694b-423f-bca6-25904acdef76",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SDM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ee5acbd5-d291-4fe1-a06a-88060b131b77"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SDM",
+                                "artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39987000322,
+                        "caa_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "recording_mbid": "1b386c60-336e-473b-b8fe-fbc64d6dd7eb",
+                        "recording_name": "CARTIER SANTOS",
+                        "release_group_mbid": "901888b7-d739-4c52-b3ee-c453ac83d882",
+                        "release_mbid": "7dde3f73-8591-437a-b612-80d175f26ad4",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1819699060"
+                            }
+                        ]
+                    },
+                    "release_name": "A LA VIE A LA MORT",
+                    "track_name": "CARTIER SANTOS"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774905093,
+                "recording_msid": "5acaad47-c813-4efb-8c57-b5c91d299cea",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b",
+                        "lastfm_track_mbid": "daf9bed3-3f55-4368-b566-c423a4714ddc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "55304866-1b79-4365-a6b1-961c95e9fc57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PLK",
+                                "artist_mbid": "55304866-1b79-4365-a6b1-961c95e9fc57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19421763335,
+                        "caa_release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b",
+                        "recording_mbid": "ae431623-599c-4b04-a005-506459590359",
+                        "recording_name": "Copine",
+                        "release_group_mbid": "ac23e602-cd0b-4834-bbd5-b519c8d26437",
+                        "release_mbid": "1314ac9e-f190-4f30-822f-b4e65ba9dc3b"
+                    },
+                    "release_name": "Platinum",
+                    "track_name": "Copine"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774904778,
+                "recording_msid": "545ba9df-06e1-4649-8180-e93245cf2523",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "0ede0407-0f67-41cd-aa21-c59709deb872",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "recording_mbid": "bf891049-1471-4dbc-91fa-f91052c60440"
+                    },
+                    "release_name": "M.I.L.S",
+                    "track_name": "Dis-moi que tu m'aimes"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774904533,
+                "recording_msid": "b15849e4-e59b-470d-a465-09e5ec3c7c84",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nekfeu",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d721866d-5640-44ee-87f7-23dd062abd8a",
+                            "46193c80-959a-499d-b42f-f33ba7b9b18e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nekfeu",
+                                "artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Vanessa Paradis",
+                                "artist_mbid": "46193c80-959a-499d-b42f-f33ba7b9b18e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23232462013,
+                        "caa_release_mbid": "88a6a103-3024-4142-8e5e-d0db4780546a",
+                        "recording_mbid": "00e5ad5e-3d10-420a-92ec-01da00525690",
+                        "recording_name": "Dans l’univers",
+                        "release_group_mbid": "6f0b2fb5-0bb1-4114-b99a-83ab05e5d22b",
+                        "release_mbid": "c5b82a73-18f1-4c9f-b565-9733d81de48d"
+                    },
+                    "release_name": "Les étoiles vagabondes : expansion",
+                    "track_name": "Dans l'univers"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774904380,
+                "recording_msid": "61f775e8-c068-4ba9-838f-a5ef991535fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2bd0c272-dd22-4395-8381-18fa2fa59f1e",
+                        "lastfm_release_mbid": "558c953a-7d89-4b2d-b397-2eb69a289106",
+                        "lastfm_track_mbid": "275fec31-943b-4913-8db1-817fa13ef9c7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tiakola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2bd0c272-dd22-4395-8381-18fa2fa59f1e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tiakola",
+                                "artist_mbid": "2bd0c272-dd22-4395-8381-18fa2fa59f1e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45728280579,
+                        "caa_release_mbid": "36013793-657b-48a5-8dee-6491cea1c379",
+                        "recording_mbid": "275fec31-943b-4913-8db1-817fa13ef9c7",
+                        "recording_name": "Meuda",
+                        "release_group_mbid": "f7c8f02f-a70f-442e-b279-534ea779c2e7",
+                        "release_mbid": "36013793-657b-48a5-8dee-6491cea1c379"
+                    },
+                    "release_name": "Mélo",
+                    "track_name": "Meuda"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774904232,
+                "recording_msid": "15c9d66d-961b-4b20-b834-e2ae54f7d488",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "15d97e20-69c3-4876-8dcc-3360c7d1251b",
+                        "lastfm_release_mbid": "6bcb0034-7f00-4b92-b608-28ab5d91f6b1",
+                        "lastfm_track_mbid": "987a1df2-2341-4277-8d9a-9c385755dba6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3648e742-f0d1-4b8c-9e38-316a82f85fc0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zola",
+                                "artist_mbid": "3648e742-f0d1-4b8c-9e38-316a82f85fc0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22478975249,
+                        "caa_release_mbid": "828f3a33-a691-4f92-8b24-79a16a882cd3",
+                        "recording_mbid": "ede2a89e-33f7-4afc-a026-b1f36b1069bf",
+                        "recording_name": "L1 L2",
+                        "release_group_mbid": "c8dba77c-590f-4e9a-bdc9-b060e687e99f",
+                        "release_mbid": "828f3a33-a691-4f92-8b24-79a16a882cd3"
+                    },
+                    "release_name": "Cicatrices",
+                    "track_name": "L1 L2"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774908260,
+                "listened_at": 1774904005,
+                "recording_msid": "db85318b-cdc6-4c8b-808c-8862f093bac7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                        "lastfm_track_mbid": "e7b8d34d-1683-4209-9735-fa61b62db5ea",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SDM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ee5acbd5-d291-4fe1-a06a-88060b131b77"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SDM",
+                                "artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34255163903,
+                        "caa_release_mbid": "bfd0ac0e-a331-43e0-abfa-608c1bfaba5f",
+                        "recording_mbid": "e7b8d34d-1683-4209-9735-fa61b62db5ea",
+                        "recording_name": "Mr. Ocho",
+                        "release_group_mbid": "4d78135b-3542-4f67-af8f-6538d34489db",
+                        "release_mbid": "bfd0ac0e-a331-43e0-abfa-608c1bfaba5f"
+                    },
+                    "release_name": "Liens du 100",
+                    "track_name": "Mr. Ocho"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774903822,
+                "recording_msid": "c7d74809-6b7c-4d65-8d37-213e3f2489b3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f",
+                        "lastfm_track_mbid": "5d804114-599e-43b9-b80b-4e473260ef81",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "55304866-1b79-4365-a6b1-961c95e9fc57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PLK",
+                                "artist_mbid": "55304866-1b79-4365-a6b1-961c95e9fc57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35406302819,
+                        "caa_release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f",
+                        "recording_mbid": "5d804114-599e-43b9-b80b-4e473260ef81",
+                        "recording_name": "Demain",
+                        "release_group_mbid": "76fe5ec3-0118-49b7-831a-0927b3c40f79",
+                        "release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f"
+                    },
+                    "release_name": "2069'",
+                    "track_name": "Demain"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774903657,
+                "recording_msid": "f35de262-15d8-4cbc-92de-0a2333e3a183",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_track_mbid": "fcd32e8c-49cd-41f5-a2cd-dbb6165b48b5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37192738657,
+                        "caa_release_mbid": "0753f072-6bd0-454c-84b7-767f10231fec",
+                        "recording_mbid": "fcd32e8c-49cd-41f5-a2cd-dbb6165b48b5",
+                        "recording_name": "Ailleurs",
+                        "release_group_mbid": "1cfd42c0-2bbf-4ea2-8d2f-2e3e7b5deea5",
+                        "release_mbid": "0753f072-6bd0-454c-84b7-767f10231fec"
+                    },
+                    "release_name": "J.000.$",
+                    "track_name": "Ailleurs"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774903527,
+                "recording_msid": "1c554ef0-38f9-4a27-b0ba-3e0ecc8e2cf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Leto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Leto",
+                                "artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39804928020,
+                        "caa_release_mbid": "671ccf28-cb3c-4f32-8e1f-49f225942cfe",
+                        "recording_mbid": "0a8925eb-2683-441e-ad0e-167d5b36d383",
+                        "recording_name": "J'crois qu'ils ont pas compris",
+                        "release_group_mbid": "bee7bc44-a0c4-4b8f-ad0f-f64244047827",
+                        "release_mbid": "671ccf28-cb3c-4f32-8e1f-49f225942cfe"
+                    },
+                    "release_name": "Capitaine fait de l'art",
+                    "track_name": "J’crois qu’ils ont pas compris"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774903281,
+                "recording_msid": "3c5e7202-edfe-4aef-807d-32387eaca11e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hamza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6a2244c9-3122-454e-b83d-b23e2968884e",
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hamza",
+                                "artist_mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24926041241,
+                        "caa_release_mbid": "f6e3bbe0-007c-4f31-8b0b-956bb0cfbf8f",
+                        "recording_mbid": "f5e30854-a2b3-4def-a3d5-47edc4156d99",
+                        "recording_name": "God Bless",
+                        "release_group_mbid": "20b26a10-e317-468f-baee-aee6f10c2cc8",
+                        "release_mbid": "f6e3bbe0-007c-4f31-8b0b-956bb0cfbf8f"
+                    },
+                    "release_name": "Santa Sauce 2",
+                    "track_name": "God Bless (feat. Damso)"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774903128,
+                "recording_msid": "20c2ca1e-cf4d-432f-b717-e0ef02929d48",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3134d99c-a372-424a-9f65-d2dacfdccaba",
+                            "52315221-8b06-4fb1-bfd3-16057aa4f9e1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zola",
+                                "artist_mbid": "3134d99c-a372-424a-9f65-d2dacfdccaba",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Koba LaD",
+                                "artist_mbid": "52315221-8b06-4fb1-bfd3-16057aa4f9e1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37873335234,
+                        "caa_release_mbid": "1da88a00-956f-48bc-81e0-c0a582dc9407",
+                        "recording_mbid": "f0a04105-0220-443e-bc8a-90ffdf2a6365",
+                        "recording_name": "Temps en temps",
+                        "release_group_mbid": "cdb503a1-c62e-4a4a-827f-1f26593a3d66",
+                        "release_mbid": "1da88a00-956f-48bc-81e0-c0a582dc9407"
+                    },
+                    "release_name": "Frères Ennemis",
+                    "track_name": "Temps en temps"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774902916,
+                "recording_msid": "ca5176b0-4f7c-4252-ac23-c5cd26b92ef3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "227d4a96-9f3e-4664-881c-062227e29b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25607171606,
+                        "caa_release_mbid": "c4e0a080-081d-4702-b164-48727d00974e",
+                        "recording_mbid": "241e924f-908a-412d-b8a1-5fcdf11dfda2",
+                        "recording_name": "Zipette",
+                        "release_group_mbid": "2e663084-48df-4208-ada9-06609d242769",
+                        "release_mbid": "e548a296-6982-43a8-bfce-acc362204f13"
+                    },
+                    "release_name": "M.I.L.S 3",
+                    "track_name": "ZIPETTE"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774902736,
+                "recording_msid": "8c938b93-fc65-4cc4-9481-95d6bdfe0e4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f",
+                        "lastfm_track_mbid": "37e84f35-ec20-4a45-9903-00756ef0c2ee",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "recording_mbid": "defcdc8e-4d14-4584-87d2-b470b2f1fcc0"
+                    },
+                    "release_name": "2069'",
+                    "track_name": "Nouvelles"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774901200,
+                "recording_msid": "4fd1ceda-385c-4d84-9eb2-2ede1cb8d0c1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "55304866-1b79-4365-a6b1-961c95e9fc57"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PLK",
+                                "artist_mbid": "55304866-1b79-4365-a6b1-961c95e9fc57",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44586206050,
+                        "caa_release_mbid": "6c30458f-0994-4e5a-b21d-cdaf777e3fa5",
+                        "recording_mbid": "8e070988-a534-4741-a16d-d2038b4a5e6d",
+                        "recording_name": "Pocahontas",
+                        "release_group_mbid": "145052b5-2c23-49eb-8be7-b59e9252ff65",
+                        "release_mbid": "6c30458f-0994-4e5a-b21d-cdaf777e3fa5"
+                    },
+                    "release_name": "Grand Garçon",
+                    "track_name": "Pocahontas"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774904189,
+                "listened_at": 1774646854,
+                "recording_msid": "277ae3dd-71c5-411c-afa1-530c8df5b3b5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0017e52a-e23a-437a-a5c1-18ed4ebe968e",
+                        "lastfm_track_mbid": "0fee1037-af03-4cc9-bb3e-46d406a9dc33",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Raggasonic",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0017e52a-e23a-437a-a5c1-18ed4ebe968e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Raggasonic",
+                                "artist_mbid": "0017e52a-e23a-437a-a5c1-18ed4ebe968e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18947355495,
+                        "caa_release_mbid": "68fdfbf1-4cb5-4f0e-b7e9-1029e4ef4c18",
+                        "recording_mbid": "4d0883bc-96c1-4ab7-b89b-310309a85271",
+                        "recording_name": "Faut pas me prendre pour un âne",
+                        "release_group_mbid": "aebaac9a-2ca8-366c-8f0e-8be42bb1f81e",
+                        "release_mbid": "68fdfbf1-4cb5-4f0e-b7e9-1029e4ef4c18"
+                    },
+                    "release_name": "Raggasonic2",
+                    "track_name": "Faut pas me prendre pour un âne"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1774645295,
+                "listened_at": 1773777691,
+                "recording_msid": "ca5176b0-4f7c-4252-ac23-c5cd26b92ef3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "227d4a96-9f3e-4664-881c-062227e29b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25607171606,
+                        "caa_release_mbid": "c4e0a080-081d-4702-b164-48727d00974e",
+                        "recording_mbid": "241e924f-908a-412d-b8a1-5fcdf11dfda2",
+                        "recording_name": "Zipette",
+                        "release_group_mbid": "2e663084-48df-4208-ada9-06609d242769",
+                        "release_mbid": "e548a296-6982-43a8-bfce-acc362204f13"
+                    },
+                    "release_name": "M.I.L.S 3",
+                    "track_name": "ZIPETTE"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1773775984,
+                "listened_at": 1773773813,
+                "recording_msid": "8c938b93-fc65-4cc4-9481-95d6bdfe0e4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "dc81fa60-3c19-412a-ada9-e7ba2b9f474f",
+                        "lastfm_track_mbid": "37e84f35-ec20-4a45-9903-00756ef0c2ee",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "recording_mbid": "defcdc8e-4d14-4584-87d2-b470b2f1fcc0"
+                    },
+                    "release_name": "2069'",
+                    "track_name": "Nouvelles"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1773775984,
+                "listened_at": 1773579496,
+                "recording_msid": "70f12da1-76a6-4824-8946-9d213ceb378e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ebf6549c-1cc8-4af1-85fe-50fa611cd61f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jolagreen23",
+                    "release_name": "23 JOURS PLUS TARD",
+                    "track_name": "LOCKED UP (feat. Tiakola)"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1773582381,
+                "listened_at": 1773578570,
+                "recording_msid": "30e9fbc3-db5b-4e7c-b793-61c0b4f9b52a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PLK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "55304866-1b79-4365-a6b1-961c95e9fc57",
+                            "3d519348-d1eb-4e8d-aab4-85ebe819bc46"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PLK",
+                                "artist_mbid": "55304866-1b79-4365-a6b1-961c95e9fc57",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Theodora",
+                                "artist_mbid": "3d519348-d1eb-4e8d-aab4-85ebe819bc46",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44586206050,
+                        "caa_release_mbid": "6c30458f-0994-4e5a-b21d-cdaf777e3fa5",
+                        "recording_mbid": "8e16e616-033c-4013-b45d-ec7c78a6fc3c",
+                        "recording_name": "Sex Model",
+                        "release_group_mbid": "145052b5-2c23-49eb-8be7-b59e9252ff65",
+                        "release_mbid": "6c30458f-0994-4e5a-b21d-cdaf777e3fa5"
+                    },
+                    "release_name": "Grand Garçon",
+                    "track_name": "Sex Model"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1771690216,
+                "listened_at": 1771686671,
+                "recording_msid": "a6e6c881-48da-4f79-858d-6d0a4b1e30d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                        "lastfm_track_mbid": "6106a5f1-b97c-43ca-931a-0cd81f85b204",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Leto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Leto",
+                                "artist_mbid": "635e50a0-3c8f-4675-a0e6-9e3555cc4e0a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39804928020,
+                        "caa_release_mbid": "671ccf28-cb3c-4f32-8e1f-49f225942cfe",
+                        "recording_mbid": "6106a5f1-b97c-43ca-931a-0cd81f85b204",
+                        "recording_name": "TNF",
+                        "release_group_mbid": "bee7bc44-a0c4-4b8f-ad0f-f64244047827",
+                        "release_mbid": "671ccf28-cb3c-4f32-8e1f-49f225942cfe"
+                    },
+                    "release_name": "Capitaine fait de l'art",
+                    "track_name": "TNF"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1771690216,
+                "listened_at": 1771686477,
+                "recording_msid": "a5d3224b-b342-4bea-b33a-b6090f18dd39",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gazo",
+                    "release_name": "NO LÈCHE 🚫👅 (feat. Favé, Kerchak & Leto)",
+                    "track_name": "NO LÈCHE"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1771690216,
+                "listened_at": 1771686265,
+                "recording_msid": "ca5176b0-4f7c-4252-ac23-c5cd26b92ef3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "227d4a96-9f3e-4664-881c-062227e29b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25607171606,
+                        "caa_release_mbid": "c4e0a080-081d-4702-b164-48727d00974e",
+                        "recording_mbid": "241e924f-908a-412d-b8a1-5fcdf11dfda2",
+                        "recording_name": "Zipette",
+                        "release_group_mbid": "2e663084-48df-4208-ada9-06609d242769",
+                        "release_mbid": "e548a296-6982-43a8-bfce-acc362204f13"
+                    },
+                    "release_name": "M.I.L.S 3",
+                    "track_name": "ZIPETTE"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1769103651,
+                "listened_at": 1769103649,
+                "recording_msid": "85544399-9217-4d7a-8e37-d8483eda03f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Andrea Laszlo De Simone"
+                        ],
+                        "duration_ms": 225460,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Andrea Laszlo De Simone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "83d74820-6a4c-4557-a18b-9c22f1f0e00f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Andrea Laszlo De Simone",
+                                "artist_mbid": "83d74820-6a4c-4557-a18b-9c22f1f0e00f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40900528899,
+                        "caa_release_mbid": "b6531ed2-662f-4956-8f67-0d929875bb27",
+                        "recording_mbid": "5119ac0f-2f94-4ea6-b858-1ccc3ac70be7",
+                        "recording_name": "Immensità",
+                        "release_group_mbid": "78175c31-5a36-4327-ab44-4c2511b71733",
+                        "release_mbid": "f327ea6e-b2a0-4c30-99d4-883c5d9bfd17"
+                    },
+                    "release_name": "Immensità",
+                    "track_name": "Immensità"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768849041,
+                "listened_at": 1768849041,
+                "recording_msid": "2b456276-efda-49da-9111-febe45ba0a46",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "L'Impératrice"
+                        ],
+                        "duration_ms": 254640,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "L'Impératrice",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "abc31be8-02b2-4bb1-867d-604d50b7be78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "L’Impératrice",
+                                "artist_mbid": "abc31be8-02b2-4bb1-867d-604d50b7be78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26789296036,
+                        "caa_release_mbid": "f162a613-7ec9-47b5-b0a3-9634b853e2c7",
+                        "recording_mbid": "bfaa8759-daa6-4bd8-8106-4f3bdcaa26d7",
+                        "recording_name": "Vanille fraise",
+                        "release_group_mbid": "9558d416-faba-4c26-91bc-b29d148d95c4",
+                        "release_mbid": "f162a613-7ec9-47b5-b0a3-9634b853e2c7",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/vanille-fraise-original-mix/9114520"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/l-imperatrice/limperatrice_vanille-fraise"
+                            }
+                        ]
+                    },
+                    "release_name": "Vanille fraise",
+                    "track_name": "Vanille fraise"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768848783,
+                "listened_at": 1768848783,
+                "recording_msid": "1bb402e0-2170-4d82-aa2f-0fc0e41084d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Nina Simone"
+                        ],
+                        "duration_ms": 444360,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Nina Simone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2944824d-4c26-476f-a981-be849081942f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nina Simone",
+                                "artist_mbid": "2944824d-4c26-476f-a981-be849081942f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43993086705,
+                        "caa_release_mbid": "06df1eee-8690-464e-b3eb-6750b082f633",
+                        "recording_mbid": "267ae56b-1278-4e63-a85d-1e5b25bb67e0",
+                        "recording_name": "Stars",
+                        "release_group_mbid": "ac04ce32-c457-4972-86a6-bf08388c3f85",
+                        "release_mbid": "70f9e3ec-fedc-4061-80e1-bfdca6e95109"
+                    },
+                    "release_name": "Nina Simone: The Montreux Years (Live)",
+                    "track_name": "Stars (Live – Montreux Jazz Festival 1976)"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768848339,
+                "listened_at": 1768848339,
+                "recording_msid": "7eac0250-d9a3-49f7-a7d1-50ce4b2d5f6b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Zaho de Sagazan"
+                        ],
+                        "duration_ms": 195620,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Zaho de Sagazan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "87685458-1aef-49b7-945b-03a892d9c482"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zaho de Sagazan",
+                                "artist_mbid": "87685458-1aef-49b7-945b-03a892d9c482",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43517204158,
+                        "caa_release_mbid": "750932b7-cc5d-453b-bf02-52fcecb6edd5",
+                        "recording_mbid": "cc7df437-f24b-4f6c-a319-2716bc055b49",
+                        "recording_name": "La Symphonie des éclairs",
+                        "release_group_mbid": "3a975b4e-3eef-42cb-aea7-38722d6af7aa",
+                        "release_mbid": "8bc1d6aa-c399-4457-a632-e9567dfd07ab"
+                    },
+                    "release_name": "La symphonie des éclairs",
+                    "track_name": "La symphonie des éclairs"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768848142,
+                "listened_at": 1768848142,
+                "recording_msid": "9119bb64-2671-4a82-8ec2-6af29773555d",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Møme, Merryn Jeann"
+                        ],
+                        "duration_ms": 214490,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Møme, Merryn Jeann",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "01bf8b98-e9b3-4d89-b052-f5702eac8e3b",
+                            "4d23b447-a35a-4e7e-a0d8-04d3f875b07e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Møme",
+                                "artist_mbid": "01bf8b98-e9b3-4d89-b052-f5702eac8e3b",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Merryn Jeann",
+                                "artist_mbid": "4d23b447-a35a-4e7e-a0d8-04d3f875b07e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15091524276,
+                        "caa_release_mbid": "3956b4cb-d82c-46fa-ab51-9ed228a62e18",
+                        "recording_mbid": "4808b42d-9a10-4838-90db-445515f0740e",
+                        "recording_name": "Aloha",
+                        "release_group_mbid": "53f854f1-b49e-41d2-a87a-4d926ddf11b0",
+                        "release_mbid": "3956b4cb-d82c-46fa-ab51-9ed228a62e18",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=2f8c56PpZmg"
+                            }
+                        ]
+                    },
+                    "release_name": "Panorama",
+                    "track_name": "Aloha"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768847692,
+                "listened_at": 1768847692,
+                "recording_msid": "909b9ebe-6fb8-4cd0-97be-47fac99a2eb3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Clara Ysé"
+                        ],
+                        "duration_ms": 183190,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Clara Ysé",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6618e6c4-f667-4030-b7a3-f587db525818"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Clara Ysé",
+                                "artist_mbid": "6618e6c4-f667-4030-b7a3-f587db525818",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37210742399,
+                        "caa_release_mbid": "83acc27b-707d-4edf-a2ed-e5142cc29d18",
+                        "recording_mbid": "69851ca3-d72a-4d59-a827-81f1f12af3d3",
+                        "recording_name": "Douce",
+                        "release_group_mbid": "7bf1f84e-d608-45d2-b8ea-5280ea57adad",
+                        "release_mbid": "d6c8c700-d62a-4a19-82e0-891a7ccee924"
+                    },
+                    "release_name": "Douce",
+                    "track_name": "Douce"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768847277,
+                "listened_at": 1768847277,
+                "recording_msid": "ae16ae04-bb23-47d6-87a5-201d9521268a",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "La Rue Kétanou"
+                        ],
+                        "duration_ms": 213140,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "La Rue Kétanou",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fddf4c3e-fecc-4fe4-83d7-eb830dcfee2b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Rue Kétanou",
+                                "artist_mbid": "fddf4c3e-fecc-4fe4-83d7-eb830dcfee2b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6529698175,
+                        "caa_release_mbid": "9c6ebf22-04b5-42b7-80f1-c86ac897acbf",
+                        "recording_mbid": "4f33d128-98ff-4e5e-b34e-958e9b8c9db4",
+                        "recording_name": "Les Hommes que j’aime",
+                        "release_group_mbid": "252fc7b8-5cba-3b3b-9dc4-4f5dec3b2a10",
+                        "release_mbid": "9c6ebf22-04b5-42b7-80f1-c86ac897acbf"
+                    },
+                    "release_name": "Y'a des cigales dans la fourmilière",
+                    "track_name": "Les hommes que j'aime"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768847062,
+                "listened_at": 1768847063,
+                "recording_msid": "1caf11dd-c28b-4c9e-9d2a-a0542cd8118b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Angèle"
+                        ],
+                        "duration_ms": 200060,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Angèle",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Angele",
+                                "artist_mbid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21208185124,
+                        "caa_release_mbid": "e1dd3378-8660-4bde-8a82-e883b9492155",
+                        "recording_mbid": "491bdc4c-a61b-44d7-b73c-f9ffd6e6446d",
+                        "recording_name": "La Thune",
+                        "release_group_mbid": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+                        "release_mbid": "e1dd3378-8660-4bde-8a82-e883b9492155"
+                    },
+                    "release_name": "La thune",
+                    "track_name": "La thune"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768562114,
+                "listened_at": 1768562113,
+                "recording_msid": "024be8aa-3b23-48ca-ab04-531140c8ac72",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "La Femme"
+                        ],
+                        "duration_ms": 217010,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "La Femme",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "559211a5-2a51-4346-ba84-5cc74821a1cd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Femme",
+                                "artist_mbid": "559211a5-2a51-4346-ba84-5cc74821a1cd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38298233696,
+                        "caa_release_mbid": "0dc07037-6572-4ded-9b6e-ce3d00eed87c",
+                        "recording_mbid": "52ff6510-2022-4cd7-9d35-72ace5d10ea2",
+                        "recording_name": "Sur la planche 2013",
+                        "release_group_mbid": "7b676273-b645-4581-8f9f-3713bd2a20d8",
+                        "release_mbid": "1ddc6293-6ce5-42ad-8936-976133784f5a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=NwVA5zYfNWw"
+                            }
+                        ]
+                    },
+                    "release_name": "Psycho Tropical Berlin",
+                    "track_name": "Sur la planche 2013"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768561729,
+                "listened_at": 1768561727,
+                "recording_msid": "6a88b2ba-4835-485b-9849-4bccf7fabd07",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Pépite"
+                        ],
+                        "duration_ms": 233830,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Pépite",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1adb15e4-222c-4ab4-b062-03370f2f5da9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pépite",
+                                "artist_mbid": "1adb15e4-222c-4ab4-b062-03370f2f5da9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45212959897,
+                        "caa_release_mbid": "022932d4-0be1-43de-b95d-6e253af5d2c9",
+                        "recording_mbid": "5cead943-390b-4c34-aada-d38aefadd1f7",
+                        "recording_name": "Feu rouge",
+                        "release_group_mbid": "899b71cc-f383-445a-8b13-ec633c302119",
+                        "release_mbid": "022932d4-0be1-43de-b95d-6e253af5d2c9"
+                    },
+                    "release_name": "Virages",
+                    "track_name": "Feu rouge"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768558640,
+                "listened_at": 1768558639,
+                "recording_msid": "185ac0da-0834-493b-80d5-85d9d1ef61a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "George Gershwin"
+                        ],
+                        "duration_ms": 67680,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 39
+                    },
+                    "artist_name": "George Gershwin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "65744963-191a-44ef-a3c7-b693a808a158"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "George Gershwin",
+                                "artist_mbid": "65744963-191a-44ef-a3c7-b693a808a158",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21750922356,
+                        "caa_release_mbid": "065cf053-f1db-475e-8b4b-d5cc1628b5c5",
+                        "recording_mbid": "1799f96f-fb36-4694-9a92-7456336af0df",
+                        "recording_name": "Prelude No.3",
+                        "release_group_mbid": "20d2b12a-9cd8-3175-9239-4b2b7aab49e1",
+                        "release_mbid": "065cf053-f1db-475e-8b4b-d5cc1628b5c5"
+                    },
+                    "release_name": "Classical Music In Movies",
+                    "track_name": "Prelude No.3"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768558338,
+                "listened_at": 1768558337,
+                "recording_msid": "298c4e6d-5bb3-48aa-89c6-d8b9a52c50a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Otis Redding"
+                        ],
+                        "duration_ms": 224390,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Otis Redding",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Otis Redding",
+                                "artist_mbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18213421778,
+                        "caa_release_mbid": "8e181bc6-7453-4cdc-bc42-3a0a99d07690",
+                        "recording_mbid": "0109653e-af59-452d-9794-f5ef64408155",
+                        "recording_name": "Try a Little Tenderness",
+                        "release_group_mbid": "aeea2d91-3d98-389e-92fc-ff0db34762be",
+                        "release_mbid": "c01ca57d-e8fe-4abc-9c1a-192934217002"
+                    },
+                    "release_name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+                    "track_name": "Try a Little Tenderness"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768558114,
+                "listened_at": 1768558113,
+                "recording_msid": "0d2a2182-a6f6-4276-8be4-07f408968f26",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Barbara"
+                        ],
+                        "duration_ms": 248710,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 14
+                    },
+                    "artist_name": "Barbara",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cf8ffbfe-02ba-4b91-a608-9783d91f709a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Barbara",
+                                "artist_mbid": "cf8ffbfe-02ba-4b91-a608-9783d91f709a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23443878205,
+                        "caa_release_mbid": "4c39e0ed-9f23-4c06-bd5c-fbfb3dadd767",
+                        "recording_mbid": "71fda458-9913-4835-b1e3-5d5f4588704c",
+                        "recording_name": "Ne me quitte pas",
+                        "release_group_mbid": "fdc0e785-1763-4d03-a218-38945a06ce40",
+                        "release_mbid": "4c39e0ed-9f23-4c06-bd5c-fbfb3dadd767"
+                    },
+                    "release_name": "Barbara chante Brassens et Brel",
+                    "track_name": "Ne me quitte pas"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768552125,
+                "listened_at": 1768552127,
+                "recording_msid": "35dc0c63-4f42-4120-aa97-bee7dacb0eef",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Youn Sun Nah/Vincent Peirani/Lars Danielsson/Xavier Desandre Navarre"
+                        ],
+                        "duration_ms": 260540,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Youn Sun Nah/Vincent Peirani/Lars Danielsson/Xavier Desandre Navarre",
+                    "release_name": "Lento",
+                    "track_name": "Empty Dream"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768551198,
+                "listened_at": 1768551199,
+                "recording_msid": "6efb72ed-3fde-4847-83c2-ea9966bcd7d0",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Clement Bazin"
+                        ],
+                        "duration_ms": 249650,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Clement Bazin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "23a5eb94-27fb-49f1-92d5-4e8c02feaac1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Clément Bazin",
+                                "artist_mbid": "23a5eb94-27fb-49f1-92d5-4e8c02feaac1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "1e7fa075-38af-4e1c-a8cf-50e0483673e7",
+                        "recording_name": "Come to This",
+                        "release_group_mbid": "409dc723-b9f5-4f99-9788-a5a863816f94",
+                        "release_mbid": "d56c5b52-a43a-444d-aadf-f995a7f1592e"
+                    },
+                    "release_name": "Night Things",
+                    "track_name": "Come to This"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768502729,
+                "listened_at": 1768502712,
+                "recording_msid": "7f81af07-6f07-49cd-a5ce-40297fd3023d",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "The Maytals"
+                        ],
+                        "duration_ms": 200830,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 40
+                    },
+                    "artist_name": "The Maytals",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Maytals",
+                                "artist_mbid": "29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6747906804,
+                        "caa_release_mbid": "54821518-061f-4428-ba7f-0149eb0789b8",
+                        "recording_mbid": "0a955cf8-1561-4c3a-9078-dcfa2b1c3b43",
+                        "recording_name": "54-46 Was My Number",
+                        "release_group_mbid": "cbc01be6-7b74-3c04-bebd-c16d6295659b",
+                        "release_mbid": "489260d6-5158-45a9-b59a-5465f5b252c5"
+                    },
+                    "release_name": "The Best of The Maytals",
+                    "track_name": "54-46 Was My Number"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768502510,
+                "listened_at": 1768502511,
+                "recording_msid": "17fdcc5a-bf1e-47fb-beac-2f0d5e89a740",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Charlotte Cardin"
+                        ],
+                        "duration_ms": 182690,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Charlotte Cardin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "62a6ba5d-6e8a-406d-a768-44a433ff1f7f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Charlotte Cardin",
+                                "artist_mbid": "62a6ba5d-6e8a-406d-a768-44a433ff1f7f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41012914560,
+                        "caa_release_mbid": "d68c1879-2247-4744-ae25-31b8458bd8c7",
+                        "recording_mbid": "b8b26fd0-371b-4a32-b6c7-c4bcdb8412fa",
+                        "recording_name": "Confetti",
+                        "release_group_mbid": "8af4189b-446f-4c5e-a802-e4f3315020f1",
+                        "release_mbid": "9d6c0acd-1c73-4fd3-b062-b9d382b0f57b",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2406929325"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4TWjkZWxsCdki8RF822xGB"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/291351715"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/1684601377"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/1684601377"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://charlottecardin.bandcamp.com/track/confetti-2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/310351087"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/de/song/1690697698"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2402734245"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://charlottecardin.bandcamp.com/track/confetti-2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/318751930"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1709399188"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2474693231"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0f6vIrkkUn4u3L0jg7JqbU"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1709399188"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/309837513"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1690697698"
+                            }
+                        ]
+                    },
+                    "release_name": "99 Nights",
+                    "track_name": "Confetti"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768502291,
+                "listened_at": 1768502292,
+                "recording_msid": "9cca9459-a024-4161-89f7-b7496c4eacbe",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Yael Naim"
+                        ],
+                        "duration_ms": 220490,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Yael Naim",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "def226b0-7990-4b38-ab1a-7740461844dc"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yael Naïm",
+                                "artist_mbid": "def226b0-7990-4b38-ab1a-7740461844dc",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27654067255,
+                        "caa_release_mbid": "2f14cb7f-9932-40c9-83b0-0473fbd55556",
+                        "recording_mbid": "264c9bee-169e-4b1c-8502-85654b3d2e5b",
+                        "recording_name": "She",
+                        "release_group_mbid": "b0c5e240-01d9-4973-bf3a-96fa6db34655",
+                        "release_mbid": "a14b00ea-c099-4ef2-88f9-143d2efcf084",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4c03MGPpi3isORgHVHt46r"
+                            }
+                        ]
+                    },
+                    "release_name": "She",
+                    "track_name": "She"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768501616,
+                "listened_at": 1768501616,
+                "recording_msid": "0b122ee0-f2d5-49fe-a475-58200eb17be4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Cesária Evora"
+                        ],
+                        "duration_ms": 217180,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Cesária Evora",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ceafdf2f-bc18-4b99-8c71-d1834b0065c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cesária Évora",
+                                "artist_mbid": "ceafdf2f-bc18-4b99-8c71-d1834b0065c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6113927602,
+                        "caa_release_mbid": "217b84ab-0a31-3962-a56c-4f193744951f",
+                        "recording_mbid": "f16edae0-861b-4825-9692-a5cda82fc7b4",
+                        "recording_name": "Sodade",
+                        "release_group_mbid": "be6e9478-a32d-3a5f-9ad0-f0be447ac42d",
+                        "release_mbid": "217b84ab-0a31-3962-a56c-4f193744951f"
+                    },
+                    "release_name": "Miss Perfumado",
+                    "track_name": "Sodade"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768501371,
+                "listened_at": 1768501371,
+                "recording_msid": "17abc49b-b908-4ca0-adf1-542326ac08f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Andrea Laszlo De Simone"
+                        ],
+                        "duration_ms": 298750,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 4
+                    },
+                    "artist_name": "Andrea Laszlo De Simone",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "83d74820-6a4c-4557-a18b-9c22f1f0e00f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Andrea Laszlo De Simone",
+                                "artist_mbid": "83d74820-6a4c-4557-a18b-9c22f1f0e00f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40900528899,
+                        "caa_release_mbid": "b6531ed2-662f-4956-8f67-0d929875bb27",
+                        "recording_mbid": "7217c982-b9b1-4672-bb87-09e821674a1d",
+                        "recording_name": "Conchiglie",
+                        "release_group_mbid": "78175c31-5a36-4327-ab44-4c2511b71733",
+                        "release_mbid": "f327ea6e-b2a0-4c30-99d4-883c5d9bfd17"
+                    },
+                    "release_name": "Immensità",
+                    "track_name": "Conchiglie"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768498952,
+                "listened_at": 1768498952,
+                "recording_msid": "34f5e400-cdad-4ad2-becf-cf15516f3f4f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Alain Souchon"
+                        ],
+                        "duration_ms": 327840,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Alain Souchon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "69737ebe-836c-40dc-a938-7e85688426ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Alain Souchon",
+                                "artist_mbid": "69737ebe-836c-40dc-a938-7e85688426ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2865943608,
+                        "caa_release_mbid": "86217a6f-308f-41a4-8700-310199c76eea",
+                        "recording_mbid": "b689e8b3-7122-4837-9e80-ec4cc5a7f2b6",
+                        "recording_name": "Foule sentimentale",
+                        "release_group_mbid": "f45d266f-d688-3a28-a596-6295fbb471dd",
+                        "release_mbid": "86217a6f-308f-41a4-8700-310199c76eea"
+                    },
+                    "release_name": "C'est déjà ça",
+                    "track_name": "Foule sentimentale"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768498621,
+                "listened_at": 1768498622,
+                "recording_msid": "b8ec20b4-d851-4572-9d21-aa72716616df",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Guts"
+                        ],
+                        "duration_ms": 305810,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Guts",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a1f8f29c-4163-48d1-9469-35f74e61ee4e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Guts",
+                                "artist_mbid": "a1f8f29c-4163-48d1-9469-35f74e61ee4e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33692945691,
+                        "caa_release_mbid": "77fcc668-7336-433d-96be-65641334e7eb",
+                        "recording_mbid": "690e2c64-4166-4f78-9ad9-35b8403ad2f9",
+                        "recording_name": "Come Closer",
+                        "release_group_mbid": "e660247b-0171-4f48-9d8d-bedad1a4cd62",
+                        "release_mbid": "9d5e7d5c-f019-49e8-87d0-234d783a3f21"
+                    },
+                    "release_name": "Paradise for All",
+                    "track_name": "Come Closer"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768498316,
+                "listened_at": 1768498316,
+                "recording_msid": "36bc88b5-1e1a-48fc-9423-a66143520195",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Emily Loizeau"
+                        ],
+                        "duration_ms": 198050,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Emily Loizeau",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "51a77a0b-69be-41c4-88f4-22f25a9a63e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Emily Loizeau",
+                                "artist_mbid": "51a77a0b-69be-41c4-88f4-22f25a9a63e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2734388850,
+                        "caa_release_mbid": "ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd",
+                        "recording_mbid": "ddf9c83c-125a-4d48-8017-e8ed285fe5a4",
+                        "recording_name": "L’Autre Bout du monde",
+                        "release_group_mbid": "36ec3068-2a59-31d5-8894-df768fbd4291",
+                        "release_mbid": "ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd"
+                    },
+                    "release_name": "L'Autre Bout Du Monde",
+                    "track_name": "L'Autre Bout Du Monde"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768425030,
+                "listened_at": 1768425030,
+                "recording_msid": "332f712e-cc9a-4cf7-91e5-7791080325bd",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "This Is The Kit"
+                        ],
+                        "duration_ms": 231000,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "This Is The Kit",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c7a4dcf7-61f8-4126-bec8-3bfa3b18284a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "This Is the Kit",
+                                "artist_mbid": "c7a4dcf7-61f8-4126-bec8-3bfa3b18284a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33247193140,
+                        "caa_release_mbid": "4859b345-e41b-3787-9fb5-2b0fb0584274",
+                        "recording_mbid": "b26f6927-2668-497d-8353-045d9440bb04",
+                        "recording_name": "Two Wooden Spoons",
+                        "release_group_mbid": "b1e96ea7-70e5-34ae-b9f8-e13c3465bffa",
+                        "release_mbid": "b65a9aa2-666b-4760-bbb1-01f5b9d3a379"
+                    },
+                    "release_name": "Where It Lives",
+                    "track_name": "Two Wooden Spoons"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768424810,
+                "listened_at": 1768424799,
+                "recording_msid": "da87e1a3-d9ef-4112-a40a-382c53a6566f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Nino Rota, Studio Orchestra, StudioConductor"
+                        ],
+                        "duration_ms": 178700,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Nino Rota, Studio Orchestra, StudioConductor",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d52ac009-4ed5-4d01-97d5-8280bb7dd460"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nino Rota",
+                                "artist_mbid": "d52ac009-4ed5-4d01-97d5-8280bb7dd460",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38047173343,
+                        "caa_release_mbid": "8774eb48-7c23-4073-802a-4511096491d5",
+                        "recording_mbid": "ae498cd0-f1fd-4116-ad50-0ccae8bf8fba",
+                        "recording_name": "La Dolce Vita",
+                        "release_group_mbid": "6893b396-0073-46db-86cd-e90aaeec8853",
+                        "release_mbid": "8774eb48-7c23-4073-802a-4511096491d5"
+                    },
+                    "release_name": "Original Music for the Movies of Federico Fellini",
+                    "track_name": "La dolce vita"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768424621,
+                "listened_at": 1768424621,
+                "recording_msid": "0dc699b9-01d5-4ba4-a54e-4ae1f29318ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Labi Siffre"
+                        ],
+                        "duration_ms": 393140,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Labi Siffre",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6838ca8e-da88-436c-a0fd-6d3a7e832f1f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Labi Siffre",
+                                "artist_mbid": "6838ca8e-da88-436c-a0fd-6d3a7e832f1f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32770204536,
+                        "caa_release_mbid": "77c14000-47a7-48ce-b466-ab1d79a6ccf6",
+                        "recording_mbid": "b903f17b-113e-4056-a880-3f4c00340cc1",
+                        "recording_name": "I Got The",
+                        "release_group_mbid": "f49dcc2e-3a2d-3bd9-930b-d379744d9ba7",
+                        "release_mbid": "3b32bb2e-e960-3a1c-8360-9c9f23e767e7"
+                    },
+                    "release_name": "The Music Of Labi Siffre",
+                    "track_name": "I Got The..."
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768419354,
+                "listened_at": 1768419355,
+                "recording_msid": "15f6d1a3-b00e-4b52-912e-f256307ed45f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Coldplay"
+                        ],
+                        "duration_ms": 268560,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Coldplay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Coldplay",
+                                "artist_mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4086974851,
+                        "caa_release_mbid": "435fc965-9121-461e-b8da-d9b505c9dc9b",
+                        "recording_mbid": "729cf505-94eb-4fbe-bc76-cbae44cff091",
+                        "recording_name": "Yellow",
+                        "release_group_mbid": "1dc4c347-a1db-32aa-b14f-bc9cc507b843",
+                        "release_mbid": "435fc965-9121-461e-b8da-d9b505c9dc9b",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=9qnqYL0eNNI"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/68646785"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1122782283"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=9qnqYL0eNNI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3128096"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1122782283"
+                            }
+                        ]
+                    },
+                    "release_name": "Parachutes",
+                    "track_name": "Yellow"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768419086,
+                "listened_at": 1768419087,
+                "recording_msid": "32906eb6-1007-4026-922b-a9e20ac604e1",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Dua Lipa, Angèle"
+                        ],
+                        "duration_ms": 159290,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Dua Lipa, Angèle",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dua Lipa",
+                                "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25777832070,
+                        "caa_release_mbid": "57bc5762-baa9-48d8-93ec-7858d8350880",
+                        "recording_mbid": "c9c73eef-c709-4167-9d3c-245495637b2f",
+                        "recording_name": "Fever",
+                        "release_group_mbid": "aa366795-92d7-4d67-91fa-6741f82a4858",
+                        "release_mbid": "a16c8413-b2c8-4338-80f5-b48c06063806",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7KqUaHPO6m4uYg276qqsfa"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1551179677"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1234638732"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1239874202"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/171413012"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1551179677"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/173128901"
+                            }
+                        ]
+                    },
+                    "release_name": "Fever",
+                    "track_name": "Fever"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768408973,
+                "listened_at": 1768408973,
+                "recording_msid": "118edcc7-d426-4ef9-9a18-b5821166a0ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Ximena Sariñana"
+                        ],
+                        "duration_ms": 189730,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Ximena Sariñana",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c757e9ae-b246-4a55-8b43-726a64f4012a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ximena Sariñana",
+                                "artist_mbid": "c757e9ae-b246-4a55-8b43-726a64f4012a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24373887960,
+                        "caa_release_mbid": "c084cec2-9845-455c-818b-75e7b04fc45c",
+                        "recording_mbid": "36938047-f465-4a37-8825-72aabbcc8c3f",
+                        "recording_name": "Si tú te vas",
+                        "release_group_mbid": "67375984-902f-46e6-bd5c-deda8e3e3a31",
+                        "release_mbid": "909a10f8-b470-4413-a29a-82507dba21c9"
+                    },
+                    "release_name": "¿Dónde Bailarán Las Niñas?",
+                    "track_name": "Si Tú Te Vas"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768408783,
+                "listened_at": 1768408783,
+                "recording_msid": "b6f1423c-76c5-418d-8b5f-e2daa2221034",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Oscar Anton, Clementine"
+                        ],
+                        "duration_ms": 216460,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Oscar Anton, Clementine",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c74eda1c-04e7-4dea-9015-79135adc982d",
+                            "2641ef15-a5dd-429a-89bb-687d0752017c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oscar Anton",
+                                "artist_mbid": "c74eda1c-04e7-4dea-9015-79135adc982d",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Clementine",
+                                "artist_mbid": "2641ef15-a5dd-429a-89bb-687d0752017c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30270887069,
+                        "caa_release_mbid": "e7a32291-f968-4916-b831-029b526261d4",
+                        "recording_mbid": "97f69719-a13f-42a0-bf44-bed3d67fbf74",
+                        "recording_name": "Nuits d’été",
+                        "release_group_mbid": "836c4b60-ee4c-4685-9768-73e49bdece86",
+                        "release_mbid": "e7a32291-f968-4916-b831-029b526261d4"
+                    },
+                    "release_name": "nuits d'été",
+                    "track_name": "nuits d'été"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768408044,
+                "listened_at": 1768408045,
+                "recording_msid": "1bb4d413-4d8a-4bd3-a229-271fa59bd30f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Al'Tarba, Bianca Casady, CocoRosie"
+                        ],
+                        "duration_ms": 170470,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 11
+                    },
+                    "artist_name": "Al'Tarba, Bianca Casady, CocoRosie",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "19e7f2b3-8331-414c-906b-4869daa0eeba",
+                            "01a5d370-0d27-40e7-9e98-2cbf866692de",
+                            "e162b2eb-6a42-4240-8c1b-c94d9a0acb73"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Al’tarba",
+                                "artist_mbid": "19e7f2b3-8331-414c-906b-4869daa0eeba",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Bianca Casady",
+                                "artist_mbid": "01a5d370-0d27-40e7-9e98-2cbf866692de",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "CocoRosie",
+                                "artist_mbid": "e162b2eb-6a42-4240-8c1b-c94d9a0acb73",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32500431044,
+                        "caa_release_mbid": "aab3aa86-6c02-42aa-b93e-d8b15b0a9a5d",
+                        "recording_mbid": "73e723af-b78d-46ab-85ba-662c1c9b268e",
+                        "recording_name": "Hush Little Bay",
+                        "release_group_mbid": "9ac05fc2-ba83-4208-807c-38079c5123a8",
+                        "release_mbid": "aab3aa86-6c02-42aa-b93e-d8b15b0a9a5d"
+                    },
+                    "release_name": "La Fin Des Contes",
+                    "track_name": "Hush Little Bay"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768407873,
+                "listened_at": 1768407874,
+                "recording_msid": "261dc5e3-2fac-4ebf-8cd9-73086bfda1d7",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Peter Tosh"
+                        ],
+                        "duration_ms": 281080,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Peter Tosh",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7db6aae5-6644-4513-9bfc-ca2e79d4469c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Peter Tosh",
+                                "artist_mbid": "7db6aae5-6644-4513-9bfc-ca2e79d4469c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 3057541324,
+                        "caa_release_mbid": "e9d52ec5-6fe5-4ff1-a253-aac5327ed196",
+                        "recording_mbid": "46766af3-f2ea-4802-967b-4bea1a0679ba",
+                        "recording_name": "Legalize It",
+                        "release_group_mbid": "3f4929bc-c88d-3f41-910b-5c1c308da8f2",
+                        "release_mbid": "391c0aa5-cee2-313c-b4e8-781281456a4c"
+                    },
+                    "release_name": "Legalize It (Legacy Edition)",
+                    "track_name": "Legalize It"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768407153,
+                "listened_at": 1768407150,
+                "recording_msid": "0c999645-61e9-4414-a6f2-d971beebe6e1",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Pyotr Ilyich Tchaikovsky"
+                        ],
+                        "duration_ms": 242060,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 9
+                    },
+                    "artist_name": "Pyotr Ilyich Tchaikovsky",
+                    "release_name": "150 Classical Masterpieces",
+                    "track_name": "Serenade for Strings in C Major Op.48 (Excerpt)"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406908,
+                "listened_at": 1768406909,
+                "recording_msid": "da5def7f-0b98-44f3-8900-4c55eebdcca6",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Ninho, Niska"
+                        ],
+                        "duration_ms": 139490,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Ninho, Niska",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19482524218,
+                        "caa_release_mbid": "19f88208-7516-4e59-9ac7-1182bad7a66b",
+                        "recording_mbid": "aeb0da5d-26ba-4bb8-bb92-a9e3ef0de131",
+                        "recording_name": "Un Poco",
+                        "release_group_mbid": "bfccab71-7f67-442e-9136-9e5a27a9b590",
+                        "release_mbid": "19f88208-7516-4e59-9ac7-1182bad7a66b"
+                    },
+                    "release_name": "Coco",
+                    "track_name": "Coco"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406768,
+                "listened_at": 1768406769,
+                "recording_msid": "e6b169a1-9585-4125-aa72-3e4dfa77bcba",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Eric Clapton"
+                        ],
+                        "duration_ms": 265010,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 7
+                    },
+                    "artist_name": "Eric Clapton",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "618b6900-0618-4f1e-b835-bccb17f84294"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eric Clapton",
+                                "artist_mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 3402991782,
+                        "caa_release_mbid": "58c1547f-ad0e-4007-b423-b340f8cc636b",
+                        "recording_mbid": "7a2e3ae9-d584-4ba0-9993-eab432c00a64",
+                        "recording_name": "Layla (acoustic)",
+                        "release_group_mbid": "d7865f06-b9f7-35b7-840f-76031779541f",
+                        "release_mbid": "58c1547f-ad0e-4007-b423-b340f8cc636b"
+                    },
+                    "release_name": "Unplugged (Live)",
+                    "track_name": "Layla - Acoustic Live"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406503,
+                "listened_at": 1768406503,
+                "recording_msid": "3933bc73-9192-4a82-90b4-ef246898d11b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Jacques Brel"
+                        ],
+                        "duration_ms": 151540,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Jacques Brel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "91eda19b-1437-42cd-b7af-69df24b7f275"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jacques Brel",
+                                "artist_mbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45770177117,
+                        "caa_release_mbid": "317c6beb-de06-4c91-a9c5-68627c2fc7db",
+                        "recording_mbid": "c6955428-3b97-4c62-a9cd-6c3a80eaff74",
+                        "recording_name": "Quand on n’a que l’amour",
+                        "release_group_mbid": "fd782cba-b75e-32b9-990a-7d915768e081",
+                        "release_mbid": "28f27f69-37a6-3458-95a6-35e9957e726b"
+                    },
+                    "release_name": "50 Plus Belles Chansons",
+                    "track_name": "Quand on n'a que l'amour"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406351,
+                "listened_at": 1768406352,
+                "recording_msid": "286b543d-fcbe-4ae5-9c87-b6df65fd107e",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Serge Reggiani"
+                        ],
+                        "duration_ms": 121080,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "Serge Reggiani",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9153b056-330e-4368-ae78-a30df88417f8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Serge Reggiani",
+                                "artist_mbid": "9153b056-330e-4368-ae78-a30df88417f8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1505586582,
+                        "caa_release_mbid": "eddaaffb-cc2c-4a2d-beae-3ff665bcc0f3",
+                        "recording_mbid": "39eecdd1-1dd9-4f95-82c1-ea7c28a64042",
+                        "recording_name": "Madame Nostalgie",
+                        "release_group_mbid": "78488b3d-17a8-3f2b-bd6a-7be309f71d93",
+                        "release_mbid": "e08b29a7-bc0b-3853-a24c-74a67acbdc1d",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1463395964"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1463395964"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/682060412"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3AkOVy8DzlkzfVqqOqC23h"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/110056336"
+                            }
+                        ]
+                    },
+                    "release_name": "Et Puis",
+                    "track_name": "Madame nostalgie"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406230,
+                "listened_at": 1768406231,
+                "recording_msid": "64ca8e11-9bef-480f-9134-d018bbc845ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Katia Guerreiro"
+                        ],
+                        "duration_ms": 223660,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Katia Guerreiro",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5f05b147-1f60-4398-950f-725e9533d07c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Katia Guerreiro",
+                                "artist_mbid": "5f05b147-1f60-4398-950f-725e9533d07c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43413585951,
+                        "caa_release_mbid": "ca01a333-37f6-4906-a001-da6589f8d49a",
+                        "recording_mbid": "d7cd28bd-6ec1-427b-b40b-a8e86eb9ca3d",
+                        "recording_name": "9 Amores",
+                        "release_group_mbid": "a4a5bad8-4713-4a01-948e-e053c762e2a8",
+                        "release_mbid": "ca01a333-37f6-4906-a001-da6589f8d49a"
+                    },
+                    "release_name": "Até ao Fim",
+                    "track_name": "9 Amores"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768406007,
+                "listened_at": 1768406007,
+                "recording_msid": "57cea1df-6441-4af0-8582-0f5d944ce622",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Barbara"
+                        ],
+                        "duration_ms": 129789,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 9
+                    },
+                    "artist_name": "Barbara",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cf8ffbfe-02ba-4b91-a608-9783d91f709a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Barbara",
+                                "artist_mbid": "cf8ffbfe-02ba-4b91-a608-9783d91f709a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30592506901,
+                        "caa_release_mbid": "e8ee429a-55cc-49e2-98ca-105fa204b765",
+                        "recording_mbid": "5c07f11c-c64d-4160-a596-2c7aaeb2c77a",
+                        "recording_name": "Du bout des lèvres",
+                        "release_group_mbid": "8725cb18-71d6-37be-b918-3bf94b22336d",
+                        "release_mbid": "c6bf5481-47a4-4f79-af25-2175a6c420db"
+                    },
+                    "release_name": "L'Intégrale Des Albums Studio",
+                    "track_name": "Du bout des lèvres"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768405877,
+                "listened_at": 1768405877,
+                "recording_msid": "10940181-2adc-4cd8-8465-f171fd2af1ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Jacques Brel"
+                        ],
+                        "duration_ms": 314800,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Jacques Brel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "91eda19b-1437-42cd-b7af-69df24b7f275"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jacques Brel",
+                                "artist_mbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28087403310,
+                        "caa_release_mbid": "9a25a56b-2815-4487-a2bd-94cc6caafbdc",
+                        "recording_mbid": "a743f661-338f-4a55-ab7f-0e8a6bccc7e8",
+                        "recording_name": "Fernand",
+                        "release_group_mbid": "40fa1a54-e679-31f1-a9fc-00ee649a9b74",
+                        "release_mbid": "704a2deb-0a22-43bd-aee6-35164b2078c4"
+                    },
+                    "release_name": "Ces gens-là",
+                    "track_name": "Fernand"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768405561,
+                "listened_at": 1768405562,
+                "recording_msid": "3a9dfe85-b019-4c4c-8dc6-4a588fa10e4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Pauline Croze"
+                        ],
+                        "duration_ms": 184490,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Pauline Croze",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e759871-95c1-49d4-8c59-c171a01c9d8f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pauline Croze",
+                                "artist_mbid": "9e759871-95c1-49d4-8c59-c171a01c9d8f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13675739039,
+                        "caa_release_mbid": "8d02a427-ba44-4f40-9df3-bf986c1851bb",
+                        "recording_mbid": "429b6d2f-17f9-481d-888b-06ebc81cda57",
+                        "recording_name": "Voce abusou",
+                        "release_group_mbid": "15b84c8a-e4b1-4499-a9e6-e328c11e8c24",
+                        "release_mbid": "7e29cc91-701c-4d1b-b88d-278fb5790a9b"
+                    },
+                    "release_name": "Bossa Nova",
+                    "track_name": "Voce Abusou"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768405377,
+                "listened_at": 1768405377,
+                "recording_msid": "2431a8de-d52f-4057-ac30-dc1f81a8e0f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Miel De Montagne"
+                        ],
+                        "duration_ms": 261720,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Miel De Montagne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "44a5da9c-6ab4-42a3-9209-aeadd05e1d6c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Miel de Montagne",
+                                "artist_mbid": "44a5da9c-6ab4-42a3-9209-aeadd05e1d6c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44972029529,
+                        "caa_release_mbid": "ab66280c-ab4e-4f40-9968-80405418a17b",
+                        "recording_mbid": "3263c6f3-6173-4129-85f0-cd00c4e55092",
+                        "recording_name": "L’Amour",
+                        "release_group_mbid": "32193461-54a5-4459-913e-0165fb50d610",
+                        "release_mbid": "0ff46382-421a-4aff-9055-9971b3ffedd8"
+                    },
+                    "release_name": "Miel de Montagne",
+                    "track_name": "L'amour"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768405115,
+                "listened_at": 1768405116,
+                "recording_msid": "91ee9d9d-afc6-4356-88e4-6b189633dfa2",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Michel Delpech"
+                        ],
+                        "duration_ms": 204940,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 9
+                    },
+                    "artist_name": "Michel Delpech",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4668e0cf-80c3-4e9e-a937-e3c5f1e9efb4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Michel Delpech",
+                                "artist_mbid": "4668e0cf-80c3-4e9e-a937-e3c5f1e9efb4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1227498396,
+                        "caa_release_mbid": "e9b5392a-d7cd-4087-942a-091e1058e5a1",
+                        "recording_mbid": "ead54b61-0fea-4a7c-a09d-cc8ebd427ba3",
+                        "recording_name": "Pour un flirt",
+                        "release_group_mbid": "51bd8cde-6f5d-37a3-b326-20c3d9022dd2",
+                        "release_mbid": "e9b5392a-d7cd-4087-942a-091e1058e5a1"
+                    },
+                    "release_name": "Pour Un Flirt - Vol.1",
+                    "track_name": "Pour un flirt"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768404910,
+                "listened_at": 1768404911,
+                "recording_msid": "45b8d0a3-d580-4e73-8e65-1da6b1e334d7",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "MiiRA"
+                        ],
+                        "duration_ms": 225910,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "MiiRA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a6a752b-241d-45da-b828-8fa8741e61db"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Miira",
+                                "artist_mbid": "3a6a752b-241d-45da-b828-8fa8741e61db",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42497182539,
+                        "caa_release_mbid": "20ad5657-ae2e-4041-b91b-28335e241ef1",
+                        "recording_mbid": "7c53214a-5470-4cab-aa23-759b1bcbdfea",
+                        "recording_name": "XX99",
+                        "release_group_mbid": "f14e2d33-67da-4d39-9b04-a9ee45ccaaae",
+                        "release_mbid": "20ad5657-ae2e-4041-b91b-28335e241ef1"
+                    },
+                    "release_name": "XX99",
+                    "track_name": "XX99"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768404685,
+                "listened_at": 1768404685,
+                "recording_msid": "0cddf2bd-0106-4374-ac4c-6be6d9483f87",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Maxime Le Forestier"
+                        ],
+                        "duration_ms": 100200,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Maxime Le Forestier",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2927facc-d327-4bd4-a7d6-4a4363ddd904"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Maxime Le Forestier",
+                                "artist_mbid": "2927facc-d327-4bd4-a7d6-4a4363ddd904",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1286651471,
+                        "caa_release_mbid": "94fbc402-d9ca-4de6-962a-fe7eb5cf6a92",
+                        "recording_mbid": "cee25403-8ecc-4b09-a094-6b532e76ab8a",
+                        "recording_name": "Dialogue",
+                        "release_group_mbid": "4d188ef1-0b52-30fd-ad09-eeefcc033355",
+                        "release_mbid": "5f4765dd-16d2-3ce8-b3ba-28b918c5c9d0"
+                    },
+                    "release_name": "Le Steak",
+                    "track_name": "Dialogue"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768404584,
+                "listened_at": 1768404584,
+                "recording_msid": "406bf27c-fa9e-47a6-b44f-ff7cb22bd634",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Jacques Brel"
+                        ],
+                        "duration_ms": 261070,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Jacques Brel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "91eda19b-1437-42cd-b7af-69df24b7f275"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jacques Brel",
+                                "artist_mbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27835390087,
+                        "caa_release_mbid": "575437e9-632a-4af3-8554-d09c373a91e1",
+                        "recording_mbid": "5448e2df-760d-419a-9f44-63438b774d35",
+                        "recording_name": "Le Prochain Amour",
+                        "release_group_mbid": "b9222cd7-9428-3b4d-829e-9d63f0a70eb9",
+                        "release_mbid": "575437e9-632a-4af3-8554-d09c373a91e1"
+                    },
+                    "release_name": "Marieke (Vol.5)",
+                    "track_name": "Le prochain amour"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768404323,
+                "listened_at": 1768404323,
+                "recording_msid": "7fc07210-630d-4818-8948-229168ef15ee",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Federica Putti"
+                        ],
+                        "duration_ms": 215260,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Federica Putti",
+                    "release_name": "Kaze Ni Naru",
+                    "track_name": "Kaze Ni Naru"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768404323,
+                "listened_at": 1768404011,
+                "recording_msid": "0925b241-b08a-4a88-b420-5661997d4750",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Rufi-O"
+                        ],
+                        "duration_ms": 151060,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Rufi-O",
+                    "release_name": "Easily",
+                    "track_name": "Easily"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768403862,
+                "listened_at": 1768403862,
+                "recording_msid": "0304a8d1-f695-499a-ad6b-7365f90c4d04",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Coline Rio"
+                        ],
+                        "duration_ms": 200500,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Coline Rio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b80fded1-7054-4012-9afb-aabd9d2206d5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Coline Rio",
+                                "artist_mbid": "b80fded1-7054-4012-9afb-aabd9d2206d5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32235573911,
+                        "caa_release_mbid": "35a42f47-4502-46db-bdfa-4682d4f86ab5",
+                        "recording_mbid": "ee833785-1df1-476a-b43e-936c6e824e96",
+                        "recording_name": "Les gens qui doutent",
+                        "release_group_mbid": "3a4dfbbe-a9c9-4133-a186-e859d8ed0e66",
+                        "release_mbid": "35a42f47-4502-46db-bdfa-4682d4f86ab5",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=cC4bRvhVIfk"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=CQoGnjPoHlQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1620698132"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh"
+                            }
+                        ]
+                    },
+                    "release_name": "Les gens qui doutent",
+                    "track_name": "Les gens qui doutent"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768402911,
+                "listened_at": 1768402912,
+                "recording_msid": "db884147-a0d1-401f-831c-2c1fcfa5f272",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Breakbot, Irfane"
+                        ],
+                        "duration_ms": 151130,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 10
+                    },
+                    "artist_name": "Breakbot, Irfane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64c9974f-20a9-491d-bd94-2168cd738e2a",
+                            "4405ea15-6e2b-4302-b6e8-12a51f9cd2ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Breakbot",
+                                "artist_mbid": "64c9974f-20a9-491d-bd94-2168cd738e2a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Irfane",
+                                "artist_mbid": "4405ea15-6e2b-4302-b6e8-12a51f9cd2ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 8154031977,
+                        "caa_release_mbid": "ee618541-23df-4973-afb7-e2d9f02e03d8",
+                        "recording_mbid": "788671d0-280d-4ac5-a21e-06116007336a",
+                        "recording_name": "Baby I’m Yours",
+                        "release_group_mbid": "516165e5-1a7d-42b2-90ab-c0526adceacd",
+                        "release_mbid": "ee618541-23df-4973-afb7-e2d9f02e03d8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=3vVSBLkpO-8"
+                            }
+                        ]
+                    },
+                    "release_name": "By Your Side",
+                    "track_name": "Baby I'm Yours"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768401568,
+                "listened_at": 1768401569,
+                "recording_msid": "c7126c37-bcba-436a-a766-ec8f815ddc82",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Giorgio Moroder"
+                        ],
+                        "duration_ms": 208320,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Giorgio Moroder",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "38dd6337-19ae-4793-ab4b-313eff523457"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Giorgio Moroder",
+                                "artist_mbid": "38dd6337-19ae-4793-ab4b-313eff523457",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18461891254,
+                        "caa_release_mbid": "c70ccb73-b5a5-3d92-b5bd-070a5add7829",
+                        "recording_mbid": "f7d59d63-76ef-4ae7-927a-54bd7692dc7a",
+                        "recording_name": "Love’s Theme",
+                        "release_group_mbid": "b4d5694a-f832-36bf-9597-3779f113f5fc",
+                        "release_mbid": "f4236d31-fa7d-4a3b-a02a-07e665753201"
+                    },
+                    "release_name": "Midnight Express (Original Motion Picture Soundtrack)",
+                    "track_name": "Love's Theme"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768401360,
+                "listened_at": 1768401361,
+                "recording_msid": "09ea18f7-4fec-451b-b4c1-cd63e55b63f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "The Offspring"
+                        ],
+                        "duration_ms": 257950,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 8
+                    },
+                    "artist_name": "The Offspring",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "23a03e33-a603-404e-bcbf-2c00159d7067"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Offspring",
+                                "artist_mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31844265343,
+                        "caa_release_mbid": "b50d155a-5cde-3600-b768-5a6fc0ce57eb",
+                        "recording_mbid": "5a57b450-fecd-4ab5-a400-1e4b5d22dfbc",
+                        "recording_name": "Self Esteem",
+                        "release_group_mbid": "a55a5a03-0c0e-311b-85df-ec52f841715c",
+                        "release_mbid": "b50d155a-5cde-3600-b768-5a6fc0ce57eb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=Abrn8aVQ76Q"
+                            }
+                        ]
+                    },
+                    "release_name": "Smash",
+                    "track_name": "Self Esteem"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768401102,
+                "listened_at": 1768401103,
+                "recording_msid": "1e5413da-89b7-41e0-90cb-9a6b43c7b5f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "-M-"
+                        ],
+                        "duration_ms": 184680,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "-M-",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "99513c45-6c2d-4a6b-a089-074360591f01"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "‐M‐",
+                                "artist_mbid": "99513c45-6c2d-4a6b-a089-074360591f01",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9152359322,
+                        "caa_release_mbid": "82dd37e4-34e6-4f2b-a786-13c1dab7cee8",
+                        "recording_mbid": "f8ea64f6-8db2-46f0-8436-48a8d5c26c1c",
+                        "recording_name": "Onde sensuelle",
+                        "release_group_mbid": "04bd84e4-b033-3525-a6dd-b6b7106a67ca",
+                        "release_mbid": "82dd37e4-34e6-4f2b-a786-13c1dab7cee8"
+                    },
+                    "release_name": "Je Dis Aime",
+                    "track_name": "Onde sensuelle"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768400918,
+                "listened_at": 1768400918,
+                "recording_msid": "2b6e599f-c79e-4e43-8be8-60083df97681",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Norah Jones"
+                        ],
+                        "duration_ms": 186310,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Norah Jones",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "985c709c-7771-4de3-9024-7bda29ebe3f9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Norah Jones",
+                                "artist_mbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23811938649,
+                        "caa_release_mbid": "919328e3-0e7d-464a-8586-e2f5466b65b4",
+                        "recording_mbid": "727ab502-2691-4fbd-b9da-17e898844eff",
+                        "recording_name": "Don’t Know Why",
+                        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8",
+                        "release_mbid": "919328e3-0e7d-464a-8586-e2f5466b65b4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=1LH4vnrM-Vs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+                            }
+                        ]
+                    },
+                    "release_name": "Come Away With Me",
+                    "track_name": "Don't Know Why"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768400731,
+                "listened_at": 1768400732,
+                "recording_msid": "48cd1997-6180-42e3-9ad9-79e3da2ed2fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Fernando Serrano"
+                        ],
+                        "duration_ms": 196940,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Fernando Serrano",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2589c1e3-d28f-42a4-adc8-681b427b0c54"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fernando Serrano",
+                                "artist_mbid": "2589c1e3-d28f-42a4-adc8-681b427b0c54",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "f4edcab0-88da-43bc-b24b-4565031a9973",
+                        "recording_name": "Dime mi amor",
+                        "release_group_mbid": "9ba88a19-7ff4-49c5-9c38-84e3ae9641dd",
+                        "release_mbid": "c1339840-a28b-43c5-a5c3-f8a1113146f3"
+                    },
+                    "release_name": "Dime Mi Amor",
+                    "track_name": "Dime Mi Amor"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768400534,
+                "listened_at": 1768400535,
+                "recording_msid": "bd7aa4c1-147e-4ac2-9998-d923d80c6960",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Georges Moustaki"
+                        ],
+                        "duration_ms": 239980,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 5
+                    },
+                    "artist_name": "Georges Moustaki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e6dc19f-cfa9-45e8-aaad-ab1d92c60a80"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Georges Moustaki",
+                                "artist_mbid": "6e6dc19f-cfa9-45e8-aaad-ab1d92c60a80",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31941747259,
+                        "caa_release_mbid": "3193d8c2-5850-4c2f-bfff-94bc35826b71",
+                        "recording_mbid": "ca000d6f-87ab-49d9-a5ca-6b8f9bbac2ef",
+                        "recording_name": "Il y avait un jardin",
+                        "release_group_mbid": "7039c4c8-3e80-4f2e-b44f-b748a14dbf34",
+                        "release_mbid": "3193d8c2-5850-4c2f-bfff-94bc35826b71"
+                    },
+                    "release_name": "Tendres Annees",
+                    "track_name": "Il y avait un jardin"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768386538,
+                "listened_at": 1768386538,
+                "recording_msid": "0396ea2e-daaf-421d-a482-ebfbbbcbcc81",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Bloom Bat"
+                        ],
+                        "duration_ms": 273050,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Bloom Bat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25a0a003-1b4c-4688-a1cd-d58227d644a4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bloom Bat",
+                                "artist_mbid": "25a0a003-1b4c-4688-a1cd-d58227d644a4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33846262198,
+                        "caa_release_mbid": "4cebd12e-bc76-44ea-831f-13770840d72a",
+                        "recording_mbid": "5c348a81-44e8-44af-9316-7446fa831f10",
+                        "recording_name": "Daylight Radio",
+                        "release_group_mbid": "59c6d26a-f3db-4fbb-8c67-19881ba16f38",
+                        "release_mbid": "4cebd12e-bc76-44ea-831f-13770840d72a"
+                    },
+                    "release_name": "Dawn",
+                    "track_name": "Daylight Radio"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768386265,
+                "listened_at": 1768386265,
+                "recording_msid": "03b0b1d2-3c28-4c33-8995-285751676a3b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Angèle"
+                        ],
+                        "duration_ms": 228890,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 1
+                    },
+                    "artist_name": "Angèle",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Angèle",
+                                "artist_mbid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31101686526,
+                        "caa_release_mbid": "fa19f487-81fb-4c98-96ea-6c705d318f63",
+                        "recording_mbid": "54f6a31f-7d60-4926-8242-2d48dd7cf423",
+                        "recording_name": "Bruxelles je t’aime",
+                        "release_group_mbid": "ae0033cb-db62-4e53-8c1c-c003304c0173",
+                        "release_mbid": "6abe2196-a890-464c-83e4-ff7ddb220afb"
+                    },
+                    "release_name": "Nonante-Cinq",
+                    "track_name": "Bruxelles je t’aime"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1768386146,
+                "listened_at": 1768386036,
+                "recording_msid": "0864fe95-6512-4fee-bcac-97b57445c5e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Serge Reggiani"
+                        ],
+                        "duration_ms": 176040,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 6
+                    },
+                    "artist_name": "Serge Reggiani",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9153b056-330e-4368-ae78-a30df88417f8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Serge Reggiani",
+                                "artist_mbid": "9153b056-330e-4368-ae78-a30df88417f8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41427689337,
+                        "caa_release_mbid": "cf72d3eb-d5c0-4322-9664-9759d3b32773",
+                        "recording_mbid": "f12695b4-6d05-48d7-9b58-51f40b765506",
+                        "recording_name": "Le monde est formidable",
+                        "release_group_mbid": "4e64d6c3-1f7e-3eda-a18c-8d247f4959f4",
+                        "release_mbid": "e54ff2eb-ae8e-3707-9a61-03a235fba506"
+                    },
+                    "release_name": "Le Zouave Du Pont De L'Alma",
+                    "track_name": "Le monde est formidable"
+                },
+                "user_name": "teaboo"
+            },
+            {
+                "inserted_at": 1767907352,
+                "listened_at": 1767907351,
+                "recording_msid": "1adf503f-6855-47e2-ab14-7bb2c5d210ec",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_mbids": [],
+                        "artist_names": [
+                            "Chino Laborde & Solo Tango Orquesta"
+                        ],
+                        "duration_ms": 137560,
+                        "submission_client": "navidrome",
+                        "submission_client_version": "0.59.0 (cc3cca60)",
+                        "tracknumber": 3
+                    },
+                    "artist_name": "Chino Laborde & Solo Tango Orquesta",
+                    "release_name": "Tanda de Enérgia - EP",
+                    "track_name": "Paciencia"
+                },
+                "user_name": "teaboo"
+            }
+        ],
+        "oldest_listen_ts": 1108290000,
+        "user_id": "teaboo"
+    }
+}

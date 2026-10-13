@@ -1,0 +1,3568 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791778574,
+        "listens": [
+            {
+                "inserted_at": 1791806072,
+                "listened_at": 1791797672,
+                "recording_msid": "39d5d1a8-94ff-4179-b100-5be96a4c5fa0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "adbb03be-cb07-4a83-a985-311b95778110",
+                        "lastfm_track_mbid": "2b745cd9-b248-473e-8764-cad0b4fc6e96",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ApolloRed1",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "190316d3-31be-4acf-a822-f50a0f784ac8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ApolloRed1",
+                                "artist_mbid": "190316d3-31be-4acf-a822-f50a0f784ac8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41988543757,
+                        "caa_release_mbid": "adbb03be-cb07-4a83-a985-311b95778110",
+                        "recording_mbid": "2b745cd9-b248-473e-8764-cad0b4fc6e96",
+                        "recording_name": "Tom Holland",
+                        "release_group_mbid": "7e5ad10c-4a9d-4674-934b-e1871a9cfde4",
+                        "release_mbid": "adbb03be-cb07-4a83-a985-311b95778110"
+                    },
+                    "release_name": "Midnight Blassic",
+                    "track_name": "Tom Holland"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791806072,
+                "listened_at": 1791797671,
+                "recording_msid": "4334acfa-eb3d-4116-9fe1-ff5b96ebb00b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "skaiwater",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "43810b53-144a-4f6a-925e-66987a10b098",
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Skaiwater",
+                                "artist_mbid": "43810b53-144a-4f6a-925e-66987a10b098",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34165050964,
+                        "caa_release_mbid": "31aa025e-38f3-4cee-8258-6c3a0060eb1f",
+                        "recording_mbid": "243c3fb3-c32f-4635-8cb4-e953924a4b71",
+                        "recording_name": "miles",
+                        "release_group_mbid": "3ef3beb6-ae6e-4209-aedf-8fac7dce84e8",
+                        "release_mbid": "31aa025e-38f3-4cee-8258-6c3a0060eb1f"
+                    },
+                    "release_name": "#miles",
+                    "track_name": "#miles"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791799039,
+                "listened_at": 1791786394,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791799039,
+                "listened_at": 1791783781,
+                "recording_msid": "d1d95d54-0ee7-4ae3-b3fd-cd55661deae1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "lastfm_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39081964602,
+                        "caa_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "recording_mbid": "48008538-194c-4dd0-a973-772336640f05",
+                        "recording_name": "TORE UP",
+                        "release_group_mbid": "a9e7b811-5900-4398-af60-6db7ef02b536",
+                        "release_mbid": "aa0c9224-bba6-4e1a-b974-bc96d37c3d01"
+                    },
+                    "release_name": "HARDSTONE PSYCHO",
+                    "track_name": "TORE UP"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791799039,
+                "listened_at": 1791782960,
+                "recording_msid": "afe4c827-3aee-42c8-a808-4db5d363aba5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f9788bf2-2317-4a9c-9649-6e168d2249e0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Stoner Life",
+                    "release_name": "Slime Language 3: Side A",
+                    "track_name": "Mob Guys"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791799039,
+                "listened_at": 1791782620,
+                "recording_msid": "196261d5-a90a-4459-a14b-ac1628dca9e7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "lastfm_track_mbid": "53162271-645e-4cf9-8d80-470b1fe26763",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "53162271-645e-4cf9-8d80-470b1fe26763",
+                        "recording_name": "Cast a Spell",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797521"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3lWfk8Mc4oNZxsvTPzuKpw"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327517"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327517"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "Cast a Spell"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791785998,
+                "listened_at": 1791779833,
+                "recording_msid": "91346e4c-44a0-4088-a0f4-db58ff23085a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "lastfm_track_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45356829462,
+                        "caa_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "recording_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "recording_name": "ØWAY",
+                        "release_group_mbid": "37b63cfa-84c8-4c3e-9568-3449319c0358",
+                        "release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818"
+                    },
+                    "release_name": "THE RESURRECTIØN",
+                    "track_name": "ØWAY"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791778574,
+                "recording_msid": "c5ec1a90-a6c5-45ba-b57a-31fecad5b9b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                        "lastfm_release_mbid": "3f21e3fe-822b-4649-ae38-143a1d99945c",
+                        "lastfm_track_mbid": "08dc16d4-7b7a-4779-b17d-85615adb3a97",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29622971005,
+                        "caa_release_mbid": "e3a487cc-33a7-4797-b47d-c20e6d7f1f5b",
+                        "recording_mbid": "780f5141-5cd3-4724-ac85-80f416deb53c",
+                        "recording_name": "Vaccine",
+                        "release_group_mbid": "8b2364e1-3ccb-4f9a-9a72-6d826ae76f3c",
+                        "release_mbid": "e290db0b-3959-47d8-ab33-74946d938959"
+                    },
+                    "release_name": "Culture III",
+                    "track_name": "Vaccine"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791778199,
+                "recording_msid": "2cbfa6bc-f531-48a4-ace3-8a6868b02ca5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                        "lastfm_release_mbid": "2a2789cb-abaf-4877-8378-cde60b34e142",
+                        "lastfm_track_mbid": "4d3b15c5-f1b5-483a-8c16-499d927ce6e0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19045741336,
+                        "caa_release_mbid": "69817d99-9de1-41f6-9653-b3f70aabc533",
+                        "recording_mbid": "67644da2-cc81-4357-8ded-048555e0909f",
+                        "recording_name": "Supastars",
+                        "release_group_mbid": "8050b694-681f-4c4b-bbcc-ca9100c889dd",
+                        "release_mbid": "fbb09bbe-301a-4489-9be2-1da86e56eab1",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/83844271"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1440907262"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/453844252"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7yt6eiZQCkVFEzwGp4Pbor"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1440907262"
+                            }
+                        ]
+                    },
+                    "release_name": "Culture II",
+                    "track_name": "Supastars"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791776495,
+                "recording_msid": "8e9f1531-fd2f-4c36-886c-7739e81eddb8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "lastfm_release_mbid": "8ccfa191-6e77-4a72-b99e-f17f8b378ca2",
+                        "lastfm_track_mbid": "26f955bc-0f49-4233-8554-09b5ca8cf8c8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6143403a-df6c-429e-8ee6-ef869896b0da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36484103313,
+                        "caa_release_mbid": "79ae60b4-30ae-4f09-ae26-3b4882293ae6",
+                        "recording_mbid": "26f955bc-0f49-4233-8554-09b5ca8cf8c8",
+                        "recording_name": "Fueled Up",
+                        "release_group_mbid": "b130fc18-235c-4f54-8a46-86e66ffd599c",
+                        "release_mbid": "c837db82-b2a1-4ddf-bb93-ca77c3521c34"
+                    },
+                    "release_name": "Rocket Power",
+                    "track_name": "Fueled Up"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791776485,
+                "recording_msid": "a2ab2957-bb90-4c4d-b9fd-ff6e68aca161",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "95b0d5b3-2815-4ffc-9bfe-2ace8300b463",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LAZER DIM 700",
+                    "release_name": "SLENDERMEN",
+                    "track_name": "SLENDERMEN"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791774895,
+                "recording_msid": "167e4740-5ffb-4728-9e9c-e3ec8d04ba19",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "31004b84-8c6f-4285-8433-c7ca3d5d8b2d",
+                        "recording_name": "Hot (remix)",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "87173167-795b-475d-a6b4-d0c92b78eb23"
+                    },
+                    "release_name": "So Much Fun (Deluxe)",
+                    "track_name": "Hot (Remix) [feat. Gunna and Travis Scott]"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791773119,
+                "recording_msid": "ba7fa4af-bbe7-4b3c-b70f-28c4dbc8b0e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YG",
+                    "release_name": "GANG BIZNESS feat paygotti",
+                    "track_name": "GANG BIZNESS feat paygotti"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791772952,
+                "recording_msid": "8df224cf-3f01-4856-95d0-fd2caeb547da",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "lastfm_release_mbid": "94e8cc80-af16-4dc7-bfcc-5608c936f04b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "release_name": "QRÖMELIFE",
+                    "track_name": "Away (feat. Offset)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791772509,
+                "recording_msid": "1fc3751f-386b-4990-b285-7571d06450eb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "07058217-1588-42dd-9064-c1760f3adba0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "release_name": "Future Hndrxx Presents: The WIZRD",
+                    "track_name": "First Off (feat. Travis Scott)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791772276,
+                "recording_msid": "0d0d5911-a330-4097-8e7f-0b4f645e2d4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                        "lastfm_release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c",
+                        "lastfm_track_mbid": "67d4b493-bce8-4760-8d07-b048aeeb358f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "EsDeeKid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                            "458ce43c-2d3e-46d2-b352-0476e59816da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "EsDeeKid",
+                                "artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rico Ace",
+                                "artist_mbid": "458ce43c-2d3e-46d2-b352-0476e59816da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42326845836,
+                        "caa_release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c",
+                        "recording_mbid": "6a105405-19b6-46a3-80ed-1341ef76f5ea",
+                        "recording_name": "Cali Man",
+                        "release_group_mbid": "d1ec3839-6213-42ea-b912-ac667fb5c245",
+                        "release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c"
+                    },
+                    "release_name": "Rebel",
+                    "track_name": "Cali Man"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791772167,
+                "recording_msid": "cdbf3420-632b-4b53-add1-eb81ebcb8846",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                        "lastfm_release_mbid": "2906dc3c-ad74-4e56-a761-b75dda334cdc",
+                        "lastfm_track_mbid": "43987e94-5b7f-4ab3-ad0e-969729340ef8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45676375978,
+                        "caa_release_mbid": "2906dc3c-ad74-4e56-a761-b75dda334cdc",
+                        "recording_mbid": "43987e94-5b7f-4ab3-ad0e-969729340ef8",
+                        "recording_name": "Dead Fresh",
+                        "release_group_mbid": "45bf4f4a-1791-4b4c-877d-a028d5c05e19",
+                        "release_mbid": "2906dc3c-ad74-4e56-a761-b75dda334cdc",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/542825532"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4152054632"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/6790569133"
+                            }
+                        ]
+                    },
+                    "release_name": "Dead Fresh",
+                    "track_name": "Dead Fresh"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791772010,
+                "recording_msid": "091ab26b-83a8-4299-9fda-e3bf8d66cd3f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                        "lastfm_release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6",
+                        "lastfm_track_mbid": "009df27a-dece-4916-900e-d08acbe7d015",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "bleood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ce6a32ee-197d-4a59-9dad-37eb21b45c30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "bleood",
+                                "artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45141292333,
+                        "caa_release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6",
+                        "recording_mbid": "009df27a-dece-4916-900e-d08acbe7d015",
+                        "recording_name": "i aint start making money till i started doing drugs",
+                        "release_group_mbid": "095f53f6-d22d-486f-8552-e7e442daf8a2",
+                        "release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6"
+                    },
+                    "release_name": "protagonist",
+                    "track_name": "i aint start making money till i started doing drugs"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791771902,
+                "recording_msid": "a9b5c34f-4ce1-4da9-82aa-bfa5d86a1747",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "lastfm_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39081964602,
+                        "caa_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "recording_mbid": "b85ce8b1-855b-49b5-ab45-61fb51645d9b",
+                        "recording_name": "4X4",
+                        "release_group_mbid": "a9e7b811-5900-4398-af60-6db7ef02b536",
+                        "release_mbid": "aa0c9224-bba6-4e1a-b974-bc96d37c3d01"
+                    },
+                    "release_name": "HARDSTONE PSYCHO",
+                    "track_name": "4X4"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791771692,
+                "recording_msid": "2f46b4ca-4ec2-410b-974d-e221a5038597",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "95b0d5b3-2815-4ffc-9bfe-2ace8300b463",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LAZER DIM 700",
+                    "release_name": "LD7",
+                    "track_name": "Front yard"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791771560,
+                "recording_msid": "386d66f1-39be-419d-b1fe-4397198c9c15",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                        "lastfm_release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3",
+                        "lastfm_track_mbid": "7963d202-1dbd-423d-9e05-e9d602b6cdff",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26259737868,
+                        "caa_release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3",
+                        "recording_mbid": "19313857-06ac-44ee-bbd5-f4efa06cad33",
+                        "recording_name": "DO BETTER",
+                        "release_group_mbid": "2f97867d-ebff-478c-9ab4-4a33e0015318",
+                        "release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3"
+                    },
+                    "release_name": "WUNNA",
+                    "track_name": "DO BETTER"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791771407,
+                "recording_msid": "1487c7e2-1dff-45cc-8659-66d99611d23b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "1296e39a-8982-42cf-9df7-1b8f14a17b3c",
+                        "lastfm_track_mbid": "5c577781-b889-4b14-9f05-f6f7c6baef42",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697258105,
+                        "caa_release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "recording_mbid": "5c577781-b889-4b14-9f05-f6f7c6baef42",
+                        "recording_name": "DUMBO",
+                        "release_group_mbid": "7e9b11f2-4625-45e9-96b3-247e8982a270",
+                        "release_mbid": "93e4896f-1c6d-4f14-936c-36666e85eb13",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1826343594"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/447742176"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3457399831"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1826343594"
+                            }
+                        ]
+                    },
+                    "release_name": "JACKBOYS 2",
+                    "track_name": "DUMBO"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791771155,
+                "recording_msid": "08dabcc6-4681-49b8-a06e-6e25fd239f9c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a668565b-41b8-44a8-9d5c-8e609dbf69fc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Yachty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a668565b-41b8-44a8-9d5c-8e609dbf69fc",
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Yachty",
+                                "artist_mbid": "a668565b-41b8-44a8-9d5c-8e609dbf69fc",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16723453732,
+                        "caa_release_mbid": "91eb3020-a0e3-4c80-9ce1-863c001d722e",
+                        "recording_mbid": "94e8139e-2c3b-421f-8b67-1eff8f64170d",
+                        "recording_name": "Peek a Boo",
+                        "release_group_mbid": "23d1120b-1951-43d4-8c82-6a95540d5532",
+                        "release_mbid": "9539c27b-52cf-40e6-84c6-2393e866cb44"
+                    },
+                    "release_name": "Peek A Boo",
+                    "track_name": "Peek A Boo"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791770907,
+                "recording_msid": "c504d2a2-6711-4663-a81a-03d3a14b1d7f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_release_mbid": "23ffea4e-02a5-47d6-af66-be9077f0d483",
+                        "lastfm_track_mbid": "8182cc59-2a63-417a-822e-188f9aadb864",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29313034185,
+                        "caa_release_mbid": "6c8da063-2c3c-49ca-9f55-553ec642c71d",
+                        "recording_mbid": "8182cc59-2a63-417a-822e-188f9aadb864",
+                        "recording_name": "Floyd Mayweather",
+                        "release_group_mbid": "9d3bd99f-d0a7-4fd1-87db-2d6c03980f4b",
+                        "release_mbid": "6c8da063-2c3c-49ca-9f55-553ec642c71d"
+                    },
+                    "release_name": "Jeffery",
+                    "track_name": "Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791770548,
+                "recording_msid": "6ee52686-8b09-4952-9c3a-752ae4080558",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gucci Mane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37027559346,
+                        "caa_release_mbid": "7e8dcefa-af6b-4fd4-b6bf-8a291b120940",
+                        "recording_mbid": "98fc9e80-6d03-4048-99f3-50e5126e6f4c",
+                        "recording_name": "Bluffin",
+                        "release_group_mbid": "9f16d3cb-8dcc-4b31-ae01-8980d86eeb9c",
+                        "release_mbid": "13d34d6a-145f-41d1-88ad-bb522196aef5"
+                    },
+                    "release_name": "Breath of Fresh Air",
+                    "track_name": "Bluffin (feat. Lil Baby)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791770361,
+                "recording_msid": "c8fbca2f-32b4-43e3-9ea8-403eb85165f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2a341516-3d7d-4adf-ae47-a83ed23f1a97",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32795066264,
+                        "caa_release_mbid": "e89408bd-ec73-4aec-af3b-e8ce9d5078a2",
+                        "recording_mbid": "e8c947d6-d3ef-4458-9961-f71f88cbea70",
+                        "recording_name": "Live From the Gutter",
+                        "release_group_mbid": "a2e3ca75-1e07-457b-973a-069e8d9c6c56",
+                        "release_mbid": "cc53d818-8482-41c2-ae4e-66727757a5a9"
+                    },
+                    "release_name": "What a Time to Be Alive",
+                    "track_name": "Live From the Gutter"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791770128,
+                "recording_msid": "9147693d-31f2-4d8c-abb5-e18216c441a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "e3263685-0740-4873-9226-384c8f22c461",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39899786158,
+                        "caa_release_mbid": "4ee153ad-6c6f-4b2f-9720-b56bcd966b67",
+                        "recording_mbid": "9a8e5203-45c9-49f6-9eb0-c8d0a9f1ac0d",
+                        "recording_name": "Extra High",
+                        "release_group_mbid": "ad20632d-28c3-43e9-a9d3-2f6b685635ab",
+                        "release_mbid": "062ae642-04e4-46ea-9d56-029402583d7f"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "soooo high"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791769243,
+                "recording_msid": "7adaa623-c78e-409e-896c-6793a21bca20",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "RichPhønks",
+                    "track_name": "Gourmet"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791766209,
+                "recording_msid": "7adaa623-c78e-409e-896c-6793a21bca20",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "RichPhønks",
+                    "track_name": "Gourmet"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791764223,
+                "recording_msid": "7a8b0a0e-2a27-42ec-bbba-50954bbaad1d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38355932138,
+                        "caa_release_mbid": "34d138d9-77f6-48dd-accb-4a219debc213",
+                        "recording_mbid": "17edc709-f09c-4aa7-929a-b54de62c8439",
+                        "recording_name": "WTFYM",
+                        "release_group_mbid": "566b49e2-5642-4361-9e10-90456afa935a",
+                        "release_mbid": "36202f93-9002-4262-b259-9da02f676076"
+                    },
+                    "release_name": "WE DON'T TRUST YOU",
+                    "track_name": "WTFYM"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791763013,
+                "recording_msid": "d4680ed8-5e3e-4463-ab8c-dc2f22cca845",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "60e0030b-cad9-46c3-b0f3-cc813f0222ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "38474d18-9204-4f60-a137-1fcc6750b869"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Skepta",
+                                "artist_mbid": "38474d18-9204-4f60-a137-1fcc6750b869",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "dfc5b276-dbd2-4be9-8a9d-989459cb7976",
+                        "recording_name": "TOXIC",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "TOXIC (with Skepta)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791781919,
+                "listened_at": 1791762723,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791769289,
+                "listened_at": 1791710447,
+                "recording_msid": "828011c3-1bde-4174-8c81-3a4b73116262",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45121462087,
+                        "caa_release_mbid": "7015c004-4468-4056-bc6e-62844e2329d4",
+                        "recording_mbid": "f9c4075e-3f2e-4324-aaf5-80f655e9f27e",
+                        "recording_name": "OverTh!nking",
+                        "release_group_mbid": "f58b1c3f-7bb2-4a53-b869-995ac3271902",
+                        "release_mbid": "7015c004-4468-4056-bc6e-62844e2329d4",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1802041065"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1802041065"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3277722181"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/423815018"
+                            }
+                        ]
+                    },
+                    "release_name": "OverTh!nking",
+                    "track_name": "OverTh!nking"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791710256,
+                "recording_msid": "35e20bb9-d4ef-4839-93f2-944ac4d49117",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_track_mbid": "46f7a356-d389-4725-bc0c-f31700d58bf3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10953712152,
+                        "caa_release_mbid": "f420f175-4cba-4ae5-849f-2200e2f9216c",
+                        "recording_mbid": "ecd644ff-aba9-4901-ab6b-276408dc0364",
+                        "recording_name": "I Serve the Base",
+                        "release_group_mbid": "9ac43ae5-c0de-42f6-8365-b68de4966833",
+                        "release_mbid": "ae9420ff-9589-4f71-b4bd-29ac5b82b878"
+                    },
+                    "release_name": "DS2 (Deluxe)",
+                    "track_name": "I Serve the Base"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791710163,
+                "recording_msid": "34920a07-7dbf-47da-87b8-a4a4755d731b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                        "lastfm_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "lastfm_track_mbid": "371a5759-df61-4c8d-ae38-ee6137a43615",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20273297148,
+                        "caa_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "recording_mbid": "2d3fa3e2-a992-4a9f-989a-a0ddfb72de4c",
+                        "recording_name": "Intro",
+                        "release_group_mbid": "2dc919d5-af1c-4fcf-87e2-ca835df94991",
+                        "release_mbid": "061e483c-7d6c-4864-ab94-546207952040"
+                    },
+                    "release_name": "Harder Than Ever",
+                    "track_name": "Intro"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791709976,
+                "recording_msid": "8a481204-8482-4fb8-a952-98024da036a8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "b5e790cb-9cad-411d-b3bc-5d642a339c1f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Diamond*",
+                    "release_name": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
+                    "track_name": "HEDIS N PELLES (feat. Pz')"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791709801,
+                "recording_msid": "9147693d-31f2-4d8c-abb5-e18216c441a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "e3263685-0740-4873-9226-384c8f22c461",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39899786158,
+                        "caa_release_mbid": "4ee153ad-6c6f-4b2f-9720-b56bcd966b67",
+                        "recording_mbid": "9a8e5203-45c9-49f6-9eb0-c8d0a9f1ac0d",
+                        "recording_name": "Extra High",
+                        "release_group_mbid": "ad20632d-28c3-43e9-a9d3-2f6b685635ab",
+                        "release_mbid": "062ae642-04e4-46ea-9d56-029402583d7f"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "soooo high"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791709712,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791722820,
+                "listened_at": 1791695270,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791697382,
+                "listened_at": 1791695074,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791697382,
+                "listened_at": 1791694414,
+                "recording_msid": "a2832470-cc4d-4427-8a5a-7cd111f584e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6",
+                        "lastfm_track_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43079020144,
+                        "caa_release_mbid": "3ab97340-dc1a-4767-a00c-51b3e49f9f9a",
+                        "recording_mbid": "ce3c70a6-21cd-46fe-b928-aea86b4330a2",
+                        "recording_name": "kansas",
+                        "release_group_mbid": "103a946b-f276-4aee-bce1-8d277fe321a5",
+                        "release_mbid": "4787a82d-3317-4d13-8b9d-79e165edcff6"
+                    },
+                    "release_name": "</3³",
+                    "track_name": "kansas"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791697382,
+                "listened_at": 1791647094,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791639067,
+                "recording_msid": "5d8c783c-47ef-4b60-9e63-73c46292e9ad",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "92631c53-91ed-48f5-a09d-a104ba69cdc7",
+                        "lastfm_release_mbid": "06be3c9d-2595-4c94-a754-6f99e9ba5d95",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Offset",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "92631c53-91ed-48f5-a09d-a104ba69cdc7",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Offset",
+                                "artist_mbid": "92631c53-91ed-48f5-a09d-a104ba69cdc7",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29208316673,
+                        "caa_release_mbid": "d7aae053-0e53-4ed7-9cd4-ed6a708d9f77",
+                        "recording_mbid": "06ae16d3-c100-41b3-815f-781747126a69",
+                        "recording_name": "Wild Wild West",
+                        "release_group_mbid": "0039fce1-5e68-4b0c-969a-bbba42191541",
+                        "release_mbid": "d5bf1e58-a30d-4883-852a-050e30e1a33f"
+                    },
+                    "release_name": "FATHER OF 4",
+                    "track_name": "Wild Wild West (feat. Gunna)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791638929,
+                "recording_msid": "243d5311-0fe2-4e45-9125-cfbc6c353c76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                        "lastfm_release_mbid": "37e0ab56-8f69-427f-9291-102bb181dd65",
+                        "lastfm_track_mbid": "bb19fafe-e5a8-4337-a8e4-c609f2e5efc0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bloodhound Lil Jeff",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44527163746,
+                        "caa_release_mbid": "37e0ab56-8f69-427f-9291-102bb181dd65",
+                        "recording_mbid": "bb19fafe-e5a8-4337-a8e4-c609f2e5efc0",
+                        "recording_name": "Should of Saw It",
+                        "release_group_mbid": "f212844a-702b-41ef-bbe2-9cd399c46feb",
+                        "release_mbid": "37e0ab56-8f69-427f-9291-102bb181dd65"
+                    },
+                    "release_name": "Stepping In Blood",
+                    "track_name": "Should Of Saw It"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791638555,
+                "recording_msid": "70a806eb-5e51-4581-99a7-ccf1cd778212",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "173deac9-935f-4ffc-9a02-2e0063878f1d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "173deac9-935f-4ffc-9a02-2e0063878f1d",
+                        "recording_name": "I GET IT, TWIN",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "I GET IT, TWIN"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637936,
+                "recording_msid": "42ef273f-a539-466b-bc4f-2afd16486fd7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "085ee675-9db0-4ef4-ba75-8563244db933",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "085ee675-9db0-4ef4-ba75-8563244db933",
+                        "recording_name": "GOODFELLAS",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "GOODFELLAS"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637792,
+                "recording_msid": "c6f7a661-f55f-4c67-adeb-f4bcd0d27f58",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "51f6f91d-be43-4929-b707-7bc95d52d35c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "51f6f91d-be43-4929-b707-7bc95d52d35c",
+                        "recording_name": "DNA",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "DNA"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637663,
+                "recording_msid": "f911bb24-8aaa-45b8-bade-069c7ca3756d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "06a9ed68-283f-452d-9921-bbbc09d12c5d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "06a9ed68-283f-452d-9921-bbbc09d12c5d",
+                        "recording_name": "HOW TF?!",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "HOW TF?!"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637566,
+                "recording_msid": "e45e88e7-0e5d-4631-bce1-3c8171f4a687",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "de3fbe08-e308-49fb-9224-42e7a2aea591",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "de3fbe08-e308-49fb-9224-42e7a2aea591",
+                        "recording_name": "ARCHIVE CELINE",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "ARCHIVE CELINE"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637405,
+                "recording_msid": "8480efcc-e15f-4aa4-8ea9-8a1c3ff3eb8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "96284e23-7621-4a84-a0b1-e7d2b175c198",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "96284e23-7621-4a84-a0b1-e7d2b175c198",
+                        "recording_name": "13",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "13"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637296,
+                "recording_msid": "bf45bfa8-05da-463a-8fdc-ffde5631de89",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                            "d82481ab-4f2e-4fd7-af2f-9dbaa38704da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Babyface Ray",
+                                "artist_mbid": "d82481ab-4f2e-4fd7-af2f-9dbaa38704da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "a21f9a60-cfb1-44d2-88f4-b0a72aa070dd",
+                        "recording_name": "WHITE HOUSE",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "WHITE HOUSE (feat. Babyface Ray)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637196,
+                "recording_msid": "797c757b-f469-4327-b7a1-e09b3ec093f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "a2fb2bc9-0f30-479f-8e1b-9356bbcc8d18",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "a2fb2bc9-0f30-479f-8e1b-9356bbcc8d18",
+                        "recording_name": "BEEN A MINUTE",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "BEEN A MINUTE"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791637073,
+                "recording_msid": "1fe7d5de-24bf-42cf-b3c5-fa218da3e8e7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "50b3bd92-89b2-45d3-b49d-6d86c483660f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "50b3bd92-89b2-45d3-b49d-6d86c483660f",
+                        "recording_name": "COINCIDENCE",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "COINCIDENCE"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636956,
+                "recording_msid": "9674ab68-88f2-414c-9b18-767fe954651c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "f65abb0a-d550-4d77-8e1b-9e3982d4e8ae",
+                        "recording_name": "KAPITOL DENIM",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "kapitol denim"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636797,
+                "recording_msid": "bbe29ac0-1d05-43fb-b02b-36772ec7f127",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "c6c151c3-30b1-4c94-8504-fc83dcdf4c02",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "c6c151c3-30b1-4c94-8504-fc83dcdf4c02",
+                        "recording_name": "GEEKED N BLESSED",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "GEEKED N BLESSED"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636672,
+                "recording_msid": "1887b526-e38e-41c4-a85f-e9b494ea6a74",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "lastfm_track_mbid": "9b267cad-5ee9-48a2-b343-86c1bdff6077",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33640894679,
+                        "caa_release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e",
+                        "recording_mbid": "9b267cad-5ee9-48a2-b343-86c1bdff6077",
+                        "recording_name": "MADE MY DAY",
+                        "release_group_mbid": "cf6a3947-7387-493d-b825-3a80b4c9bfd6",
+                        "release_mbid": "6070bb34-86d7-4165-aeef-2b4b8a548d0e"
+                    },
+                    "release_name": "Flawless Like Me",
+                    "track_name": "Made My Day"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636532,
+                "recording_msid": "c7de12d3-d933-4dbc-bc91-a49271333d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "lastfm_track_mbid": "0c299a1b-ba12-4589-9b40-4d41a229d978",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24459966920,
+                        "caa_release_mbid": "1d37edd1-8c01-407f-8821-c015fe6f3688",
+                        "recording_mbid": "f2f44ad4-87d0-403b-9b51-0cfea440f08b",
+                        "recording_name": "RIP Act",
+                        "release_group_mbid": "67e28e9b-830b-4a3a-9b69-2bda328dd2ee",
+                        "release_mbid": "1d37edd1-8c01-407f-8821-c015fe6f3688"
+                    },
+                    "release_name": "GEMINI!",
+                    "track_name": "RIP"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636397,
+                "recording_msid": "fd9277c6-2468-41a5-98f1-350f341d9a79",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "lastfm_track_mbid": "49785a4b-3f70-4148-bb0b-ed0bb629cc54",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39190475843,
+                        "caa_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "recording_mbid": "49785a4b-3f70-4148-bb0b-ed0bb629cc54",
+                        "recording_name": "Ski What It Be",
+                        "release_group_mbid": "96de8524-8ffb-4483-91a3-7beb5db2571b",
+                        "release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a"
+                    },
+                    "release_name": "GEMINI!",
+                    "track_name": "Ski What it Be"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636235,
+                "recording_msid": "fb63bf42-3d9e-4ec8-8a62-260e5869b510",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "lastfm_track_mbid": "811c75de-9500-4c09-b326-3b43afd128de",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39190475843,
+                        "caa_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "recording_mbid": "811c75de-9500-4c09-b326-3b43afd128de",
+                        "recording_name": "Heavy on My Heart",
+                        "release_group_mbid": "96de8524-8ffb-4483-91a3-7beb5db2571b",
+                        "release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/363691154"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/1746843646"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/1746843646"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2805915772"
+                            }
+                        ]
+                    },
+                    "release_name": "GEMINI!",
+                    "track_name": "Heavy On My Heart"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791636098,
+                "recording_msid": "9b450acd-4abc-4455-ab19-f8f4c4cd98b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                            "1c4b484c-746c-48b8-88b2-40f09e15159d",
+                            "4214aa04-64b0-442a-982b-0560e6d3a5bd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Rylo Rodriguez",
+                                "artist_mbid": "1c4b484c-746c-48b8-88b2-40f09e15159d",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "42 Dugg",
+                                "artist_mbid": "4214aa04-64b0-442a-982b-0560e6d3a5bd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39190475843,
+                        "caa_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "recording_mbid": "ca5537e4-f97c-4f3c-b3f2-56ec939e6d93",
+                        "recording_name": "3 SMRS STR8",
+                        "release_group_mbid": "96de8524-8ffb-4483-91a3-7beb5db2571b",
+                        "release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a"
+                    },
+                    "release_name": "GEMINI!",
+                    "track_name": "3 SMRS STR8"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791635961,
+                "recording_msid": "9b450acd-4abc-4455-ab19-f8f4c4cd98b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                            "1c4b484c-746c-48b8-88b2-40f09e15159d",
+                            "4214aa04-64b0-442a-982b-0560e6d3a5bd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Rylo Rodriguez",
+                                "artist_mbid": "1c4b484c-746c-48b8-88b2-40f09e15159d",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "42 Dugg",
+                                "artist_mbid": "4214aa04-64b0-442a-982b-0560e6d3a5bd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39190475843,
+                        "caa_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "recording_mbid": "ca5537e4-f97c-4f3c-b3f2-56ec939e6d93",
+                        "recording_name": "3 SMRS STR8",
+                        "release_group_mbid": "96de8524-8ffb-4483-91a3-7beb5db2571b",
+                        "release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a"
+                    },
+                    "release_name": "GEMINI!",
+                    "track_name": "3 SMRS STR8"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791635539,
+                "recording_msid": "828011c3-1bde-4174-8c81-3a4b73116262",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45121462087,
+                        "caa_release_mbid": "7015c004-4468-4056-bc6e-62844e2329d4",
+                        "recording_mbid": "f9c4075e-3f2e-4324-aaf5-80f655e9f27e",
+                        "recording_name": "OverTh!nking",
+                        "release_group_mbid": "f58b1c3f-7bb2-4a53-b869-995ac3271902",
+                        "release_mbid": "7015c004-4468-4056-bc6e-62844e2329d4",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1802041065"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1802041065"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3277722181"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/423815018"
+                            }
+                        ]
+                    },
+                    "release_name": "OverTh!nking",
+                    "track_name": "OverTh!nking"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791643291,
+                "listened_at": 1791628135,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791628008,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791627745,
+                "recording_msid": "0566c251-1e19-4816-901b-b5309a71522a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "2bf15e30-1ddd-4812-bd69-a992319f4a38",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "40c93c6b-d3e2-4c6c-9783-3b7e883cd3be",
+                        "recording_name": "Use Me",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Use Me"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791627508,
+                "recording_msid": "20e0d814-69e2-4e36-a2b7-ea46311f3306",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "045df868-e2d6-4b8f-a303-88e2cf94cc4c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "e0770e82-39ac-4f4c-bfcf-7ec9a946a4a6",
+                        "recording_name": "Damage",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Damage"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791627180,
+                "recording_msid": "30c2df9c-f236-47ab-97ee-041f4213244e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "0afb3352-bcce-4ee6-b02f-452e00cdffda",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "7b337008-4646-4fb8-b3cb-223123240bd0",
+                        "recording_name": "Lookin Exotic",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Lookin Exotic"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791626925,
+                "recording_msid": "114a37e1-19cf-492a-bf0c-10f974cef379",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "48476be9-5b3a-4570-84ba-a491e5a5778b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023904779,
+                        "caa_release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7",
+                        "recording_mbid": "56608ff0-4787-44da-851b-019c5f13b969",
+                        "recording_name": "Comin' Out Strong",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Comin Out Strong (feat. The Weeknd)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791626656,
+                "recording_msid": "14af0b3b-027b-41d3-8c49-4264bde66972",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "084aaff5-338f-4d33-8d65-9f77f8dde42b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "b1875f96-e3f2-474c-b3ec-c4a36c7d40bf",
+                        "recording_name": "My Collection",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "My Collection"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791626405,
+                "recording_msid": "114a37e1-19cf-492a-bf0c-10f974cef379",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "48476be9-5b3a-4570-84ba-a491e5a5778b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023904779,
+                        "caa_release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7",
+                        "recording_mbid": "56608ff0-4787-44da-851b-019c5f13b969",
+                        "recording_name": "Comin' Out Strong",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Comin Out Strong (feat. The Weeknd)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791626294,
+                "recording_msid": "e471014c-bd74-4887-93ee-2c39ffcc3bf4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "92e91543-3745-4741-8989-8fbe7b75719d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "92e91543-3745-4741-8989-8fbe7b75719d",
+                        "recording_name": "vamp city (with OsamaSon)"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "vamp city (With OsamaSon)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791626128,
+                "recording_msid": "78493a53-dce8-4061-bdb4-9cfa7aafc8af",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_track_mbid": "f5f8f118-f28d-4e03-ac92-cd0f7efb9cc0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21364887570,
+                        "caa_release_mbid": "58ec8d29-934e-4a52-9c75-48c814bcbd4c",
+                        "recording_mbid": "e7414d01-e00c-41f3-b95e-656cfc64f9b9",
+                        "recording_name": "Overdue",
+                        "release_group_mbid": "4e9a52ee-f18d-4de0-845d-9b77dd33a758",
+                        "release_mbid": "439da17d-b5d9-4cb1-8826-0a1ea70f7832"
+                    },
+                    "release_name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+                    "track_name": "Overdue (with Travis Scott)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791625961,
+                "recording_msid": "0620f766-7064-47f1-9507-4493c30e3113",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "77c11f45-c808-4487-af46-39a26891403d",
+                        "lastfm_track_mbid": "24afe5e9-7a67-40e3-bac3-c42ca2422035",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25604442789,
+                        "caa_release_mbid": "77c11f45-c808-4487-af46-39a26891403d",
+                        "recording_mbid": "003bf58c-d159-482a-8aa2-051a738d05b6",
+                        "recording_name": "Prices",
+                        "release_group_mbid": "4e60f08e-4b53-4139-a8c8-5bd81fad0d62",
+                        "release_mbid": "20e4f5e2-262c-428a-a1b3-f13b9b932f7e"
+                    },
+                    "release_name": "Eternal Atake",
+                    "track_name": "Prices"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791625805,
+                "recording_msid": "635f0b4f-f99b-46f7-9919-2f30db42b362",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                        "lastfm_release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26259737868,
+                        "caa_release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3",
+                        "recording_mbid": "e39e8d88-1ec5-4fda-a389-c19a16d7d1c2",
+                        "recording_name": "BLINDFOLD",
+                        "release_group_mbid": "2f97867d-ebff-478c-9ab4-4a33e0015318",
+                        "release_mbid": "66ad3acb-9e35-480b-87bb-d97364d244f3"
+                    },
+                    "release_name": "WUNNA",
+                    "track_name": "BLINDFOLD (feat. Lil Baby)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791625233,
+                "recording_msid": "87eb26e5-ad42-4e69-b1d0-ae888cf324e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                        "lastfm_release_mbid": "17353e06-d976-446c-9a71-c7b8faaacb54",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mustard",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                            "6143403a-df6c-429e-8ee6-ef869896b0da",
+                            "70ee11b6-edf4-4cb1-80bc-7bba3b719b14"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mustard",
+                                "artist_mbid": "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rob49",
+                                "artist_mbid": "70ee11b6-edf4-4cb1-80bc-7bba3b719b14",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39829439133,
+                        "caa_release_mbid": "4166ece5-778b-435c-9ec9-c5d5b4ad3d1c",
+                        "recording_mbid": "b3efccc0-91f0-41fb-a1e3-a98a0c8288e9",
+                        "recording_name": "One of Them Ones",
+                        "release_group_mbid": "f3e5b002-cc0e-4801-ae90-9618680b901b",
+                        "release_mbid": "3c36da9d-5f44-480e-ab94-1ca7b560abfc"
+                    },
+                    "release_name": "Faith Of A Mustard Seed",
+                    "track_name": "One of Them Ones (feat. Quavo & Rob49)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791625092,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791624990,
+                "recording_msid": "6b71e73c-a50f-465d-9bfa-944d1979f656",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                            "b9b3ce10-3e78-4a47-9b12-9450bd59e49f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "CEO Trayle",
+                                "artist_mbid": "b9b3ce10-3e78-4a47-9b12-9450bd59e49f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "38cddee0-e91a-4eab-ba04-c275a42d8b55",
+                        "recording_name": "Don’t Blink or Stare",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/403435865"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1783172857"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1783172857"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3124599281"
+                            }
+                        ]
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Don’t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791623601,
+                "recording_msid": "91346e4c-44a0-4088-a0f4-db58ff23085a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "lastfm_track_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45356829462,
+                        "caa_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "recording_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "recording_name": "ØWAY",
+                        "release_group_mbid": "37b63cfa-84c8-4c3e-9568-3449319c0358",
+                        "release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818"
+                    },
+                    "release_name": "THE RESURRECTIØN",
+                    "track_name": "ØWAY"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791623292,
+                "recording_msid": "34920a07-7dbf-47da-87b8-a4a4755d731b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                        "lastfm_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "lastfm_track_mbid": "371a5759-df61-4c8d-ae38-ee6137a43615",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20273297148,
+                        "caa_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "recording_mbid": "2d3fa3e2-a992-4a9f-989a-a0ddfb72de4c",
+                        "recording_name": "Intro",
+                        "release_group_mbid": "2dc919d5-af1c-4fcf-87e2-ca835df94991",
+                        "release_mbid": "061e483c-7d6c-4864-ab94-546207952040"
+                    },
+                    "release_name": "Harder Than Ever",
+                    "track_name": "Intro"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791623155,
+                "recording_msid": "85dfda18-db41-4f71-a799-a0912bddd24e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "lastfm_track_mbid": "df408879-7dc4-4884-beeb-d53c13c9b0bb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "df408879-7dc4-4884-beeb-d53c13c9b0bb",
+                        "recording_name": "One Two",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7Aj7gSqpF1HdkftImtgil8"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327274"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797504"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327274"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "One Two"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791623009,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791622865,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791622726,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791628755,
+                "listened_at": 1791622575,
+                "recording_msid": "b38d3c1b-1af0-4f4a-abdc-c6858ad37cca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BloodHound Q50",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                            "0c8bd005-d9c5-4f12-8707-ed55ab6c1101"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BloodHound Q50",
+                                "artist_mbid": "bc8efafe-52f9-4b6d-95a0-dc193a3556e5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bloodhound Lil Jeff",
+                                "artist_mbid": "0c8bd005-d9c5-4f12-8707-ed55ab6c1101",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42368796080,
+                        "caa_release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4",
+                        "recording_mbid": "bcf57eb3-dccf-4350-9e50-ac8f5fd544c0",
+                        "recording_name": "Heard of You",
+                        "release_group_mbid": "a6127984-3c76-4d17-b582-8c5440715980",
+                        "release_mbid": "9701d8ee-80f7-40f7-9b90-53f8ef2438e4"
+                    },
+                    "release_name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+                    "track_name": "Heard Of You (feat. Bloodhound Lil Jeff)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791603165,
+                "recording_msid": "38c10fac-8858-48df-af28-8ab4bb83ae26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jeezy",
+                    "release_name": "Trap Or Die 3",
+                    "track_name": "All There"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791600059,
+                "recording_msid": "38c10fac-8858-48df-af28-8ab4bb83ae26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jeezy",
+                    "release_name": "Trap Or Die 3",
+                    "track_name": "All There"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791599865,
+                "recording_msid": "38c10fac-8858-48df-af28-8ab4bb83ae26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jeezy",
+                    "release_name": "Trap Or Die 3",
+                    "track_name": "All There"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791599361,
+                "recording_msid": "38c10fac-8858-48df-af28-8ab4bb83ae26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jeezy",
+                    "release_name": "Trap Or Die 3",
+                    "track_name": "All There"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791599179,
+                "recording_msid": "38c10fac-8858-48df-af28-8ab4bb83ae26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jeezy",
+                    "release_name": "Trap Or Die 3",
+                    "track_name": "All There"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791598580,
+                "recording_msid": "7adaa623-c78e-409e-896c-6793a21bca20",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "RichPhønks",
+                    "track_name": "Gourmet"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791605594,
+                "listened_at": 1791596401,
+                "recording_msid": "34920a07-7dbf-47da-87b8-a4a4755d731b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                        "lastfm_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "lastfm_track_mbid": "371a5759-df61-4c8d-ae38-ee6137a43615",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Baby",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20273297148,
+                        "caa_release_mbid": "061e483c-7d6c-4864-ab94-546207952040",
+                        "recording_mbid": "2d3fa3e2-a992-4a9f-989a-a0ddfb72de4c",
+                        "recording_name": "Intro",
+                        "release_group_mbid": "2dc919d5-af1c-4fcf-87e2-ca835df94991",
+                        "release_mbid": "061e483c-7d6c-4864-ab94-546207952040"
+                    },
+                    "release_name": "Harder Than Ever",
+                    "track_name": "Intro"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791563268,
+                "listened_at": 1791555401,
+                "recording_msid": "54d70e89-e9a3-4b1c-a516-d8a91036b321",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                        "lastfm_release_mbid": "cbf75ddb-4a35-4278-a737-38f2c3fa12d9",
+                        "lastfm_track_mbid": "0ad3c127-96ed-4119-ae5c-29d8a2cd809c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "EsDeeKid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3d253cbd-fb66-4752-a8d1-f9b0db75bcea"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "EsDeeKid",
+                                "artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45491247404,
+                        "caa_release_mbid": "cbf75ddb-4a35-4278-a737-38f2c3fa12d9",
+                        "recording_mbid": "0ad3c127-96ed-4119-ae5c-29d8a2cd809c",
+                        "recording_name": "RockWave",
+                        "release_group_mbid": "113671f8-18b9-41ce-9553-1ba0401117a9",
+                        "release_mbid": "cbf75ddb-4a35-4278-a737-38f2c3fa12d9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/428731853"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/428731853"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/534057499"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6781031400"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6781031400"
+                            }
+                        ]
+                    },
+                    "release_name": "RockWave",
+                    "track_name": "RockWave"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791555283,
+                "recording_msid": "0d0d5911-a330-4097-8e7f-0b4f645e2d4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                        "lastfm_release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c",
+                        "lastfm_track_mbid": "67d4b493-bce8-4760-8d07-b048aeeb358f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "EsDeeKid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                            "458ce43c-2d3e-46d2-b352-0476e59816da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "EsDeeKid",
+                                "artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rico Ace",
+                                "artist_mbid": "458ce43c-2d3e-46d2-b352-0476e59816da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42326845836,
+                        "caa_release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c",
+                        "recording_mbid": "6a105405-19b6-46a3-80ed-1341ef76f5ea",
+                        "recording_name": "Cali Man",
+                        "release_group_mbid": "d1ec3839-6213-42ea-b912-ac667fb5c245",
+                        "release_mbid": "f7c66e6a-d6b4-41c0-a770-bc4f30f9d98c"
+                    },
+                    "release_name": "Rebel",
+                    "track_name": "Cali Man"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791555036,
+                "recording_msid": "490c8240-bbbc-4d72-ba67-2cf269d2f06b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "d6091fdc-58a1-4659-8d31-7b2be5021e20",
+                        "lastfm_track_mbid": "03510dcb-0a80-4aac-ac11-baf75dddfd17",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "03510dcb-0a80-4aac-ac11-baf75dddfd17",
+                        "recording_name": "MELTDOWN",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "1cb0df64-733e-46b7-a65f-ce3a74cf7e1d"
+                    },
+                    "release_name": "UTOPIA",
+                    "track_name": "MELTDOWN (feat. Drake)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791554845,
+                "recording_msid": "f0edcfba-552d-4e1f-a9c6-430aff227ac1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_track_mbid": "2abba7ec-fdcb-4a89-a54d-584e79c13dc2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37393822548,
+                        "caa_release_mbid": "9bc2fcb3-6934-43b8-99b7-77edbf2c82e3",
+                        "recording_mbid": "cb13f54d-9856-4d78-becd-61299aeab390",
+                        "recording_name": "back sippin",
+                        "release_group_mbid": "bc915c52-9691-4bdf-aeff-f21d0fcb5ea7",
+                        "release_mbid": "9e70391d-8948-4f71-9e55-9d90e80eb0f3"
+                    },
+                    "release_name": "LOVE LASTS FOREVER",
+                    "track_name": "SYRUP SIPPIN"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791554721,
+                "recording_msid": "142f4811-9f9f-4889-a900-e26a971f925e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "lastfm_release_mbid": "94e8cc80-af16-4dc7-bfcc-5608c936f04b",
+                        "lastfm_track_mbid": "036c3f37-36f5-48d9-af19-34cec143a337",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "release_name": "QRÖMELIFE",
+                    "track_name": "Thick in the Mirror"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791554585,
+                "recording_msid": "62e623e6-57b8-4bff-93c4-ba25adfe3d37",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "90569e31-6548-4979-9b45-3a0b540b2051",
+                        "recording_name": "Hot",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "e66e25c8-536f-4b1e-8057-634cc2502cbc"
+                    },
+                    "release_name": "So Much Fun (Deluxe)",
+                    "track_name": "Hot (feat. Gunna)"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791554322,
+                "recording_msid": "1c0fcfe4-01c6-4306-ad84-9fd95a15282b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "26fc7db3-d6c1-4dee-adac-ff499150fa00",
+                        "lastfm_track_mbid": "2173f4a5-84a0-468b-bcb8-2175d648e95e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15972020319,
+                        "caa_release_mbid": "ee884f13-5cef-4ea1-954c-2925cf8594e2",
+                        "recording_mbid": "f95e1cbb-00c3-4dd9-b0b1-63921d294b7c",
+                        "recording_name": "Draco",
+                        "release_group_mbid": "98c84b94-3445-4dcc-ad01-9e5e3e1271e2",
+                        "release_mbid": "ee884f13-5cef-4ea1-954c-2925cf8594e2"
+                    },
+                    "release_name": "FUTURE",
+                    "track_name": "Draco"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791554125,
+                "recording_msid": "68da94bb-15c6-4de9-9753-fd6f9f5b6fa4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rob49",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "70ee11b6-edf4-4cb1-80bc-7bba3b719b14"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rob49",
+                                "artist_mbid": "70ee11b6-edf4-4cb1-80bc-7bba3b719b14",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42030673346,
+                        "caa_release_mbid": "6eee29e1-efc8-4b66-b988-00c522e0877d",
+                        "recording_mbid": "5dfb8794-3507-4745-a02f-84bf18595d1b",
+                        "recording_name": "WTHELLY",
+                        "release_group_mbid": "d812fe2c-43bf-4ba6-9d9a-892220e82613",
+                        "release_mbid": "6eee29e1-efc8-4b66-b988-00c522e0877d"
+                    },
+                    "release_name": "Let Me Fly (Deluxe)",
+                    "track_name": "WTHELLY (with G Herbo) - Remix"
+                },
+                "user_name": "celeronishe"
+            },
+            {
+                "inserted_at": 1791555765,
+                "listened_at": 1791553940,
+                "recording_msid": "80c927b9-35c1-41e8-870f-9ac53def530d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                        "lastfm_release_mbid": "a7cb00e9-47d7-4bf8-b93b-eef8864f9334",
+                        "lastfm_track_mbid": "51db693e-eaed-4b9b-8e4f-410d110c09dc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Durk",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c9cd225b-4883-428e-82c2-73e0b6282fb6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Durk",
+                                "artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35712147085,
+                        "caa_release_mbid": "b057f5ca-0f48-4db5-81e4-9f488074438e",
+                        "recording_mbid": "51db693e-eaed-4b9b-8e4f-410d110c09dc",
+                        "recording_name": "AHHH HA",
+                        "release_group_mbid": "5a62bebd-d78e-4f02-9d95-0bee626a7eff",
+                        "release_mbid": "a7cb00e9-47d7-4bf8-b93b-eef8864f9334"
+                    },
+                    "release_name": "7220",
+                    "track_name": "AHHH HA"
+                },
+                "user_name": "celeronishe"
+            }
+        ],
+        "oldest_listen_ts": 1734358903,
+        "user_id": "celeronishe"
+    }
+}

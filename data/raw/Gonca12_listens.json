@@ -1,0 +1,3177 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791724106,
+        "listens": [
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791733052,
+                "recording_msid": "b11a965a-d9c5-42d9-a8f6-99737e42a790",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "0726c5f4-da29-4a78-a8ab-b08e632fe3b9",
+                        "lastfm_track_mbid": "fd83178d-c064-4689-9c09-bef8f1c4cad9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46277696375,
+                        "caa_release_mbid": "ceb01f3f-3a63-4ad7-ad9e-7b9bd18f82d2",
+                        "recording_mbid": "fd83178d-c064-4689-9c09-bef8f1c4cad9",
+                        "recording_name": "The Art of Peer Pressure",
+                        "release_group_mbid": "499c19c8-0dab-4824-884b-6191d145e95b",
+                        "release_mbid": "2de6d2c1-349b-4f89-9b84-9653624293a4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4Gf6VlNy2E4VVuAkl0y2XW"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/35470542"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2PieESXphabz5AkALFS08X"
+                            }
+                        ]
+                    },
+                    "release_name": "good kid, m.A.A.d city",
+                    "track_name": "The Art of Peer Pressure"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791732881,
+                "recording_msid": "dc88e70f-2d44-4875-9568-bdbdc99808fc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "61e8cc36-ae41-43bc-9d77-b18254c3687b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ye",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44791300701,
+                        "caa_release_mbid": "bd8f50bf-9ddd-41ad-8499-4e04c36ea655",
+                        "recording_mbid": "0869d3a7-f049-4d18-b2b1-f8056b83da54",
+                        "recording_name": "SISTERS AND BROTHERS",
+                        "release_group_mbid": "56327267-51fb-472c-919e-d6ca258ebab2",
+                        "release_mbid": "57d3915f-504f-4a14-8877-ae873d125257",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3926892761"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1FpjiEapAG8XJdVSI0tvdc"
+                            }
+                        ]
+                    },
+                    "release_name": "BULLY",
+                    "track_name": "SISTERS AND BROTHERS"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791732708,
+                "recording_msid": "554868ba-3377-4958-8550-d056e9c39f77",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+                        "lastfm_release_mbid": "126cada8-78c5-3c02-a4af-7fffe7165ae7",
+                        "lastfm_track_mbid": "0cb294d5-fae2-4481-a30c-0e65cc9d88de",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kid Cudi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+                            "8e0c435a-d7e0-43c4-a99d-808c6a47e1b4",
+                            "5334edc0-5faf-4ca5-b1df-000de3e1f752"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kid Cudi",
+                                "artist_mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Cage",
+                                "artist_mbid": "8e0c435a-d7e0-43c4-a99d-808c6a47e1b4",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "St. Vincent",
+                                "artist_mbid": "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41408272005,
+                        "caa_release_mbid": "126cada8-78c5-3c02-a4af-7fffe7165ae7",
+                        "recording_mbid": "ceb3852f-29ee-445f-9052-49dc24f6e162",
+                        "recording_name": "MANIAC",
+                        "release_group_mbid": "b7717649-9d68-4665-aa4a-6f4ba7b7e0ea",
+                        "release_mbid": "126cada8-78c5-3c02-a4af-7fffe7165ae7"
+                    },
+                    "release_name": "Man on the Moon II: The Legend of Mr. Rager",
+                    "track_name": "MANIAC"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791732471,
+                "recording_msid": "e0b063a4-a706-4942-9343-34d3425ed48d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                        "lastfm_release_mbid": "5974fd75-ff80-449e-8a80-98ce2ed59e5f",
+                        "lastfm_track_mbid": "33d73a1a-ce98-498e-b0ce-5bf4d6fc6260",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mac Miller",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0e8a1b1-5f8f-475a-a253-17415c17d0ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mac Miller",
+                                "artist_mbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37903683361,
+                        "caa_release_mbid": "75dee717-0467-44b4-80f6-32923288b036",
+                        "recording_mbid": "838b6190-bf2b-4aef-9844-c93b85e3ee5a",
+                        "recording_name": "Rush Hour",
+                        "release_group_mbid": "613aa3fc-2e22-4996-b48e-e7cdcfe507a6",
+                        "release_mbid": "5974fd75-ff80-449e-8a80-98ce2ed59e5f"
+                    },
+                    "release_name": "GO:OD AM",
+                    "track_name": "Rush Hour"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791732239,
+                "recording_msid": "7f9ed414-2fed-4fe6-b0f6-bba9d648cafc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "0aaf3bcf-8437-4be7-a025-68cba9a7ec62",
+                        "lastfm_track_mbid": "931200ce-caeb-401e-a875-c542ef929647",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26950870423,
+                        "caa_release_mbid": "7b032e4a-74d1-4be8-bcae-6a6dec6172a5",
+                        "recording_mbid": "931200ce-caeb-401e-a875-c542ef929647",
+                        "recording_name": "L$D",
+                        "release_group_mbid": "10a526a7-9d24-463f-8c0b-16ac98027460",
+                        "release_mbid": "a826f3db-d1d7-4b6d-a67f-d8d298d19839"
+                    },
+                    "release_name": "AT.LONG.LAST.A$AP",
+                    "track_name": "L$D"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791740598,
+                "listened_at": 1791725337,
+                "recording_msid": "92666681-1b09-418e-91c5-c010b973b8a7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "70cc88ee-d52b-4781-a7f0-2da64ef65cd0",
+                        "lastfm_track_mbid": "17478190-02df-4fae-9db9-a2be9c138951",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16023915929,
+                        "caa_release_mbid": "8cd52cf5-ad60-4c9e-bc0c-13fbeffaeca2",
+                        "recording_mbid": "9af8e847-0ef8-465f-9de6-5b8c749d91bc",
+                        "recording_name": "Sorry",
+                        "release_group_mbid": "ecd7a38f-4ffc-4489-903b-955fdd6dec0f",
+                        "release_mbid": "e6bce4f7-069a-4bd0-b12b-6c028647b4a7"
+                    },
+                    "release_name": "HNDRXX",
+                    "track_name": "Sorry"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791731745,
+                "listened_at": 1791724106,
+                "recording_msid": "ac08ebef-b25d-48a6-bb0e-4f36b557f97c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "release_name": "LSD",
+                    "track_name": "MULHER (feat. Ivandro)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791731745,
+                "listened_at": 1791723923,
+                "recording_msid": "b9de21fb-027e-4b77-84d0-724c8da1cf48",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede",
+                            "0612bcce-e351-40be-b3d7-2bb5e1c23479"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Mustard",
+                                "artist_mbid": "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42447289835,
+                        "caa_release_mbid": "eab2d8d8-339c-44a7-a84c-6e3ea63dd12f",
+                        "recording_mbid": "1e6847ab-f0cc-4bdd-b229-f7706151486b",
+                        "recording_name": "FWU",
+                        "release_group_mbid": "2600a167-a4a3-4582-a318-ac2454e04403",
+                        "release_mbid": "eab2d8d8-339c-44a7-a84c-6e3ea63dd12f"
+                    },
+                    "release_name": "FWU",
+                    "track_name": "FWU"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791723932,
+                "listened_at": 1791672969,
+                "recording_msid": "423c8768-baf8-40de-bd3d-32c3edbaa2cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "release_name": "Chá de Camomila",
+                    "track_name": "R&BSR&B$"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791683850,
+                "listened_at": 1791672630,
+                "recording_msid": "d2990ecf-9f06-43b7-86a0-b4a663f67b2d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "lastfm_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "lastfm_track_mbid": "0141effc-4594-4100-bb94-312491aa7714",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30625545366,
+                        "caa_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "recording_mbid": "507491e9-1aa1-42ee-b0a5-e2668dbe2a9d",
+                        "recording_name": "Depois da Chuva",
+                        "release_group_mbid": "d5faceb0-a8f8-4ce4-8e90-616bd6386893",
+                        "release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446"
+                    },
+                    "release_name": "Ngana Zambi",
+                    "track_name": "Depois da Chuva"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791683850,
+                "listened_at": 1791672380,
+                "recording_msid": "52c2f7ba-3cfa-4a4f-9bce-413755a3b1e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cd839e3a-0990-4089-ba53-fd63777a7f8a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Instinto 26",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cd839e3a-0990-4089-ba53-fd63777a7f8a",
+                            "d609cc2a-ac56-408d-ad5e-6ca1193d3939",
+                            "8d87bd2d-1c9a-4ebc-b0c1-10b410526d0b",
+                            "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                            "0af5f0b4-d8f3-4f2f-8737-5170d59d4abf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Instinto 26",
+                                "artist_mbid": "cd839e3a-0990-4089-ba53-fd63777a7f8a",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Trista",
+                                "artist_mbid": "d609cc2a-ac56-408d-ad5e-6ca1193d3939",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Yuran",
+                                "artist_mbid": "8d87bd2d-1c9a-4ebc-b0c1-10b410526d0b",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Julinho Ksd",
+                                "artist_mbid": "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Kibow",
+                                "artist_mbid": "0af5f0b4-d8f3-4f2f-8737-5170d59d4abf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40976991327,
+                        "caa_release_mbid": "43fc7c96-ef28-424c-bf04-6e700abe15de",
+                        "recording_mbid": "ba902b77-7bdf-4202-a004-4f35999734c4",
+                        "recording_name": "Sólido",
+                        "release_group_mbid": "50e4330c-47d2-40b8-8641-33ed788b3624",
+                        "release_mbid": "43fc7c96-ef28-424c-bf04-6e700abe15de"
+                    },
+                    "release_name": "Sólido",
+                    "track_name": "Sólido"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791672147,
+                "recording_msid": "9d2319ea-c8e9-4d0a-b0c8-d50539660ab6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "780bd348-9d14-4a81-a405-c496d174884d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mizzy Miles",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "780bd348-9d14-4a81-a405-c496d174884d",
+                            "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                            "56353392-c6ab-4889-a016-954f3ee1ed1e",
+                            "102288f4-6f34-4304-93a9-5c307741747b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mizzy Miles",
+                                "artist_mbid": "780bd348-9d14-4a81-a405-c496d174884d",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Lon3r Johny",
+                                "artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Lhast",
+                                "artist_mbid": "56353392-c6ab-4889-a016-954f3ee1ed1e",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "9 Miller",
+                                "artist_mbid": "102288f4-6f34-4304-93a9-5c307741747b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38609151040,
+                        "caa_release_mbid": "f6c52e52-3232-43f2-bd43-5b991e53662e",
+                        "recording_mbid": "2a003e0f-7d38-47a5-ad46-4176391eac1b",
+                        "recording_name": "SAFE",
+                        "release_group_mbid": "96710576-cf75-43ec-abe1-994f25432b51",
+                        "release_mbid": "f6c52e52-3232-43f2-bd43-5b991e53662e"
+                    },
+                    "release_name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
+                    "track_name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791671743,
+                "recording_msid": "131b9dc7-fb2d-4b01-9e5a-bfc408c68621",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                        "lastfm_track_mbid": "a668242e-5e4c-42d6-9df7-5d1535da05f0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38607987427,
+                        "caa_release_mbid": "860e863f-1544-43fc-a029-31a2783f961f",
+                        "recording_mbid": "a668242e-5e4c-42d6-9df7-5d1535da05f0",
+                        "recording_name": "Ar",
+                        "release_group_mbid": "bcfb2ed5-f5a9-4dcf-8a8f-40e7589e0e3a",
+                        "release_mbid": "860e863f-1544-43fc-a029-31a2783f961f"
+                    },
+                    "release_name": "Gota D'Espaço",
+                    "track_name": "Ar"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791671483,
+                "recording_msid": "09b4a460-4a37-483c-bf5c-ec1508188ccd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Julinho Ksd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                            "ed6629b3-299d-454f-a40f-f0dee79855d8",
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Julinho Ksd",
+                                "artist_mbid": "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Deezy",
+                                "artist_mbid": "ed6629b3-299d-454f-a40f-f0dee79855d8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "cc1d85bd-723e-4d0e-8886-35bbecce7400",
+                        "recording_name": "Hospedeira",
+                        "release_group_mbid": "b5fea293-4b4c-4761-a17a-570fc44c45df",
+                        "release_mbid": "437d5456-64ce-4cbd-ad3f-675b8a8379b5"
+                    },
+                    "release_name": "Sabi na Sabura",
+                    "track_name": "Hospedeira"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791671277,
+                "recording_msid": "c2bbb911-8a9a-49bd-af35-276a2c293b53",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "release_name": "Vida Rockstar",
+                    "track_name": "Rockstar Shit"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791671048,
+                "recording_msid": "f04ef301-6479-49b8-bc4a-bf1a93facc59",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2159ab88-f35b-47ff-92e8-e70b8c9facd8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lon3r Johny",
+                                "artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38607435028,
+                        "caa_release_mbid": "2159ab88-f35b-47ff-92e8-e70b8c9facd8",
+                        "recording_mbid": "bfba3579-5936-4600-97d0-72930768c9de",
+                        "recording_name": "NÃO OS VEJO",
+                        "release_group_mbid": "0e1e0dcf-bfeb-4e1c-a5f1-0427a3a0cbcd",
+                        "release_mbid": "2159ab88-f35b-47ff-92e8-e70b8c9facd8"
+                    },
+                    "release_name": "ANTI$$OCIAL",
+                    "track_name": "NÃO OS VEJO"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791670857,
+                "recording_msid": "c640c9f9-95c6-43bf-9946-fd846f5dc9c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Deejay Telio",
+                    "release_name": "D'Ouro",
+                    "track_name": "Timidez"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791670669,
+                "recording_msid": "456b9d08-24ed-44d5-9657-e2c17ca194ca",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "release_name": "Lisabona",
+                    "track_name": "Lisabona"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791670433,
+                "recording_msid": "a47678ca-e5dc-4bb5-beb3-77a0e7013205",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d3954c28-13e9-4e65-8623-e6a4a2b852d3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dillaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d3954c28-13e9-4e65-8623-e6a4a2b852d3",
+                            "9c563b1c-ade6-4a0f-afc0-152e61b9f468"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dillaz",
+                                "artist_mbid": "d3954c28-13e9-4e65-8623-e6a4a2b852d3",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Spliff",
+                                "artist_mbid": "9c563b1c-ade6-4a0f-afc0-152e61b9f468",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13262886835,
+                        "caa_release_mbid": "95b036fb-2eef-4cf0-a443-65c17f6993a0",
+                        "recording_mbid": "4da16c78-786b-4c95-85fc-4bc1b8002ed7",
+                        "recording_name": "Se Olhares Para o Caminho",
+                        "release_group_mbid": "020f049a-2b9a-4724-b2bc-5508bea6dbc1",
+                        "release_mbid": "95b036fb-2eef-4cf0-a443-65c17f6993a0"
+                    },
+                    "release_name": "Cria Actividade",
+                    "track_name": "Se Olhares Para O Caminho"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791670241,
+                "recording_msid": "93a4c6c4-acc3-46ca-8f27-7ea75ef8abe8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "3c8451f2-7287-44ad-8231-f8b3cd67b6d2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Deejay Telio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "93a5298f-73ab-43ca-80e9-5a8aa601588b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Deejay Télio",
+                                "artist_mbid": "93a5298f-73ab-43ca-80e9-5a8aa601588b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22954513598,
+                        "caa_release_mbid": "3c8451f2-7287-44ad-8231-f8b3cd67b6d2",
+                        "recording_mbid": "ad73d9d5-8bcc-49e9-8b6d-d1108d211014",
+                        "recording_name": "After Party",
+                        "release_group_mbid": "8593e9c8-1da4-48bb-8356-f4605be25003",
+                        "release_mbid": "3c8451f2-7287-44ad-8231-f8b3cd67b6d2"
+                    },
+                    "release_name": "Happy Day",
+                    "track_name": "After Party"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791670019,
+                "recording_msid": "d40ad128-9071-475e-99b1-3b71d6bd61a6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SippinPurpp",
+                    "release_name": "NR5",
+                    "track_name": "NR5"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791669833,
+                "recording_msid": "82380fb4-6584-45df-b122-0226df1e0bb3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38608036439,
+                        "caa_release_mbid": "4171ba44-afad-49b9-9303-08d7fd7d761a",
+                        "recording_mbid": "3ec5d8ba-b06c-4022-b6ef-d96cdd93a940",
+                        "recording_name": "NÃO É POSSÍVEL",
+                        "release_group_mbid": "c7130548-5b4d-490e-ae30-43df01e6f494",
+                        "release_mbid": "4171ba44-afad-49b9-9303-08d7fd7d761a"
+                    },
+                    "release_name": "COR D'ÁGUA",
+                    "track_name": "NÃO É POSSÍVEL"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791669654,
+                "recording_msid": "248ac2d9-72c5-4a10-b8a5-bf52b1bf1c7e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4f614fdf-4fab-4d98-a263-90bb9ba701d1",
+                        "lastfm_track_mbid": "559289a0-3488-47b5-a374-18924064f423",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Holly Hood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4f614fdf-4fab-4d98-a263-90bb9ba701d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Holly Hood",
+                                "artist_mbid": "4f614fdf-4fab-4d98-a263-90bb9ba701d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21561959259,
+                        "caa_release_mbid": "dd843143-d15c-4aa8-af7a-30c4c162c08d",
+                        "recording_mbid": "054b07b4-7611-48e5-895b-cd2be582a0b9",
+                        "recording_name": "Miúda",
+                        "release_group_mbid": "6d25b4af-a18a-4543-973f-f31887e09983",
+                        "release_mbid": "dd843143-d15c-4aa8-af7a-30c4c162c08d"
+                    },
+                    "release_name": "Miúda",
+                    "track_name": "Miúda"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791669467,
+                "recording_msid": "dc6d7702-2a48-4dd1-903d-3a1283a380a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "lastfm_release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                            "56353392-c6ab-4889-a016-954f3ee1ed1e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Profjam",
+                                "artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Lhast",
+                                "artist_mbid": "56353392-c6ab-4889-a016-954f3ee1ed1e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22835971153,
+                        "caa_release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8",
+                        "recording_mbid": "648d8d3d-4c94-46a2-b73b-29f435c0b107",
+                        "recording_name": "Tou bem",
+                        "release_group_mbid": "49deb35d-5e1e-4b3f-98aa-80523ce62aa2",
+                        "release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8"
+                    },
+                    "release_name": "#FFFFFF",
+                    "track_name": "Tou Bem"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791669225,
+                "recording_msid": "791f8369-077f-486b-823f-475abcbbd1ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mizzy Miles",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "780bd348-9d14-4a81-a405-c496d174884d",
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                            "0a9bb720-50c0-41a1-887d-e18f8be32a39"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mizzy Miles",
+                                "artist_mbid": "780bd348-9d14-4a81-a405-c496d174884d",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Zara G",
+                                "artist_mbid": "0a9bb720-50c0-41a1-887d-e18f8be32a39",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41089489713,
+                        "caa_release_mbid": "207eb973-2c77-4b0b-9557-0e4f834aa8c4",
+                        "recording_mbid": "03cf1d40-5785-423b-9849-6f735b69c591",
+                        "recording_name": "FIM DO NADA",
+                        "release_group_mbid": "7230580e-2aea-4f5b-a7bf-a6f227a8d48b",
+                        "release_mbid": "207eb973-2c77-4b0b-9557-0e4f834aa8c4"
+                    },
+                    "release_name": "FIM DO NADA (feat. T-Rex & Zara G)",
+                    "track_name": "FIM DO NADA (feat. T-Rex & Zara G)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791669059,
+                "recording_msid": "b49b3856-160a-4709-bb56-4156e57e7049",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "release_name": "LONDON LP",
+                    "track_name": "WINNER"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791668647,
+                "recording_msid": "4f6dad38-ba36-46ad-a15a-7c4547f8379a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c24ca457-9126-4c09-b4a3-8442a83c6444",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "GSON",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c24ca457-9126-4c09-b4a3-8442a83c6444"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gson",
+                                "artist_mbid": "c24ca457-9126-4c09-b4a3-8442a83c6444",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43224702271,
+                        "caa_release_mbid": "cb72b4e2-d432-4fd5-9457-eca232c328fc",
+                        "recording_mbid": "7d73bd7b-8321-48e7-8278-9c741d5fd5a1",
+                        "recording_name": "3,14",
+                        "release_group_mbid": "7af5f0b6-a751-42cf-9e2c-7a1612edc8ae",
+                        "release_mbid": "cb72b4e2-d432-4fd5-9457-eca232c328fc"
+                    },
+                    "release_name": "3,14",
+                    "track_name": "3,14"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791668509,
+                "recording_msid": "93ed9660-fafa-46c9-9e43-41d8907593d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zara G",
+                    "release_name": "Modo Superstar",
+                    "track_name": "À Vontade"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791668254,
+                "recording_msid": "192b5865-5326-4a78-aac1-a7407bdcf64b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "release_name": "IV",
+                    "track_name": "Voar (Gson)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791668054,
+                "recording_msid": "7e9d3b57-4838-4e00-9372-df96db12c840",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41817443116,
+                        "caa_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "recording_mbid": "6e79d38f-cfd3-4dfc-96ac-244f22af091c",
+                        "recording_name": "Mapa Cor de Rosa",
+                        "release_group_mbid": "744baceb-9601-483d-81e4-783d8f371bab",
+                        "release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9"
+                    },
+                    "release_name": "Carta de Alforria",
+                    "track_name": "Mapa Cor de Rosa"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791667683,
+                "recording_msid": "38da7eea-4cdf-422a-b977-87ef8d757ecc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a3aedcc3-5c6f-4668-96b0-475bb487c091",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Força Suprema",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a3aedcc3-5c6f-4668-96b0-475bb487c091"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Força Suprema",
+                                "artist_mbid": "a3aedcc3-5c6f-4668-96b0-475bb487c091",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "27226891-e541-454c-a874-51097e6226c2",
+                        "recording_name": "Serias Tu",
+                        "release_group_mbid": "6c1a861b-13b8-4da9-b0a9-c7d6bc2a095e",
+                        "release_mbid": "5bd09b40-9b29-4554-b2d3-0434c2de9413"
+                    },
+                    "release_name": "E A União Fez A Força",
+                    "track_name": "Serias Tu"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791667337,
+                "recording_msid": "870b6001-aff7-4052-a480-3723a151990e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "lastfm_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "lastfm_track_mbid": "d4628707-0cc5-47d9-9275-cd0b8789ccef",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30625545366,
+                        "caa_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "recording_mbid": "d07b5058-be2a-47af-ba33-2d79e2853407",
+                        "recording_name": "Backstage",
+                        "release_group_mbid": "d5faceb0-a8f8-4ce4-8e90-616bd6386893",
+                        "release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446"
+                    },
+                    "release_name": "Ngana Zambi",
+                    "track_name": "Backstage"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791667200,
+                "recording_msid": "870b6001-aff7-4052-a480-3723a151990e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "lastfm_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "lastfm_track_mbid": "d4628707-0cc5-47d9-9275-cd0b8789ccef",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30625545366,
+                        "caa_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "recording_mbid": "d07b5058-be2a-47af-ba33-2d79e2853407",
+                        "recording_name": "Backstage",
+                        "release_group_mbid": "d5faceb0-a8f8-4ce4-8e90-616bd6386893",
+                        "release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446"
+                    },
+                    "release_name": "Ngana Zambi",
+                    "track_name": "Backstage"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791667000,
+                "recording_msid": "f9f01638-9606-4e3c-8dc9-c55b30d46c77",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "7d5ab3b9-f3ba-4fe0-b1c9-fe2b05d9d306",
+                        "lastfm_track_mbid": "a6081660-7acd-4326-b807-957665e23d3a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Papillon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f718123c-70b8-4b5a-a9eb-cbe0685004f6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Papillon",
+                                "artist_mbid": "f718123c-70b8-4b5a-a9eb-cbe0685004f6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26420052380,
+                        "caa_release_mbid": "7d5ab3b9-f3ba-4fe0-b1c9-fe2b05d9d306",
+                        "recording_mbid": "6a0a5ca9-bcd3-487e-8ecd-5ccee221b67e",
+                        "recording_name": "Impec",
+                        "release_group_mbid": "8752f4b2-11c2-4760-b63b-1095865a68a5",
+                        "release_mbid": "7d5ab3b9-f3ba-4fe0-b1c9-fe2b05d9d306"
+                    },
+                    "release_name": "Deepak Looper",
+                    "track_name": "Impec"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791666725,
+                "recording_msid": "95ba4245-034e-46b8-a0ad-2bbed08c2735",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                            "31da9a21-821b-49df-8088-d51ad7396557"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Charlie Beats",
+                                "artist_mbid": "31da9a21-821b-49df-8088-d51ad7396557",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43950522722,
+                        "caa_release_mbid": "986b1fc9-4f8e-4a16-9cdc-f3161dfc0100",
+                        "recording_mbid": "d06c9a22-71a4-4f32-b24b-4a3e08096abf",
+                        "recording_name": "Aleluia",
+                        "release_group_mbid": "2c99b162-1755-4c9a-98cf-968d4210c5f5",
+                        "release_mbid": "986b1fc9-4f8e-4a16-9cdc-f3161dfc0100"
+                    },
+                    "release_name": "Aleluia (feat. Charlie Beats)",
+                    "track_name": "Aleluia (feat. Charlie Beats)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791666522,
+                "recording_msid": "89d36d65-59cb-4e5d-b48c-606e540fe7af",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                        "lastfm_release_mbid": "96bc8df6-5a0e-4803-9660-ad0b44de809d",
+                        "lastfm_track_mbid": "d56df3d5-02d7-4e0b-9b81-e3a95221fa34",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slow J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ec1d912-010d-4158-805e-b814feff7857",
+                            "ac35b735-3449-423a-a73d-1e5320e8112d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Slow J",
+                                "artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Sara Tavares",
+                                "artist_mbid": "ac35b735-3449-423a-a73d-1e5320e8112d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25254418173,
+                        "caa_release_mbid": "96bc8df6-5a0e-4803-9660-ad0b44de809d",
+                        "recording_mbid": "5e50fd48-53d3-4f24-b6a4-32ada55bb343",
+                        "recording_name": "Também Sonhar",
+                        "release_group_mbid": "06276fab-5d93-4cd3-9e5c-6e7e0888aaaf",
+                        "release_mbid": "96bc8df6-5a0e-4803-9660-ad0b44de809d"
+                    },
+                    "release_name": "You Are Forgiven",
+                    "track_name": "Também Sonhar"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791666260,
+                "recording_msid": "ae80ac9e-7b28-4f77-a149-3a2dff65e66b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a69d3d4f-2828-4337-bf51-eb40cd04df59",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mizzy Miles",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "780bd348-9d14-4a81-a405-c496d174884d",
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mizzy Miles",
+                                "artist_mbid": "780bd348-9d14-4a81-a405-c496d174884d",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41089489713,
+                        "caa_release_mbid": "207eb973-2c77-4b0b-9557-0e4f834aa8c4",
+                        "recording_mbid": "2e6273af-cd6b-44df-9093-8c016b2b5c45",
+                        "recording_name": "No Teu Brain",
+                        "release_group_mbid": "7230580e-2aea-4f5b-a7bf-a6f227a8d48b",
+                        "release_mbid": "207eb973-2c77-4b0b-9557-0e4f834aa8c4"
+                    },
+                    "release_name": "FIM do NADA",
+                    "track_name": "No Teu Brain (feat. Wet Bed Gang)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791665985,
+                "recording_msid": "4eae7151-8d43-4e6a-8d9b-89b017167fe6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e988af68-cbb5-492d-8ea8-f85c8ca4d5b5",
+                        "lastfm_track_mbid": "7bc28f3d-b8e1-4d1e-a118-7384302fb9af",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Valas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e988af68-cbb5-492d-8ea8-f85c8ca4d5b5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Valas",
+                                "artist_mbid": "e988af68-cbb5-492d-8ea8-f85c8ca4d5b5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "edd17350-1d17-4a39-af6a-cacfff77d74b",
+                        "recording_name": "As Coisas",
+                        "release_group_mbid": "e5773d06-671c-4754-b6b9-8fa457fe15c6",
+                        "release_mbid": "46532fbe-3234-40b6-a191-13a64de4c7d3"
+                    },
+                    "release_name": "Check-In",
+                    "track_name": "As Coisas"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791665801,
+                "recording_msid": "394fe5d0-6257-496f-a03f-acb829d4832e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c24ca457-9126-4c09-b4a3-8442a83c6444",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "GSON",
+                    "release_name": "Farda",
+                    "track_name": "FARDA"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791665614,
+                "recording_msid": "8fd9c5ef-0bc3-4e45-95fb-62269166ea45",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Joint One",
+                    "release_name": "MONEYPUXAMONEY!",
+                    "track_name": "MONEYPUXAMONEY!"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791665377,
+                "recording_msid": "748b6c0c-dc2f-4a69-86fd-c2c271349bc0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d3954c28-13e9-4e65-8623-e6a4a2b852d3",
+                        "lastfm_release_mbid": "b9bf965e-157c-46a4-94c8-36ed551814f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dillaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d3954c28-13e9-4e65-8623-e6a4a2b852d3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dillaz",
+                                "artist_mbid": "d3954c28-13e9-4e65-8623-e6a4a2b852d3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38271682491,
+                        "caa_release_mbid": "b9bf965e-157c-46a4-94c8-36ed551814f9",
+                        "recording_mbid": "cccdaf61-4691-4f0e-8fbf-3b728efa68fa",
+                        "recording_name": "Direção Paris",
+                        "release_group_mbid": "403a22e8-a571-4a54-a67d-a8971faa56c3",
+                        "release_mbid": "b9bf965e-157c-46a4-94c8-36ed551814f9"
+                    },
+                    "release_name": "O PRÓPRIO",
+                    "track_name": "Direção Paris"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791660509,
+                "recording_msid": "6f44edac-c4c4-42fe-b1ee-396e96ba6728",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "8245a75f-edcd-4e20-9fec-09dc7f165902",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45130352535,
+                        "caa_release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2",
+                        "recording_mbid": "8245a75f-edcd-4e20-9fec-09dc7f165902",
+                        "recording_name": "Classic",
+                        "release_group_mbid": "b91cbc13-7db2-405b-bc1d-e4757edb4ce0",
+                        "release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2"
+                    },
+                    "release_name": "Habibti",
+                    "track_name": "Classic"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791660278,
+                "recording_msid": "423c8768-baf8-40de-bd3d-32c3edbaa2cd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "release_name": "Chá de Camomila",
+                    "track_name": "R&BSR&B$"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791660070,
+                "recording_msid": "0add26b1-86a0-43fc-a046-e959796b460e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "7b51a844-9601-4d8d-8a35-ef262039cc87",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39501156583,
+                        "caa_release_mbid": "1e268632-6b5a-4592-bd60-64be3276d104",
+                        "recording_mbid": "3cb6c46b-5597-4733-b24a-b27f4846559d",
+                        "recording_name": "Under Ground Kings",
+                        "release_group_mbid": "47809021-4515-4215-beea-db3f5dfb6267",
+                        "release_mbid": "02f7e348-b1ae-4c4e-a057-b97f1f56e53c"
+                    },
+                    "release_name": "Take Care (Deluxe)",
+                    "track_name": "Under Ground Kings"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791672511,
+                "listened_at": 1791659864,
+                "recording_msid": "29df7142-5cc8-4201-86e6-544fc6b9f151",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                        "lastfm_release_mbid": "2da72cb7-16d4-4dca-8818-a355b074a977",
+                        "lastfm_track_mbid": "70a20aa2-42a9-46a9-bd5b-0690b7874893",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5f95440d-7737-4a36-9bcf-c05337f7129b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Denzel Curry",
+                                "artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21815634824,
+                        "caa_release_mbid": "2da72cb7-16d4-4dca-8818-a355b074a977",
+                        "recording_mbid": "27adc3c3-63c8-40b4-8bc4-e0096e473216",
+                        "recording_name": "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
+                        "release_group_mbid": "34dc9a45-487f-4ea7-8b39-3e8ad825c314",
+                        "release_mbid": "bdac6361-b286-48d4-8979-2ae6d3c94be1",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/531222651"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/92319835"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6FhEDaaRFyPRMYqhhXivO9"
+                            }
+                        ]
+                    },
+                    "release_name": "TA13OO",
+                    "track_name": "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791660034,
+                "listened_at": 1791648449,
+                "recording_msid": "2779f639-89b6-4640-8381-fec780ac6ed2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "08e46c03-3c06-402a-a00b-f293ed021b38",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Freddie Gibbs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "21645c31-fe1c-45a4-955c-3e172b12c3f9",
+                            "ea9078ef-20ca-4506-81ea-2ae5fe3a42e8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Freddie Gibbs",
+                                "artist_mbid": "21645c31-fe1c-45a4-955c-3e172b12c3f9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Madlib",
+                                "artist_mbid": "ea9078ef-20ca-4506-81ea-2ae5fe3a42e8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6737138499,
+                        "caa_release_mbid": "3fd8082a-e5eb-41ab-9971-607c8081caca",
+                        "recording_mbid": "917cfb86-2039-43c5-a582-143980660bea",
+                        "recording_name": "Deeper",
+                        "release_group_mbid": "6b9a9e04-abd7-4666-86ba-bb220ef4c3b2",
+                        "release_mbid": "3fd8082a-e5eb-41ab-9971-607c8081caca"
+                    },
+                    "release_name": "Piñata",
+                    "track_name": "Deeper"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791648258,
+                "recording_msid": "fef3cc28-974d-46b1-8885-daa4ff0a88c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "lastfm_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "lastfm_track_mbid": "c21150be-c1e2-4952-9ded-388d4337cacc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44282799204,
+                        "caa_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "recording_mbid": "3c7c65b5-e137-406c-a454-5dc140ace1cc",
+                        "recording_name": "Two Six",
+                        "release_group_mbid": "e3f03ef0-79a1-4636-8266-5d19f214fc37",
+                        "release_mbid": "e18904c4-92d6-496a-ab52-ef94a13b5b37",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/496439181"
+                            }
+                        ]
+                    },
+                    "release_name": "The Fall-Off",
+                    "track_name": "Two Six"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791648081,
+                "recording_msid": "e52cd0f6-d85f-412e-b55b-614813c3610b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "release_name": "94",
+                    "track_name": "25 DE ABRIL (feat. Plutonio)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791646029,
+                "recording_msid": "5046defe-8d44-4cb4-967b-7ab7f48572bd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "a6013f3a-0171-4248-aa7a-b2da8300da3e",
+                        "lastfm_track_mbid": "4fb1fe60-8099-4735-b6c6-947ebbb9dbf1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12551069939,
+                        "caa_release_mbid": "f34b5954-550a-494b-b104-df311928913b",
+                        "recording_mbid": "05576625-5cf0-4a68-a0f3-82fb9b6c7e0f",
+                        "recording_name": "Perkys Calling",
+                        "release_group_mbid": "ab734858-6d73-45cf-bb6e-f7afbe0a7c8e",
+                        "release_mbid": "f34b5954-550a-494b-b104-df311928913b"
+                    },
+                    "release_name": "Purple Reign",
+                    "track_name": "Perkys Calling"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791645778,
+                "recording_msid": "29c393c0-36cf-4e80-99e5-80fb1f9ae212",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "82ff8a55-166a-4d69-934d-dc49d2c56d9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45130352535,
+                        "caa_release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2",
+                        "recording_mbid": "82ff8a55-166a-4d69-934d-dc49d2c56d9c",
+                        "recording_name": "High Fives",
+                        "release_group_mbid": "b91cbc13-7db2-405b-bc1d-e4757edb4ce0",
+                        "release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2"
+                    },
+                    "release_name": "Habibti",
+                    "track_name": "High Fives"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791645582,
+                "recording_msid": "6dc71fcf-c04b-48f1-9d6e-be1f9de804c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Brent Faiyaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "201412c6-7ced-472b-87a9-9259ec3c07d3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Brent Faiyaz",
+                                "artist_mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44283387538,
+                        "caa_release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "recording_mbid": "6c42b0a0-da97-48c2-96e1-b6465644085f",
+                        "recording_name": "full moon. (fall in tokyo)",
+                        "release_group_mbid": "bcf5d1a3-db78-4ff1-900e-50654333ef4f",
+                        "release_mbid": "76b65039-eae9-4d76-bd4e-b38795481411",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2o5EaAhENDPgceOPsHWJe0"
+                            }
+                        ]
+                    },
+                    "release_name": "Icon (Director's Cut)",
+                    "track_name": "full moon. (fall in tokyo) [bonus track]"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791645393,
+                "recording_msid": "caa96e6b-94d5-4d49-a3a7-da636997b4ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "release_name": "LSD",
+                    "track_name": "PENSAR EM TI (feat. Plutonio)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791645143,
+                "recording_msid": "1a670a5e-2d2a-4857-94a8-6c3502f3fd37",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "lastfm_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "lastfm_track_mbid": "c7f840b7-049d-4cf6-910b-435c492146a5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44282799204,
+                        "caa_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "recording_mbid": "9854802b-2108-46d5-a512-ba126725b034",
+                        "recording_name": "Life Sentence",
+                        "release_group_mbid": "e3f03ef0-79a1-4636-8266-5d19f214fc37",
+                        "release_mbid": "e18904c4-92d6-496a-ab52-ef94a13b5b37",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/496439196"
+                            }
+                        ]
+                    },
+                    "release_name": "The Fall-Off",
+                    "track_name": "Life Sentence"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791644926,
+                "recording_msid": "21346937-aee3-4f39-94d6-51e628daab6f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "46be8f7c-2e75-48e2-ac0d-e27c7fa4e896",
+                        "lastfm_track_mbid": "08751bd5-3ec1-4594-b516-1c8d6c437245",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Takeoff",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "70f5bb6e-9b87-4500-9c9f-2e1d373d07da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Takeoff",
+                                "artist_mbid": "70f5bb6e-9b87-4500-9c9f-2e1d373d07da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21704424625,
+                        "caa_release_mbid": "78290133-6f39-40ce-a578-1f3e163a8063",
+                        "recording_mbid": "12952786-ab4c-4c4e-8245-b23e8c198b4f",
+                        "recording_name": "Infatuation",
+                        "release_group_mbid": "322fb7ec-d24e-44ce-86c5-7d55e8f5f2e9",
+                        "release_mbid": "8bfdf315-1be3-43f2-af6d-1e9bcdaec1d8"
+                    },
+                    "release_name": "The Last Rocket",
+                    "track_name": "Infatuation"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791644590,
+                "recording_msid": "b627d228-fc03-420b-ae3c-d92e1cc7fb52",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "II",
+                    "track_name": "UPS"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791650196,
+                "listened_at": 1791644349,
+                "recording_msid": "409c6553-bd79-436f-8dc4-4198cf577447",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "2739c4a3-7ea0-4cf1-b6a9-37091f5f9138",
+                        "lastfm_track_mbid": "706e858e-9eac-4aae-b5f3-0575b2882838",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                            "e21857d5-3256-4547-afb3-4b6ded592596",
+                            "9f42ba3d-3cfc-499c-ba16-7226f56b622f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gorillaz",
+                                "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Westside Gunn",
+                                "artist_mbid": "9f42ba3d-3cfc-499c-ba16-7226f56b622f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43881347221,
+                        "caa_release_mbid": "b37380ae-480c-4a16-a6f0-12a7bff5489c",
+                        "recording_mbid": "e78b3cd0-2383-41f2-a01c-ce32ec9a3efe",
+                        "recording_name": "WHISKEY (RELEASE ME)",
+                        "release_group_mbid": "132f6b97-eb7b-44d4-9b34-97014e1e9039",
+                        "release_mbid": "5d8146c4-0d51-4cfa-9c20-e96ebbd6e0bc"
+                    },
+                    "release_name": "Don't Be Dumb",
+                    "track_name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791644194,
+                "recording_msid": "7850dd37-f20e-4bad-982e-018c1c482958",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "release_name": "LSD",
+                    "track_name": "SER1SÓ"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791643943,
+                "recording_msid": "2c95c969-0ad5-4885-a29b-91a14b6713af",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "0aaf3bcf-8437-4be7-a025-68cba9a7ec62",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                            "bce6d667-cde8-485e-b078-c0a05adea36d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "ScHoolboy Q",
+                                "artist_mbid": "bce6d667-cde8-485e-b078-c0a05adea36d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26950870423,
+                        "caa_release_mbid": "7b032e4a-74d1-4be8-bcae-6a6dec6172a5",
+                        "recording_mbid": "c2fd8911-ca00-4409-a2da-38f306173c1d",
+                        "recording_name": "Electric Body",
+                        "release_group_mbid": "10a526a7-9d24-463f-8c0b-16ac98027460",
+                        "release_mbid": "a826f3db-d1d7-4b6d-a67f-d8d298d19839"
+                    },
+                    "release_name": "AT.LONG.LAST.A$AP",
+                    "track_name": "Electric Body (feat. Schoolboy Q)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791643777,
+                "recording_msid": "299e47d0-578b-48a9-9b79-d3ae832ef535",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_track_mbid": "03d6f90b-9133-4d4b-9a2b-ddbb5c79f5a9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10953712152,
+                        "caa_release_mbid": "f420f175-4cba-4ae5-849f-2200e2f9216c",
+                        "recording_mbid": "5e1839aa-45da-4f01-8925-c45c2ff1fe7e",
+                        "recording_name": "Stick Talk",
+                        "release_group_mbid": "9ac43ae5-c0de-42f6-8365-b68de4966833",
+                        "release_mbid": "ae9420ff-9589-4f71-b4bd-29ac5b82b878"
+                    },
+                    "release_name": "DS2 (Deluxe)",
+                    "track_name": "Stick Talk"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791643559,
+                "recording_msid": "92b946de-2d4c-4400-8ed4-c50edde1e175",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+                        "lastfm_release_mbid": "51f8289e-7379-4c7b-ab50-564e2f875594",
+                        "lastfm_track_mbid": "4923e01c-248b-4000-be85-05b7da4d0d19",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tame Impala",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tame Impala",
+                                "artist_mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46090915484,
+                        "caa_release_mbid": "6766d2b2-bb64-415b-bd8e-a4e177405687",
+                        "recording_mbid": "ec87b2e6-3d7e-4121-96a3-051fe779de6f",
+                        "recording_name": "Loser",
+                        "release_group_mbid": "3ee3e2bb-2584-4f74-ba06-cdecc370a1ba",
+                        "release_mbid": "51f8289e-7379-4c7b-ab50-564e2f875594",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/458248193"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1842957386"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3578820211"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/466933850"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1836226731"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1842957386"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1835526735"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1836226731"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3602329332"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3537337561"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1835526735"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/463749723"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+                            }
+                        ]
+                    },
+                    "release_name": "Deadbeat",
+                    "track_name": "Loser"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791642804,
+                "recording_msid": "f1588d82-6358-41a2-afc1-295819ecc67a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "II",
+                    "track_name": "CROWN [Feat. Westside Gunn]"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791642634,
+                "recording_msid": "ac08ebef-b25d-48a6-bb0e-4f36b557f97c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "release_name": "LSD",
+                    "track_name": "MULHER (feat. Ivandro)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791642422,
+                "recording_msid": "792e30ab-9e9d-4f43-a2ad-71da57c9ab81",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "c12af664-66dd-4a02-a59c-f624d5c7c41b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45130352535,
+                        "caa_release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2",
+                        "recording_mbid": "c12af664-66dd-4a02-a59c-f624d5c7c41b",
+                        "recording_name": "Gen 5",
+                        "release_group_mbid": "b91cbc13-7db2-405b-bc1d-e4757edb4ce0",
+                        "release_mbid": "c15d8372-1a8e-4140-968d-41b209aec5f2"
+                    },
+                    "release_name": "Habibti",
+                    "track_name": "Gen 5"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791642163,
+                "recording_msid": "0f984199-8793-4e06-a1a2-67cb9b0156c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "lastfm_release_mbid": "3ebee787-e7eb-4595-8ecd-caafc61b94ca",
+                        "lastfm_track_mbid": "07d19b43-9187-38fa-9f7e-92ea9644e363",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 3316365974,
+                        "caa_release_mbid": "3ebee787-e7eb-4595-8ecd-caafc61b94ca",
+                        "recording_mbid": "dde8be86-f14f-445a-8c16-a1cc32870107",
+                        "recording_name": "Lost Ones",
+                        "release_group_mbid": "5aadf6f8-bbf7-4675-8b83-771c1e0fb08f",
+                        "release_mbid": "3ebee787-e7eb-4595-8ecd-caafc61b94ca"
+                    },
+                    "release_name": "Cole World: The Sideline Story",
+                    "track_name": "Lost Ones"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791641944,
+                "recording_msid": "cbacf8ea-bcaf-4b45-ba8a-8b549b2ba42b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+                        "lastfm_track_mbid": "8ba33578-8128-484a-b255-c6e2b9e078eb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JID",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "JID",
+                                "artist_mbid": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33407426284,
+                        "caa_release_mbid": "b9efb2cf-87fc-4dd0-92fd-3de6e1bce3a6",
+                        "recording_mbid": "8ba33578-8128-484a-b255-c6e2b9e078eb",
+                        "recording_name": "Kody Blu 31",
+                        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550",
+                        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2"
+                    },
+                    "release_name": "The Forever Story (Extended Version)",
+                    "track_name": "Kody Blu 31"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791641717,
+                "recording_msid": "16a715c2-5ddf-4c31-800f-338cf75405f3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "141832c3-de98-4c4d-bcd7-1733b9141ba7",
+                        "lastfm_track_mbid": "126ca58a-20ea-4d62-bdd6-6cf40922afef",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38074427330,
+                        "caa_release_mbid": "6278c7fe-0780-446a-aa86-01f726b45953",
+                        "recording_mbid": "e8735a92-c994-4328-b365-c45546af026e",
+                        "recording_name": "I Am a God",
+                        "release_group_mbid": "b4c7a391-44d7-4ba8-93c1-6ee7920dbc53",
+                        "release_mbid": "6278c7fe-0780-446a-aa86-01f726b45953"
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "I Am a God"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791641500,
+                "recording_msid": "621c5440-4714-452f-b0ec-3b489499b87b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "7b18130c-c1cd-4ad7-a4e2-659ca2294fda",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "release_name": "Isaltino",
+                    "track_name": "Isaltino"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791644482,
+                "listened_at": 1791637615,
+                "recording_msid": "f25c2ca7-bdbe-43ed-9ca1-5893199c59dc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "lastfm_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "lastfm_track_mbid": "a04cf8cc-43bb-402c-ad30-d4d904fafef4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "a04cf8cc-43bb-402c-ad30-d4d904fafef4",
+                        "recording_name": "E85",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389865"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258330"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258330"
+                            }
+                        ]
+                    },
+                    "release_name": "Octane",
+                    "track_name": "E85"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791597845,
+                "recording_msid": "818d31b1-6dfd-458f-b317-942fdca86c09",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_release_mbid": "66de5e14-0642-4803-998c-3ecdf504134d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "recording_mbid": "1074a4df-3c29-499a-8ac5-014d9d6ec5ba"
+                    },
+                    "release_name": "HEROES & VILLAINS",
+                    "track_name": "Feel the Fiyaaaah (with A$AP Rocky & feat. Takeoff)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791597595,
+                "recording_msid": "f7dba1a7-37a8-40f6-8d1c-a4eeb01a4428",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38627636257,
+                        "caa_release_mbid": "0abd1ce8-096d-4880-8ed2-732b0561e4c5",
+                        "recording_mbid": "8a26d2da-abbd-4da8-982f-961ded411782",
+                        "recording_name": "Beat It",
+                        "release_group_mbid": "b2f230aa-5826-4e04-baaf-5a1ab8bcc999",
+                        "release_mbid": "fa7a1c8c-aa13-46da-9440-ecb682997de7"
+                    },
+                    "release_name": "WE STILL DON'T TRUST YOU",
+                    "track_name": "BEAT IT"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791597412,
+                "recording_msid": "3d44942f-ee46-4ea6-ac62-cb96ecc8b636",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                        "lastfm_track_mbid": "fcb5964b-dd3e-4cc1-ae64-8ff1267d9b7f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34003773391,
+                        "caa_release_mbid": "3fe663e6-833b-41d7-bf64-e8bb753f65ca",
+                        "recording_mbid": "fcb5964b-dd3e-4cc1-ae64-8ff1267d9b7f",
+                        "recording_name": "3AM on Glenwood",
+                        "release_group_mbid": "81463cd8-2608-41d7-9112-acf9981dd054",
+                        "release_mbid": "a2c7dbee-dcf8-4fa7-90ee-e369d0409e57"
+                    },
+                    "release_name": "Her Loss",
+                    "track_name": "3AM on Glenwood"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791597269,
+                "recording_msid": "95641e7b-9363-43fc-95a2-f5234b25bab2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                        "lastfm_release_mbid": "1e1ea80c-4e62-4d68-b3f5-464ae29b4c67",
+                        "lastfm_track_mbid": "1bfba222-943e-4323-8ff9-9092bbea8da0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8032cf05-d916-4b2a-9c53-6e75d4a24bd8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trippie Redd",
+                                "artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20839473440,
+                        "caa_release_mbid": "1e1ea80c-4e62-4d68-b3f5-464ae29b4c67",
+                        "recording_mbid": "1bfba222-943e-4323-8ff9-9092bbea8da0",
+                        "recording_name": "Taking a Walk",
+                        "release_group_mbid": "684f0121-d805-482a-abe4-fd8c4d9df23c",
+                        "release_mbid": "6d98697d-cbaa-4e3a-9ec7-5b5200c082c0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=nOtGBimDXHo"
+                            }
+                        ]
+                    },
+                    "release_name": "LIFE'S A TRIP",
+                    "track_name": "Taking a Walk"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791596974,
+                "recording_msid": "7c42da8f-0f47-4e66-9815-f2d1522d50f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                            "ceb3f5b7-9f1a-430f-afbe-976fdcf30482"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Jhené Aiko",
+                                "artist_mbid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4393398535,
+                        "caa_release_mbid": "542d7165-12d6-4b50-8a12-19ef0a78d374",
+                        "recording_mbid": "0666e684-798d-4b63-b364-d9aecad59842",
+                        "recording_name": "Sparks Will Fly",
+                        "release_group_mbid": "57db9419-f0a0-4060-8003-b7737b9dab4d",
+                        "release_mbid": "d719a4e4-131e-48a8-a958-5a029c892adf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1529511202"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1048706812"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/151799535"
+                            }
+                        ]
+                    },
+                    "release_name": "Born Sinner (Deluxe Version)",
+                    "track_name": "Sparks Will Fly (feat. Jhené Aiko)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791596680,
+                "recording_msid": "621c5440-4714-452f-b0ec-3b489499b87b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "7b18130c-c1cd-4ad7-a4e2-659ca2294fda",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "release_name": "Isaltino",
+                    "track_name": "Isaltino"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791596447,
+                "recording_msid": "2f02c21f-65e6-47f4-8ad2-1b568e276998",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "548e9a34-7476-4510-b3cf-70d17106d507",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Joy Crookes",
+                    "release_name": "Painkiller (feat. Denzel Curry)",
+                    "track_name": "Painkiller (feat. Denzel Curry)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791596098,
+                "recording_msid": "7c42da8f-0f47-4e66-9815-f2d1522d50f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                            "ceb3f5b7-9f1a-430f-afbe-976fdcf30482"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Jhené Aiko",
+                                "artist_mbid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4393398535,
+                        "caa_release_mbid": "542d7165-12d6-4b50-8a12-19ef0a78d374",
+                        "recording_mbid": "0666e684-798d-4b63-b364-d9aecad59842",
+                        "recording_name": "Sparks Will Fly",
+                        "release_group_mbid": "57db9419-f0a0-4060-8003-b7737b9dab4d",
+                        "release_mbid": "d719a4e4-131e-48a8-a958-5a029c892adf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1529511202"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1048706812"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/151799535"
+                            }
+                        ]
+                    },
+                    "release_name": "Born Sinner (Deluxe Version)",
+                    "track_name": "Sparks Will Fly (feat. Jhené Aiko)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791595858,
+                "recording_msid": "44716047-7b9f-451c-b340-67dc4d5a75d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "82d38a42-e0b1-42cc-93b3-c49a4a742c4d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "release_name": "HABIBTI (FOMO)",
+                    "track_name": "Cold Shoulder (Feat. Don Toliver & Yebba)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791605336,
+                "listened_at": 1791564423,
+                "recording_msid": "aa8b8108-02c5-4f83-ac77-be3a43b153e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38608098395,
+                        "caa_release_mbid": "5da6be4b-4f24-4b45-8cea-2c2dea9f1fbf",
+                        "recording_mbid": "164dcd97-608f-431d-933d-5b2e47920bdf",
+                        "recording_name": "Praça Onze",
+                        "release_group_mbid": "ef893ff6-db07-44ba-8bf8-146760091cc2",
+                        "release_mbid": "5da6be4b-4f24-4b45-8cea-2c2dea9f1fbf"
+                    },
+                    "release_name": "Praça Onze",
+                    "track_name": "Praça Onze"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791564092,
+                "recording_msid": "246411ed-0934-4072-a8c4-aaf5ac7cf225",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "lastfm_release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                            "9528b480-f043-4857-ba24-964633874303"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Profjam",
+                                "artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Fínix MG",
+                                "artist_mbid": "9528b480-f043-4857-ba24-964633874303",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22835971153,
+                        "caa_release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8",
+                        "recording_mbid": "a9b840c3-2b3c-4ade-8d3c-be38228c0a30",
+                        "recording_name": "À vontade",
+                        "release_group_mbid": "49deb35d-5e1e-4b3f-98aa-80523ce62aa2",
+                        "release_mbid": "c67bc318-cc1f-48b5-b5a4-77df06c013c8"
+                    },
+                    "release_name": "#FFFFFF",
+                    "track_name": "À Vontade"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791563882,
+                "recording_msid": "5ff766d9-2ee0-4fbd-b178-529b128a728c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5a8f6ba-e7b4-4119-8d6d-f6d019109742",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Julinho Ksd",
+                    "release_name": "Lingerie",
+                    "track_name": "Lingerie"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791563708,
+                "recording_msid": "4373bf49-efc3-48c7-bb6f-8152795783df",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                        "lastfm_release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slow J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ec1d912-010d-4158-805e-b814feff7857"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Slow J",
+                                "artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37428584565,
+                        "caa_release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1",
+                        "recording_mbid": "b8cfeddb-64af-4fc2-910d-cb16ba2ff8c5",
+                        "recording_name": "CorDaPele",
+                        "release_group_mbid": "8ae81338-e11a-476f-8f12-c130040d5338",
+                        "release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1"
+                    },
+                    "release_name": "Afro Fado",
+                    "track_name": "CorDaPele"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791563400,
+                "recording_msid": "7cee559d-df59-4d1e-9a31-ae92a88a4445",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Giovanni",
+                    "release_name": "50/50",
+                    "track_name": "50/50"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791563201,
+                "recording_msid": "a96acaeb-5ce3-4b67-808a-84ea00bf8dcb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lon3r Johny",
+                                "artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38607435028,
+                        "caa_release_mbid": "2159ab88-f35b-47ff-92e8-e70b8c9facd8",
+                        "recording_mbid": "5777cf17-d945-46a0-85c2-69012108ce00",
+                        "recording_name": "PIÑA COLADA",
+                        "release_group_mbid": "0e1e0dcf-bfeb-4e1c-a5f1-0427a3a0cbcd",
+                        "release_mbid": "2159ab88-f35b-47ff-92e8-e70b8c9facd8"
+                    },
+                    "release_name": "PIÑA COLADA",
+                    "track_name": "PIÑA COLADA"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791563002,
+                "recording_msid": "ce08ec85-4738-445c-8cd8-1a6028a094f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41817443116,
+                        "caa_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "recording_mbid": "e140e7a5-9690-4392-a195-2038df0db906",
+                        "recording_name": "Menos 1 Nite",
+                        "release_group_mbid": "744baceb-9601-483d-81e4-783d8f371bab",
+                        "release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9"
+                    },
+                    "release_name": "Carta de Alforria",
+                    "track_name": "Menos 1 Nite"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791575783,
+                "listened_at": 1791562804,
+                "recording_msid": "0d3b2888-6b2d-4e01-9dc4-4a541d7f745b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "9 Miller",
+                    "release_name": "De Volta (feat. Agir)",
+                    "track_name": "De Volta (feat. Agir)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791562515,
+                "recording_msid": "5b2235b1-5056-48be-af55-7411ae107336",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "lastfm_release_mbid": "2e5fa6a4-b0d0-48b3-a46a-930f973fe0ad",
+                        "lastfm_track_mbid": "096ea7be-e092-4611-8fb3-30404fe0af94",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20629380340,
+                        "caa_release_mbid": "2e5fa6a4-b0d0-48b3-a46a-930f973fe0ad",
+                        "recording_mbid": "3c9ac7b5-af1e-43b5-aeab-7929a65fbca6",
+                        "recording_name": "Devia Ir",
+                        "release_group_mbid": "2dac1556-a19a-4db7-9e25-e3bd4484cc20",
+                        "release_mbid": "2e5fa6a4-b0d0-48b3-a46a-930f973fe0ad"
+                    },
+                    "release_name": "Devia Ir",
+                    "track_name": "Devia ir"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791562339,
+                "recording_msid": "339b33a0-207b-47b7-81f6-8bf717a126fc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "893f279e-d533-4ee8-bcfb-2f22674c5a25",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                            "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lon3r Johny",
+                                "artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                                "join_phrase": " x "
+                            },
+                            {
+                                "artist_credit_name": "Profjam",
+                                "artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38609121198,
+                        "caa_release_mbid": "893f279e-d533-4ee8-bcfb-2f22674c5a25",
+                        "recording_mbid": "52ca881f-8997-4b27-9e0b-2166ce6ac0bb",
+                        "recording_name": "HALLYWUD",
+                        "release_group_mbid": "e01ee3e8-18ea-48d7-ba51-5e976d2f5d60",
+                        "release_mbid": "893f279e-d533-4ee8-bcfb-2f22674c5a25"
+                    },
+                    "release_name": "Hallywud",
+                    "track_name": "Hallywud"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791562178,
+                "recording_msid": "b4d069a6-69cc-443b-8a5c-9e6250fec871",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                        "lastfm_release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slow J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ec1d912-010d-4158-805e-b814feff7857"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Slow J",
+                                "artist_mbid": "9ec1d912-010d-4158-805e-b814feff7857",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37428584565,
+                        "caa_release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1",
+                        "recording_mbid": "36395282-2c80-4a70-972f-b264cb3f02ba",
+                        "recording_name": "Tata",
+                        "release_group_mbid": "8ae81338-e11a-476f-8f12-c130040d5338",
+                        "release_mbid": "f2b1e96d-b1dd-477e-8f87-2820234864a1"
+                    },
+                    "release_name": "Afro Fado",
+                    "track_name": "Tata"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791561972,
+                "recording_msid": "c2bbb911-8a9a-49bd-af35-276a2c293b53",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "release_name": "Vida Rockstar",
+                    "track_name": "Rockstar Shit"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791561776,
+                "recording_msid": "5df93c2d-ae9a-437d-9569-62846f5674e1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "bea95070-f1ce-43fb-9c00-525ef396212a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mizzy Miles",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "780bd348-9d14-4a81-a405-c496d174884d",
+                            "122404ba-62c9-4aff-bdb9-3afd38366a2e",
+                            "d997b0d8-6954-4dfb-9bb2-ebb6d8a4c29c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mizzy Miles",
+                                "artist_mbid": "780bd348-9d14-4a81-a405-c496d174884d",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Ivandro",
+                                "artist_mbid": "122404ba-62c9-4aff-bdb9-3afd38366a2e",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Piruka",
+                                "artist_mbid": "d997b0d8-6954-4dfb-9bb2-ebb6d8a4c29c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38609173303,
+                        "caa_release_mbid": "bea95070-f1ce-43fb-9c00-525ef396212a",
+                        "recording_mbid": "9358223e-cef8-4b82-9c5e-1c5b87be08c8",
+                        "recording_name": "I'm Sorry",
+                        "release_group_mbid": "91f1ff30-fcf8-437f-80dc-2b1be43cdfea",
+                        "release_mbid": "bea95070-f1ce-43fb-9c00-525ef396212a"
+                    },
+                    "release_name": "I'm Sorry",
+                    "track_name": "I'm Sorry"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791561542,
+                "recording_msid": "ca799e12-7537-4c5b-ac4f-c9be87a84207",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41817443116,
+                        "caa_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "recording_mbid": "e52c6480-e324-456c-ae52-276372fb9d32",
+                        "recording_name": "Luxemburgo",
+                        "release_group_mbid": "744baceb-9601-483d-81e4-783d8f371bab",
+                        "release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9"
+                    },
+                    "release_name": "Carta de Alforria",
+                    "track_name": "Luxemburgo"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791561294,
+                "recording_msid": "b87393e9-9b51-48d3-b66a-e4358147af7b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41817443116,
+                        "caa_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "recording_mbid": "725533c8-5efa-46e7-b52c-ec34c27887c5",
+                        "recording_name": "País das Maravilhas",
+                        "release_group_mbid": "744baceb-9601-483d-81e4-783d8f371bab",
+                        "release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9"
+                    },
+                    "release_name": "Carta de Alforria",
+                    "track_name": "País das Maravilhas"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791560947,
+                "recording_msid": "fa56abe4-5270-4f52-829c-ccc5176b5902",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38608036439,
+                        "caa_release_mbid": "4171ba44-afad-49b9-9303-08d7fd7d761a",
+                        "recording_mbid": "862e6fa9-cc81-492c-b5d2-f9b7930ddb80",
+                        "recording_name": "UUUUHH",
+                        "release_group_mbid": "c7130548-5b4d-490e-ae30-43df01e6f494",
+                        "release_mbid": "4171ba44-afad-49b9-9303-08d7fd7d761a"
+                    },
+                    "release_name": "COR D'ÁGUA",
+                    "track_name": "UUUUHH"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791560749,
+                "recording_msid": "1815b10c-43a8-4917-88b8-cf695231141f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                        "lastfm_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Plutonio",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "923e54e0-94ea-4d5d-9bff-8c006ab70a25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Plutonio",
+                                "artist_mbid": "923e54e0-94ea-4d5d-9bff-8c006ab70a25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41817443116,
+                        "caa_release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9",
+                        "recording_mbid": "a06e8a86-a312-4717-86cc-e1b54e471928",
+                        "recording_name": "Deja Vu",
+                        "release_group_mbid": "744baceb-9601-483d-81e4-783d8f371bab",
+                        "release_mbid": "76a59c25-4554-41c5-b3d0-31cfabeb65d9"
+                    },
+                    "release_name": "Carta de Alforria",
+                    "track_name": "Deja Vu"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791560492,
+                "recording_msid": "192b5865-5326-4a78-aac1-a7407bdcf64b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "release_name": "IV",
+                    "track_name": "Voar (Gson)"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791560261,
+                "recording_msid": "131b9dc7-fb2d-4b01-9e5a-bfc408c68621",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                        "lastfm_track_mbid": "a668242e-5e4c-42d6-9df7-5d1535da05f0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "T-Rex",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6616f765-1fac-4a6b-962d-c1703d54d99f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "T-Rex",
+                                "artist_mbid": "6616f765-1fac-4a6b-962d-c1703d54d99f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38607987427,
+                        "caa_release_mbid": "860e863f-1544-43fc-a029-31a2783f961f",
+                        "recording_mbid": "a668242e-5e4c-42d6-9df7-5d1535da05f0",
+                        "recording_name": "Ar",
+                        "release_group_mbid": "bcfb2ed5-f5a9-4dcf-8a8f-40e7589e0e3a",
+                        "release_mbid": "860e863f-1544-43fc-a029-31a2783f961f"
+                    },
+                    "release_name": "Gota D'Espaço",
+                    "track_name": "Ar"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791559961,
+                "recording_msid": "870b6001-aff7-4052-a480-3723a151990e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                        "lastfm_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "lastfm_track_mbid": "d4628707-0cc5-47d9-9275-cd0b8789ccef",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wet Bed Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1d77b0c4-c395-4106-8e72-db3ea03740d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wet Bed Gang",
+                                "artist_mbid": "1d77b0c4-c395-4106-8e72-db3ea03740d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30625545366,
+                        "caa_release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446",
+                        "recording_mbid": "d07b5058-be2a-47af-ba33-2d79e2853407",
+                        "recording_name": "Backstage",
+                        "release_group_mbid": "d5faceb0-a8f8-4ce4-8e90-616bd6386893",
+                        "release_mbid": "e15687ab-2484-4566-8c39-6b6eb825a446"
+                    },
+                    "release_name": "Ngana Zambi",
+                    "track_name": "Backstage"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791559761,
+                "recording_msid": "29bf7923-90fc-4df3-9fe9-4b39518fdb93",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5623f6fe-91ff-490c-b267-6391f5b7657a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LON3R JOHNY",
+                    "release_name": "LONDON LP",
+                    "track_name": "DOVE"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791559454,
+                "recording_msid": "191c5098-97a9-4017-a930-2e5c31832e94",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ProfJam",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Profjam",
+                                "artist_mbid": "b4f2ff59-0e3a-40d3-a684-ea31bdb0dae5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38607886433,
+                        "caa_release_mbid": "3ade3c71-7b6a-4ae2-afbd-1f6684f9bb35",
+                        "recording_mbid": "09056ccf-9f7c-41c3-bda5-e7f547065822",
+                        "recording_name": "JAMANTAH",
+                        "release_group_mbid": "6107739b-049d-4eeb-b466-74821ac24edb",
+                        "release_mbid": "3ade3c71-7b6a-4ae2-afbd-1f6684f9bb35"
+                    },
+                    "release_name": "MDID",
+                    "track_name": "JAMANTAH"
+                },
+                "user_name": "Gonca12"
+            },
+            {
+                "inserted_at": 1791562855,
+                "listened_at": 1791559275,
+                "recording_msid": "508ac48f-f35f-4237-abcd-6822cb990711",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bluay",
+                    "release_name": "Faz Bem",
+                    "track_name": "Faz Bem"
+                },
+                "user_name": "Gonca12"
+            }
+        ],
+        "oldest_listen_ts": 1706682073,
+        "user_id": "Gonca12"
+    }
+}

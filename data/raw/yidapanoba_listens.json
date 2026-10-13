@@ -1,0 +1,2329 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791822050,
+        "listens": [
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791822050,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821864,
+                "recording_msid": "c6ced3dd-0118-4e69-849b-627a7164b791",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821767,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821656,
+                "recording_msid": "bd0c5538-2bb2-43cf-8a97-43cf4e6009e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "KARMA BANGERS"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821570,
+                "recording_msid": "e0f1e006-68ca-4d39-bce5-ff9628102bec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye x twenty two"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821446,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791831382,
+                "listened_at": 1791821277,
+                "recording_msid": "3fd8ce94-f351-4810-a912-ffd560687f8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sydo",
+                    "track_name": "SYDO - LAID-BACK"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791753569,
+                "recording_msid": "6add4743-4170-4503-bf4b-fb1dd488f70a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Anderson .Paak, Cordae",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d02dd67e-f655-4600-bc47-f789f59e7367",
+                            "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Anderson .Paak",
+                                "artist_mbid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Cordae",
+                                "artist_mbid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46206384543,
+                        "caa_release_mbid": "3165c2b9-ec77-431c-be55-de7de25057ef",
+                        "recording_mbid": "e8be46db-0f34-4a63-b949-60363c0afbad",
+                        "recording_name": "A Good Day",
+                        "release_group_mbid": "c5aca2f3-b148-4b50-9a73-68e78cdb5534",
+                        "release_mbid": "3165c2b9-ec77-431c-be55-de7de25057ef",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/447452696"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4250621051"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/556240545"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/447452696"
+                            }
+                        ]
+                    },
+                    "release_name": "A Good Day",
+                    "track_name": "A Good Day"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791753416,
+                "recording_msid": "082a9967-4981-442c-aabc-30953c11b5e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., Amal Zenab",
+                    "release_name": "STRIKING",
+                    "track_name": "PHREE (Swing)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791753243,
+                "recording_msid": "4d1d69d6-fbcc-4f7b-a558-d3fb97cd2576",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                        "lastfm_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "lastfm_track_mbid": "9e697b63-db56-4e4a-8479-2cfcc5118cf1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast.",
+                    "release_name": "STRIKING",
+                    "track_name": "Hopecore!"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791753159,
+                "recording_msid": "24694e32-794d-4326-a9fb-12f0a51ef403",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., Niontay",
+                    "release_name": "STRIKING",
+                    "track_name": "Wata"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791753045,
+                "recording_msid": "bf8afec3-6491-45e0-9c1c-5afb7d89c978",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., MARCO PLUS, Ben Reilly",
+                    "release_name": "STRIKING",
+                    "track_name": "Heroes & Villains"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791752823,
+                "recording_msid": "20726c52-4cd4-4a9f-86d9-5987f8853d4c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., Samara Cyn, MAVI",
+                    "release_name": "STRIKING",
+                    "track_name": "KNOCK"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791752597,
+                "recording_msid": "dd5e7c1c-14a8-4721-97c1-5efb4bc2d221",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., DavidTheTragic",
+                    "release_name": "STRIKING",
+                    "track_name": "ACTRANSIT/LEMME AT EM"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791752445,
+                "recording_msid": "1414eac5-632a-4437-9936-d95561b0c906",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                        "lastfm_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "lastfm_track_mbid": "bb5daf25-4a3a-4652-a00b-2cb5ea731033",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ovrkast.",
+                                "artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46223504925,
+                        "caa_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "recording_mbid": "bb5daf25-4a3a-4652-a00b-2cb5ea731033",
+                        "recording_name": "Home",
+                        "release_group_mbid": "be9dd21b-deda-4c50-ac4e-a3355280e2a3",
+                        "release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d"
+                    },
+                    "release_name": "STRIKING",
+                    "track_name": "Home"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791752262,
+                "recording_msid": "bce009f2-942b-4f5b-ad7c-a16dc5bf7061",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                        "lastfm_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "lastfm_track_mbid": "af2e95f9-5752-48db-aab6-e8de2d5e6a9e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ovrkast.",
+                                "artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46223504925,
+                        "caa_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "recording_mbid": "af2e95f9-5752-48db-aab6-e8de2d5e6a9e",
+                        "recording_name": "Washedout",
+                        "release_group_mbid": "be9dd21b-deda-4c50-ac4e-a3355280e2a3",
+                        "release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d"
+                    },
+                    "release_name": "STRIKING",
+                    "track_name": "Washedout"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791752097,
+                "recording_msid": "e61ce089-1b50-4777-ae44-a18865425998",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ovrkast., Self Proclaimed Narcissist",
+                    "release_name": "STRIKING",
+                    "track_name": "PANE"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791751939,
+                "recording_msid": "3035d647-205d-4d86-b805-bf707552b22b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast., Joey Bada$$, Nali",
+                    "release_name": "STRIKING",
+                    "track_name": "STATIC"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791751723,
+                "recording_msid": "d19f869f-0f8f-46cb-bc72-27ebc84743f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast., Michael Sneed",
+                    "release_name": "STRIKING",
+                    "track_name": "WINDO"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791751560,
+                "recording_msid": "23f0b7e6-9a9f-43fa-ad73-a70d1529d517",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5915c82e-f2b8-48fe-81e3-d8e3914b6b4f",
+                        "lastfm_release_mbid": "a96f4065-3c35-42c2-95b9-bf3066fda19d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ovrkast.",
+                    "release_name": "STRIKING",
+                    "track_name": "Intro"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791761116,
+                "listened_at": 1791751482,
+                "recording_msid": "444e3986-6a6a-412c-b87c-775d0556281f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9fef8897-8e04-455c-9ac4-cb4c0f855dc5",
+                        "lastfm_release_mbid": "29ed2399-3611-4dd7-815a-c80401593035",
+                        "lastfm_track_mbid": "39195cfd-1616-47ed-888e-fae016adddfb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Obongjayar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fef8897-8e04-455c-9ac4-cb4c0f855dc5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Obongjayar",
+                                "artist_mbid": "9fef8897-8e04-455c-9ac4-cb4c0f855dc5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41611757477,
+                        "caa_release_mbid": "9d533a11-09a3-4e84-99c5-c1e35941a63a",
+                        "recording_mbid": "93e28f42-04fb-4d93-b49b-beaca2333bb4",
+                        "recording_name": "Sweet Danger",
+                        "release_group_mbid": "e3ea0e1c-ef3c-4cb6-9d94-edfcdf8d4e1c",
+                        "release_mbid": "1f6b7a94-2323-490d-9718-5a61cfdbf71d",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4KtomzdHDbrwTApmqEaCc7"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1818406073"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1818406073"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/439887415"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3398113501"
+                            }
+                        ]
+                    },
+                    "release_name": "Sweet Danger",
+                    "track_name": "Sweet Danger"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791749432,
+                "listened_at": 1791740624,
+                "recording_msid": "6b4dbadf-d8b7-47ff-86d9-437a12add4ac",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f5dd24ca-611d-4ad1-bb43-04601901ac0d",
+                        "lastfm_track_mbid": "46f42694-4ad5-49fc-b468-49980a748205",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "2 Mello",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f5dd24ca-611d-4ad1-bb43-04601901ac0d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "2 Mello",
+                                "artist_mbid": "f5dd24ca-611d-4ad1-bb43-04601901ac0d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21605805410,
+                        "caa_release_mbid": "41d22ab9-eb34-43ce-8fc6-3fe76f292df0",
+                        "recording_mbid": "de02b673-4dec-4467-8e2c-b94f4b808941",
+                        "recording_name": "I WANNA",
+                        "release_group_mbid": "34f487c8-0f88-4fbe-b024-ee03d65d5996",
+                        "release_mbid": "41d22ab9-eb34-43ce-8fc6-3fe76f292df0"
+                    },
+                    "release_name": "Sounds Of Tokyo-To Future",
+                    "track_name": "I Wanna Kno"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791739645,
+                "listened_at": 1791739354,
+                "recording_msid": "44346376-e514-463e-b371-3d2ba82d36a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e1811d3a-4631-4bfe-9b42-d0418524137e",
+                        "lastfm_release_mbid": "d799fd64-4bf7-4706-9b06-dabc322998d4",
+                        "lastfm_track_mbid": "33d98229-2660-4add-b3a8-0f0987eb06ba",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tkay Maidza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e1811d3a-4631-4bfe-9b42-d0418524137e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tkay Maidza",
+                                "artist_mbid": "e1811d3a-4631-4bfe-9b42-d0418524137e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45664699955,
+                        "caa_release_mbid": "d799fd64-4bf7-4706-9b06-dabc322998d4",
+                        "recording_mbid": "33d98229-2660-4add-b3a8-0f0987eb06ba",
+                        "recording_name": "Must Be",
+                        "release_group_mbid": "f885517a-d66c-4f7b-b921-d42bdc5f07e4",
+                        "release_mbid": "d799fd64-4bf7-4706-9b06-dabc322998d4"
+                    },
+                    "release_name": "Must Be",
+                    "track_name": "Must Be"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791739645,
+                "listened_at": 1791739212,
+                "recording_msid": "142d11c3-85ce-4947-8a83-0cef294b1c08",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BKTHERULA, Whethan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4b62f375-7bff-49c2-ae7e-24b8de579ba8",
+                            "9dbb9d00-e2d3-484d-8049-10e5e125913c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bktherula",
+                                "artist_mbid": "4b62f375-7bff-49c2-ae7e-24b8de579ba8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Whethan",
+                                "artist_mbid": "9dbb9d00-e2d3-484d-8049-10e5e125913c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "477ba782-118f-4cf9-8e7b-d333b24dd2ca",
+                        "recording_name": "I GO PUNK",
+                        "release_group_mbid": "ec99792f-f3da-49ff-9e41-d9c6fef68a02",
+                        "release_mbid": "4c825417-3112-4eb1-858a-ea310f9c2b5d"
+                    },
+                    "release_name": "I GO PUNK",
+                    "track_name": "I GO PUNK"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791739645,
+                "listened_at": 1791739151,
+                "recording_msid": "e2154fe6-e4e1-4214-9bac-58a8f4dba8c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48612eb3-0bb7-449a-9b82-91ef81bc0e79",
+                        "lastfm_release_mbid": "5be89b74-1d0b-4d27-bf08-0aef58a04845",
+                        "lastfm_track_mbid": "ed1e3265-7d71-4699-b726-d4df47bd622e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chris Patrick",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48612eb3-0bb7-449a-9b82-91ef81bc0e79"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chris Patrick",
+                                "artist_mbid": "48612eb3-0bb7-449a-9b82-91ef81bc0e79",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43800948325,
+                        "caa_release_mbid": "5be89b74-1d0b-4d27-bf08-0aef58a04845",
+                        "recording_mbid": "ed1e3265-7d71-4699-b726-d4df47bd622e",
+                        "recording_name": "Huncho's Prayer",
+                        "release_group_mbid": "0f015399-b5c8-4ec5-9598-5add2d4f6251",
+                        "release_mbid": "387f23c6-153e-45bc-a2b7-21d525d45e50",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/au/song/1856313867"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/au/song/1856313867"
+                            }
+                        ]
+                    },
+                    "release_name": "Pray 4 Me",
+                    "track_name": "Huncho's Prayer"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791739645,
+                "listened_at": 1791738766,
+                "recording_msid": "b90e698a-ede8-41d4-bd82-ef39a699a643",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                        "lastfm_track_mbid": "945de0b4-2e9f-4fbf-8f39-1f952b3cd81b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luv Resval",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "324bc359-f062-46d9-a31a-9530b0483fe7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luv Resval",
+                                "artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35696641830,
+                        "caa_release_mbid": "3b332b2d-5795-4391-ac9e-2e85fcd238f8",
+                        "recording_mbid": "945de0b4-2e9f-4fbf-8f39-1f952b3cd81b",
+                        "recording_name": "AZNVR (une minute de musique)",
+                        "release_group_mbid": "17d8896a-49fe-4528-bb3f-b3ac8ffa125b",
+                        "release_mbid": "3b332b2d-5795-4391-ac9e-2e85fcd238f8"
+                    },
+                    "release_name": "AZNVR (Une minute de musique)",
+                    "track_name": "AZNVR (Une minute de musique)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791738371,
+                "recording_msid": "d103fa7f-0cdb-4e39-ad4b-5b82ecc5f6bf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+                        "lastfm_release_mbid": "24e93d85-dc05-4cbd-8da4-753885218550",
+                        "lastfm_track_mbid": "82b44587-0a63-483d-8fab-be34801d83f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Magdalena Bay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "68c261d5-48c8-4ea9-9466-9fc908dc79bb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Magdalena Bay",
+                                "artist_mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39313937167,
+                        "caa_release_mbid": "acad6b60-2b75-425a-ae50-0900ac45dda4",
+                        "recording_mbid": "82b44587-0a63-483d-8fab-be34801d83f9",
+                        "recording_name": "Watching T.V.",
+                        "release_group_mbid": "9c710cb4-6b20-47d7-a31a-5adb064c6c6b",
+                        "release_mbid": "24e93d85-dc05-4cbd-8da4-753885218550"
+                    },
+                    "release_name": "Imaginal Disk",
+                    "track_name": "Watching T.V."
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791738351,
+                "recording_msid": "77f48ddc-e809-4b3a-b64f-40dcb2ccef92",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ikaz Boi, La Fève",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "568efe94-efc0-4758-891e-f9c4b00e5fe9",
+                            "2c832944-52b6-428e-8d36-5d2cbc7121d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ikaz Boi",
+                                "artist_mbid": "568efe94-efc0-4758-891e-f9c4b00e5fe9",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "La Fève",
+                                "artist_mbid": "2c832944-52b6-428e-8d36-5d2cbc7121d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36939715574,
+                        "caa_release_mbid": "62216ab0-9dee-4916-9061-28f9b0d5a119",
+                        "recording_mbid": "a58ee329-955f-42dc-92a0-4c63ffbdfd6e",
+                        "recording_name": "J'SAVAIS",
+                        "release_group_mbid": "a37dbd0b-428e-447a-8784-1cc818cba083",
+                        "release_mbid": "62216ab0-9dee-4916-9061-28f9b0d5a119"
+                    },
+                    "release_name": "BRUT4L 2LUXE",
+                    "track_name": "J'SAVAIS"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791738240,
+                "recording_msid": "0be2bf6d-4f70-43c7-a3fa-34fb2cddf8ca",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+                        "lastfm_release_mbid": "04c87467-fa10-49b2-bf81-7f732cb04586",
+                        "lastfm_track_mbid": "e15386af-d499-4897-a5c2-8c998c1c13bc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "OutKast",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "73fdb566-a9b1-494c-9f32-51768ec9fd27"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OutKast",
+                                "artist_mbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24569780625,
+                        "caa_release_mbid": "296f8a54-eff7-3c6a-9857-164c05479c09",
+                        "recording_mbid": "50348531-e601-4053-8f19-16b375fed767",
+                        "recording_name": "So Fresh, So Clean",
+                        "release_group_mbid": "00d2cd53-21c9-3738-b683-56847b7b0040",
+                        "release_mbid": "296f8a54-eff7-3c6a-9857-164c05479c09",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/469012135"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3618498272"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1841975749"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7501tQX1JPBktgZs4iTAb2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1841975749"
+                            }
+                        ]
+                    },
+                    "release_name": "Stankonia",
+                    "track_name": "So Fresh, So Clean"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791738033,
+                "recording_msid": "276a4649-7058-46d3-a349-75f6af60deef",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Red Hot Chili Peppers",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Red Hot Chili Peppers",
+                                "artist_mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15837297520,
+                        "caa_release_mbid": "058dcfa5-4921-4055-87b0-f541eb4adb08",
+                        "recording_mbid": "084a24a9-b289-4584-9fb5-1ca0f7500eb3",
+                        "recording_name": "Californication",
+                        "release_group_mbid": "ca5dfcc3-83fb-3eee-9061-c27296b77b2c",
+                        "release_mbid": "4ad6711f-3f5d-4f7b-a5eb-46636a37e47a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+                            }
+                        ]
+                    },
+                    "release_name": "Californication (Deluxe Edition)",
+                    "track_name": "Californication"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791737906,
+                "recording_msid": "de197307-a7e5-4e33-8dcc-68ddd6a75471",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c7bbf386-f0d4-4ac5-8ea5-24101f6700d5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ark Woods",
+                    "release_name": "Ay What Up (Lemme Vibe)",
+                    "track_name": "Ay What Up (Lemme Vibe)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791737781,
+                "recording_msid": "22238ccf-08b8-4356-8968-34a3702c8af6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LEDOUBLE, GAL",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5060ef46-e955-4293-b0a7-d3f60346455a",
+                            "44b35045-1255-4a21-8821-ce7210fa9fca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LEDOUBLE",
+                                "artist_mbid": "5060ef46-e955-4293-b0a7-d3f60346455a",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "GAL",
+                                "artist_mbid": "44b35045-1255-4a21-8821-ce7210fa9fca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45068982138,
+                        "caa_release_mbid": "0ef999f8-f142-4e00-806d-2d89c42b4348",
+                        "recording_mbid": "1f6d703e-6df5-4da0-98af-6498aa126072",
+                        "recording_name": "SALOPE J'VIENS DU SOUTH",
+                        "release_group_mbid": "efbdfe60-ef03-40ce-8b32-dee12f9bebcb",
+                        "release_mbid": "0ef999f8-f142-4e00-806d-2d89c42b4348",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/516101323"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1893618490"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3962150051"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4Sgpgyxu2n5oSIDI1CWpMw"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1893618490"
+                            }
+                        ]
+                    },
+                    "release_name": "FCK LABEL MACHINE",
+                    "track_name": "SALOPE J'VIENS DU SOUTH"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791737715,
+                "recording_msid": "0a6a0a1f-3bfc-4461-9c6f-f002292023bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "6d11a30c-44ac-4f02-8c55-5e6f2523f19a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "John michel, Anthony James, colin!",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f1585798-e83b-4d2e-b91b-f61f2ef62835",
+                            "67c6a03d-3476-419c-bb90-74cd4d2ab647",
+                            "10c9bf05-4193-46b2-b1b4-1a760e240fdb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "John michel",
+                                "artist_mbid": "f1585798-e83b-4d2e-b91b-f61f2ef62835",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Anthony James",
+                                "artist_mbid": "67c6a03d-3476-419c-bb90-74cd4d2ab647",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "COLiN!",
+                                "artist_mbid": "10c9bf05-4193-46b2-b1b4-1a760e240fdb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42065431738,
+                        "caa_release_mbid": "9c86091a-32b1-4b79-b2a4-d2f5d97b8326",
+                        "recording_mbid": "6d11a30c-44ac-4f02-8c55-5e6f2523f19a",
+                        "recording_name": "PREACHER!",
+                        "release_group_mbid": "6eb36179-8a8f-424c-b384-9d4eb2d75010",
+                        "release_mbid": "9c86091a-32b1-4b79-b2a4-d2f5d97b8326",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/433905859"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3351960651"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1812540711"
+                            }
+                        ]
+                    },
+                    "release_name": "Egotrip",
+                    "track_name": "PREACHER!"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791737629,
+                "recording_msid": "75eb359d-5a31-4814-b752-a0f46a5e1c2a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "629db3d9-4726-4ae2-859e-d1f14f88fd07",
+                        "lastfm_release_mbid": "22de3814-b535-4048-8688-e31ab4f021fe",
+                        "lastfm_track_mbid": "2cce8668-bc07-4395-9c51-7a670713fa38",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Deante' Hitchcock",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "629db3d9-4726-4ae2-859e-d1f14f88fd07"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Deante’ Hitchcock",
+                                "artist_mbid": "629db3d9-4726-4ae2-859e-d1f14f88fd07",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45124057429,
+                        "caa_release_mbid": "22de3814-b535-4048-8688-e31ab4f021fe",
+                        "recording_mbid": "2cce8668-bc07-4395-9c51-7a670713fa38",
+                        "recording_name": "Electric Revival",
+                        "release_group_mbid": "ae5a9c76-c0e2-4cba-8172-cb54096ed522",
+                        "release_mbid": "22de3814-b535-4048-8688-e31ab4f021fe",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3912971671"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=eO0Nhnt8lz4"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.amazon.com/tracks/B0GTBVWM5F"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://audiomack.com/deantevh/song/electric-revival-6316202"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/deante-hitchcock/electric-revival"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/508839003"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1886737162"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1886737162"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2AUvYz2FOgqm2V8HTwKGP7"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1886737162"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1886737162"
+                            }
+                        ]
+                    },
+                    "release_name": "Junkie in The Sun",
+                    "track_name": "Electric Revival"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791737251,
+                "recording_msid": "041c7c55-2398-4fb8-a98e-e2f2a9e33eb7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e98b5ad0-a69f-48aa-990b-de955cde1310",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "yvnnis",
+                    "release_name": "REPOSADO",
+                    "track_name": "REPOSADO"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791738569,
+                "listened_at": 1791735432,
+                "recording_msid": "64a185fc-2c39-450f-a313-bdd864858972",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "1ec94c56-c4d1-47b1-8018-df702dfafaea",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Duckwrth, Shaboozey",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2bc82618-2d0f-436e-adb2-8aa0774dd799",
+                            "0b427dad-1ee5-48f1-aa4b-026680a3338e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "DUCKWRTH",
+                                "artist_mbid": "2bc82618-2d0f-436e-adb2-8aa0774dd799",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Shaboozey",
+                                "artist_mbid": "0b427dad-1ee5-48f1-aa4b-026680a3338e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22078342465,
+                        "caa_release_mbid": "e77e4b0f-95bd-4fd2-9219-f5ff13a289dc",
+                        "recording_mbid": "841aabf0-573f-490d-9e7c-cf1b021ac81d",
+                        "recording_name": "Start a Riot",
+                        "release_group_mbid": "ec3599ab-5304-4373-9937-86ffd1fc2039",
+                        "release_mbid": "b0448830-4af7-430c-85a5-ded3481dce35"
+                    },
+                    "release_name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+                    "track_name": "Start a Riot"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791726485,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791726300,
+                "recording_msid": "c6ced3dd-0118-4e69-849b-627a7164b791",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791726203,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791726092,
+                "recording_msid": "bd0c5538-2bb2-43cf-8a97-43cf4e6009e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "KARMA BANGERS"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791726006,
+                "recording_msid": "e0f1e006-68ca-4d39-bce5-ff9628102bec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye x twenty two"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791731801,
+                "listened_at": 1791725883,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791671424,
+                "recording_msid": "74a4620b-34af-4abe-aac3-7bc5c2a79e99",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "EL GRAN FARAÓN"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791671273,
+                "recording_msid": "625bb6f3-6ed5-4e3b-8df7-d668cc9e46f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "ENDROGADO EN ADROGUÉ"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791671101,
+                "recording_msid": "c1a81913-2a7e-4eaa-ab0b-841c0b0b1b79",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE, Doly Flackko",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "FELIZ DOMINGO"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791670953,
+                "recording_msid": "d3cf18a7-6fe9-4a4e-a0ac-1b67be060d1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "SI QUIEREN MAGIA AVISAN"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791670850,
+                "recording_msid": "bc5074ca-8fa1-49cf-9366-bd9279aef439",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "PASEN"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791685494,
+                "listened_at": 1791670708,
+                "recording_msid": "625bb6f3-6ed5-4e3b-8df7-d668cc9e46f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROMO X CIERRE",
+                    "release_name": "CÓMO CONSEGUIR WACHAS",
+                    "track_name": "ENDROGADO EN ADROGUÉ"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791668758,
+                "listened_at": 1791666641,
+                "recording_msid": "62565088-77c1-4cd0-863e-7fa96e16d3f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2ba76664-8bb1-40cf-b2b0-009f487bbcc5",
+                        "lastfm_track_mbid": "9ff88213-61a8-4906-8d0c-b96814d0d8e6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ice Paper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2ba76664-8bb1-40cf-b2b0-009f487bbcc5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ice Paper",
+                                "artist_mbid": "2ba76664-8bb1-40cf-b2b0-009f487bbcc5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32388711850,
+                        "caa_release_mbid": "75652a27-9587-405e-af58-055eba85fd41",
+                        "recording_mbid": "cce7dbee-805c-4293-8d41-83ec18fd7cec",
+                        "recording_name": "心如止水",
+                        "release_group_mbid": "99466794-a374-4d25-a01b-a4a6f6fac157",
+                        "release_mbid": "75652a27-9587-405e-af58-055eba85fd41"
+                    },
+                    "release_name": "心如止水",
+                    "track_name": "心如止水"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791668758,
+                "listened_at": 1791663799,
+                "recording_msid": "d3fc2591-4828-4d77-a7e6-f667b014d193",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4de0aa63-2651-4490-8565-b683afd526fe",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "阿肆",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4de0aa63-2651-4490-8565-b683afd526fe"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "阿肆",
+                                "artist_mbid": "4de0aa63-2651-4490-8565-b683afd526fe",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41132444829,
+                        "caa_release_mbid": "103aff71-2db4-4762-9341-a4e8c52e0360",
+                        "recording_mbid": "083aa324-f492-448d-b0c5-cfa3f190bdd5",
+                        "recording_name": "热爱105℃的你",
+                        "release_group_mbid": "7130cf73-2189-4336-ac12-c96458e02504",
+                        "release_mbid": "103aff71-2db4-4762-9341-a4e8c52e0360",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1808646611"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/330375892"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5ws4FF3bV5sXUwDUyZ8lnH"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/330375892"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3325458171"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1808646611"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/430227432"
+                            }
+                        ]
+                    },
+                    "release_name": "热爱105°C的你",
+                    "track_name": "热爱105°C的你"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791663629,
+                "recording_msid": "956f9f9f-d8c6-4eb3-8bea-0ac29d019505",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "AThree, 那奇沃夫, kkluv, 揚布拉德, 穆拉提·阿布都巴廷",
+                    "release_name": "新說唱2024 第十二期（上集）",
+                    "track_name": "麥西來甫"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791663359,
+                "recording_msid": "6043b5ed-63d6-4bec-be0f-b6dca56a59c0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "非／密閉空間",
+                    "release_name": "Flow, Gesture, and Spaces",
+                    "track_name": "血清素神經元"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791663262,
+                "recording_msid": "27f00bf6-9a14-4e02-b97a-39625debc56f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yu-Ching Fei",
+                    "release_name": "Boundless Love",
+                    "track_name": "Yi Jian Mei"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660768,
+                "recording_msid": "8e92cf2c-cebb-41a1-94e9-6c5c42c55238",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "功夫胖KUNGFU-PEN",
+                    "release_name": "全家福 (My Family Picture)",
+                    "track_name": "VINTAGE"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660768,
+                "recording_msid": "d84dd8dd-c9a5-4927-92f3-5da3174f6bb4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yu-Ching Fei",
+                    "release_name": "Boundless Love",
+                    "track_name": "Yi Jian Mei (xue hua piao piao bei feng xiao xiao)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660681,
+                "recording_msid": "8e92cf2c-cebb-41a1-94e9-6c5c42c55238",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "功夫胖KUNGFU-PEN",
+                    "release_name": "全家福 (My Family Picture)",
+                    "track_name": "VINTAGE"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660680,
+                "recording_msid": "5dbd334d-ecb7-4477-84c1-b614b724503a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6ee5497-0361-4cb8-9d0b-4707ceea18c3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cacien",
+                    "release_name": "Wo De Ai Mei Qian Zou",
+                    "track_name": "Wo De Ai Mei Qian Zou"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660591,
+                "recording_msid": "6043b5ed-63d6-4bec-be0f-b6dca56a59c0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "非／密閉空間",
+                    "release_name": "Flow, Gesture, and Spaces",
+                    "track_name": "血清素神經元"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660495,
+                "recording_msid": "db44265a-c4b3-457d-bff3-fc7f0f7d8b9c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "562a03c2-3a9a-44cf-bf5d-e459ff759f0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "趙翊帆",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9b85ca7f-95d7-400c-955f-074eda55bf02",
+                            "5ad24e4a-225d-4324-9818-174bb75634f7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "趙翊帆",
+                                "artist_mbid": "9b85ca7f-95d7-400c-955f-074eda55bf02",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gummy B",
+                                "artist_mbid": "5ad24e4a-225d-4324-9818-174bb75634f7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39889269806,
+                        "caa_release_mbid": "562a03c2-3a9a-44cf-bf5d-e459ff759f0e",
+                        "recording_mbid": "108e40ff-7c43-4e76-a2e4-a77f29a36d66",
+                        "recording_name": "Rising Giant",
+                        "release_group_mbid": "9903ef61-7ee8-42e3-885d-1a9d59ab7d61",
+                        "release_mbid": "57933d08-882c-4b1f-8ea1-7dfbc7523952"
+                    },
+                    "release_name": "LUNARFACE",
+                    "track_name": "Rising Giant (feat. Gummy B)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660200,
+                "recording_msid": "d0f171bf-78eb-4098-b359-7c353bc164c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "万妮达",
+                    "release_name": "万妮达",
+                    "track_name": "场上称霸"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660200,
+                "recording_msid": "db44265a-c4b3-457d-bff3-fc7f0f7d8b9c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "562a03c2-3a9a-44cf-bf5d-e459ff759f0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "趙翊帆",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9b85ca7f-95d7-400c-955f-074eda55bf02",
+                            "5ad24e4a-225d-4324-9818-174bb75634f7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "趙翊帆",
+                                "artist_mbid": "9b85ca7f-95d7-400c-955f-074eda55bf02",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gummy B",
+                                "artist_mbid": "5ad24e4a-225d-4324-9818-174bb75634f7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39889269806,
+                        "caa_release_mbid": "562a03c2-3a9a-44cf-bf5d-e459ff759f0e",
+                        "recording_mbid": "108e40ff-7c43-4e76-a2e4-a77f29a36d66",
+                        "recording_name": "Rising Giant",
+                        "release_group_mbid": "9903ef61-7ee8-42e3-885d-1a9d59ab7d61",
+                        "release_mbid": "57933d08-882c-4b1f-8ea1-7dfbc7523952"
+                    },
+                    "release_name": "LUNARFACE",
+                    "track_name": "Rising Giant (feat. Gummy B)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660084,
+                "recording_msid": "d0f171bf-78eb-4098-b359-7c353bc164c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "万妮达",
+                    "release_name": "万妮达",
+                    "track_name": "场上称霸"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791660084,
+                "recording_msid": "eac0c05a-198b-4200-a25a-18130fe3c266",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LilHAO, c8ight",
+                    "release_name": "轟18伶仃",
+                    "track_name": "轟18伶仃"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791659775,
+                "recording_msid": "eac0c05a-198b-4200-a25a-18130fe3c266",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LilHAO, c8ight",
+                    "release_name": "轟18伶仃",
+                    "track_name": "轟18伶仃"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791659735,
+                "recording_msid": "85a65989-0741-439c-ad2a-283bde049599",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "攬佬SKAI ISYOURGOD, AR劉夫陽",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7da462be-e404-40f0-ac60-f743700f4206",
+                            "4b649401-4616-431e-854f-3f0f5fda9ddc"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "攬佬SKAI ISYOURGOD",
+                                "artist_mbid": "7da462be-e404-40f0-ac60-f743700f4206",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "刘夫阳",
+                                "artist_mbid": "4b649401-4616-431e-854f-3f0f5fda9ddc",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41292386142,
+                        "caa_release_mbid": "679ded62-6602-44cd-933d-047f09c12a01",
+                        "recording_mbid": "dad4124d-2698-4dee-8418-335741cc3a60",
+                        "recording_name": "大展鴻圖",
+                        "release_group_mbid": "86ac8e0c-c2ea-4856-aba8-23285c748ef8",
+                        "release_mbid": "679ded62-6602-44cd-933d-047f09c12a01"
+                    },
+                    "release_name": "八方來財(Stacks from All Sides)",
+                    "track_name": "大展鴻圖(Blueprint Supreme)"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791659015,
+                "recording_msid": "1ee0475f-348a-4bdf-92a8-fee16fb0e3c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "fda925d2-7af4-4b67-b8c1-692292c9cb18",
+                        "lastfm_release_mbid": "100d8050-24e6-4187-94c2-1e0fd54d1717",
+                        "lastfm_track_mbid": "8444a88e-15c4-4f63-a74e-b9d035200463",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cosmo Sheldrake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fda925d2-7af4-4b67-b8c1-692292c9cb18"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cosmo Sheldrake",
+                                "artist_mbid": "fda925d2-7af4-4b67-b8c1-692292c9cb18",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10141001288,
+                        "caa_release_mbid": "100d8050-24e6-4187-94c2-1e0fd54d1717",
+                        "recording_mbid": "0abd33c9-21d1-4ba8-b3a9-bdca35180878",
+                        "recording_name": "Pelicans We",
+                        "release_group_mbid": "de622b70-87e1-4e9e-8b64-eed3f59ab450",
+                        "release_mbid": "6f4bae9f-0ee3-4ceb-8c53-5f924de6a8f3"
+                    },
+                    "release_name": "Pelicans We",
+                    "track_name": "Pelicans We"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791663782,
+                "listened_at": 1791654281,
+                "recording_msid": "6b08f68e-4a29-4187-a5e9-801eec808c6d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "fda925d2-7af4-4b67-b8c1-692292c9cb18",
+                        "lastfm_release_mbid": "0dd58d40-1e90-483c-b366-1e71145d09de",
+                        "lastfm_track_mbid": "0ec324ed-5ea6-4b6c-b01d-c54899bcd691",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cosmo Sheldrake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fda925d2-7af4-4b67-b8c1-692292c9cb18"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cosmo Sheldrake",
+                                "artist_mbid": "fda925d2-7af4-4b67-b8c1-692292c9cb18",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35303335570,
+                        "caa_release_mbid": "a3e1298a-dc61-432a-8148-f3a9451f8684",
+                        "recording_mbid": "267623ca-6e00-4215-b5db-16f45d6c9cb3",
+                        "recording_name": "Birthday Suit",
+                        "release_group_mbid": "53ee6345-7793-448b-a671-4121787340ff",
+                        "release_mbid": "a3e1298a-dc61-432a-8148-f3a9451f8684"
+                    },
+                    "release_name": "The Much Much How How and I",
+                    "track_name": "Birthday Suit"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791568415,
+                "listened_at": 1791567735,
+                "recording_msid": "a1ae09ef-1554-470b-a0c8-5998b4446d93",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Johnny Ola, Jungle Jack, H JeuneCrack",
+                    "release_name": "Session Shooting",
+                    "track_name": "Session Shooting"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791499744,
+                "listened_at": 1791494578,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791499744,
+                "listened_at": 1791494392,
+                "recording_msid": "c6ced3dd-0118-4e69-849b-627a7164b791",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791499744,
+                "listened_at": 1791494294,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791499744,
+                "listened_at": 1791494184,
+                "recording_msid": "bd0c5538-2bb2-43cf-8a97-43cf4e6009e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "KARMA BANGERS"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791499744,
+                "listened_at": 1791493233,
+                "recording_msid": "e0f1e006-68ca-4d39-bce5-ff9628102bec",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "DeeEye x twenty two"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791493044,
+                "listened_at": 1791483000,
+                "recording_msid": "68e47aa6-4143-4623-92b0-c22061a15d59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "track_name": "JeanJass"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791475768,
+                "listened_at": 1791462904,
+                "recording_msid": "5b7149dc-8f1c-4cdc-baad-bd74bc5bb793",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Lomi"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791475768,
+                "listened_at": 1791462815,
+                "recording_msid": "58c9c2ee-d9d3-4175-b14a-ac24dca2a2b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Sheldon"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791458160,
+                "recording_msid": "59f0772e-f865-467b-b0bf-e5bbcce8ffd6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Grünt #75"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791458099,
+                "recording_msid": "f7493109-bd01-4d63-b2ac-f464ece38efd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Iverrn"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457927,
+                "recording_msid": "58c9c2ee-d9d3-4175-b14a-ac24dca2a2b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Sheldon"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457847,
+                "recording_msid": "dd0ff330-ad4e-465f-bffe-1333ccc3e664",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par GAL"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457737,
+                "recording_msid": "904f2fcb-3ce7-40a0-813b-5f73052e16ad",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Anbuu"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457669,
+                "recording_msid": "dd0ff330-ad4e-465f-bffe-1333ccc3e664",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par GAL"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457443,
+                "recording_msid": "58c9c2ee-d9d3-4175-b14a-ac24dca2a2b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Sheldon"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457343,
+                "recording_msid": "5b7149dc-8f1c-4cdc-baad-bd74bc5bb793",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Lomi"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457289,
+                "recording_msid": "f7493109-bd01-4d63-b2ac-f464ece38efd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Iverrn"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791460779,
+                "listened_at": 1791457236,
+                "recording_msid": "58c9c2ee-d9d3-4175-b14a-ac24dca2a2b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sheldon",
+                    "track_name": "Produit par Sheldon"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791454198,
+                "recording_msid": "34882a83-1343-4716-98be-4264232c6856",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Bouffons du roi"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452955,
+                "recording_msid": "e7de2755-0e9c-41aa-8a98-fb6a8ddcdda8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Maître Miyagi"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452805,
+                "recording_msid": "a0419bde-3be5-4896-895a-368c1cb02f62",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "9f3b5152-83b2-4684-a71d-5a94bd3b49ce",
+                        "recording_name": "Ça suffit pas",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Ça suffit pas"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452599,
+                "recording_msid": "8a088634-b64a-44eb-871d-2dc23524a196",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Isha, Limsa d'Aulnay, YAME",
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "La vie qu'on mène"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452383,
+                "recording_msid": "47e9bccb-6119-4326-99c7-d8cc00627b1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "5362e9b9-5db9-4ef1-8e6b-695e8c5d9f8c",
+                        "recording_name": "Trafics locaux",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Trafics locaux"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452216,
+                "recording_msid": "eef781ca-341e-43fa-80a8-bcb3c6b94a19",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "2d2de570-ecea-40ed-9b44-97521d9c79d7",
+                        "recording_name": "Abd al Malik & Wallen",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Abd al Malik & Wallen"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791452051,
+                "recording_msid": "3bb54e8b-85bd-4593-b67e-24a0f93c065e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "62ce3301-e936-4df6-80bc-c9f639b89642",
+                        "recording_name": "Pommeau de douche",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Pommeau de douche"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451848,
+                "recording_msid": "a9b9c16a-84e0-4c8c-acdd-81e8a5a16b66",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "32cd2a63-ab5e-494b-800a-197a149b1f0e",
+                        "recording_name": "Maître-nageur",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Maître-nageur"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451695,
+                "recording_msid": "b2dad0c5-3e4c-4953-ae59-3fb3e5952c9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "56a531b1-6e99-4544-9ec1-dbf515b8de60",
+                        "recording_name": "Fin de ce monde",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Fin de ce monde"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451515,
+                "recording_msid": "9a26d3e0-40f0-4ddd-82ca-f38639cb2f1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "66e9910d-31dd-45b1-84ea-e254c7cdbfd6",
+                        "recording_name": "Visiblement",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Visiblement"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451311,
+                "recording_msid": "c29f1016-8122-4718-8c1d-315a9c553322",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "258c9c4c-20de-4ef1-87d0-b6a77236b038",
+                        "recording_name": "15K",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "15K"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451162,
+                "recording_msid": "e54a7db7-0a66-4cc1-ab30-b0806dcae49c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ISHA, Limsa d'Aulnay",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785498ee-99f4-4699-8caf-2c742e996559",
+                            "b789f619-d9c5-4314-a064-8cc3d72f80ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ISHA",
+                                "artist_mbid": "785498ee-99f4-4699-8caf-2c742e996559",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Limsa d’Aulnay",
+                                "artist_mbid": "b789f619-d9c5-4314-a064-8cc3d72f80ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43721863011,
+                        "caa_release_mbid": "7132ee45-b6b9-422e-9f8a-894d88e3367e",
+                        "recording_mbid": "1e32b3ab-5db9-4e78-b3be-1b067a197b8f",
+                        "recording_name": "Berlingo",
+                        "release_group_mbid": "46c3977f-198e-410b-8a8c-d1cc206761bf",
+                        "release_mbid": "a39452a7-f697-452c-80cb-45f847956ff8"
+                    },
+                    "release_name": "Bitume Caviar (vol.2)",
+                    "track_name": "Berlingo"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791451003,
+                "recording_msid": "5db568ab-7aeb-4c2f-bbb0-79fbee6d201b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake, Don Toliver, YEBBA",
+                    "release_name": "HABIBTI (FOMO)",
+                    "track_name": "Cold Shoulder"
+                },
+                "user_name": "yidapanoba"
+            },
+            {
+                "inserted_at": 1791455862,
+                "listened_at": 1791448916,
+                "recording_msid": "b85bb364-8242-4373-89b8-350798ccd688",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG, Cletus Strap, Earl Sweatshirt",
+                    "release_name": "Next Day Air.",
+                    "track_name": "Mr. Doubt"
+                },
+                "user_name": "yidapanoba"
+            }
+        ],
+        "oldest_listen_ts": 1689074862,
+        "user_id": "yidapanoba"
+    }
+}

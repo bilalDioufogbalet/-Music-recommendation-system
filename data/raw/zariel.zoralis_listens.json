@@ -1,0 +1,3569 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791831228,
+        "listens": [
+            {
+                "inserted_at": 1791831231,
+                "listened_at": 1791831228,
+                "recording_msid": "43302518-3fd2-42e5-8b2b-9f1021d22057",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 128052,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Bryson Tiller",
+                    "release_name": "Solace & The Vices",
+                    "track_name": "Autumn Drive"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791831221,
+                "listened_at": 1791831144,
+                "recording_msid": "00c167cf-ff2d-4218-8ce9-f6aee8d1cf69",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 148887,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Ax and the Hatchetmen",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3655de30-2232-4e7c-aa48-8ab5da0e571d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ax and the Hatchetmen",
+                                "artist_mbid": "3655de30-2232-4e7c-aa48-8ab5da0e571d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44762137051,
+                        "caa_release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5",
+                        "recording_mbid": "1a5b9507-618e-460b-b94c-5761a95c16f9",
+                        "recording_name": "Hotel Room",
+                        "release_group_mbid": "f91fd7c4-e178-4526-a50c-f460b6133a61",
+                        "release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5"
+                    },
+                    "release_name": "So Much To Tell You",
+                    "track_name": "Hotel Room"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791831110,
+                "listened_at": 1791831024,
+                "recording_msid": "dc408211-3f54-4b4f-b129-ed495ce43276",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 187396,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Aaron Childs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5466ef91-cfa0-4722-b3eb-2e70b2777729"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aaron Childs",
+                                "artist_mbid": "5466ef91-cfa0-4722-b3eb-2e70b2777729",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ee4c51f8-47c2-4e68-ab9b-b22a4b68df7a",
+                        "recording_name": "U Got Time",
+                        "release_group_mbid": "b4c1b96e-b855-4bd1-b64e-76cd75102ca0",
+                        "release_mbid": "0ee2ebe0-1408-47af-9131-b4258e00bea3"
+                    },
+                    "release_name": "Aaron Childs",
+                    "track_name": "U Got Time"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830859,
+                "listened_at": 1791830831,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830768,
+                "listened_at": 1791830699,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830635,
+                "listened_at": 1791830567,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830504,
+                "listened_at": 1791830435,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830373,
+                "listened_at": 1791830304,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830240,
+                "listened_at": 1791830171,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791830115,
+                "listened_at": 1791830042,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829189,
+                "listened_at": 1791829121,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829378,
+                "listened_at": 1791829121,
+                "recording_msid": "8d39eecf-a35e-42d8-bf77-71279650fe76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a80e5675-2d8f-46c4-afd8-e96e31b43503",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829057,
+                "listened_at": 1791828989,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829378,
+                "listened_at": 1791828989,
+                "recording_msid": "8d39eecf-a35e-42d8-bf77-71279650fe76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a80e5675-2d8f-46c4-afd8-e96e31b43503",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791828891,
+                "listened_at": 1791828823,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829378,
+                "listened_at": 1791828823,
+                "recording_msid": "8d39eecf-a35e-42d8-bf77-71279650fe76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a80e5675-2d8f-46c4-afd8-e96e31b43503",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829378,
+                "listened_at": 1791828093,
+                "recording_msid": "bd8bfbc3-901e-436f-8fa2-64ced6bd04df",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5466ef91-cfa0-4722-b3eb-2e70b2777729",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Aaron Childs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5466ef91-cfa0-4722-b3eb-2e70b2777729"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aaron Childs",
+                                "artist_mbid": "5466ef91-cfa0-4722-b3eb-2e70b2777729",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ee4c51f8-47c2-4e68-ab9b-b22a4b68df7a",
+                        "recording_name": "U Got Time",
+                        "release_group_mbid": "b4c1b96e-b855-4bd1-b64e-76cd75102ca0",
+                        "release_mbid": "0ee2ebe0-1408-47af-9131-b4258e00bea3"
+                    },
+                    "release_name": "Aaron Childs",
+                    "track_name": "U Got Time"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791828297,
+                "listened_at": 1791828093,
+                "recording_msid": "dc408211-3f54-4b4f-b129-ed495ce43276",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 187396,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Aaron Childs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5466ef91-cfa0-4722-b3eb-2e70b2777729"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Aaron Childs",
+                                "artist_mbid": "5466ef91-cfa0-4722-b3eb-2e70b2777729",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ee4c51f8-47c2-4e68-ab9b-b22a4b68df7a",
+                        "recording_name": "U Got Time",
+                        "release_group_mbid": "b4c1b96e-b855-4bd1-b64e-76cd75102ca0",
+                        "release_mbid": "0ee2ebe0-1408-47af-9131-b4258e00bea3"
+                    },
+                    "release_name": "Aaron Childs",
+                    "track_name": "U Got Time"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791827974,
+                "listened_at": 1791827906,
+                "recording_msid": "6241fbe1-ac60-4371-b34f-27742442b0af",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 132000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791829378,
+                "listened_at": 1791827906,
+                "recording_msid": "8d39eecf-a35e-42d8-bf77-71279650fe76",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a80e5675-2d8f-46c4-afd8-e96e31b43503",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Good Morning",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8d8de78f-8097-4e10-9d37-bf9b4aef614f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Good Morning",
+                                "artist_mbid": "8d8de78f-8097-4e10-9d37-bf9b4aef614f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38496853893,
+                        "caa_release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404",
+                        "recording_mbid": "68216c1e-ddd3-4292-bed5-888e3f460f04",
+                        "recording_name": "As the Dogs Were Playing",
+                        "release_group_mbid": "9f3dcb6c-2d47-4e25-ba0d-90e957d75e9f",
+                        "release_mbid": "64199cd4-cc1b-445b-97f1-2ff99b9ff404"
+                    },
+                    "release_name": "Good Morning Seven",
+                    "track_name": "As The Dogs Were Playing"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791813583,
+                "listened_at": 1791813476,
+                "recording_msid": "c3183396-e701-4d43-9e25-a5f584472039",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 210000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "MAC DEMARCO & RYAN PARIS",
+                    "release_name": "Still What I'm Looking For",
+                    "track_name": "Still What I'm Looking For"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791813415,
+                "listened_at": 1791813301,
+                "recording_msid": "4be2ffa7-a3d9-4ba9-905b-e5fa8ad833ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 224000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Mac DeMarco",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f2492c31-54a8-4347-a1fc-f81f72873bbf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mac DeMarco",
+                                "artist_mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44054280172,
+                        "caa_release_mbid": "e8296515-2615-423e-aa38-233be1765bf7",
+                        "recording_mbid": "02ac3595-43a5-49eb-94ee-4bc23eeb8a58",
+                        "recording_name": "My Old Man",
+                        "release_group_mbid": "f48b5c40-6343-4d94-b306-3591d294caeb",
+                        "release_mbid": "6202c481-a4ab-47a1-adfd-5b9ed049b24a",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/38250620"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://macdemarco.bandcamp.com/track/my-old-man"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://macdemarco.bandcamp.com/track/my-old-man"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/72486196"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1198763618"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1198763618"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/38250620"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/347015761"
+                            }
+                        ]
+                    },
+                    "track_name": "My Old Man"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791813136,
+                "listened_at": 1791813033,
+                "recording_msid": "5c660489-9b4d-48ef-8408-401aaf2d071a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "rhyu",
+                    "release_name": "When the Weather Comes",
+                    "track_name": "When the Weather Comes"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791812823,
+                "listened_at": 1791812722,
+                "recording_msid": "0d791034-9613-4982-a4ad-c0c806a81395",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 198240,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Cardigans",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e55d51d-687f-4a9d-af96-2fabccf802e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cardigans",
+                                "artist_mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43045234238,
+                        "caa_release_mbid": "6f7a28b7-c6e0-4a65-870e-7e9e82d33511",
+                        "recording_mbid": "42f6cca7-10c3-46b0-8028-b27ba4f2d596",
+                        "recording_name": "Lovefool",
+                        "release_group_mbid": "33a35fc0-1126-30c2-a046-b2803116f882",
+                        "release_mbid": "9d07f9ef-c7c9-4617-a7a8-1ad467c82312",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=c0fHs7THj4k"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1365978562"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=NI6aOFI7hms"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1uODmfKV1jcVhZCOrBAjAA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/623737242"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/352487285"
+                            }
+                        ]
+                    },
+                    "release_name": "Best Of",
+                    "track_name": "Lovefool"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791804766,
+                "listened_at": 1791802721,
+                "recording_msid": "0d791034-9613-4982-a4ad-c0c806a81395",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 198240,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Cardigans",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e55d51d-687f-4a9d-af96-2fabccf802e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cardigans",
+                                "artist_mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43045234238,
+                        "caa_release_mbid": "6f7a28b7-c6e0-4a65-870e-7e9e82d33511",
+                        "recording_mbid": "42f6cca7-10c3-46b0-8028-b27ba4f2d596",
+                        "recording_name": "Lovefool",
+                        "release_group_mbid": "33a35fc0-1126-30c2-a046-b2803116f882",
+                        "release_mbid": "9d07f9ef-c7c9-4617-a7a8-1ad467c82312",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=c0fHs7THj4k"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1365978562"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=NI6aOFI7hms"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1uODmfKV1jcVhZCOrBAjAA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/623737242"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/352487285"
+                            }
+                        ]
+                    },
+                    "release_name": "Best Of",
+                    "track_name": "Lovefool"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791806133,
+                "listened_at": 1791802721,
+                "recording_msid": "14218653-b4e8-4a61-ad74-2cf4c49ac9f4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                        "lastfm_release_mbid": "068d2057-89f4-411c-8bba-87ca27b14b83",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Cardigans",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3e55d51d-687f-4a9d-af96-2fabccf802e5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cardigans",
+                                "artist_mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43045234238,
+                        "caa_release_mbid": "6f7a28b7-c6e0-4a65-870e-7e9e82d33511",
+                        "recording_mbid": "42f6cca7-10c3-46b0-8028-b27ba4f2d596",
+                        "recording_name": "Lovefool",
+                        "release_group_mbid": "33a35fc0-1126-30c2-a046-b2803116f882",
+                        "release_mbid": "9d07f9ef-c7c9-4617-a7a8-1ad467c82312",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=c0fHs7THj4k"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1365978562"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1565890411"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=NI6aOFI7hms"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1uODmfKV1jcVhZCOrBAjAA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/623737242"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/352487285"
+                            }
+                        ]
+                    },
+                    "release_name": "Best Of",
+                    "track_name": "Lovefool"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791806133,
+                "listened_at": 1791802337,
+                "recording_msid": "647ce359-a4d5-4d9f-9e62-3f2718ed70f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Chase Atlantic",
+                    "release_name": "Harmonix Vibe",
+                    "track_name": "OH MAMI"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791804766,
+                "listened_at": 1791802337,
+                "recording_msid": "adba5631-db40-4713-9d21-ee68da995c88",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 226906,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Chase Atlantic",
+                    "release_name": "Harmonix Vibe",
+                    "track_name": "OH MAMI"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791802239,
+                "listened_at": 1791802136,
+                "recording_msid": "bb5cffac-c3b5-4e82-bdf6-9e3c476872ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201728,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Rehash",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cc2e4982-dcc7-41ce-8bdb-a0470f6b2ded"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rehash",
+                                "artist_mbid": "cc2e4982-dcc7-41ce-8bdb-a0470f6b2ded",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42230942552,
+                        "caa_release_mbid": "6fba6074-d0e9-4087-b22b-45e3c383c846",
+                        "recording_mbid": "dcd5e9a4-812c-4a57-8223-fa7d68e88856",
+                        "recording_name": "Yako",
+                        "release_group_mbid": "01d36916-1cf9-40ac-bf39-9d40f667f82b",
+                        "release_mbid": "6fba6074-d0e9-4087-b22b-45e3c383c846"
+                    },
+                    "release_name": "mock",
+                    "track_name": "yako"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791806133,
+                "listened_at": 1791802136,
+                "recording_msid": "dad3fdf7-9da1-4991-a676-76ea6f5a8d0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cc2e4982-dcc7-41ce-8bdb-a0470f6b2ded",
+                        "lastfm_release_mbid": "6fba6074-d0e9-4087-b22b-45e3c383c846",
+                        "lastfm_track_mbid": "dcd5e9a4-812c-4a57-8223-fa7d68e88856",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rehash",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cc2e4982-dcc7-41ce-8bdb-a0470f6b2ded"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rehash",
+                                "artist_mbid": "cc2e4982-dcc7-41ce-8bdb-a0470f6b2ded",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42230942552,
+                        "caa_release_mbid": "6fba6074-d0e9-4087-b22b-45e3c383c846",
+                        "recording_mbid": "dcd5e9a4-812c-4a57-8223-fa7d68e88856",
+                        "recording_name": "Yako",
+                        "release_group_mbid": "01d36916-1cf9-40ac-bf39-9d40f667f82b",
+                        "release_mbid": "6fba6074-d0e9-4087-b22b-45e3c383c846"
+                    },
+                    "release_name": "mock",
+                    "track_name": "yako"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785011,
+                "listened_at": 1791785006,
+                "recording_msid": "6f36bd01-78ce-4c16-ba5a-8cadcda0505e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 246000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Mariage D'amour",
+                    "track_name": "Paul de Senneville (Classical Guitar)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791785006,
+                "recording_msid": "d49c7cc2-c4ed-4e70-a0b0-7dea76f67936",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mariage D'amour",
+                    "track_name": "Paul de Senneville (Classical Guitar)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791784722,
+                "recording_msid": "5b879654-d089-4bf0-8e9e-6d516cbaea5b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "52d4c368-ec47-412a-a4a6-5e848c66a4ce",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Floats",
+                    "release_name": "CONSPIRACY THEORY/BOLO TIE",
+                    "track_name": "conspiracy theory"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791784770,
+                "listened_at": 1791784722,
+                "recording_msid": "c14cfdd5-bad7-4313-af9a-209038f0a889",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 91000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Floats",
+                    "release_name": "CONSPIRACY THEORY/BOLO TIE",
+                    "track_name": "conspiracy theory"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791784572,
+                "recording_msid": "01ae0957-b5d4-441b-a9c2-819bd715016a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5c775281-10a1-47d0-8665-5f9ac908ded6",
+                        "lastfm_release_mbid": "f899186c-5203-4e3a-a2c7-f2b43f67c3db",
+                        "lastfm_track_mbid": "e606bb7e-83dc-4e48-92a1-448d3ee36b1a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dream, Ivory",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5c775281-10a1-47d0-8665-5f9ac908ded6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dream, Ivory",
+                                "artist_mbid": "5c775281-10a1-47d0-8665-5f9ac908ded6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22046399970,
+                        "caa_release_mbid": "f899186c-5203-4e3a-a2c7-f2b43f67c3db",
+                        "recording_mbid": "55d0dddc-5500-4e1b-a495-3166b2505454",
+                        "recording_name": "Blue",
+                        "release_group_mbid": "ff5ff8ab-a893-4fba-bf18-d7199e687a0e",
+                        "release_mbid": "f899186c-5203-4e3a-a2c7-f2b43f67c3db"
+                    },
+                    "release_name": "Dream, Ivory",
+                    "track_name": "Blue"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791784670,
+                "listened_at": 1791784572,
+                "recording_msid": "9f983bba-04ab-4755-abc2-fbe49ed6b558",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 150000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Dream, Ivory",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5c775281-10a1-47d0-8665-5f9ac908ded6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dream, Ivory",
+                                "artist_mbid": "5c775281-10a1-47d0-8665-5f9ac908ded6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22046399970,
+                        "caa_release_mbid": "f899186c-5203-4e3a-a2c7-f2b43f67c3db",
+                        "recording_mbid": "55d0dddc-5500-4e1b-a495-3166b2505454",
+                        "recording_name": "Blue",
+                        "release_group_mbid": "ff5ff8ab-a893-4fba-bf18-d7199e687a0e",
+                        "release_mbid": "f899186c-5203-4e3a-a2c7-f2b43f67c3db"
+                    },
+                    "release_name": "Dream, Ivory",
+                    "track_name": "Blue"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791784399,
+                "recording_msid": "a2f4faf2-6873-4016-aad5-0d613ac04354",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "389a2355-fdf6-4bcf-a193-16a64127d962",
+                        "lastfm_track_mbid": "1c9cf8a8-9da5-4201-b5b3-4b84647f7edf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Pity Party (Girls Club)",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "389a2355-fdf6-4bcf-a193-16a64127d962"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pity Party (Girls Club)",
+                                "artist_mbid": "389a2355-fdf6-4bcf-a193-16a64127d962",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41047254613,
+                        "caa_release_mbid": "81aaad9e-5e20-4f09-b56e-df6277d1875b",
+                        "recording_mbid": "1c9cf8a8-9da5-4201-b5b3-4b84647f7edf",
+                        "recording_name": "angel like u",
+                        "release_group_mbid": "a67d86d3-ff7b-4335-b4bc-0743f28b9d1a",
+                        "release_mbid": "81aaad9e-5e20-4f09-b56e-df6277d1875b"
+                    },
+                    "release_name": "even though i can't sleep...",
+                    "track_name": "angel like u"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791784488,
+                "listened_at": 1791784399,
+                "recording_msid": "f8fefe4f-15e2-4aa8-951c-f9bf6109a6e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Pity Party (Girls Club)",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "389a2355-fdf6-4bcf-a193-16a64127d962"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pity Party (Girls Club)",
+                                "artist_mbid": "389a2355-fdf6-4bcf-a193-16a64127d962",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41047254613,
+                        "caa_release_mbid": "81aaad9e-5e20-4f09-b56e-df6277d1875b",
+                        "recording_mbid": "1c9cf8a8-9da5-4201-b5b3-4b84647f7edf",
+                        "recording_name": "angel like u",
+                        "release_group_mbid": "a67d86d3-ff7b-4335-b4bc-0743f28b9d1a",
+                        "release_mbid": "81aaad9e-5e20-4f09-b56e-df6277d1875b"
+                    },
+                    "release_name": "even though i can't sleep...",
+                    "track_name": "angel like u"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791784230,
+                "recording_msid": "14fedf77-e321-441d-bc61-3c080ab61cc6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dyego",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "dyego",
+                                "artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45857738807,
+                        "caa_release_mbid": "64b01ae3-80a9-489d-815f-79eb635b96e9",
+                        "recording_mbid": "3047cded-a6ee-4c77-870b-5218ca0a9129",
+                        "recording_name": "with time (i'll forget you)",
+                        "release_group_mbid": "c2692fcd-6c61-4dec-b43c-e81fdd686fdd",
+                        "release_mbid": "64b01ae3-80a9-489d-815f-79eb635b96e9"
+                    },
+                    "release_name": "with time (i'll forget you)",
+                    "track_name": "with time (i'll forget you)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791784317,
+                "listened_at": 1791784230,
+                "recording_msid": "4c815843-1ead-4592-bf4b-0c0ec5c77d96",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 169000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "dyego",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "dyego",
+                                "artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45857738807,
+                        "caa_release_mbid": "64b01ae3-80a9-489d-815f-79eb635b96e9",
+                        "recording_mbid": "3047cded-a6ee-4c77-870b-5218ca0a9129",
+                        "recording_name": "with time (i'll forget you)",
+                        "release_group_mbid": "c2692fcd-6c61-4dec-b43c-e81fdd686fdd",
+                        "release_mbid": "64b01ae3-80a9-489d-815f-79eb635b96e9"
+                    },
+                    "release_name": "with time (i'll forget you)",
+                    "track_name": "with time (i'll forget you)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791784054,
+                "recording_msid": "b30c08b9-70e2-4cd0-96e1-f9a265ba90ef",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8d4f4f37-33cf-4cc9-9001-f4167ba5d289",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Fur",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81aaa45a-6a1d-4056-86a7-bd10e907015f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "FUR",
+                                "artist_mbid": "81aaa45a-6a1d-4056-86a7-bd10e907015f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42887380402,
+                        "caa_release_mbid": "8946fdeb-1650-4c66-b8e8-e59c7f04813d",
+                        "recording_mbid": "ffbd6359-52a4-423c-bc43-ba503f7a5be2",
+                        "recording_name": "Take Anything You Want",
+                        "release_group_mbid": "0cf90d23-4fbc-417c-914f-62c9d82d58d0",
+                        "release_mbid": "8946fdeb-1650-4c66-b8e8-e59c7f04813d"
+                    },
+                    "release_name": "Songs For You",
+                    "track_name": "Take Anything You Want"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791784144,
+                "listened_at": 1791784054,
+                "recording_msid": "e2a91f6d-f501-459d-bcd9-a2674024926a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 176000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "FUR",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81aaa45a-6a1d-4056-86a7-bd10e907015f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "FUR",
+                                "artist_mbid": "81aaa45a-6a1d-4056-86a7-bd10e907015f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42887380402,
+                        "caa_release_mbid": "8946fdeb-1650-4c66-b8e8-e59c7f04813d",
+                        "recording_mbid": "ffbd6359-52a4-423c-bc43-ba503f7a5be2",
+                        "recording_name": "Take Anything You Want",
+                        "release_group_mbid": "0cf90d23-4fbc-417c-914f-62c9d82d58d0",
+                        "release_mbid": "8946fdeb-1650-4c66-b8e8-e59c7f04813d"
+                    },
+                    "release_name": "Songs For You",
+                    "track_name": "Take Anything You Want"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791783815,
+                "recording_msid": "063ccdf4-e2f5-40f0-9cbc-3c4703221c3a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                        "lastfm_release_mbid": "02769f4d-ee78-3680-aa79-67f3a821c931",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32282694066,
+                        "caa_release_mbid": "8125fd6f-addc-45a8-ba34-4b023aeae962",
+                        "recording_mbid": "70595637-9310-45f2-a266-58f8de4874a7",
+                        "recording_name": "Creep",
+                        "release_group_mbid": "cd76f76b-ff15-3784-a71d-4da3078a6851",
+                        "release_mbid": "07aab296-9a40-42a9-8d1f-6b06aa032e8a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=9RfVp-GhKfs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=XFkzRNyygfk"
+                            }
+                        ]
+                    },
+                    "release_name": "Pablo Honey",
+                    "track_name": "Creep"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791783937,
+                "listened_at": 1791783815,
+                "recording_msid": "7140f8e0-5a20-4840-99e1-f884507aa85e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 239000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32282694066,
+                        "caa_release_mbid": "8125fd6f-addc-45a8-ba34-4b023aeae962",
+                        "recording_mbid": "70595637-9310-45f2-a266-58f8de4874a7",
+                        "recording_name": "Creep",
+                        "release_group_mbid": "cd76f76b-ff15-3784-a71d-4da3078a6851",
+                        "release_mbid": "07aab296-9a40-42a9-8d1f-6b06aa032e8a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=9RfVp-GhKfs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=XFkzRNyygfk"
+                            }
+                        ]
+                    },
+                    "release_name": "Pablo Honey",
+                    "track_name": "Creep"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791783650,
+                "recording_msid": "65e04e4f-13d0-46a1-b5ca-93917c3632f9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "phendste",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "13145ed8-4af5-413d-936c-ee26516f2f70"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "phendste",
+                                "artist_mbid": "13145ed8-4af5-413d-936c-ee26516f2f70",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44270900732,
+                        "caa_release_mbid": "1882a94a-8329-43ad-91e2-5e8a75e1b025",
+                        "recording_mbid": "51135362-eba6-4c65-a397-43020f73a5ed",
+                        "recording_name": "I'd Find You",
+                        "release_group_mbid": "d8df5df9-dd57-444c-9727-6e0e95b96b66",
+                        "release_mbid": "1882a94a-8329-43ad-91e2-5e8a75e1b025"
+                    },
+                    "release_name": "i'd find you",
+                    "track_name": "i'd find you"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791783735,
+                "listened_at": 1791783650,
+                "recording_msid": "abef0eac-1f82-4836-a57f-43ea8ccb8e4a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "phendste",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "13145ed8-4af5-413d-936c-ee26516f2f70"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "phendste",
+                                "artist_mbid": "13145ed8-4af5-413d-936c-ee26516f2f70",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44270900732,
+                        "caa_release_mbid": "1882a94a-8329-43ad-91e2-5e8a75e1b025",
+                        "recording_mbid": "51135362-eba6-4c65-a397-43020f73a5ed",
+                        "recording_name": "I'd Find You",
+                        "release_group_mbid": "d8df5df9-dd57-444c-9727-6e0e95b96b66",
+                        "release_mbid": "1882a94a-8329-43ad-91e2-5e8a75e1b025"
+                    },
+                    "release_name": "i'd find you",
+                    "track_name": "i'd find you"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791783427,
+                "recording_msid": "063a5dc3-2ef9-423e-bac0-8a6e0b7640d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+                        "lastfm_release_mbid": "38057097-d52d-4494-a92d-dd1582f9cc8a",
+                        "lastfm_track_mbid": "fdd4a266-f13a-4f1d-8db0-d3fa64017971",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Strokes",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f181961b-20f7-459e-89de-920ef03c7ed0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Strokes",
+                                "artist_mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25898776560,
+                        "caa_release_mbid": "5437ab7a-68a0-423b-9e7f-5b408debb30e",
+                        "recording_mbid": "489416b0-7fce-4261-908b-b8b16b2a9f12",
+                        "recording_name": "Selfless",
+                        "release_group_mbid": "43ca5aa6-92de-47e9-8f0b-9112e4881426",
+                        "release_mbid": "ccdf8a29-a0f9-4499-a3a1-19db8e0913b8"
+                    },
+                    "release_name": "The New Abnormal",
+                    "track_name": "Selfless"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791783541,
+                "listened_at": 1791783427,
+                "recording_msid": "a52e4114-bd62-4961-9f76-c7c79d8692ad",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 222000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Strokes",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f181961b-20f7-459e-89de-920ef03c7ed0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Strokes",
+                                "artist_mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25898776560,
+                        "caa_release_mbid": "5437ab7a-68a0-423b-9e7f-5b408debb30e",
+                        "recording_mbid": "489416b0-7fce-4261-908b-b8b16b2a9f12",
+                        "recording_name": "Selfless",
+                        "release_group_mbid": "43ca5aa6-92de-47e9-8f0b-9112e4881426",
+                        "release_mbid": "ccdf8a29-a0f9-4499-a3a1-19db8e0913b8"
+                    },
+                    "release_name": "The New Abnormal",
+                    "track_name": "Selfless"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791783299,
+                "recording_msid": "9040ca4d-49f1-4439-8f76-9b3114d1b2f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1063a13c-9649-4e37-a816-3c0772129aba",
+                        "lastfm_release_mbid": "21b736fc-a704-4fa4-9ad3-c77af5267ac1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sticky Fingers",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1063a13c-9649-4e37-a816-3c0772129aba"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sticky Fingers",
+                                "artist_mbid": "1063a13c-9649-4e37-a816-3c0772129aba",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15207288357,
+                        "caa_release_mbid": "3f23c0fd-d80c-4585-a620-2054b82d9c49",
+                        "recording_mbid": "663760d7-9fdf-4454-85fb-9f3ce177ae2c",
+                        "recording_name": "Slow",
+                        "release_group_mbid": "dea21c0a-29fe-4252-9e71-ddd945f2d0a6",
+                        "release_mbid": "3f23c0fd-d80c-4585-a620-2054b82d9c49"
+                    },
+                    "release_name": "The Bootleg Tapes (Caress Your Soul)",
+                    "track_name": "Slow Soul"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791783366,
+                "listened_at": 1791783299,
+                "recording_msid": "c489a203-47e1-4822-8250-5b066f707245",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 128000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Sticky Fingers",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1063a13c-9649-4e37-a816-3c0772129aba"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sticky Fingers",
+                                "artist_mbid": "1063a13c-9649-4e37-a816-3c0772129aba",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15207288357,
+                        "caa_release_mbid": "3f23c0fd-d80c-4585-a620-2054b82d9c49",
+                        "recording_mbid": "663760d7-9fdf-4454-85fb-9f3ce177ae2c",
+                        "recording_name": "Slow",
+                        "release_group_mbid": "dea21c0a-29fe-4252-9e71-ddd945f2d0a6",
+                        "release_mbid": "3f23c0fd-d80c-4585-a620-2054b82d9c49"
+                    },
+                    "release_name": "The Bootleg Tapes (Caress Your Soul)",
+                    "track_name": "Slow Soul"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791783050,
+                "recording_msid": "10d318c0-1a0b-4001-acc4-a4e3427e9b0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                        "lastfm_release_mbid": "1475431a-cfd3-43ad-bf09-b3826118446f",
+                        "lastfm_track_mbid": "3ef563d7-5024-3a5e-92bc-42f740097fc0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14926982777,
+                        "caa_release_mbid": "1a33443c-3fff-450f-8298-efbc65659d32",
+                        "recording_mbid": "31600df4-e6dd-48ca-9f6b-8804027d8d6e",
+                        "recording_name": "Jigsaw Falling Into Place",
+                        "release_group_mbid": "6e335887-60ba-38f0-95af-fae7774336bf",
+                        "release_mbid": "ea92a194-2d60-35c7-9d56-0e1dba20cd45",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GoLJJRIWCLU"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
+                            }
+                        ]
+                    },
+                    "release_name": "In Rainbows",
+                    "track_name": "Jigsaw Falling Into Place"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791783178,
+                "listened_at": 1791783050,
+                "recording_msid": "98f547a1-c9ec-4237-9f59-646f31a89cb3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14926982777,
+                        "caa_release_mbid": "1a33443c-3fff-450f-8298-efbc65659d32",
+                        "recording_mbid": "31600df4-e6dd-48ca-9f6b-8804027d8d6e",
+                        "recording_name": "Jigsaw Falling Into Place",
+                        "release_group_mbid": "6e335887-60ba-38f0-95af-fae7774336bf",
+                        "release_mbid": "ea92a194-2d60-35c7-9d56-0e1dba20cd45",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GoLJJRIWCLU"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
+                            }
+                        ]
+                    },
+                    "release_name": "In Rainbows",
+                    "track_name": "Jigsaw Falling Into Place"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782978,
+                "listened_at": 1791782901,
+                "recording_msid": "4d67d8e4-fe41-43a2-bb1a-bd2de245bce4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 149000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Mustard Service",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71036a0e-f6b1-4900-b9c7-e4801203a843"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mustard Service",
+                                "artist_mbid": "71036a0e-f6b1-4900-b9c7-e4801203a843",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33396228663,
+                        "caa_release_mbid": "10b75c65-2305-4c57-922e-91ef40d60719",
+                        "recording_mbid": "60dceb21-9879-455a-801b-0146d6db6fc3",
+                        "recording_name": "Homie",
+                        "release_group_mbid": "8f309f0a-d041-43db-aeab-e497ce1e093e",
+                        "release_mbid": "10b75c65-2305-4c57-922e-91ef40d60719"
+                    },
+                    "release_name": "Zest Pop",
+                    "track_name": "Homie"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791782901,
+                "recording_msid": "8e1f51bd-93a0-447e-929c-fe55127921e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71036a0e-f6b1-4900-b9c7-e4801203a843",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mustard Service",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71036a0e-f6b1-4900-b9c7-e4801203a843"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mustard Service",
+                                "artist_mbid": "71036a0e-f6b1-4900-b9c7-e4801203a843",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33396228663,
+                        "caa_release_mbid": "10b75c65-2305-4c57-922e-91ef40d60719",
+                        "recording_mbid": "60dceb21-9879-455a-801b-0146d6db6fc3",
+                        "recording_name": "Homie",
+                        "release_group_mbid": "8f309f0a-d041-43db-aeab-e497ce1e093e",
+                        "release_mbid": "10b75c65-2305-4c57-922e-91ef40d60719"
+                    },
+                    "release_name": "Zest Pop",
+                    "track_name": "Homie"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791782721,
+                "recording_msid": "228215e3-bb9d-44a0-aaa8-1e616d7b8639",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "cd5ebaca-cd79-4b92-8690-ebe9096f219d",
+                        "lastfm_track_mbid": "b516e28c-9bfb-4c1d-8ed7-cb96eabba03d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Malcolm Todd & Omar Apollo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Malcolm Todd",
+                                "artist_mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44768281216,
+                        "caa_release_mbid": "4b42b4f4-010c-489b-a040-747c6c7933e8",
+                        "recording_mbid": "dc70e9ff-0595-4f4c-84aa-f4c22f0e5ef9",
+                        "recording_name": "Mac",
+                        "release_group_mbid": "b9596046-9497-4304-9e11-1cf142961c34",
+                        "release_mbid": "4b42b4f4-010c-489b-a040-747c6c7933e8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2504911711"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1712563036"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/322603762"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1712563036"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6h3trn8FzeCUdUy99kYZwY"
+                            }
+                        ]
+                    },
+                    "release_name": "Bleed",
+                    "track_name": "Bleed"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782814,
+                "listened_at": 1791782721,
+                "recording_msid": "d8dfc322-c43c-4143-9a28-7360aed8dbfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 179000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Malcolm Todd & Omar Apollo",
+                    "mbid_mapping": {
+                        "recording_mbid": "b516e28c-9bfb-4c1d-8ed7-cb96eabba03d"
+                    },
+                    "release_name": "Bleed",
+                    "track_name": "Bleed"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782636,
+                "listened_at": 1791782547,
+                "recording_msid": "a18d3a59-a5ac-45d9-9c41-4b67e3d507f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 174000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Rare Occasions",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37177491-dc86-4536-8ac2-51887ccfa0bb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Rare Occasions",
+                                "artist_mbid": "37177491-dc86-4536-8ac2-51887ccfa0bb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32769026731,
+                        "caa_release_mbid": "209a2200-3414-478e-8b7a-dce7b9a5d278",
+                        "recording_mbid": "0bcac7cf-aa00-41c4-8a99-268cc2e11f4a",
+                        "recording_name": "Origami",
+                        "release_group_mbid": "95831fc9-3f47-4514-bd8b-25275f0377de",
+                        "release_mbid": "209a2200-3414-478e-8b7a-dce7b9a5d278"
+                    },
+                    "release_name": "Origami",
+                    "track_name": "Origami"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791782547,
+                "recording_msid": "cdb39d6b-4d29-42f1-9179-3ce911f3d779",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "37177491-dc86-4536-8ac2-51887ccfa0bb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Rare Occasions",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37177491-dc86-4536-8ac2-51887ccfa0bb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Rare Occasions",
+                                "artist_mbid": "37177491-dc86-4536-8ac2-51887ccfa0bb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32769026731,
+                        "caa_release_mbid": "209a2200-3414-478e-8b7a-dce7b9a5d278",
+                        "recording_mbid": "0bcac7cf-aa00-41c4-8a99-268cc2e11f4a",
+                        "recording_name": "Origami",
+                        "release_group_mbid": "95831fc9-3f47-4514-bd8b-25275f0377de",
+                        "release_mbid": "209a2200-3414-478e-8b7a-dce7b9a5d278"
+                    },
+                    "release_name": "Origami",
+                    "track_name": "Origami"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782433,
+                "listened_at": 1791782314,
+                "recording_msid": "4d17672f-1935-467a-9776-0c8b2c71dacc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 233000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Hockey Dad",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd73ca29-25bc-485c-bb37-311963c6b49e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hockey Dad",
+                                "artist_mbid": "bd73ca29-25bc-485c-bb37-311963c6b49e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39177660793,
+                        "caa_release_mbid": "55257819-ffde-4f02-9258-fabe88828d0b",
+                        "recording_mbid": "c16561ec-4b9f-4fee-bd3d-d0107f733a0e",
+                        "recording_name": "Road Signs",
+                        "release_group_mbid": "71948f12-f3bc-4bdc-834c-ec61c1945324",
+                        "release_mbid": "8298bfa2-587f-4ce3-97ee-aecda064be20"
+                    },
+                    "release_name": "Rebuild Repeat",
+                    "track_name": "Road Signs"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791782314,
+                "recording_msid": "b31f7f92-c4c2-4858-bdae-2956d68ee742",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bd73ca29-25bc-485c-bb37-311963c6b49e",
+                        "lastfm_release_mbid": "55257819-ffde-4f02-9258-fabe88828d0b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hockey Dad",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bd73ca29-25bc-485c-bb37-311963c6b49e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hockey Dad",
+                                "artist_mbid": "bd73ca29-25bc-485c-bb37-311963c6b49e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39177660793,
+                        "caa_release_mbid": "55257819-ffde-4f02-9258-fabe88828d0b",
+                        "recording_mbid": "c16561ec-4b9f-4fee-bd3d-d0107f733a0e",
+                        "recording_name": "Road Signs",
+                        "release_group_mbid": "71948f12-f3bc-4bdc-834c-ec61c1945324",
+                        "release_mbid": "8298bfa2-587f-4ce3-97ee-aecda064be20"
+                    },
+                    "release_name": "Rebuild Repeat",
+                    "track_name": "Road Signs"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782239,
+                "listened_at": 1791782160,
+                "recording_msid": "9e226b56-252c-44c2-bc47-60ca80f6ef7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 154000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Tony Jupiter",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c0606331-4a88-46aa-95f5-a4736bfad3d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tony Jupiter",
+                                "artist_mbid": "c0606331-4a88-46aa-95f5-a4736bfad3d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "d4276d92-4eb6-4023-96e9-8e0bc7604b56",
+                        "recording_name": "Quedate conmigo",
+                        "release_group_mbid": "d7a3b138-76d9-4a19-ae42-9741c69383bb",
+                        "release_mbid": "6b020ad9-2b41-47a5-8eb9-8831bcbd3cf2"
+                    },
+                    "release_name": "Quedate Conmigo",
+                    "track_name": "Quedate Conmigo"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791782160,
+                "recording_msid": "eac44b4c-e69d-41f6-b860-c49b8d6e63a8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c0606331-4a88-46aa-95f5-a4736bfad3d1",
+                        "lastfm_release_mbid": "6b020ad9-2b41-47a5-8eb9-8831bcbd3cf2",
+                        "lastfm_track_mbid": "d4276d92-4eb6-4023-96e9-8e0bc7604b56",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tony Jupiter",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c0606331-4a88-46aa-95f5-a4736bfad3d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tony Jupiter",
+                                "artist_mbid": "c0606331-4a88-46aa-95f5-a4736bfad3d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "d4276d92-4eb6-4023-96e9-8e0bc7604b56",
+                        "recording_name": "Quedate conmigo",
+                        "release_group_mbid": "d7a3b138-76d9-4a19-ae42-9741c69383bb",
+                        "release_mbid": "6b020ad9-2b41-47a5-8eb9-8831bcbd3cf2"
+                    },
+                    "release_name": "Quedate Conmigo",
+                    "track_name": "Quedate Conmigo"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791782072,
+                "listened_at": 1791781978,
+                "recording_msid": "15345743-6b93-4a5d-ab02-d17a71f980b1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 182000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Lande Hekt",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5886755-a4c0-48e9-8a4b-24d78e517d5c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lande Hekt",
+                                "artist_mbid": "e5886755-a4c0-48e9-8a4b-24d78e517d5c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43259881549,
+                        "caa_release_mbid": "16159ab2-cb55-413f-97ec-596f05061445",
+                        "recording_mbid": "54648b62-9d4f-439f-9efa-8f6ec0c0cdb0",
+                        "recording_name": "Favourite Pair of Shoes",
+                        "release_group_mbid": "b1fa9eb5-58cb-4e87-9b35-2dea8673709c",
+                        "release_mbid": "16159ab2-cb55-413f-97ec-596f05061445"
+                    },
+                    "release_name": "Favourite Pair of Shoes",
+                    "track_name": "Favourite Pair of Shoes"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781978,
+                "recording_msid": "1660fe46-39f6-48cd-b29b-84cb2a18d9a6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5886755-a4c0-48e9-8a4b-24d78e517d5c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lande Hekt",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5886755-a4c0-48e9-8a4b-24d78e517d5c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lande Hekt",
+                                "artist_mbid": "e5886755-a4c0-48e9-8a4b-24d78e517d5c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43259881549,
+                        "caa_release_mbid": "16159ab2-cb55-413f-97ec-596f05061445",
+                        "recording_mbid": "54648b62-9d4f-439f-9efa-8f6ec0c0cdb0",
+                        "recording_name": "Favourite Pair of Shoes",
+                        "release_group_mbid": "b1fa9eb5-58cb-4e87-9b35-2dea8673709c",
+                        "release_mbid": "16159ab2-cb55-413f-97ec-596f05061445"
+                    },
+                    "release_name": "Favourite Pair Of Shoes",
+                    "track_name": "Favourite Pair of Shoes"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781750,
+                "recording_msid": "0efe7d5d-50a2-4b98-95e8-1e0495011528",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Luxe",
+                    "release_name": "Don Luxe",
+                    "track_name": "When You Dream"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791781867,
+                "listened_at": 1791781750,
+                "recording_msid": "4c8715b1-13df-4779-9ca2-7c70c579939c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Don Luxe",
+                    "release_name": "Don Luxe",
+                    "track_name": "When You Dream"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791781648,
+                "listened_at": 1791781544,
+                "recording_msid": "40bdb330-b322-48c0-afc4-7896c5e22aa8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Tipling Rock",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d261b34b-1c87-46fd-a931-6486aee77fad"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tipling Rock",
+                                "artist_mbid": "d261b34b-1c87-46fd-a931-6486aee77fad",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "a0adfde8-a522-4a04-90dc-78997e1939f0",
+                        "recording_name": "Staring",
+                        "release_group_mbid": "eff9e4a0-e129-4cef-9fbc-ad00e04e0bd5",
+                        "release_mbid": "dc430a3a-86a0-47c3-a9e7-111ddc27bcc3"
+                    },
+                    "release_name": "Staring",
+                    "track_name": "Staring"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781544,
+                "recording_msid": "5176d688-87f4-4a1e-8cf9-139e906c8d2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d261b34b-1c87-46fd-a931-6486aee77fad",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tipling Rock",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d261b34b-1c87-46fd-a931-6486aee77fad"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tipling Rock",
+                                "artist_mbid": "d261b34b-1c87-46fd-a931-6486aee77fad",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "a0adfde8-a522-4a04-90dc-78997e1939f0",
+                        "recording_name": "Staring",
+                        "release_group_mbid": "eff9e4a0-e129-4cef-9fbc-ad00e04e0bd5",
+                        "release_mbid": "dc430a3a-86a0-47c3-a9e7-111ddc27bcc3"
+                    },
+                    "release_name": "Staring",
+                    "track_name": "Staring"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781391,
+                "recording_msid": "2689aed4-c605-4d7d-92ce-51d308cae7be",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "89ea85c2-c90a-46ea-93db-9bed95d5c8f8",
+                        "lastfm_track_mbid": "dd4b29ac-3c06-46df-9a78-8f773825d013",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Surf Curse",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89ea85c2-c90a-46ea-93db-9bed95d5c8f8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Surf Curse",
+                                "artist_mbid": "89ea85c2-c90a-46ea-93db-9bed95d5c8f8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23402747124,
+                        "caa_release_mbid": "0316beb7-8358-4577-af50-d9ada8d4e189",
+                        "recording_mbid": "dd4b29ac-3c06-46df-9a78-8f773825d013",
+                        "recording_name": "Disco",
+                        "release_group_mbid": "5151b6ac-64eb-4db6-a96e-724ca8321801",
+                        "release_mbid": "0316beb7-8358-4577-af50-d9ada8d4e189",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=hzO05Nb4_Hg"
+                            }
+                        ]
+                    },
+                    "release_name": "Disco",
+                    "track_name": "Disco"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791781470,
+                "listened_at": 1791781391,
+                "recording_msid": "ddf93af8-1be7-4ed5-86d7-b993ebf4b9bd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 153000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Surf Curse",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89ea85c2-c90a-46ea-93db-9bed95d5c8f8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Surf Curse",
+                                "artist_mbid": "89ea85c2-c90a-46ea-93db-9bed95d5c8f8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23402747124,
+                        "caa_release_mbid": "0316beb7-8358-4577-af50-d9ada8d4e189",
+                        "recording_mbid": "dd4b29ac-3c06-46df-9a78-8f773825d013",
+                        "recording_name": "Disco",
+                        "release_group_mbid": "5151b6ac-64eb-4db6-a96e-724ca8321801",
+                        "release_mbid": "0316beb7-8358-4577-af50-d9ada8d4e189",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=hzO05Nb4_Hg"
+                            }
+                        ]
+                    },
+                    "release_name": "Disco",
+                    "track_name": "Disco"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781203,
+                "recording_msid": "01cf7dcd-96ae-4cb9-9d7c-5194d3daf8e1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "26b61433-5cbd-49c5-ac25-7f545adb940c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Makeout Reef",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "26b61433-5cbd-49c5-ac25-7f545adb940c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Makeout Reef",
+                                "artist_mbid": "26b61433-5cbd-49c5-ac25-7f545adb940c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46126522779,
+                        "caa_release_mbid": "f63907ca-87ab-4c13-a407-0fc8dee14502",
+                        "recording_mbid": "9c7c2f21-5bc6-4180-be13-ceaa11d9a779",
+                        "recording_name": "Drive, Don't Talk",
+                        "release_group_mbid": "f11c0bd0-57ed-4f22-82f2-c5edbc181009",
+                        "release_mbid": "f63907ca-87ab-4c13-a407-0fc8dee14502"
+                    },
+                    "release_name": "Drive, Don't Talk",
+                    "track_name": "Drive, Don't Talk"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791781300,
+                "listened_at": 1791781203,
+                "recording_msid": "93fa4cd2-d12c-4918-84ad-25ef08c60657",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 188000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Makeout Reef",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "26b61433-5cbd-49c5-ac25-7f545adb940c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Makeout Reef",
+                                "artist_mbid": "26b61433-5cbd-49c5-ac25-7f545adb940c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46126522779,
+                        "caa_release_mbid": "f63907ca-87ab-4c13-a407-0fc8dee14502",
+                        "recording_mbid": "9c7c2f21-5bc6-4180-be13-ceaa11d9a779",
+                        "recording_name": "Drive, Don't Talk",
+                        "release_group_mbid": "f11c0bd0-57ed-4f22-82f2-c5edbc181009",
+                        "release_mbid": "f63907ca-87ab-4c13-a407-0fc8dee14502"
+                    },
+                    "release_name": "Drive, Don't Talk",
+                    "track_name": "Drive, Don't Talk"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791781131,
+                "listened_at": 1791781054,
+                "recording_msid": "145a8532-748e-4387-b950-9099813b3589",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 149000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Ax and the Hatchetmen",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3655de30-2232-4e7c-aa48-8ab5da0e571d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ax and the Hatchetmen",
+                                "artist_mbid": "3655de30-2232-4e7c-aa48-8ab5da0e571d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44762137051,
+                        "caa_release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5",
+                        "recording_mbid": "1a5b9507-618e-460b-b94c-5761a95c16f9",
+                        "recording_name": "Hotel Room",
+                        "release_group_mbid": "f91fd7c4-e178-4526-a50c-f460b6133a61",
+                        "release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5"
+                    },
+                    "release_name": "Hotel Room",
+                    "track_name": "Hotel Room"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791781054,
+                "recording_msid": "f6c7462a-445c-43bb-b4fd-c075e47361c2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3655de30-2232-4e7c-aa48-8ab5da0e571d",
+                        "lastfm_release_mbid": "e0183a1b-ef94-4d78-a1b7-d2a90affd257",
+                        "lastfm_track_mbid": "1a5b9507-618e-460b-b94c-5761a95c16f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ax and the Hatchetmen",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3655de30-2232-4e7c-aa48-8ab5da0e571d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ax and the Hatchetmen",
+                                "artist_mbid": "3655de30-2232-4e7c-aa48-8ab5da0e571d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44762137051,
+                        "caa_release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5",
+                        "recording_mbid": "1a5b9507-618e-460b-b94c-5761a95c16f9",
+                        "recording_name": "Hotel Room",
+                        "release_group_mbid": "f91fd7c4-e178-4526-a50c-f460b6133a61",
+                        "release_mbid": "01cc646e-a9bc-4205-b368-a3c3cef598d5"
+                    },
+                    "release_name": "Hotel Room",
+                    "track_name": "Hotel Room"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791780866,
+                "recording_msid": "52046eb6-1fd7-48ba-a42a-aa4ce46f68e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
+                        "lastfm_release_mbid": "1677e64e-e3a4-4f27-b6f8-9853283a39b5",
+                        "lastfm_track_mbid": "1b40f6a3-3fc9-49cb-b865-f31b98c6006e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Her's",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "da357978-095d-4621-a7ee-2c0f336c5e8a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Her’s",
+                                "artist_mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15072548080,
+                        "caa_release_mbid": "1677e64e-e3a4-4f27-b6f8-9853283a39b5",
+                        "recording_mbid": "53e7860c-04ab-4e8c-830d-520a1981e5fe",
+                        "recording_name": "Marcel",
+                        "release_group_mbid": "5390efa7-13e7-4698-a6a8-ded2d64b3ffb",
+                        "release_mbid": "1677e64e-e3a4-4f27-b6f8-9853283a39b5"
+                    },
+                    "release_name": "Marcel",
+                    "track_name": "Marcel"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791780963,
+                "listened_at": 1791780866,
+                "recording_msid": "73b6abc3-472d-4274-9348-9acd96273ae3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 188000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Her's",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "da357978-095d-4621-a7ee-2c0f336c5e8a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Her’s",
+                                "artist_mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15072548080,
+                        "caa_release_mbid": "1677e64e-e3a4-4f27-b6f8-9853283a39b5",
+                        "recording_mbid": "53e7860c-04ab-4e8c-830d-520a1981e5fe",
+                        "recording_name": "Marcel",
+                        "release_group_mbid": "5390efa7-13e7-4698-a6a8-ded2d64b3ffb",
+                        "release_mbid": "1677e64e-e3a4-4f27-b6f8-9853283a39b5"
+                    },
+                    "release_name": "Marcel",
+                    "track_name": "Marcel"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791780770,
+                "listened_at": 1791780669,
+                "recording_msid": "e3b40685-ac8c-49bd-9642-2afdc4cecd3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 197000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "dyego",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "dyego",
+                                "artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45857705755,
+                        "caa_release_mbid": "77735d6f-eead-4770-b53b-15bed269c264",
+                        "recording_mbid": "50117ccd-62d4-4a33-b6a4-f9b4c6386901",
+                        "recording_name": "Ugly Boy",
+                        "release_group_mbid": "73a681f4-3fc1-41b4-88d7-ac50b475b0ce",
+                        "release_mbid": "77735d6f-eead-4770-b53b-15bed269c264"
+                    },
+                    "release_name": "Ugly Boy",
+                    "track_name": "Ugly Boy"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791780669,
+                "recording_msid": "fab59d5f-e150-4c51-a174-f8f6ba18f29f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dyego",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "dyego",
+                                "artist_mbid": "5a8e1cc5-973e-4c92-b6dc-98c8dd459cb5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45857705755,
+                        "caa_release_mbid": "77735d6f-eead-4770-b53b-15bed269c264",
+                        "recording_mbid": "50117ccd-62d4-4a33-b6a4-f9b4c6386901",
+                        "recording_name": "Ugly Boy",
+                        "release_group_mbid": "73a681f4-3fc1-41b4-88d7-ac50b475b0ce",
+                        "release_mbid": "77735d6f-eead-4770-b53b-15bed269c264"
+                    },
+                    "release_name": "Ugly Boy",
+                    "track_name": "Ugly Boy"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791780517,
+                "listened_at": 1791780407,
+                "recording_msid": "25aed84d-8548-4744-aec9-711616fb1e1e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 262000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32251121765,
+                        "caa_release_mbid": "8af759be-1495-4cc4-85a7-47edc21fa348",
+                        "recording_mbid": "88da3cb6-30e3-4a79-8618-032902b68894",
+                        "recording_name": "How Can You Be Sure?",
+                        "release_group_mbid": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+                        "release_mbid": "b3b28d75-e474-43b8-a9ec-4c6856fc10b2"
+                    },
+                    "release_name": "Fake Plastic Trees",
+                    "track_name": "How Can You Be Sure?"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791780407,
+                "recording_msid": "9232e266-61a5-41b7-9ca3-c395234ead8e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                        "lastfm_release_mbid": "384501d7-6110-406a-9d11-e04a9e81b044",
+                        "lastfm_track_mbid": "941e76f4-15e2-4d52-8a1c-13428c63f03d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32251121765,
+                        "caa_release_mbid": "8af759be-1495-4cc4-85a7-47edc21fa348",
+                        "recording_mbid": "88da3cb6-30e3-4a79-8618-032902b68894",
+                        "recording_name": "How Can You Be Sure?",
+                        "release_group_mbid": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+                        "release_mbid": "b3b28d75-e474-43b8-a9ec-4c6856fc10b2"
+                    },
+                    "release_name": "Fake Plastic Trees",
+                    "track_name": "How Can You Be Sure?"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791780343,
+                "listened_at": 1791780242,
+                "recording_msid": "918b8c1b-1645-4b67-8d5e-b37fd0075628",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 136000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Malcolm Todd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Malcolm Todd",
+                                "artist_mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43887569193,
+                        "caa_release_mbid": "9aefa2fc-13c4-400e-a9d1-ca54656a9d88",
+                        "recording_mbid": "06ce03fd-e972-4e08-afa1-3263ca0fd648",
+                        "recording_name": "Lovebird",
+                        "release_group_mbid": "33a70754-df65-4c98-924b-46f3832bc0f6",
+                        "release_mbid": "f4565d68-00aa-4193-8788-ef3e19339778",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2504911681"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6E6bkE3ptdYMsFm7R36wtV"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1712562729"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1712562729"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/322603759"
+                            }
+                        ]
+                    },
+                    "release_name": "Shower Shoes",
+                    "track_name": "Lovebird"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791785441,
+                "listened_at": 1791780242,
+                "recording_msid": "d2b517ca-713e-4a73-8090-fbf48edf3633",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+                        "lastfm_release_mbid": "f4565d68-00aa-4193-8788-ef3e19339778",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Malcolm Todd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Malcolm Todd",
+                                "artist_mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43887569193,
+                        "caa_release_mbid": "9aefa2fc-13c4-400e-a9d1-ca54656a9d88",
+                        "recording_mbid": "06ce03fd-e972-4e08-afa1-3263ca0fd648",
+                        "recording_name": "Lovebird",
+                        "release_group_mbid": "33a70754-df65-4c98-924b-46f3832bc0f6",
+                        "release_mbid": "f4565d68-00aa-4193-8788-ef3e19339778",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2504911681"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6E6bkE3ptdYMsFm7R36wtV"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1712562729"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1712562729"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/322603759"
+                            }
+                        ]
+                    },
+                    "release_name": "Shower Shoes",
+                    "track_name": "Lovebird"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791779986,
+                "listened_at": 1791779950,
+                "recording_msid": "7fd71520-2a9e-4a6c-8a10-3eb21364dde0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 205714,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "late night drive home",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "99f3a519-e742-4f9a-bbc7-b3f280c6266f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "late night drive home",
+                                "artist_mbid": "99f3a519-e742-4f9a-bbc7-b3f280c6266f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34473038518,
+                        "caa_release_mbid": "8d74aab2-3b9f-488c-ab4d-33c8689e709e",
+                        "recording_mbid": "754a49d4-e41e-4849-9b1c-23f501792787",
+                        "recording_name": "Stress Relief",
+                        "release_group_mbid": "308277ca-66ce-4ddd-8516-4de6291873c5",
+                        "release_mbid": "8d74aab2-3b9f-488c-ab4d-33c8689e709e"
+                    },
+                    "release_name": "Am I sinking or Am I swimming?",
+                    "track_name": "Stress Relief"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791780213,
+                "listened_at": 1791779950,
+                "recording_msid": "f6f7f78e-e712-4d71-8487-2fd69d02cfd7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "99f3a519-e742-4f9a-bbc7-b3f280c6266f",
+                        "lastfm_track_mbid": "7b0ceea8-03d7-4899-87fd-bdd1b6297d80",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "late night drive home",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "99f3a519-e742-4f9a-bbc7-b3f280c6266f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "late night drive home",
+                                "artist_mbid": "99f3a519-e742-4f9a-bbc7-b3f280c6266f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34473038518,
+                        "caa_release_mbid": "8d74aab2-3b9f-488c-ab4d-33c8689e709e",
+                        "recording_mbid": "754a49d4-e41e-4849-9b1c-23f501792787",
+                        "recording_name": "Stress Relief",
+                        "release_group_mbid": "308277ca-66ce-4ddd-8516-4de6291873c5",
+                        "release_mbid": "8d74aab2-3b9f-488c-ab4d-33c8689e709e"
+                    },
+                    "release_name": "Am I sinking or Am I swimming?",
+                    "track_name": "Stress Relief"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791764835,
+                "recording_msid": "1af477a7-ef34-4826-8a56-67887c00af1e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "215394ba-3d0c-4b57-b284-ec5bb4a5ad25",
+                        "lastfm_track_mbid": "68b0926a-2588-4638-bf34-565f82d10add",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gilbert O'Sullivan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "215394ba-3d0c-4b57-b284-ec5bb4a5ad25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gilbert O’Sullivan",
+                                "artist_mbid": "215394ba-3d0c-4b57-b284-ec5bb4a5ad25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44133115667,
+                        "caa_release_mbid": "644a41ee-780f-46c1-b7bf-cdf69bd64835",
+                        "recording_mbid": "7a7000bc-f053-42fd-8d29-e9943de8a3b8",
+                        "recording_name": "Alone Again (Naturally)",
+                        "release_group_mbid": "6dddcc8d-7749-43a7-b511-9a6b71d38838",
+                        "release_mbid": "644a41ee-780f-46c1-b7bf-cdf69bd64835",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1716081329"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1716081329"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1BCaraQHgpBkDniJxt9y93"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3801690802"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/492805149"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/490841409"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3782948092"
+                            }
+                        ]
+                    },
+                    "release_name": "Back To Front (deluxe edition)",
+                    "track_name": "Alone Again (Naturally)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791764948,
+                "listened_at": 1791764835,
+                "recording_msid": "ab4aea52-494f-427b-aaa1-35c1fcfa0626",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 221000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Gilbert O'Sullivan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "215394ba-3d0c-4b57-b284-ec5bb4a5ad25"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gilbert O’Sullivan",
+                                "artist_mbid": "215394ba-3d0c-4b57-b284-ec5bb4a5ad25",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44133115667,
+                        "caa_release_mbid": "644a41ee-780f-46c1-b7bf-cdf69bd64835",
+                        "recording_mbid": "7a7000bc-f053-42fd-8d29-e9943de8a3b8",
+                        "recording_name": "Alone Again (Naturally)",
+                        "release_group_mbid": "6dddcc8d-7749-43a7-b511-9a6b71d38838",
+                        "release_mbid": "644a41ee-780f-46c1-b7bf-cdf69bd64835",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1716081329"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1716081329"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1BCaraQHgpBkDniJxt9y93"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3801690802"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/492805149"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/490841409"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3782948092"
+                            }
+                        ]
+                    },
+                    "release_name": "Back to Front (Deluxe Edition)",
+                    "track_name": "Alone Again (Naturally)"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791764701,
+                "listened_at": 1791764560,
+                "recording_msid": "38a5c96c-adca-45a2-b227-0de00e860198",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 276000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Spandau Ballet",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4c0d9acf-a8a1-4765-9c56-05f92f68c048"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Spandau Ballet",
+                                "artist_mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13797957864,
+                        "caa_release_mbid": "11d10d79-7683-4324-b1e2-7adc5b5de965",
+                        "recording_mbid": "b9dcd7ed-f064-472a-aa98-ecdfbab5c257",
+                        "recording_name": "The Freeze",
+                        "release_group_mbid": "d46d0088-7248-3b61-be66-398f209ff5f3",
+                        "release_mbid": "5fdda628-c973-3fd4-9b09-908dddeb6a1b"
+                    },
+                    "release_name": "Journeys to Glory (Special Edition)",
+                    "track_name": "The Freeze"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791764560,
+                "recording_msid": "527c22ac-421d-4f2d-9edf-c4fd3e538b22",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+                        "lastfm_track_mbid": "fd29401f-be15-4e6d-a018-fc68a5da1ad9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Spandau Ballet",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4c0d9acf-a8a1-4765-9c56-05f92f68c048"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Spandau Ballet",
+                                "artist_mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13797957864,
+                        "caa_release_mbid": "11d10d79-7683-4324-b1e2-7adc5b5de965",
+                        "recording_mbid": "b9dcd7ed-f064-472a-aa98-ecdfbab5c257",
+                        "recording_name": "The Freeze",
+                        "release_group_mbid": "d46d0088-7248-3b61-be66-398f209ff5f3",
+                        "release_mbid": "5fdda628-c973-3fd4-9b09-908dddeb6a1b"
+                    },
+                    "release_name": "Journeys To Glory (Special Edition)",
+                    "track_name": "The Freeze"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791764305,
+                "recording_msid": "001e7e09-0ec9-4815-8039-30af7270be27",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                        "lastfm_release_mbid": "0e3dfde8-70ee-438b-acbc-90a8e3d723d1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Police",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e0e2b01-41db-4008-bd8b-988977d6019a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Police",
+                                "artist_mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4426159553,
+                        "caa_release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "recording_mbid": "3e19df7a-3f9a-4d42-adbf-31867646f602",
+                        "recording_name": "Every Breath You Take",
+                        "release_group_mbid": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+                        "release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=-SaUrDhp034"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GO5utuvcZps"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=orGKsBYObtw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=-SaUrDhp034"
+                            }
+                        ]
+                    },
+                    "release_name": "Synchronicity",
+                    "track_name": "Every Breath You Take"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791764435,
+                "listened_at": 1791764305,
+                "recording_msid": "fd48a06d-ef7f-42e2-a256-a6d51fdbc365",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 254000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Police",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e0e2b01-41db-4008-bd8b-988977d6019a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Police",
+                                "artist_mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4426159553,
+                        "caa_release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "recording_mbid": "3e19df7a-3f9a-4d42-adbf-31867646f602",
+                        "recording_name": "Every Breath You Take",
+                        "release_group_mbid": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+                        "release_mbid": "53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=-SaUrDhp034"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GO5utuvcZps"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=orGKsBYObtw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=-SaUrDhp034"
+                            }
+                        ]
+                    },
+                    "release_name": "Synchronicity",
+                    "track_name": "Every Breath You Take"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791764190,
+                "listened_at": 1791764071,
+                "recording_msid": "1272f090-2750-4756-a5c8-0abde29f15b2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 234000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Cars",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "092b603f-eb4c-4958-b10e-02420de5885b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cars",
+                                "artist_mbid": "092b603f-eb4c-4958-b10e-02420de5885b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31749440136,
+                        "caa_release_mbid": "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+                        "recording_mbid": "c83f4862-38bc-4af3-86cc-3dd51ecea7f3",
+                        "recording_name": "Drive",
+                        "release_group_mbid": "d8e2c87d-767c-3a9c-87eb-b344d1228021",
+                        "release_mbid": "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=afnOOEvAtt4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1t85dPNt0b8aj97vGHGETO"
+                            }
+                        ]
+                    },
+                    "release_name": "Heartbeat City",
+                    "track_name": "Drive"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791764071,
+                "recording_msid": "19b791e0-f48a-4c16-b0b8-73229b3537ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+                        "lastfm_track_mbid": "199fc530-e464-4d70-add4-c859b169f62d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Cars",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "092b603f-eb4c-4958-b10e-02420de5885b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cars",
+                                "artist_mbid": "092b603f-eb4c-4958-b10e-02420de5885b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31749440136,
+                        "caa_release_mbid": "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+                        "recording_mbid": "c83f4862-38bc-4af3-86cc-3dd51ecea7f3",
+                        "recording_name": "Drive",
+                        "release_group_mbid": "d8e2c87d-767c-3a9c-87eb-b344d1228021",
+                        "release_mbid": "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=afnOOEvAtt4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1t85dPNt0b8aj97vGHGETO"
+                            }
+                        ]
+                    },
+                    "release_name": "Heartbeat City",
+                    "track_name": "Drive"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791763857,
+                "recording_msid": "02c7b8ef-d720-4f41-834f-d076af18516b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+                        "lastfm_release_mbid": "038c5ae4-c510-48f4-9729-f89b7c7b2805",
+                        "lastfm_track_mbid": "d184948c-a980-35a1-9fa0-10b20d004585",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Billy Joel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64b94289-9474-4d43-8c93-918ccc1920d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Billy Joel",
+                                "artist_mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11232338992,
+                        "caa_release_mbid": "cd0946e3-d1ac-4e2c-87e5-57eafec05e7d",
+                        "recording_mbid": "fa36c6f7-f239-4c76-bb0e-46f857af1e35",
+                        "recording_name": "Vienna",
+                        "release_group_mbid": "735bcee6-6be6-3957-af15-d21ba2bd355b",
+                        "release_mbid": "93d5da9b-1b88-31ef-8734-a89a8f3c0ece"
+                    },
+                    "release_name": "The Stranger",
+                    "track_name": "Vienna"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791763862,
+                "listened_at": 1791763857,
+                "recording_msid": "aea6e03f-4946-4f6b-b1a4-3594b4ce92ee",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 214000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Billy Joel",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64b94289-9474-4d43-8c93-918ccc1920d1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Billy Joel",
+                                "artist_mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11232338992,
+                        "caa_release_mbid": "cd0946e3-d1ac-4e2c-87e5-57eafec05e7d",
+                        "recording_mbid": "fa36c6f7-f239-4c76-bb0e-46f857af1e35",
+                        "recording_name": "Vienna",
+                        "release_group_mbid": "735bcee6-6be6-3957-af15-d21ba2bd355b",
+                        "release_mbid": "93d5da9b-1b88-31ef-8734-a89a8f3c0ece"
+                    },
+                    "release_name": "The Stranger",
+                    "track_name": "Vienna"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791763327,
+                "recording_msid": "9e2a67b8-46e5-463b-ad1a-7e807b69a084",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+                        "lastfm_release_mbid": "0a75b325-95e7-45ac-b944-5e606e0ecf18",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Alan Parsons Project",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f98711e5-06f7-43ed-8239-da0f61a9c460"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Alan Parsons Project",
+                                "artist_mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14860133678,
+                        "caa_release_mbid": "b43d2acd-4490-4517-b049-56e780cd0e69",
+                        "recording_mbid": "e9209cce-7b98-4d7e-ba62-779374272de6",
+                        "recording_name": "Eye in the Sky",
+                        "release_group_mbid": "c9137ca5-26bd-3374-bebc-a813fbfe9c4f",
+                        "release_mbid": "34fb84ba-5374-497c-8451-eabf9fe7dab1"
+                    },
+                    "release_name": "Eye in the Sky",
+                    "track_name": "Eye in the Sky"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791763467,
+                "listened_at": 1791763327,
+                "recording_msid": "fd7cf067-41f5-4175-8442-f041c33a7422",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 276000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "The Alan Parsons Project",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f98711e5-06f7-43ed-8239-da0f61a9c460"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Alan Parsons Project",
+                                "artist_mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14860133678,
+                        "caa_release_mbid": "b43d2acd-4490-4517-b049-56e780cd0e69",
+                        "recording_mbid": "e9209cce-7b98-4d7e-ba62-779374272de6",
+                        "recording_name": "Eye in the Sky",
+                        "release_group_mbid": "c9137ca5-26bd-3374-bebc-a813fbfe9c4f",
+                        "release_mbid": "34fb84ba-5374-497c-8451-eabf9fe7dab1"
+                    },
+                    "release_name": "Eye In The Sky",
+                    "track_name": "Eye In The Sky"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791763135,
+                "recording_msid": "1d7ac2b4-8220-4e2a-8e98-c149fdd7f24e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                        "lastfm_release_mbid": "163ff3f1-f05c-40f6-9d7a-daacd156f07e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cyndi Lauper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bd9e20e-74b9-446a-a2ed-a223f82a36e7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cyndi Lauper",
+                                "artist_mbid": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6150873730,
+                        "caa_release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120",
+                        "recording_mbid": "9e46e794-5354-4918-a887-d1fdc07a6ea1",
+                        "recording_name": "Time After Time",
+                        "release_group_mbid": "46d415e9-39b7-3978-9e3d-d9d8a32c6751",
+                        "release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120"
+                    },
+                    "release_name": "She's So Unusual",
+                    "track_name": "Time After Time"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791763258,
+                "listened_at": 1791763135,
+                "recording_msid": "5afc13cb-a6e3-4c2e-801a-30356f615430",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 241000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Cyndi Lauper",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bd9e20e-74b9-446a-a2ed-a223f82a36e7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cyndi Lauper",
+                                "artist_mbid": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6150873730,
+                        "caa_release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120",
+                        "recording_mbid": "9e46e794-5354-4918-a887-d1fdc07a6ea1",
+                        "recording_name": "Time After Time",
+                        "release_group_mbid": "46d415e9-39b7-3978-9e3d-d9d8a32c6751",
+                        "release_mbid": "248f7103-6555-4844-8d3f-2a5e17738120"
+                    },
+                    "release_name": "She's So Unusual",
+                    "track_name": "Time After Time"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791766635,
+                "listened_at": 1791762850,
+                "recording_msid": "7c305e40-5f9f-4baf-a15c-620a6d9ebf25",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "03a71341-184a-4423-8dc4-6cce8f195b3d",
+                        "lastfm_track_mbid": "77dc8517-2bd9-4276-b778-1009d57c3671",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Toto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "aab5c954-cabe-432e-899e-1c4f99757327"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Toto",
+                                "artist_mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22706012647,
+                        "caa_release_mbid": "e843b4a7-7c7f-4ac5-bb93-40d6d4332169",
+                        "recording_mbid": "2b24d74a-28c0-4908-a62c-747c2eaaa4ef",
+                        "recording_name": "Hold the Line",
+                        "release_group_mbid": "2b76e8ed-d20b-35a5-b7b9-f6e8e709235e",
+                        "release_mbid": "aca174ac-558a-4e9f-9821-4fab69a7e137"
+                    },
+                    "release_name": "Toto",
+                    "track_name": "Hold the Line"
+                },
+                "user_name": "zariel.zoralis"
+            },
+            {
+                "inserted_at": 1791762970,
+                "listened_at": 1791762850,
+                "recording_msid": "e89ee183-cdeb-44be-a4e9-986cec9f23b6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 236000,
+                        "submission_client": "Pano Scrobbler",
+                        "submission_client_version": "4.46"
+                    },
+                    "artist_name": "Toto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "aab5c954-cabe-432e-899e-1c4f99757327"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Toto",
+                                "artist_mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22706012647,
+                        "caa_release_mbid": "e843b4a7-7c7f-4ac5-bb93-40d6d4332169",
+                        "recording_mbid": "2b24d74a-28c0-4908-a62c-747c2eaaa4ef",
+                        "recording_name": "Hold the Line",
+                        "release_group_mbid": "2b76e8ed-d20b-35a5-b7b9-f6e8e709235e",
+                        "release_mbid": "aca174ac-558a-4e9f-9821-4fab69a7e137"
+                    },
+                    "release_name": "Toto",
+                    "track_name": "Hold the Line"
+                },
+                "user_name": "zariel.zoralis"
+            }
+        ],
+        "oldest_listen_ts": 1739031978,
+        "user_id": "zariel.zoralis"
+    }
+}

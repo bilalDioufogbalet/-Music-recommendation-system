@@ -1,0 +1,2655 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1788744955,
+        "listens": [
+            {
+                "inserted_at": 1788744956,
+                "listened_at": 1788744955,
+                "recording_msid": "ff333f5d-6d88-4e12-b688-4e402aac70d9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 189000,
+                        "media_player": "Jellyfin",
+                        "submission_client": "ListenBrainz plugin for Jellyfin",
+                        "submission_client_version": "6.5.3.4",
+                        "tags": [],
+                        "tracknumber": 2
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "519a25e7-a8ed-49ef-a716-be474baca793",
+                        "recording_name": "Dust",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568594"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568594"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851238"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Dust"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1787228714,
+                "listened_at": 1787228460,
+                "recording_msid": "c8b9ca58-5f82-4810-81af-82d421eb7ca5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 1215000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "metalhydra273",
+                    "track_name": "What Went Wrong: Skarner’s VGU Kit Design Failure"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1787141411,
+                "listened_at": 1787141161,
+                "recording_msid": "4e28c5ce-0d22-459e-8bd3-bd6aa13eb5bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 934000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Vars",
+                    "track_name": "Mel: The Worst Designed Champion Ever Made | League Of Legends"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1787057813,
+                "listened_at": 1787057572,
+                "recording_msid": "ccd1c059-ca54-460f-9bbe-806597f34601",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 709000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Chad Chad",
+                    "track_name": "Why Does TikTok Hate This Teacher?"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1787053341,
+                "listened_at": 1787053142,
+                "recording_msid": "4c172121-6849-4768-8e3a-badc83cf3632",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 184970,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Valiant",
+                    "release_name": "Prove Them Wrong",
+                    "track_name": "Advantage (feat. Fridayy)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1787020275,
+                "listened_at": 1787020111,
+                "recording_msid": "4c172121-6849-4768-8e3a-badc83cf3632",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 184970,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Valiant",
+                    "release_name": "Prove Them Wrong",
+                    "track_name": "Advantage (feat. Fridayy)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786874654,
+                "listened_at": 1786853360,
+                "recording_msid": "688101f7-565e-48ba-abba-62c2a689d326",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 1393000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Heavy Spoilers",
+                    "track_name": "AVENGERS DOOMSDAY OFFICIAL TRAILER Breakdown | Comic Easter Eggs, X-men, Doom Vs Thor & Steve Rogers"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786843628,
+                "listened_at": 1786843559,
+                "recording_msid": "abb4a24d-98db-4df9-8ac0-d3861490e428",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 130000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "IGN Movie Trailers",
+                    "track_name": "Avengers: Doomsday - Official Special Look Teaser Trailer | D23 2026"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786842735,
+                "listened_at": 1786840434,
+                "recording_msid": "300f5802-da56-43a7-8af1-3d3c14d6e96b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 193000,
+                        "media_player": "Spotify",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Isaiah Rashad",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37547347-ea75-45fa-9766-ff36b44d8147"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Isaiah Rashad",
+                                "artist_mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31449798925,
+                        "caa_release_mbid": "a9c94819-f475-4682-a02f-60ec66cab546",
+                        "recording_mbid": "d6abf502-9cfe-42b9-af10-86c8351af246",
+                        "recording_name": "Headshots (4r Da Locals)",
+                        "release_group_mbid": "18266e77-efd2-44bb-97e0-e278ed10399e",
+                        "release_mbid": "97c54010-7eba-4cd0-b400-cc8c0d29b841"
+                    },
+                    "release_name": "The House Is Burning",
+                    "track_name": "Headshots (4r da Locals)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786815335,
+                "listened_at": 1786815224,
+                "recording_msid": "cf5b31e8-ec21-48ad-ad54-8a034e7b51a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 218871,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Squash",
+                    "release_name": "Hate Being Famous",
+                    "track_name": "Leaf Of Life (feat. Malie Donn & Byron Messia)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786815273,
+                "listened_at": 1786814908,
+                "recording_msid": "cf5b31e8-ec21-48ad-ad54-8a034e7b51a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 218871,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Squash",
+                    "release_name": "Hate Being Famous",
+                    "track_name": "Leaf Of Life (feat. Malie Donn & Byron Messia)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786812771,
+                "listened_at": 1786812656,
+                "recording_msid": "cf5b31e8-ec21-48ad-ad54-8a034e7b51a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 218871,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Squash",
+                    "release_name": "Hate Being Famous",
+                    "track_name": "Leaf Of Life (feat. Malie Donn & Byron Messia)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786809568,
+                "listened_at": 1786808411,
+                "recording_msid": "cf5b31e8-ec21-48ad-ad54-8a034e7b51a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 218871,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Squash",
+                    "release_name": "Hate Being Famous",
+                    "track_name": "Leaf Of Life (feat. Malie Donn & Byron Messia)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786806461,
+                "listened_at": 1786806222,
+                "recording_msid": "965ffa84-6355-4893-aff3-049f7cfcc1f1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 3074000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Movie Files",
+                    "track_name": "Christopher Nolan's The Odyssey Explained | The Complete Breakdown"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786805475,
+                "listened_at": 1786805234,
+                "recording_msid": "88cea115-265e-416d-a7f7-5b347fb427b7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 839000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Heavy Spoilers",
+                    "track_name": "Why the ending of The Odyssey is PERFECT"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786792321,
+                "listened_at": 1786792244,
+                "recording_msid": "ed8bb6c5-a50f-4bf6-9828-b05d80020e63",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159335,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Armanii",
+                    "release_name": "THE IMPACT (Deluxe): PGLA Edition",
+                    "track_name": "NEW TINGZ"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786756791,
+                "listened_at": 1786756712,
+                "recording_msid": "9108a744-a49a-48f3-b96e-388f713ca171",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 159335,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Armanii",
+                    "track_name": "NEW TINGZ"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786756577,
+                "listened_at": 1786756493,
+                "recording_msid": "77247fdd-625f-4bfb-a77f-be4cebd35090",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 168553,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Malie Donn",
+                    "release_name": "RSVP Dancehall, Vol. 4",
+                    "track_name": "Whats Popping"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755907,
+                "listened_at": 1786755396,
+                "recording_msid": "3d6b6104-4b8e-4668-84cd-a5b4b3d81ce7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137763,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Nigy Boy, DJ MAC & CrashDummy",
+                    "track_name": "Risk It All"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755893,
+                "listened_at": 1786755204,
+                "recording_msid": "16d71b0a-10b3-4e25-ad98-7c1f9a699a1e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 162911,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Ai Milly & Krush Flo",
+                    "track_name": "Villain or Hero"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755882,
+                "listened_at": 1786755039,
+                "recording_msid": "123fc3ce-1251-4985-845d-669a6cea283a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 150442,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Armanii",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35bcd1e6-e71b-4e9b-8aba-e7ce84395ca2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Armanii",
+                                "artist_mbid": "35bcd1e6-e71b-4e9b-8aba-e7ce84395ca2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "5816fc36-7f2e-452f-9b83-00a2418cc9da",
+                        "recording_name": "JUMP (BOUNCE)"
+                    },
+                    "release_name": "JUMP (BOUNCE)",
+                    "track_name": "JUMP (BOUNCE)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755860,
+                "listened_at": 1786754865,
+                "recording_msid": "cab74bf5-9739-47e7-bb22-36c174455ae2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 175566,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Armanii & DethWrld",
+                    "release_name": "BLOCK TRAFFIC",
+                    "track_name": "BLOCK TRAFFIC"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755818,
+                "listened_at": 1786754601,
+                "recording_msid": "d6e2dc11-ca79-4e14-9e0b-56eaaadbd638",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 139482,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "ICEY",
+                    "track_name": "Future - Bad Bitch Party [Unreleased]"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755785,
+                "listened_at": 1786754468,
+                "recording_msid": "3eee02d8-2ac6-45b4-b5a9-bc38634ee477",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133584,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Nefew",
+                    "track_name": "Burglar Bar$"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755774,
+                "listened_at": 1786754350,
+                "recording_msid": "31202687-ab76-45b3-96f1-43564abb8c3c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 117075,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "void & Repair Lonely",
+                    "track_name": "Blast Off"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755761,
+                "listened_at": 1786754210,
+                "recording_msid": "776ea470-27fe-44c9-ba9f-d9d0e37031a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 140062,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "doniii",
+                    "track_name": "Drake - In & Out (feat. 21 Savage)(On BS) prod.doniii"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755747,
+                "listened_at": 1786754009,
+                "recording_msid": "8021695b-f85b-4ab5-8173-49ab2213ccb0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 195581,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "BIA & A$AP Ferg",
+                    "track_name": "WE ON GO II (feat. Denzel Curry)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755728,
+                "listened_at": 1786753802,
+                "recording_msid": "f1d5c421-1509-422e-807d-db4467fdfbc1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 207609,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Young Nudy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "79c9b9a6-4b78-4738-8b81-95b066321ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Nudy",
+                                "artist_mbid": "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42702789402,
+                        "caa_release_mbid": "6c421e4e-b144-40c5-a7e8-dde891151879",
+                        "recording_mbid": "91ff8d7a-df89-4d87-818e-7af427bab94a",
+                        "recording_name": "SUGAR",
+                        "release_group_mbid": "43cd8966-0b01-454e-b4fd-6a7a8ce6657a",
+                        "release_mbid": "6c421e4e-b144-40c5-a7e8-dde891151879"
+                    },
+                    "track_name": "SUGAR"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755688,
+                "listened_at": 1786753516,
+                "recording_msid": "48b936e8-a547-438f-a4b2-530150983f5f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 180790,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Lil Baby",
+                    "track_name": "Stuff (feat. Travis Scott)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786755537,
+                "listened_at": 1786753146,
+                "recording_msid": "b1521e0e-ef9a-4cdc-aeb5-aac86ba95d2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "d5e35ab7-de8a-40af-b397-7129167b8b56",
+                        "recording_name": "National Treasures",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851245"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "National Treasures"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786753099,
+                "listened_at": 1786752947,
+                "recording_msid": "b1521e0e-ef9a-4cdc-aeb5-aac86ba95d2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "d5e35ab7-de8a-40af-b397-7129167b8b56",
+                        "recording_name": "National Treasures",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851245"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "National Treasures"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786751869,
+                "listened_at": 1786751799,
+                "recording_msid": "18d54e4a-ee7a-4cad-9c40-d152b7280e15",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Joyner Lucas & Lil Baby",
+                    "track_name": "Ramen & OJ"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786751454,
+                "listened_at": 1786751310,
+                "recording_msid": "f1ef25d5-2974-4a8f-a9a0-271f4ccb3929",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 283000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Travis Scott",
+                    "track_name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786750771,
+                "listened_at": 1786750618,
+                "recording_msid": "1b3a6233-2e5c-462e-a375-5e406de4ec3d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Lil Baby",
+                    "track_name": "Pure Cocaine (Official Music Video)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786735478,
+                "listened_at": 1786735066,
+                "recording_msid": "484b55d3-c178-46c7-bab4-82d124c1ed98",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 1329000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "ScreenCrush",
+                    "track_name": "The Odyssey - ENDING EXPLAINED and Breakdown - Hidden Meaning Explained!"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786728126,
+                "listened_at": 1786728039,
+                "recording_msid": "deb49823-cd95-46e4-9136-9dcff701c675",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 174544,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Clairmont The Second",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "543800cc-6cec-49bb-a42e-7705a79ddeec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Clairmont the Second",
+                                "artist_mbid": "543800cc-6cec-49bb-a42e-7705a79ddeec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40713225910,
+                        "caa_release_mbid": "66ea78ff-b55c-4614-b6af-4dbd2336677f",
+                        "recording_mbid": "8a0817d1-d36d-47ac-b32a-c7ad34627f2e",
+                        "recording_name": "validate",
+                        "release_group_mbid": "5706afe6-174b-4c32-abc2-c1f272bd0b03",
+                        "release_mbid": "66ea78ff-b55c-4614-b6af-4dbd2336677f"
+                    },
+                    "track_name": "validate"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786728011,
+                "listened_at": 1786727943,
+                "recording_msid": "11cb1c6d-bac4-45b6-9b00-30437161dc16",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 133537,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "V1V1D",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41b45921-639c-46e4-a23b-a604fcd43b1b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "V1V1D",
+                                "artist_mbid": "41b45921-639c-46e4-a23b-a604fcd43b1b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43134144896,
+                        "caa_release_mbid": "b9f85c7c-e069-4960-8c4a-3ba5e1e96c08",
+                        "recording_mbid": "67a7edb6-06ea-4b02-a44c-5550ca5750c4",
+                        "recording_name": "Timeless",
+                        "release_group_mbid": "6e4fc39a-d525-4e9b-96ae-87fa33dbfd67",
+                        "release_mbid": "b9f85c7c-e069-4960-8c4a-3ba5e1e96c08"
+                    },
+                    "release_name": "Timeless",
+                    "track_name": "Timeless"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786727090,
+                "listened_at": 1786726850,
+                "recording_msid": "ef9f491e-63cb-4763-a9c0-aaff3646e0d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 113917,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Grange",
+                    "track_name": "Let you walk away"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715925,
+                "listened_at": 1786715882,
+                "recording_msid": "5cc8c521-8d18-4fcc-9d79-859b895c303d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 84799,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "track_name": "Stuck Behind The Wall (Lost Tapes 2022)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715790,
+                "listened_at": 1786715746,
+                "recording_msid": "bf84903b-3eb8-4612-9f1d-25cd9288fd99",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 91811,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Ski Mask The Slump God",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "faf916e0-ffc5-4345-a10b-b79ed8c9b8f6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ski Mask the Slump God",
+                                "artist_mbid": "faf916e0-ffc5-4345-a10b-b79ed8c9b8f6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39024923216,
+                        "caa_release_mbid": "c48ba9a8-2a4b-495b-9916-90970fbeee39",
+                        "recording_mbid": "f24c920b-040d-4218-8826-7af3610df1e8",
+                        "recording_name": "Mandalorian",
+                        "release_group_mbid": "5ef209fb-1005-4497-9ab0-cc031bb9fa88",
+                        "release_mbid": "62e32333-585c-49e9-aa12-b5bdd2374150"
+                    },
+                    "track_name": "Mandalorian"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715683,
+                "listened_at": 1786715618,
+                "recording_msid": "a9081dd2-981a-4cbd-b09b-1751911cac8a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 127152,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "void & Repair Lonely",
+                    "track_name": "Heartbreaks"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715780,
+                "listened_at": 1786715437,
+                "recording_msid": "215eecc6-a717-4f31-bb1f-b4ffcc76888a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 123878,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "eab95592-99aa-42b7-9725-8de8a116e603",
+                        "recording_name": "Call Back",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258349"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389874"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258349"
+                            }
+                        ]
+                    },
+                    "track_name": "Call Back"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715663,
+                "listened_at": 1786715327,
+                "recording_msid": "dc1e1ac5-6f8a-43b8-be52-b5256c9d5864",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 110000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "void & Repair Lonely",
+                    "track_name": "Not The Same"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786715274,
+                "listened_at": 1786715189,
+                "recording_msid": "e66bedda-4dfd-4c3b-a398-57605e50ea89",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166835,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Robb Bank$",
+                    "track_name": "Green Hearted (iDigg) (feat. Birdman)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786672906,
+                "listened_at": 1786672828,
+                "recording_msid": "5b60cc9a-903f-4a32-b667-b22025add9f1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 157988,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Kay Malik",
+                    "track_name": "Hawk Tuah"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786672758,
+                "listened_at": 1786672688,
+                "recording_msid": "f304abff-b346-45bc-960a-b74a3a7f5aeb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 140527,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "G Herbo & Southside",
+                    "track_name": "Went Legit"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786672605,
+                "listened_at": 1786672525,
+                "recording_msid": "4b5031bd-9dd3-4330-86e4-ae0248fc7b16",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 162841,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Gunnaa",
+                    "track_name": "Clutch"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786672203,
+                "listened_at": 1786672147,
+                "recording_msid": "6191a5a2-5816-4bd9-9eeb-4d9cd2eeb4f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 112167,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36906570253,
+                        "caa_release_mbid": "c2afc565-d97f-4c2b-8502-dc711c2967ba",
+                        "recording_mbid": "dd4b3016-f02b-4ffe-899a-362c729515f6",
+                        "recording_name": "Screw the World (interlude)",
+                        "release_group_mbid": "a1552752-3b43-43b7-aeef-1f282360c993",
+                        "release_mbid": "1c64c605-808d-4a61-ad6a-074165d53915"
+                    },
+                    "track_name": "Screw The World (Interlude)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786672124,
+                "listened_at": 1786672047,
+                "recording_msid": "edb88f8a-985f-46ec-b2ef-337331744867",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 155805,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "96a82e91-829d-44ec-a4f5-fa50a68141f0",
+                        "recording_name": "Body",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389866"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258331"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258331"
+                            }
+                        ]
+                    },
+                    "track_name": "Body"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786671963,
+                "listened_at": 1786671882,
+                "recording_msid": "50ae4eb2-3dd0-4a20-bd11-150e76f2daa2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 165558,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Money Man",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71d92684-2b02-40f8-9f2a-6c222662cd08"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Money Man",
+                                "artist_mbid": "71d92684-2b02-40f8-9f2a-6c222662cd08",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45786296803,
+                        "caa_release_mbid": "ce500de2-b919-47e6-a068-f5c72416ccc0",
+                        "recording_mbid": "f0867c93-d76d-4486-978d-fbf27c1b1199",
+                        "recording_name": "Hit Different",
+                        "release_group_mbid": "18dbec80-2bf8-450a-a2ed-2dc5fe974de8",
+                        "release_mbid": "ce500de2-b919-47e6-a068-f5c72416ccc0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/bcfmoneyman/hit-different"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/439584033"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/547573922"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/hit-different/6796056421"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7r0hHg9RxyRNoCNIXiyJZb"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4185850432"
+                            }
+                        ]
+                    },
+                    "track_name": "Hit Different"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786671467,
+                "listened_at": 1786671361,
+                "recording_msid": "d2e0e31b-a69b-4ce9-8c64-a570255e7dc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 212327,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "ScHoolboy Q",
+                    "track_name": "Drunk (feat. 6LACK)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786671211,
+                "listened_at": 1786671166,
+                "recording_msid": "8013548c-1dc2-4c2a-93c3-46261680f5ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 91834,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Baby Keem",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81d12ca7-5b89-4d21-8736-860b7400b4eb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Baby Keem",
+                                "artist_mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38454284039,
+                        "caa_release_mbid": "a5503103-e92d-4c6f-86c8-493239ce191d",
+                        "recording_mbid": "dec6f9fa-a63c-47a7-a121-0255848f51e3",
+                        "recording_name": "highway 95",
+                        "release_group_mbid": "15fa148e-7f69-4559-aa2b-42dc4bf730b3",
+                        "release_mbid": "46be3cee-c4c6-4f95-bbfa-6f10fc4fe045",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/182528453"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1651946679"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/256716942"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/182528453"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1987477917"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1651946679"
+                            }
+                        ]
+                    },
+                    "track_name": "highway 95"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786671039,
+                "listened_at": 1786670912,
+                "recording_msid": "87dec872-5e87-452c-b7bb-5ccef367e928",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 254072,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44282799204,
+                        "caa_release_mbid": "94950104-84d7-4e39-aa82-3cd896d2d193",
+                        "recording_mbid": "c8fcb48e-18af-48b6-b634-0fc0e3032d73",
+                        "recording_name": "The Let Out",
+                        "release_group_mbid": "e3f03ef0-79a1-4636-8266-5d19f214fc37",
+                        "release_mbid": "e18904c4-92d6-496a-ab52-ef94a13b5b37",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/496439189"
+                            }
+                        ]
+                    },
+                    "track_name": "The Let Out"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786670892,
+                "listened_at": 1786670819,
+                "recording_msid": "009c04e3-6f57-4ac1-8f75-97ebf5a0cac0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 145403,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Knotti $lim",
+                    "track_name": "$"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786669760,
+                "listened_at": 1786669620,
+                "recording_msid": "cf858a47-26a9-445e-8af0-351dcaf51f49",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 113475,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Nemzzz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nemzzz",
+                                "artist_mbid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45875496754,
+                        "caa_release_mbid": "07963feb-a927-45d7-958a-3d694587e0e3",
+                        "recording_mbid": "f3c81096-113b-4539-98d0-cc4d7069c229",
+                        "recording_name": "KILLIN EM",
+                        "release_group_mbid": "978d068a-831b-4a11-a0c2-f86adb433075",
+                        "release_mbid": "07963feb-a927-45d7-958a-3d694587e0e3",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6775856219"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/530024126"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6775856219"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4059046031"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/427038352"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/427038352"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
+                            }
+                        ]
+                    },
+                    "track_name": "KILLIN EM"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786668620,
+                "listened_at": 1786668460,
+                "recording_msid": "bc0c6502-be3c-431c-a8e8-fd369e6f13f6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 311036,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32795248180,
+                        "caa_release_mbid": "6544941b-2dd8-4e01-87ab-a643289896fc",
+                        "recording_mbid": "fcccb956-72ee-4a59-ad0b-20489ace507e",
+                        "recording_name": "No Tellin’",
+                        "release_group_mbid": "68d79778-aceb-486c-88a7-0abb3665344b",
+                        "release_mbid": "f5075fa7-8774-4063-afdd-86c35e39e95f"
+                    },
+                    "track_name": "No Tellin'"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786648481,
+                "listened_at": 1786648219,
+                "recording_msid": "1904d7cd-ab6c-42b6-83b3-c30d15787b69",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 1205000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "DB Tech",
+                    "track_name": "DumbAssets: The Simple Asset Tracking Tool You Need!"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786624689,
+                "listened_at": 1786624550,
+                "recording_msid": "f83326c6-ab5c-4841-8cba-a167073420c7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 276874,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "lilo1st",
+                    "track_name": "Travis Scott - Yeah Yeah (feat. Young Thug) (DAYS BEFORE RODEO Deluxe)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786624645,
+                "listened_at": 1786624406,
+                "recording_msid": "0ece4697-58a7-42b4-b726-fa7379abf7ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 144637,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Forgotten",
+                    "track_name": "DRAKE - PRINCE CHARMIN"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786624130,
+                "listened_at": 1786624044,
+                "recording_msid": "19355121-a36e-4839-a050-ec95d7f3dd87",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173778,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Young Nudy",
+                    "track_name": "Ya Dig"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786624176,
+                "listened_at": 1786623811,
+                "recording_msid": "ebfdd581-558a-4888-972f-00d5506f7cf2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 192075,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Mike WiLL Made-It & J. Cole",
+                    "track_name": "OFG!"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786623748,
+                "listened_at": 1786623686,
+                "recording_msid": "eb3d2be7-7835-4a6e-8c65-aff6b3ed5879",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 125039,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "$NOT",
+                    "track_name": "Mean (feat. Flo Milli)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786587112,
+                "listened_at": 1786587021,
+                "recording_msid": "14f19ae8-e305-4c17-9f47-b607d6e6e7f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 181580,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42715241868,
+                        "caa_release_mbid": "0718dc5e-9c24-46c1-9489-9763bfc87f09",
+                        "recording_mbid": "d689f95b-cb8c-49a0-9838-f6f0c9999193",
+                        "recording_name": "won’t stop",
+                        "release_group_mbid": "4f2d8e8d-e688-4267-ac88-27a5ebdb6f32",
+                        "release_mbid": "0774f8c0-e248-46b3-9631-708c3343b948",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3497669191"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/452829031"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1831834952"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1Md5eVwvwtHwnjSRpYo8QR"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1831834952"
+                            }
+                        ]
+                    },
+                    "track_name": "won't stop"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786581288,
+                "listened_at": 1786581157,
+                "recording_msid": "f4897e9a-dd02-4511-ae4a-35187d1a4383",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 243879,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Travis Scott",
+                    "track_name": "goosebumps"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786581066,
+                "listened_at": 1786580960,
+                "recording_msid": "4107b982-490d-4cd7-895e-3d4fec5be449",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 181502,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36906570253,
+                        "caa_release_mbid": "c2afc565-d97f-4c2b-8502-dc711c2967ba",
+                        "recording_mbid": "6ab7a56d-1bf3-4470-8f01-af0eafc28fb5",
+                        "recording_name": "Wick Man",
+                        "release_group_mbid": "a1552752-3b43-43b7-aeef-1f282360c993",
+                        "release_mbid": "1c64c605-808d-4a61-ad6a-074165d53915"
+                    },
+                    "track_name": "Wick Man"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786580881,
+                "listened_at": 1786580795,
+                "recording_msid": "4843407f-965c-4f48-bbd8-8e5f5ee99ddd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 172849,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Mustard & Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mustard",
+                                "artist_mbid": "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39829439133,
+                        "caa_release_mbid": "4166ece5-778b-435c-9ec9-c5d5b4ad3d1c",
+                        "recording_mbid": "9d72e1f8-ab73-4130-9f51-9608c5ec1d36",
+                        "recording_name": "Parking Lot",
+                        "release_group_mbid": "f3e5b002-cc0e-4801-ae90-9618680b901b",
+                        "release_mbid": "3c36da9d-5f44-480e-ab94-1ca7b560abfc"
+                    },
+                    "track_name": "Parking Lot"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786580691,
+                "listened_at": 1786580595,
+                "recording_msid": "5cc3ebd6-a603-495e-9393-06267e5e126c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 193352,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Isaiah Rashad",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37547347-ea75-45fa-9766-ff36b44d8147"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Isaiah Rashad",
+                                "artist_mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45008475606,
+                        "caa_release_mbid": "9c334d61-449b-4952-a5b1-bd6ec52c4893",
+                        "recording_mbid": "13b4557d-de98-43e0-a280-1f4d17ebe6e2",
+                        "recording_name": "SAME SH!T",
+                        "release_group_mbid": "434089fc-fe02-4883-a5c2-1a58abb10578",
+                        "release_mbid": "9c334d61-449b-4952-a5b1-bd6ec52c4893"
+                    },
+                    "track_name": "SAME SH!T"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786580496,
+                "listened_at": 1786580396,
+                "recording_msid": "508e6716-2fe4-4ad5-96c6-93f567141764",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 195651,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Baby Keem",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81d12ca7-5b89-4d21-8736-860b7400b4eb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Baby Keem",
+                                "artist_mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44403979078,
+                        "caa_release_mbid": "7dc1bb4e-d817-4bac-965e-5a182591ae10",
+                        "recording_mbid": "73accbbc-eec3-40e1-9fa0-0add913e657f",
+                        "recording_name": "House Money",
+                        "release_group_mbid": "eac8a859-3080-46f5-bc42-a869bcb5606e",
+                        "release_mbid": "952367ca-7f1c-4e54-9333-a786c638afa5",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1878400237"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3855226011"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/500612902"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1878400237"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/395086778"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/395086778"
+                            }
+                        ]
+                    },
+                    "track_name": "House Money"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786579967,
+                "listened_at": 1786579840,
+                "recording_msid": "c0b55870-f965-44a3-967f-a9adac0c6a1c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249660,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "21 Savage & Young Nudy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231",
+                            "79c9b9a6-4b78-4738-8b81-95b066321ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Young Nudy",
+                                "artist_mbid": "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43937804429,
+                        "caa_release_mbid": "47ac0a85-2648-4b89-938d-010a32f67bd4",
+                        "recording_mbid": "61c4d6ba-5bab-4816-8b7c-74f0280fda58",
+                        "recording_name": "STEPBROTHERS",
+                        "release_group_mbid": "5f6c5f5d-acaf-45dc-83a2-31c2523fdd2b",
+                        "release_mbid": "d97bcd83-a9b6-4e84-a54d-e0ec0769373d",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3711488132"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0w88s8d4hqv3jVYBwq7led"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/au/song/1859497208"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/au/song/1859497208"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/481078448"
+                            }
+                        ]
+                    },
+                    "track_name": "STEPBROTHERS"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786540227,
+                "listened_at": 1786540135,
+                "recording_msid": "f141cb65-4d16-4968-8f76-58f92dec78a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 181626,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Konde007",
+                    "track_name": "Type Shit"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786539797,
+                "listened_at": 1786539695,
+                "recording_msid": "b1521e0e-ef9a-4cdc-aeb5-aac86ba95d2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 201000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "d5e35ab7-de8a-40af-b397-7129167b8b56",
+                        "recording_name": "National Treasures",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851245"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568603"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "National Treasures"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786538422,
+                "listened_at": 1786538181,
+                "recording_msid": "4d0de117-5b31-4a6b-ae91-3d132ad4329b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 701000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Chad Chad",
+                    "track_name": "Adults Adopting Adults"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786537796,
+                "listened_at": 1786537555,
+                "recording_msid": "9044f022-8a36-49e4-8e64-af599a2a24b7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 616000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Chad Chad Chad",
+                    "track_name": "JoJo Siwa's $1,000 Tour Tickets"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786410620,
+                "listened_at": 1786410379,
+                "recording_msid": "239327cc-e4a4-483a-92f8-686af15c4276",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 2070000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "MrBallen",
+                    "track_name": "Utah man's double life got him KILLED"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786399725,
+                "listened_at": 1786399259,
+                "recording_msid": "239327cc-e4a4-483a-92f8-686af15c4276",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 2070000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "MrBallen",
+                    "track_name": "Utah man's double life got him KILLED"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786396814,
+                "listened_at": 1786396554,
+                "recording_msid": "239327cc-e4a4-483a-92f8-686af15c4276",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 2070000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "MrBallen",
+                    "track_name": "Utah man's double life got him KILLED"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786394833,
+                "listened_at": 1786394574,
+                "recording_msid": "80ed1519-40a7-4e34-bc4e-2af23fa0d468",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 2049000,
+                        "media_player": "YouTube",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "MrBallen",
+                    "track_name": "This McDonald's run tore their family apart"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786394348,
+                "listened_at": 1786394220,
+                "recording_msid": "7bdd4aa5-4558-44ec-b25b-5ee821bed467",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 256069,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "REASON",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "347a6ed7-5730-4e86-8111-d804ff2eb899"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Reason",
+                                "artist_mbid": "347a6ed7-5730-4e86-8111-d804ff2eb899",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43515980177,
+                        "caa_release_mbid": "601441af-dd91-4b9d-a457-e3dd4f7ec42f",
+                        "recording_mbid": "45d726fe-e8d9-4310-9ad2-9f81ca0c3477",
+                        "recording_name": "Thass My Word_BLUE",
+                        "release_group_mbid": "b17b2243-b266-429a-9c38-d18920212fe3",
+                        "release_mbid": "601441af-dd91-4b9d-a457-e3dd4f7ec42f",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3596431392"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1845383796"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1845383796"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/466149257"
+                            }
+                        ]
+                    },
+                    "track_name": "Thass My Word_BLUE"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786394127,
+                "listened_at": 1786394034,
+                "recording_msid": "a33ea937-332d-48e6-a5e8-e703f9d64e4e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 185852,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Brent Faiyaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "201412c6-7ced-472b-87a9-9259ec3c07d3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Brent Faiyaz",
+                                "artist_mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44283387538,
+                        "caa_release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "recording_mbid": "7b5c9262-79f1-49d1-826a-c7511cb64e9e",
+                        "recording_name": "four seasons.",
+                        "release_group_mbid": "bcf5d1a3-db78-4ff1-900e-50654333ef4f",
+                        "release_mbid": "21eff1d0-c156-4421-85d4-4e047290be20",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/498200851"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6WH9AlBNORcBiQywNCIblE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3fMyBZjyMGiS1N9iLuPODj"
+                            }
+                        ]
+                    },
+                    "track_name": "four seasons."
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786393769,
+                "listened_at": 1786393703,
+                "recording_msid": "6881f907-5728-4658-88e2-059d6e87b1be",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 122926,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Mick Jenkins",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mick Jenkins",
+                                "artist_mbid": "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38997224382,
+                        "caa_release_mbid": "8663b90f-ac0c-44ad-826e-4d42ceed99b2",
+                        "recording_mbid": "85795dfa-cfa2-4eeb-9024-fd43976cbfbf",
+                        "recording_name": "Speed Racer",
+                        "release_group_mbid": "25e52623-5245-44bb-8940-078dd5efcf54",
+                        "release_mbid": "98a7bf4d-1526-4212-acf3-b49cfc3509dd"
+                    },
+                    "track_name": "Speed Racer"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786378245,
+                "listened_at": 1786378183,
+                "recording_msid": "1c19f39a-b104-42a7-a032-f47120973988",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 122926,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Mick Jenkins",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mick Jenkins",
+                                "artist_mbid": "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38997224382,
+                        "caa_release_mbid": "8663b90f-ac0c-44ad-826e-4d42ceed99b2",
+                        "recording_mbid": "85795dfa-cfa2-4eeb-9024-fd43976cbfbf",
+                        "recording_name": "Speed Racer",
+                        "release_group_mbid": "25e52623-5245-44bb-8940-078dd5efcf54",
+                        "release_mbid": "98a7bf4d-1526-4212-acf3-b49cfc3509dd"
+                    },
+                    "release_name": "Elephant in the Room",
+                    "track_name": "Speed Racer"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786369750,
+                "listened_at": 1786369684,
+                "recording_msid": "1c19f39a-b104-42a7-a032-f47120973988",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 122926,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Mick Jenkins",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mick Jenkins",
+                                "artist_mbid": "64c4dfcc-ba2b-4036-ac01-1636ae15ebb8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38997224382,
+                        "caa_release_mbid": "8663b90f-ac0c-44ad-826e-4d42ceed99b2",
+                        "recording_mbid": "85795dfa-cfa2-4eeb-9024-fd43976cbfbf",
+                        "recording_name": "Speed Racer",
+                        "release_group_mbid": "25e52623-5245-44bb-8940-078dd5efcf54",
+                        "release_mbid": "98a7bf4d-1526-4212-acf3-b49cfc3509dd"
+                    },
+                    "release_name": "Elephant in the Room",
+                    "track_name": "Speed Racer"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786339157,
+                "listened_at": 1786339041,
+                "recording_msid": "df347a6c-9677-4ba5-9ed9-fedd6a8a71ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 226719,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "track_name": "Secondhand (feat. Rema)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786338903,
+                "listened_at": 1786338759,
+                "recording_msid": "1a3aa59c-dbc2-454f-82aa-9d0800b3a6b1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 281658,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28600117788,
+                        "caa_release_mbid": "2afcc5b8-2663-4efc-b3d4-f2a9baf0a278",
+                        "recording_mbid": "83f3c7cb-ec1f-4d4c-8300-e4918e528489",
+                        "recording_name": "Trust Issues",
+                        "release_group_mbid": "4a8e2445-11b9-4c29-a186-24ba70bbab1a",
+                        "release_mbid": "2afcc5b8-2663-4efc-b3d4-f2a9baf0a278"
+                    },
+                    "track_name": "Trust Issues"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786338670,
+                "listened_at": 1786338558,
+                "recording_msid": "399c8275-fd5d-4531-89cf-a704e2a05942",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 202000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake & Qendresa",
+                    "release_name": "HABIBTI",
+                    "track_name": "Slap The City"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786337643,
+                "listened_at": 1786337528,
+                "recording_msid": "e36e8c35-52f8-449d-9d02-d0c2b8a77fc0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 216990,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "SiR",
+                    "release_name": "Chasing Summer",
+                    "track_name": "Hair Down"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786337429,
+                "listened_at": 1786337366,
+                "recording_msid": "216bf420-7889-462b-9dc0-a27a0955f400",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 110960,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "XXXTENTACION",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "61af87f4-16ee-4431-8504-cc06187079fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "XXXTENTACION",
+                                "artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19468690550,
+                        "caa_release_mbid": "d2d28cad-918d-4499-8b03-7da4d6fd81a0",
+                        "recording_mbid": "0e8e383b-39f6-4317-9c66-13e15fc32eed",
+                        "recording_name": "HOPE",
+                        "release_group_mbid": "311ae629-ee9e-443e-9c38-d7a5c97679d5",
+                        "release_mbid": "1e01d59d-a99f-40b8-8bd6-92d7fd26c309"
+                    },
+                    "track_name": "Hope"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786337317,
+                "listened_at": 1786337246,
+                "recording_msid": "041fa3b4-8d3e-493f-9f1a-dbd32ea03188",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 119188,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "XXXTENTACION",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "61af87f4-16ee-4431-8504-cc06187079fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "XXXTENTACION",
+                                "artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17799765239,
+                        "caa_release_mbid": "1395477c-a71e-4058-a893-d33dfcad6a4b",
+                        "recording_mbid": "c9fac471-ea59-4b36-b577-9c4a6a285997",
+                        "recording_name": "Jocelyn Flores",
+                        "release_group_mbid": "4609ccc4-45e4-49b9-9a1e-a98962a5a923",
+                        "release_mbid": "f13cef1b-4db7-4978-89a1-43ce31cf3688"
+                    },
+                    "track_name": "Jocelyn Flores"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786336934,
+                "listened_at": 1786336847,
+                "recording_msid": "74c8445d-75ce-43ca-946c-627058e64ac0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Powfu & beabadoobee",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bfb7bc12-4b79-412f-8303-ad6d7c772aca",
+                            "88d17133-abbc-42db-9526-4e2c1db60336"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Powfu",
+                                "artist_mbid": "bfb7bc12-4b79-412f-8303-ad6d7c772aca",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "beabadoobee",
+                                "artist_mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25601457535,
+                        "caa_release_mbid": "f02ac97e-45c2-42c3-856d-2e92765e449a",
+                        "recording_mbid": "42813d9f-1e43-44f8-adcc-aa6087361fa6",
+                        "recording_name": "death bed (coffee for your head)",
+                        "release_group_mbid": "1b6ea296-02ce-48d0-9425-b52eba73216e",
+                        "release_mbid": "f02ac97e-45c2-42c3-856d-2e92765e449a"
+                    },
+                    "release_name": "poems of the past",
+                    "track_name": "death bed (coffee for your head)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786336216,
+                "listened_at": 1786336087,
+                "recording_msid": "1140cc4c-272f-45b4-9346-294cb6c0f003",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 248421,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Phantogram",
+                    "release_name": "Black Out Days (Future Islands Remix)",
+                    "track_name": "Black Out Days (Future Islands Remix) (feat. Danny Brown)"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786336060,
+                "listened_at": 1786336023,
+                "recording_msid": "522d4944-86a2-4448-90a5-c35da01eedba",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 73000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "trucky",
+                    "release_name": "win again",
+                    "track_name": "win again"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786335943,
+                "listened_at": 1786335844,
+                "recording_msid": "0ed22b85-eb51-46d3-9147-730bb947ae7d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 196000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "9a014728-0353-491f-8fb4-4c9cfb1de009",
+                        "recording_name": "Plot Twist",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568609"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568609"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851248"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Plot Twist"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786335719,
+                "listened_at": 1786335600,
+                "recording_msid": "8283c14a-fb75-4bab-96fe-ee21da9791fd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "e9114896-a5bb-464d-8231-245ccf66ba03",
+                        "recording_name": "Janice STFU",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568596"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568596"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851240"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Janice STFU"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786335529,
+                "listened_at": 1786335450,
+                "recording_msid": "f9be110f-aefe-43ec-8557-b76c8a58272e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 143034,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Dexta Daps & DASECA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d55f693a-fc69-42b9-8982-65d5bc486218",
+                            "5d73b19f-c251-437a-9c2d-8edaecd6766c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dexta Daps",
+                                "artist_mbid": "d55f693a-fc69-42b9-8982-65d5bc486218",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Daseca",
+                                "artist_mbid": "5d73b19f-c251-437a-9c2d-8edaecd6766c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44252910710,
+                        "caa_release_mbid": "44ab7c07-7b56-457f-9e99-a995a766c5ed",
+                        "recording_mbid": "9a6d69d2-fa42-4072-94fa-d263cf4e2d8e",
+                        "recording_name": "Shabba Madda Pot",
+                        "release_group_mbid": "8ff170e9-7ef9-4518-bae5-0330a932b19c",
+                        "release_mbid": "44ab7c07-7b56-457f-9e99-a995a766c5ed"
+                    },
+                    "track_name": "Shabba Madda Pot"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786335330,
+                "listened_at": 1786335203,
+                "recording_msid": "fabf6c85-0921-408e-bcc9-ae5a27fc4efd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 247640,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "de apostle",
+                    "track_name": "CAN'T HOLD I DOWN"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786335079,
+                "listened_at": 1786334948,
+                "recording_msid": "20123f19-1c15-47f7-9c7e-cd2bb5c906c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 254421,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Riddim Galore",
+                    "track_name": "General Problems (Alle) - Cool Session Brass"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786334925,
+                "listened_at": 1786334763,
+                "recording_msid": "754e1bf8-c40f-4721-a163-cc3a67a2f42a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 184714,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Singa",
+                    "release_name": "Jouvert",
+                    "track_name": "Jouvert"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786334726,
+                "listened_at": 1786334640,
+                "recording_msid": "443b8e31-3fa2-424c-b926-d334003103f0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 163236,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Armanii",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35bcd1e6-e71b-4e9b-8aba-e7ce84395ca2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Armanii",
+                                "artist_mbid": "35bcd1e6-e71b-4e9b-8aba-e7ce84395ca2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "7fe5cefc-691f-4224-a0f5-d2ccb62787a0",
+                        "recording_name": "POUNDS"
+                    },
+                    "track_name": "POUNDS"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786334559,
+                "listened_at": 1786334472,
+                "recording_msid": "3392c0c3-18a7-4df7-b380-688ee286d41b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 168553,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Malie Donn",
+                    "track_name": "Whats Popping"
+                },
+                "user_name": "shaqagain"
+            },
+            {
+                "inserted_at": 1786334309,
+                "listened_at": 1786334209,
+                "recording_msid": "664ff1d2-7adf-4276-a73b-11a1e2d782da",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 192000,
+                        "media_player": "YouTube Music",
+                        "submission_client": "ListenBrainz Android",
+                        "submission_client_version": "2.15.2.0"
+                    },
+                    "artist_name": "Malie Donn",
+                    "release_name": "Cups Up",
+                    "track_name": "Cups Up"
+                },
+                "user_name": "shaqagain"
+            }
+        ],
+        "oldest_listen_ts": 1752470822,
+        "user_id": "shaqagain"
+    }
+}

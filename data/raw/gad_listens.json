@@ -1,0 +1,2458 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791822748,
+        "listens": [
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791822748,
+                "recording_msid": "0ea9b5c6-8af6-45ab-854b-c42c81982a66",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9a003cb1-3c69-486c-abd2-8a82d40685f1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rachyl",
+                    "release_name": "Season Finale",
+                    "track_name": "no shame"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791822556,
+                "recording_msid": "340d5ed5-dcc7-4661-9478-f2e7e77b7d6f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9a003cb1-3c69-486c-abd2-8a82d40685f1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rachyl",
+                    "release_name": "Season Finale",
+                    "track_name": "nawtz"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791822277,
+                "recording_msid": "0ea9b5c6-8af6-45ab-854b-c42c81982a66",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9a003cb1-3c69-486c-abd2-8a82d40685f1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rachyl",
+                    "release_name": "Season Finale",
+                    "track_name": "no shame"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791822090,
+                "recording_msid": "5f83565f-bf78-4e52-8f5d-9985dacf47bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "shoutout so so"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791821964,
+                "recording_msid": "7cf5742e-4a4b-40c2-9e01-4d694da61b60",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "too icy/feel"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791821824,
+                "recording_msid": "0ff0f299-840b-407c-ac21-6e62ad821a9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "#groupedup"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791821701,
+                "recording_msid": "9d7f9301-17a7-47aa-86b9-9f853e01468c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "shimmy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791821604,
+                "recording_msid": "58e887f7-c005-47cb-8c5a-707b98f51592",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "never broke"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791821478,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791827025,
+                "listened_at": 1791819823,
+                "recording_msid": "8cdd07cf-141e-4f3e-af35-7f6b917e71c0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "71026",
+                    "track_name": "maacah"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791786470,
+                "recording_msid": "96f169d5-5f6c-46bc-826d-57a33fb6b660",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "79efeb1b-868b-41f8-908d-627a729cc81d",
+                        "recording_name": "London",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339631"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346466"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346466"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859387"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859387"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132882"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "London"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791786394,
+                "recording_msid": "27f17274-c4ea-4ba4-85c2-3189d7c55c86",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rachyl",
+                    "release_name": "Loosies",
+                    "track_name": "they a No shO prod rachyl"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791786246,
+                "recording_msid": "4ead8eb9-4694-4a95-ad7f-0898c8b96857",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "b242c261-1e33-4d25-9934-a1abca2f8f8c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "Headshot"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791786143,
+                "recording_msid": "c380dc3d-46ec-4fc6-8327-146924c0f3f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "Goin’ Outta Style"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791785961,
+                "recording_msid": "813358fc-e051-4deb-9c22-6ee26990d8a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "1aa15262-a4e1-4f7c-a07e-45cc6480ea7d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "FRIENDS"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791785828,
+                "recording_msid": "d49daee8-2d9e-461c-926c-ca15f6057101",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "04f4eb56-addc-4ebe-ab16-1b42b9baa956",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "Cartier (feat. Lil Uzi Vert)"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791785826,
+                "recording_msid": "3d8bed80-22cc-4af4-b22f-2d065e5bae52",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "Too Much"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791787225,
+                "listened_at": 1791785617,
+                "recording_msid": "813358fc-e051-4deb-9c22-6ee26990d8a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "1aa15262-a4e1-4f7c-a07e-45cc6480ea7d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "release_name": "Whole Lotta Red v2 (Sessions)",
+                    "track_name": "FRIENDS"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791759175,
+                "listened_at": 1791751640,
+                "recording_msid": "49687527-9d01-496a-b158-6ce20b4ac614",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "b51f758d-d6cf-47a8-b75f-c17011ad7fe4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c",
+                            "e357941b-e075-45af-9341-5cc24b466394"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "tenkay",
+                                "artist_mbid": "e357941b-e075-45af-9341-5cc24b466394",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "afb210d7-916b-49f1-b0f0-aa279fed2024",
+                        "recording_name": "why evenbother",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/564bX1ZcT2Wc7KiVGcoxkD"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112918"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112918"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911614"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "why evenbother"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791759175,
+                "listened_at": 1791751485,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791759175,
+                "listened_at": 1791751415,
+                "recording_msid": "2d5911bc-baa0-4446-bc8a-becac4b04e3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "tell me your desires"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791759175,
+                "listened_at": 1791751331,
+                "recording_msid": "2d5911bc-baa0-4446-bc8a-becac4b04e3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "tell me your desires"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791759175,
+                "listened_at": 1791751247,
+                "recording_msid": "2d5911bc-baa0-4446-bc8a-becac4b04e3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "tell me your desires"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750947,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750814,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750681,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750548,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750415,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750324,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750187,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791750051,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791749914,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791749778,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791749641,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791749505,
+                "recording_msid": "204a9884-e762-4373-81b4-ffe360741cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                        "lastfm_track_mbid": "93d76aec-f8ff-4fcb-8377-07c6c64a2e64",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "xaviersobased",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "155cfd40-dcde-471e-acc0-32179916165c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "xaviersobased",
+                                "artist_mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42476746321,
+                        "caa_release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "recording_mbid": "dd42b5db-759d-4399-a246-71364b52434c",
+                        "recording_name": "whythink abou2 me lol",
+                        "release_group_mbid": "e209bd3d-be31-4d90-89f5-676313897510",
+                        "release_mbid": "06733936-b61e-433e-9576-990230b5f744",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Z4vL9IlzuiOFTTrrbV2G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/454911613"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1834112917"
+                            }
+                        ]
+                    },
+                    "release_name": "Expensive coffee is so damn bitter ..",
+                    "track_name": "whythink abou2 me lol"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791748434,
+                "recording_msid": "043d4cd8-c421-4f91-923a-e385e818c5fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "b579d05c-7d31-4dc7-b03f-678e268c7768",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "b579d05c-7d31-4dc7-b03f-678e268c7768",
+                        "recording_name": "Maverick Intro",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859138"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346459"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859138"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132812"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339624"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346459"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Maverick Intro"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791748253,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791748129,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791748006,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747882,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747759,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747635,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747511,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747388,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747264,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747140,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791747031,
+                "recording_msid": "fc17ba70-9351-40e3-959d-452deda53be5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "aurainairy",
+                    "release_name": "loosies",
+                    "track_name": "action"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746859,
+                "recording_msid": "82a6580f-0d4f-4ba5-96c5-e3b36f653649",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "aurainairy",
+                    "release_name": "loosies",
+                    "track_name": "CRASH THE PARTY"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746706,
+                "recording_msid": "7c02fc73-20df-400e-ac2a-8432150f06c2",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "aurainairy",
+                    "release_name": "loosies",
+                    "track_name": "1st place"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746571,
+                "recording_msid": "378e533e-d80b-4a26-a1b6-42df6d58d44f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "aurainairy",
+                    "release_name": "loosies",
+                    "track_name": "run up"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746445,
+                "recording_msid": "7bf92d29-a1fc-4871-8019-f95920fb39c9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "aurainairy",
+                    "release_name": "loosies",
+                    "track_name": "cliché w/ rachyl"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746362,
+                "recording_msid": "65bb47ad-e34a-424a-a357-b9231980b919",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "recording_name": "mix it",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/mix-it/6793224352"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6u0VQqrURuTQNKNG2QnYo2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168090"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/mix-it-whereisreef-ohtee"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376592"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "mix it"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746201,
+                "recording_msid": "66a9ad0c-c40d-4601-8edf-9678a13dbf79",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "recording_name": "genie",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/ive-lost-it-loko-los-egobreak"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168093"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376622"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/genie/6793224425"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451539"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/11bLq39XmsQoz4ZDWNGhQi"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "genie"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791746052,
+                "recording_msid": "6946fe3d-6e23-4cd7-b127-9605f84d6bcd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "recording_name": "fake therapist",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451537"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168091"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/fake-therapist-yk"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/fake-therapist/6793224357"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4e9tUz3DOG0wWEM0PdlCV1"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "fake Therapist"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745913,
+                "recording_msid": "65bb47ad-e34a-424a-a357-b9231980b919",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "recording_name": "mix it",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/mix-it/6793224352"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6u0VQqrURuTQNKNG2QnYo2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168090"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/mix-it-whereisreef-ohtee"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376592"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "mix it"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745754,
+                "recording_msid": "66a9ad0c-c40d-4601-8edf-9678a13dbf79",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "recording_name": "genie",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/ive-lost-it-loko-los-egobreak"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168093"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376622"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/genie/6793224425"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451539"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/11bLq39XmsQoz4ZDWNGhQi"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "genie"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745605,
+                "recording_msid": "6946fe3d-6e23-4cd7-b127-9605f84d6bcd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "recording_name": "fake therapist",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451537"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168091"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/fake-therapist-yk"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/fake-therapist/6793224357"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4e9tUz3DOG0wWEM0PdlCV1"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "fake Therapist"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745467,
+                "recording_msid": "65bb47ad-e34a-424a-a357-b9231980b919",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "recording_name": "mix it",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/mix-it/6793224352"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6u0VQqrURuTQNKNG2QnYo2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168090"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/mix-it-whereisreef-ohtee"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376592"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "mix it"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745308,
+                "recording_msid": "66a9ad0c-c40d-4601-8edf-9678a13dbf79",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "9e14481d-2076-4af4-bbf0-be3e66e18f66",
+                        "recording_name": "genie",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/ive-lost-it-loko-los-egobreak"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168093"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376622"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/genie/6793224425"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451539"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/11bLq39XmsQoz4ZDWNGhQi"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "genie"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745159,
+                "recording_msid": "6946fe3d-6e23-4cd7-b127-9605f84d6bcd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "07e8610d-3be8-441d-b06b-573229a51e44",
+                        "recording_name": "fake therapist",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451537"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168091"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/fake-therapist-yk"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/fake-therapist/6793224357"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4e9tUz3DOG0wWEM0PdlCV1"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "fake Therapist"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791745020,
+                "recording_msid": "65bb47ad-e34a-424a-a357-b9231980b919",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                        "lastfm_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "lastfm_track_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "egobreak",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e878f15-50aa-4087-966a-f3cc1f06dce3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Egobreak",
+                                "artist_mbid": "6e878f15-50aa-4087-966a-f3cc1f06dce3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45735056177,
+                        "caa_release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "recording_mbid": "920ac082-d36e-466a-8cde-8dbae286c619",
+                        "recording_name": "mix it",
+                        "release_group_mbid": "65068898-8749-43ca-a541-a88ceed5d3e8",
+                        "release_mbid": "24ae0e56-093a-49b1-9640-290b5f40f71a",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/mix-it/6793224352"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/437451536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6u0VQqrURuTQNKNG2QnYo2"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/545168090"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/snowballet/mix-it-whereisreef-ohtee"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4168376592"
+                            }
+                        ]
+                    },
+                    "release_name": "the Haunted",
+                    "track_name": "mix it"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791743478,
+                "recording_msid": "e72ddd3b-88ad-4a9a-b8ea-405d26622224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "lastfm_track_mbid": "b0410f7e-2cd7-42d6-a05e-87efcceecae3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "968847c6-2150-419d-b14b-68c672dcde99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "fakemink",
+                                "artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40506324402,
+                        "caa_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "recording_mbid": "b0410f7e-2cd7-42d6-a05e-87efcceecae3",
+                        "recording_name": "Ambilux",
+                        "release_group_mbid": "a8b4bd9a-05a2-43d7-be05-5b7f99404b6f",
+                        "release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b"
+                    },
+                    "release_name": "Wild One",
+                    "track_name": "Ambilux"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791743346,
+                "recording_msid": "69440b3b-f687-45ff-9887-cdbbe25fdff5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "lastfm_track_mbid": "3ae61d5a-8319-4877-af26-ff4e85363b24",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "968847c6-2150-419d-b14b-68c672dcde99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "fakemink",
+                                "artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40506324402,
+                        "caa_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "recording_mbid": "3ae61d5a-8319-4877-af26-ff4e85363b24",
+                        "recording_name": "Blow Me",
+                        "release_group_mbid": "a8b4bd9a-05a2-43d7-be05-5b7f99404b6f",
+                        "release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b"
+                    },
+                    "release_name": "Wild One",
+                    "track_name": "Blow Me"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791743276,
+                "recording_msid": "152fa88d-d289-459e-95e0-1040a770c9a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_track_mbid": "aab1d3fd-1aa4-4c91-932c-fc2b86d29cc2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "release_name": "Loosies",
+                    "track_name": "Music and Me"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791743150,
+                "recording_msid": "152fa88d-d289-459e-95e0-1040a770c9a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_track_mbid": "aab1d3fd-1aa4-4c91-932c-fc2b86d29cc2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "release_name": "Loosies",
+                    "track_name": "Music and Me"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791743038,
+                "recording_msid": "745b8b5d-8e17-401f-a9ce-97497aaeee74",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "440e3027-27f0-4710-a70d-12312b08a2f4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Punk Racks",
+                    "release_name": "The Life Of Racks",
+                    "track_name": "Feel Lit"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791751031,
+                "listened_at": 1791742944,
+                "recording_msid": "6b8a86e1-0e68-4361-829e-e2bd7e1726c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "440e3027-27f0-4710-a70d-12312b08a2f4",
+                        "lastfm_track_mbid": "64a6e11e-b9ae-49c1-be32-3d3c6068be8d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Punk Racks",
+                    "release_name": "The Life Of Racks",
+                    "track_name": "The Life Of Racks"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791729494,
+                "recording_msid": "e5109c87-e806-451f-a67f-f561feb63b4e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "servin pi"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791729367,
+                "recording_msid": "6e284b44-5cd3-41c9-b96a-648cdacd6d1f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "sea sick 2"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791729248,
+                "recording_msid": "09f5c3ae-c6b9-490a-95d3-03cae81f02cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "cocoa puffs"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791729103,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728961,
+                "recording_msid": "5f83565f-bf78-4e52-8f5d-9985dacf47bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "shoutout so so"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728836,
+                "recording_msid": "7cf5742e-4a4b-40c2-9e01-4d694da61b60",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "too icy/feel"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728696,
+                "recording_msid": "0ff0f299-840b-407c-ac21-6e62ad821a9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "#groupedup"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728434,
+                "recording_msid": "9d7f9301-17a7-47aa-86b9-9f853e01468c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "shimmy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728324,
+                "recording_msid": "58e887f7-c005-47cb-8c5a-707b98f51592",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "never broke"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728199,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791730297,
+                "listened_at": 1791728093,
+                "recording_msid": "2d5911bc-baa0-4446-bc8a-becac4b04e3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "tell me your desires"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714669,
+                "recording_msid": "0ff0f299-840b-407c-ac21-6e62ad821a9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "#groupedup"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714551,
+                "recording_msid": "9d7f9301-17a7-47aa-86b9-9f853e01468c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "shimmy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714442,
+                "recording_msid": "58e887f7-c005-47cb-8c5a-707b98f51592",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "never broke"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714316,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714210,
+                "recording_msid": "2d5911bc-baa0-4446-bc8a-becac4b04e3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "tell me your desires"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791714091,
+                "recording_msid": "7c81791a-d37e-4156-b389-5912667fef21",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "happy withdraw day"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791713954,
+                "recording_msid": "553b4fbc-9412-4629-883b-9db3b7648739",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "trap inna A"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791713681,
+                "recording_msid": "e5109c87-e806-451f-a67f-f561feb63b4e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "servin pi"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791712485,
+                "recording_msid": "6e284b44-5cd3-41c9-b96a-648cdacd6d1f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "sea sick 2"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791712366,
+                "recording_msid": "09f5c3ae-c6b9-490a-95d3-03cae81f02cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "cocoa puffs"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791712247,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791712121,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791711902,
+                "recording_msid": "e94e3dd3-3d66-495f-b316-89d0b04421a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fangmadesoso",
+                    "release_name": "fangmade",
+                    "track_name": "balloon boy"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791710860,
+                "recording_msid": "07693fdc-ede6-4464-b518-097a42749547",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5c661276-9137-460c-9fdb-8a0f0ba816bd",
+                        "lastfm_release_mbid": "b6242db2-759c-4ce0-8b3b-b1acd341cf90",
+                        "lastfm_track_mbid": "7eca2d92-2372-471a-b5fc-8be9de8a79dc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Edyn",
+                    "release_name": "Neverending Bloodshed",
+                    "track_name": "tmu"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791710493,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791710351,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791710222,
+                "recording_msid": "7f5138d1-c996-4ec5-8ad5-61553f0b1326",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PINKBLXXD",
+                    "release_name": "i hate summer",
+                    "track_name": "swag ballhog"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791706345,
+                "recording_msid": "aae9d300-3159-4bd2-b2a5-39a2db7ae1e9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "lastfm_track_mbid": "3778093b-0a6c-43d3-b8e0-2630e5197e15",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "968847c6-2150-419d-b14b-68c672dcde99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "fakemink",
+                                "artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40506324402,
+                        "caa_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "recording_mbid": "3778093b-0a6c-43d3-b8e0-2630e5197e15",
+                        "recording_name": "Chinchilla",
+                        "release_group_mbid": "a8b4bd9a-05a2-43d7-be05-5b7f99404b6f",
+                        "release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b"
+                    },
+                    "release_name": "Wild One",
+                    "track_name": "Chinchilla"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791706212,
+                "recording_msid": "e72ddd3b-88ad-4a9a-b8ea-405d26622224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "lastfm_track_mbid": "b0410f7e-2cd7-42d6-a05e-87efcceecae3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "968847c6-2150-419d-b14b-68c672dcde99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "fakemink",
+                                "artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40506324402,
+                        "caa_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "recording_mbid": "b0410f7e-2cd7-42d6-a05e-87efcceecae3",
+                        "recording_name": "Ambilux",
+                        "release_group_mbid": "a8b4bd9a-05a2-43d7-be05-5b7f99404b6f",
+                        "release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b"
+                    },
+                    "release_name": "Wild One",
+                    "track_name": "Ambilux"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791706080,
+                "recording_msid": "69440b3b-f687-45ff-9887-cdbbe25fdff5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                        "lastfm_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "lastfm_track_mbid": "3ae61d5a-8319-4877-af26-ff4e85363b24",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "fakemink",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "968847c6-2150-419d-b14b-68c672dcde99"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "fakemink",
+                                "artist_mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40506324402,
+                        "caa_release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b",
+                        "recording_mbid": "3ae61d5a-8319-4877-af26-ff4e85363b24",
+                        "recording_name": "Blow Me",
+                        "release_group_mbid": "a8b4bd9a-05a2-43d7-be05-5b7f99404b6f",
+                        "release_mbid": "9cb73145-8ea1-4479-aa67-27fccc73564b"
+                    },
+                    "release_name": "Wild One",
+                    "track_name": "Blow Me"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791705165,
+                "recording_msid": "c461c0f6-713d-44b7-a04a-63793b74fad8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "95b0d5b3-2815-4ffc-9bfe-2ace8300b463",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "LAZER DIM 700",
+                    "release_name": "The Rule Of Success",
+                    "track_name": "<3"
+                },
+                "user_name": "gad"
+            },
+            {
+                "inserted_at": 1791722276,
+                "listened_at": 1791705049,
+                "recording_msid": "7e732246-87c7-456e-82cb-b90af8cea541",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+                        "lastfm_release_mbid": "5f4e6e35-2a76-4009-a3f3-a1be554014b5",
+                        "lastfm_track_mbid": "3543bbd0-2479-40b2-ac89-7df232b1ca24",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "OsamaSon",
+                    "release_name": "XTRA FLXTRA",
+                    "track_name": "buildahoe"
+                },
+                "user_name": "gad"
+            }
+        ],
+        "oldest_listen_ts": 1770578882,
+        "user_id": "gad"
+    }
+}

@@ -1,0 +1,1507 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791810854,
+        "listens": [
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810854,
+                "recording_msid": "dbb91212-d6ed-4ae9-9724-52f61ae6b60a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Butterfly Wings",
+                    "release_name": "Clarity of Mind 852Hz",
+                    "track_name": "Clarity of Mind 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810719,
+                "recording_msid": "092507da-7e2f-484b-9fe6-14625893db30",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zentral Ohm",
+                    "release_name": "Perspectiva 852Hz",
+                    "track_name": "Perspectiva 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810528,
+                "recording_msid": "2ee8ed56-a9af-4154-bcf1-4f4016021b4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Watersoothes",
+                    "release_name": "Astral Vision 852 Hz",
+                    "track_name": "Astral Vision 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810391,
+                "recording_msid": "fdf72b6a-46b2-48ec-98e6-8abbab356314",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dora Waller",
+                    "release_name": "Why The Rush (Solfeggio Frequencies)",
+                    "track_name": "852 Hz - Why The Rush"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810248,
+                "recording_msid": "d7b9aa2f-5ca6-4822-a7bf-33dece4f4848",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "machine ii",
+                    "release_name": "852 Hz Transcendent Traveler",
+                    "track_name": "852 Hz Transcendent Traveler"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791810083,
+                "recording_msid": "1538d53b-9e90-4ba5-a728-a953b0bfe11e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Akriva",
+                    "release_name": "Field Theory 852 Hz",
+                    "track_name": "Field Theory 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809934,
+                "recording_msid": "a910a123-9c2e-4aa3-9146-1bacd848abf5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Revotek",
+                    "release_name": "852 Hz Way to Heaven",
+                    "track_name": "852 Hz Way to Heaven"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809769,
+                "recording_msid": "a35a868a-6d94-4abd-a8c7-b8c3f2c46df7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shoner",
+                    "release_name": "Sunveil 852 Hz",
+                    "track_name": "Sunveil 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809632,
+                "recording_msid": "552c15d0-16b4-4c8e-976b-3dd82c510043",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luna Serenity",
+                    "release_name": "Dawnswell 852 Hz",
+                    "track_name": "Dawnswell 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809429,
+                "recording_msid": "9a40ec8a-daa7-4423-a56a-1c0a9cc8619b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Magnapinna",
+                    "release_name": "852 Hz Breath Activation",
+                    "track_name": "852 Hz Breath Activation"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809270,
+                "recording_msid": "78c73b89-cc1b-41b4-986e-549d14ce9e7f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "sofia garcia",
+                    "release_name": "North of Silence (852Hz)",
+                    "track_name": "North of Silence (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791809107,
+                "recording_msid": "9c4216a9-bb8c-4751-9550-8311149ddd67",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hugo Falkman",
+                    "release_name": "Airflow 852 Hz",
+                    "track_name": "Airflow 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808948,
+                "recording_msid": "05e7a3b9-f426-4ae9-88c9-a494197df148",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Antique Bronze",
+                    "release_name": "852 Hz Mental Clarity",
+                    "track_name": "852 Hz Mental Clarity"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808802,
+                "recording_msid": "eabc115c-ff24-4b88-ae9d-0b90bc8747ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Vastitas",
+                    "release_name": "Rest in Blue 852 Hz",
+                    "track_name": "Rest in Blue 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808615,
+                "recording_msid": "4f3ee382-a4e1-470f-96d8-ad800caa9bd9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Solfeggio Medicine Frequencies",
+                    "release_name": "Solfeggio Medicine Frecuencies Vol. 1",
+                    "track_name": "852hz Return to Spiritual Order"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808446,
+                "recording_msid": "9f06f75e-8dc8-4ef5-9d8e-9483330a48e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Emotional Pleasure",
+                    "release_name": "Return to the Quiet Sun (852Hz)",
+                    "track_name": "Return to the Quiet Sun (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808292,
+                "recording_msid": "7b6b576e-b425-483b-b918-99442249653b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hortalis",
+                    "release_name": "Iremia 852 Hz",
+                    "track_name": "Iremia 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791808134,
+                "recording_msid": "b958b09d-3613-4f8c-8703-528ee23db3ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Aerial Lakes",
+                    "release_name": "852 Hz Absorbance",
+                    "track_name": "852 Hz Absorbance"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807994,
+                "recording_msid": "aa8477ae-8ea3-4949-a21b-42dd16cfe770",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Starstrum",
+                    "release_name": "Deep Recall 852Hz",
+                    "track_name": "Deep Recall 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807836,
+                "recording_msid": "2d360ba0-e1d1-4e2d-95a2-47b860f4c481",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Akriva",
+                    "release_name": "852 Hz Holistic Mind",
+                    "track_name": "852 Hz Holistic Mind"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807700,
+                "recording_msid": "eed6dfe9-48a5-4391-97ee-73bc4b09ac35",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Crechale",
+                    "release_name": "Deep Sleep 852 Hz",
+                    "track_name": "Deep Sleep 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807411,
+                "recording_msid": "ca1e9c64-c22e-435a-b30a-4917baa06286",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Solfeggio Medicine Frequencies",
+                    "release_name": "Solfeggio Medicine Frequencies Vol. 2",
+                    "track_name": "852hz Awaken your Intuition"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807290,
+                "recording_msid": "7a683637-16d9-4832-b0c9-2c42bb8e6a23",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Solvekin",
+                    "release_name": "Ethereal Sleep - Solfeggio",
+                    "track_name": "852 Hz - Ethereal Sleep"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791807159,
+                "recording_msid": "70229cfa-1409-44ae-860f-940d90e864b5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Feed your Soul",
+                    "release_name": "852 Hz Calm Your Mind",
+                    "track_name": "852 Hz Quiet Your Brain"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806981,
+                "recording_msid": "c98e34dd-7d79-481a-992d-ac1b1bade2cb",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Svara Mandala",
+                    "release_name": "Liberación 852Hz",
+                    "track_name": "Liberación 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806828,
+                "recording_msid": "e0dc7a95-b7c9-450e-b815-80f9666b6473",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "17571a0f-b55f-4864-a70f-3c752d27611c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Skimmer",
+                    "release_name": "Return to Clarity 852 Hz",
+                    "track_name": "Return to Clarity 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806765,
+                "recording_msid": "e1bc28ab-b574-4893-8d3b-a55241823afa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Breath of the Soul",
+                    "release_name": "Boost your Aura (852Hz)",
+                    "track_name": "Boost your Aura (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806596,
+                "recording_msid": "4b2e5e46-572e-4b86-9785-f4f023a80196",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Elin Lysvik",
+                    "release_name": "852 Hz Boundless Presence",
+                    "track_name": "852 Hz Boundless Presence"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806437,
+                "recording_msid": "8759ed26-c3d5-4211-b94f-d8277c30d043",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Z Izzard",
+                    "release_name": "Moon Flower 852 Hz",
+                    "track_name": "Moon Flower 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806298,
+                "recording_msid": "4cc20a5f-c241-44b8-b6b9-fbf101e31163",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Noontic",
+                    "release_name": "Stillness Within 852 Hz",
+                    "track_name": "Stillness Within 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791806119,
+                "recording_msid": "599aea2a-cb1a-42dd-b67e-a23adfdde15d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ecos del Reposo",
+                    "release_name": "852 Hz Through Illusions",
+                    "track_name": "852 Hz Through Illusions"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805961,
+                "recording_msid": "d6727595-e6eb-4516-b37e-82255129ed7b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Solfeggio Sound Empire",
+                    "release_name": "852Hz Deep Mental Clarity",
+                    "track_name": "852Hz Deep Mental Clarity"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805804,
+                "recording_msid": "6805b347-f0c0-48d2-913a-2d90fd1ae811",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jerzy Elle",
+                    "release_name": "852Hz The Long Exhale",
+                    "track_name": "852Hz The Long Exhale"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805671,
+                "recording_msid": "350e69ee-6304-48e8-9337-bee1e5d0c016",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Anthropological",
+                    "release_name": "Sanctity Ascension 852 Hz",
+                    "track_name": "Sanctity Ascension 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805582,
+                "recording_msid": "f09b21a8-5cef-40a2-a171-6beb4124275d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Calm Fjord",
+                    "release_name": "Raise Your Energy (852Hz)",
+                    "track_name": "Raise Your Energy (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805418,
+                "recording_msid": "0f2afb37-3426-4653-801f-1ea6b1bafb04",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Whispering Zephyr",
+                    "release_name": "State of 852 Hz",
+                    "track_name": "State of 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805295,
+                "recording_msid": "94c696f4-d013-42e1-8cfc-685fca9dd7ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Marcus Alonso",
+                    "release_name": "Deep Relaxing (852Hz)",
+                    "track_name": "Deep Relaxing (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791805150,
+                "recording_msid": "228e0769-9735-4a20-a76d-90862183aa9e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Z Izzard",
+                    "release_name": "Inner Sanctum 852 Hz",
+                    "track_name": "Inner Sanctum 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791804963,
+                "recording_msid": "7f1654a3-ed83-4bc0-83e9-fa7eaa808015",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Intentional Vibes",
+                    "release_name": "World Wide Vision",
+                    "track_name": "Connected (Solfeggio 852 Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791811090,
+                "listened_at": 1791804821,
+                "recording_msid": "8deb15bb-6fe4-41c3-9246-42d0183c0549",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sigmund Clyde",
+                    "release_name": "852 Hz Reconnection",
+                    "track_name": "852 Hz Reconnection"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791804656,
+                "recording_msid": "c775f202-7fe2-41a7-9a0f-5ee9b009296c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tiam Aref",
+                    "release_name": "A sky that never stops dreaming 852 Hz",
+                    "track_name": "A sky that never stops dreaming 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791804507,
+                "recording_msid": "cfe40c59-611c-4572-8a9e-78b5d0e359ae",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mosaic Tiles",
+                    "release_name": "852Hz Clarity of the Soul",
+                    "track_name": "852Hz Clarity of the Soul"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791804357,
+                "recording_msid": "73ce434a-2300-4440-be32-09bd5c5b570a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Adante Loribam",
+                    "release_name": "852 Hz Deep Sleep",
+                    "track_name": "852 Hz Deep Sleep"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791804133,
+                "recording_msid": "035f837d-a99e-4088-8b16-efab3dc1a570",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "07850009-c580-4ad2-a405-4aab18035057",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Tides",
+                    "release_name": "Before Dawn",
+                    "track_name": "Whispers of the Wind 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791803974,
+                "recording_msid": "4854a3a6-172a-4e18-b0ae-79a86d3ca321",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sky Anthus",
+                    "release_name": "A Breath Before Dawn 852 Hz",
+                    "track_name": "A Breath Before Dawn 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791804853,
+                "listened_at": 1791803826,
+                "recording_msid": "b52c39dc-b2a3-44d7-beb6-ed9869d8b6c3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La-Mu",
+                    "release_name": "Sedang Tidur Part II",
+                    "track_name": "852 Hz - Sedang Tidur Part II"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791803665,
+                "recording_msid": "13039938-39d1-4960-8106-85ca8016d95a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Silver roseS",
+                    "release_name": "Verse of Sublimity 852 Hz",
+                    "track_name": "Verse of Sublimity 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791803497,
+                "recording_msid": "6fe411c6-4e3c-44b4-87b9-f2999afb0cc8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "262822d5-992c-44bc-a719-16ec183a5c4a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "De moi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "262822d5-992c-44bc-a719-16ec183a5c4a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "De Moi",
+                                "artist_mbid": "262822d5-992c-44bc-a719-16ec183a5c4a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "23863bf0-8967-4a98-89cf-36a809e7fcb8",
+                        "recording_name": "Trippertronics 852 Hz",
+                        "release_group_mbid": "671643b2-ee2d-4fd0-9cde-5e081b21ac28",
+                        "release_mbid": "659cc939-c9da-47f0-87b5-74301ac9e1cd"
+                    },
+                    "release_name": "Trippertronics",
+                    "track_name": "Trippertronics 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791803312,
+                "recording_msid": "2999fe8c-6ead-489b-89af-1dc3ec3c47d6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Alva Bjerke",
+                    "release_name": "Spacious Awareness 852 Hz",
+                    "track_name": "Spacious Awareness 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791803166,
+                "recording_msid": "7fdb1b18-13cb-4004-8151-df00998a6c24",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "afbe5007-fbfe-42de-95d6-ff077a42f91e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Opal Skies",
+                    "release_name": "Nacre 852hz",
+                    "track_name": "Nacre 852hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802976,
+                "recording_msid": "55ebe3ca-7795-4cec-93d9-a8b5505e4bb9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "fb40b0eb-6c2f-4915-8c3a-eae0046c5f35",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drone",
+                    "release_name": "852 Hz Guiding",
+                    "track_name": "852 Hz Guiding"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802833,
+                "recording_msid": "7754f670-162b-404d-9c2e-19c1dc025434",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cosmazul",
+                    "release_name": "Solitude 852 Hz",
+                    "track_name": "Solitude 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802678,
+                "recording_msid": "fa099fcc-fdd9-4e67-84e0-7b37fc68f12f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tottori",
+                    "release_name": "852 Hz Mystic Resurgence",
+                    "track_name": "852 Hz Mystic Resurgence"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802449,
+                "recording_msid": "79507c65-5b3f-4d04-874e-d7ca144377d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d7e2c6d5-c465-4f63-bb96-07fc92e68977",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kevin Hutchins",
+                    "release_name": "852 Hz Sanctuary Return",
+                    "track_name": "852 Hz Sanctuary Return"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802296,
+                "recording_msid": "12fc1eb4-1b22-40d7-a59f-9c4683358a78",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luné",
+                    "release_name": "Sea of Dreams 852 Hz",
+                    "track_name": "Sea of Dreams 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791802142,
+                "recording_msid": "bcc801db-2301-4d4c-9bd6-662dfff88f8a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Deep Solfeggio",
+                    "release_name": "852Hz Calm Nervous System",
+                    "track_name": "852Hz Calm Nervous System"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801992,
+                "recording_msid": "39dc44c5-ce65-4d98-9312-70425271d1e7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "722b9998-ab62-4188-9507-7ac82e34dbad",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Soluna",
+                    "release_name": "Ananda 852 Hz",
+                    "track_name": "Ananda 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801807,
+                "recording_msid": "5b914be7-5a0c-4de2-9027-9886648e79ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sonic Waterfall",
+                    "release_name": "852 Hz Internal Clock",
+                    "track_name": "852 Hz Internal Clock"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801666,
+                "recording_msid": "830ce534-2ea1-4e5f-ba86-1f697a0caf0d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hank Sky",
+                    "release_name": "Mended 852 Hz",
+                    "track_name": "Mended 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801487,
+                "recording_msid": "525568ff-1e29-45fb-8ca5-147079de39f1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "CHALKA",
+                    "release_name": "Intuition 852 Hz",
+                    "track_name": "Intuition 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801338,
+                "recording_msid": "a3e52ced-aa57-47f9-8fb2-0537509263d0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Stillae",
+                    "release_name": "Timeless Knowing 852 Hz",
+                    "track_name": "Timeless Knowing 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801178,
+                "recording_msid": "864e0ab8-707f-44b8-9d0d-a8b4a67b6a9a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Insomnian",
+                    "release_name": "Beneath the Veil 852 Hz",
+                    "track_name": "Beneath the Veil 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791801051,
+                "recording_msid": "40e96960-b2b4-4f39-958c-bdc0e7373fdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "InkognitOne",
+                    "release_name": "Soledad Tranquilo",
+                    "track_name": "852 Hz - Soledad Tranquilo"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800929,
+                "recording_msid": "1c112d30-dce0-4dc9-a9b9-8f73994c181d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Still Phase",
+                    "release_name": "Light Leaving 852 Hz",
+                    "track_name": "Light Leaving 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800748,
+                "recording_msid": "aaa32352-0927-4d24-9424-3910439f9b84",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Calma",
+                    "release_name": "852 Hz Awaken",
+                    "track_name": "852 Hz Awaken"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800580,
+                "recording_msid": "ca198656-7dfe-4e3f-a701-f0bcb4c7a486",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Naumanni",
+                    "release_name": "Perspectives 852 Hz",
+                    "track_name": "Perspectives 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800389,
+                "recording_msid": "74ca9454-01b3-46a3-8868-0474defef31a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Doctor Hz",
+                    "release_name": "Night Solfeggio for the Mind",
+                    "track_name": "Garden Oasis 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800198,
+                "recording_msid": "88476b55-1be1-4220-a813-4fafa204bfbf",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ATOOM",
+                    "release_name": "Floating Through Solfeggio",
+                    "track_name": "Floating Through Solfeggio 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791800043,
+                "recording_msid": "ed797f48-af6a-4fda-b468-107431e764a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lion Thin",
+                    "release_name": "Frequency of Clarity 852 Hz",
+                    "track_name": "Frequency of Clarity 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799909,
+                "recording_msid": "2c720df9-daae-47a8-955a-29f8db5e7b8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cosmazul",
+                    "release_name": "Flowing at 852 Hz",
+                    "track_name": "Flowing at 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799729,
+                "recording_msid": "0f2777e8-9714-4005-b77a-6208ecf74c82",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ookean",
+                    "release_name": "852 Hz Regeneration",
+                    "track_name": "852 Hz Regeneration"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799564,
+                "recording_msid": "18674516-09a2-4f74-9744-d6d1ebc6a6da",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gione Gargi",
+                    "release_name": "852 Hz Spiritual",
+                    "track_name": "852 Hz Spiritual"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799374,
+                "recording_msid": "ba8dcde3-837a-4335-9c26-59065b75bf26",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Magnapinna",
+                    "release_name": "852 Hz Quantum Healing",
+                    "track_name": "852 Hz Quantum Healing"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799230,
+                "recording_msid": "32b1d8b9-1ec7-4ffa-84ca-6bd3da712525",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Terra Silva",
+                    "release_name": "Inner Clearing 852 Hz",
+                    "track_name": "Inner Clearing 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791799054,
+                "recording_msid": "2abfd40c-3d8d-4d00-ad26-30bb317fac52",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Celestial Tonesmith",
+                    "release_name": "Whispers 852 Hz",
+                    "track_name": "Whispers 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798947,
+                "recording_msid": "b76e2775-931f-4cad-9757-a4d1775604d9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sarah Neri",
+                    "release_name": "Soothing Relaxation (852Hz)",
+                    "track_name": "Soothing Relaxation (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798706,
+                "recording_msid": "fe40d60f-76e2-4b7c-ac77-b5c0f5d51391",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bruce Brus",
+                    "release_name": "Celestial Landing 852 Hz",
+                    "track_name": "Celestial Landing 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798567,
+                "recording_msid": "505aeffb-00fc-4cb5-b630-5d41871c88c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Muir",
+                    "release_name": "Spiritual Order 852 Hz",
+                    "track_name": "Spiritual Order 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798478,
+                "recording_msid": "9d9ab298-9966-46b2-a808-3ab823b7e466",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cedric Solurez",
+                    "release_name": "Brain Healing Frequency - Gentle Stream (852Hz)",
+                    "track_name": "Brain Healing Frequency - Gentle Stream (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798341,
+                "recording_msid": "074c99e4-c33e-4dbe-8089-efdd29e4782b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "machine ii",
+                    "release_name": "The Higher Realm at 852 Hz",
+                    "track_name": "The Higher Realm at 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791798150,
+                "recording_msid": "6a0bdc84-725f-40e9-b172-25513b5ac1a6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Deep Motions",
+                    "release_name": "852 Hz Arrival",
+                    "track_name": "852 Hz Arrival"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791797959,
+                "recording_msid": "8d4c55c3-98cc-4203-ae20-93d12a74ca22",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "nite sky",
+                    "release_name": "solfeggio frequencies: clearing the mind",
+                    "track_name": "Inner Strength 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791797787,
+                "recording_msid": "715b3878-cfcb-4706-abce-acc2dbc6fb44",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sigmund Clyde",
+                    "release_name": "852 Hz Pilgrimage of the Soul",
+                    "track_name": "852 Hz Pilgrimage of the Soul"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791797630,
+                "recording_msid": "38d45cdc-ef76-4eb9-a322-107d4093ceaf",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Reikiki",
+                    "release_name": "Mirrors 852 Hz",
+                    "track_name": "Mirrors 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791803911,
+                "listened_at": 1791797457,
+                "recording_msid": "7935761a-35c1-4230-a4ac-1b8898568a3c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Aura Glow",
+                    "release_name": "Enhance Awareness 852 Hz",
+                    "track_name": "Enhance Awareness 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791797285,
+                "recording_msid": "52bac58d-9b76-451d-aa19-1a00a748f64b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ATOOM",
+                    "release_name": "Solfeggio Nonagon",
+                    "track_name": "Third Eye Solfeggio 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791797196,
+                "recording_msid": "95befcb0-c95d-4c0d-8c37-f29cee7f7a77",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josette DePenros",
+                    "release_name": "Theta Waves, Raise Your Energy (852Hz)",
+                    "track_name": "Theta Waves, Raise Your Energy (852Hz)"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791797043,
+                "recording_msid": "894013ad-576f-4da9-937c-873319c28d89",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6be9adad-1d46-4a86-b600-5cbe878cb1e4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Profundum",
+                    "release_name": "Magellan 852 Hz",
+                    "track_name": "Magellan 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796901,
+                "recording_msid": "fca85da8-66a0-43fc-8a96-5f3b2a1fe55f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sia Moon",
+                    "release_name": "Release (Solfeggio Frequencies)",
+                    "track_name": "852 Hz Release"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796678,
+                "recording_msid": "c6320bbc-98b7-4803-a04f-2a78c80e6182",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Doctor Hz",
+                    "release_name": "Solfeggio Frequencies: Aligning for Change",
+                    "track_name": "Alignment 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796509,
+                "recording_msid": "dbb91212-d6ed-4ae9-9724-52f61ae6b60a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Butterfly Wings",
+                    "release_name": "Clarity of Mind 852Hz",
+                    "track_name": "Clarity of Mind 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796374,
+                "recording_msid": "092507da-7e2f-484b-9fe6-14625893db30",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zentral Ohm",
+                    "release_name": "Perspectiva 852Hz",
+                    "track_name": "Perspectiva 852Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796183,
+                "recording_msid": "2ee8ed56-a9af-4154-bcf1-4f4016021b4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Watersoothes",
+                    "release_name": "Astral Vision 852 Hz",
+                    "track_name": "Astral Vision 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791796046,
+                "recording_msid": "fdf72b6a-46b2-48ec-98e6-8abbab356314",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dora Waller",
+                    "release_name": "Why The Rush (Solfeggio Frequencies)",
+                    "track_name": "852 Hz - Why The Rush"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791795903,
+                "recording_msid": "d7b9aa2f-5ca6-4822-a7bf-33dece4f4848",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "machine ii",
+                    "release_name": "852 Hz Transcendent Traveler",
+                    "track_name": "852 Hz Transcendent Traveler"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791795738,
+                "recording_msid": "1538d53b-9e90-4ba5-a728-a953b0bfe11e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Akriva",
+                    "release_name": "Field Theory 852 Hz",
+                    "track_name": "Field Theory 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791795589,
+                "recording_msid": "a910a123-9c2e-4aa3-9146-1bacd848abf5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Revotek",
+                    "release_name": "852 Hz Way to Heaven",
+                    "track_name": "852 Hz Way to Heaven"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791795425,
+                "recording_msid": "a35a868a-6d94-4abd-a8c7-b8c3f2c46df7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shoner",
+                    "release_name": "Sunveil 852 Hz",
+                    "track_name": "Sunveil 852 Hz"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791794806,
+                "recording_msid": "5982755b-4e25-4fa9-8a65-143385981d6e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+                        "lastfm_release_mbid": "84ce1a94-6a9a-4108-b9bd-6886cc6fd87e",
+                        "lastfm_track_mbid": "e0532d44-a61d-42fb-bce7-1b6501158be7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ROSALÍA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ROSALÍA",
+                                "artist_mbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43405280844,
+                        "caa_release_mbid": "e5913eac-3d74-47af-a3f2-7aa6618f140a",
+                        "recording_mbid": "e0532d44-a61d-42fb-bce7-1b6501158be7",
+                        "recording_name": "Magnolias",
+                        "release_group_mbid": "bb3ec118-57df-4eb9-a8fe-a26a70a7dbe0",
+                        "release_mbid": "1dc2a2d8-7155-4260-b765-acb8be02178f",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3961034641"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3640141032"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1848167790"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1848167790"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/472230549"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/6762233046"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/6762233046"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1848167790"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4cSEOMb21q2S2ypucBvQT0"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1848167790"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/515959084"
+                            }
+                        ]
+                    },
+                    "release_name": "LUX",
+                    "track_name": "Magnolias"
+                },
+                "user_name": "biokarlito"
+            },
+            {
+                "inserted_at": 1791797567,
+                "listened_at": 1791794600,
+                "recording_msid": "a956ed5f-beee-4adb-ad83-ff067b7e51b2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "FF"
+                },
+                "user_name": "biokarlito"
+            }
+        ],
+        "oldest_listen_ts": 1585650038,
+        "user_id": "biokarlito"
+    }
+}

@@ -1,0 +1,2495 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791536374,
+        "listens": [
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791749748,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791749624,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791749502,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791749385,
+                "recording_msid": "36f6f76f-5a0a-461e-af36-f79eacdab945",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "lastfm_track_mbid": "f53e8414-0907-446d-816d-addb064dbcc1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Troye Sivan",
+                                "artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45920460021,
+                        "caa_release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9",
+                        "recording_mbid": "f53e8414-0907-446d-816d-addb064dbcc1",
+                        "recording_name": "She’s the Best",
+                        "release_group_mbid": "511dbc31-340f-49f0-ae9f-94c77acec645",
+                        "release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9"
+                    },
+                    "release_name": "She’s the Best",
+                    "track_name": "She’s The Best"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791749331,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791746552,
+                "recording_msid": "378f9544-ef43-40a7-867c-b5b16115bb15",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Homixide Osama",
+                    "release_name": "Opp Pack (feat. R5) - Single",
+                    "track_name": "Opp Pack (feat. R5)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791744580,
+                "recording_msid": "b82aed22-ee71-457f-8071-9b0612525cae",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Djslva & NDO Dee",
+                    "release_name": "Krazy Tapes Vol.1 - EP",
+                    "track_name": "F5ck Around"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791743187,
+                "recording_msid": "6739cdde-feae-456a-861a-0e47b4829435",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "ZOUTHBAYLAKERZ"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791743075,
+                "recording_msid": "5b9c0b4d-5a25-45e9-9180-9c1096983521",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG, Cletus Strap & Earl Sweatshirt",
+                    "release_name": "Next Day Air.",
+                    "track_name": "Mr. Doubt (feat. Earl Sweatshirt & Cletus Strap)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742875,
+                "recording_msid": "56d5c0df-788f-415b-b59c-1f8eabb76b40",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & Anklesandwich",
+                    "release_name": "Next Day Air.",
+                    "track_name": "reloaded. (feat. Anklesandwich)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742742,
+                "recording_msid": "3b5d9eda-5938-4b78-832a-e42357f27a40",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & Leota",
+                    "release_name": "Next Day Air.",
+                    "track_name": "amfibbiannn (feat. Leota)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742548,
+                "recording_msid": "52c7123c-d06b-41b6-81ae-d0ecb7822092",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "skeptix."
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742402,
+                "recording_msid": "4ebe9d78-6ae6-48d3-bcd2-8a1ab4254e2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & distroROE",
+                    "release_name": "Next Day Air.",
+                    "track_name": "craig = the problem (feat. distroROE)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742308,
+                "recording_msid": "91082aa8-3afe-441d-91ce-83ac643af5ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "iN LOVING COLOUR"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742196,
+                "recording_msid": "1db91bae-b2ea-46cf-82de-4fe5c159c893",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "luke babbittt"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791742051,
+                "recording_msid": "195a39e7-fabd-4ee1-9f10-4648fdf49bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "factory reset."
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791741943,
+                "recording_msid": "de3a44c2-6208-4dd0-91bc-38c4681deaf0",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YounnMoh",
+                    "release_name": "HOPAHT MUSIC - EP",
+                    "track_name": "Send A Blitz (feat. B6)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791740210,
+                "recording_msid": "bf639825-ff1d-4698-9a67-cb2012b89894",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Dead Fried - Single",
+                    "track_name": "Dead Fried"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791740088,
+                "recording_msid": "d9db7886-c66f-4361-bae2-5f19ced6bbc2",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever - Single",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791667934,
+                "recording_msid": "4bd15747-28b9-4913-8d7a-94aaa804e88e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                        "lastfm_release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "lastfm_track_mbid": "079b495f-f4af-4878-a036-d0bcb0df65f8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Frank Ocean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e520459c-dff4-491d-a6e4-c97be35e0044"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Frank Ocean",
+                                "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32623366008,
+                        "caa_release_mbid": "8294645a-f996-44b6-9060-7f189b9f59f3",
+                        "recording_mbid": "004eedd5-8396-4eef-9de2-940e5ca9a7c0",
+                        "recording_name": "Nikes",
+                        "release_group_mbid": "0da340a0-6ad7-4fc2-a272-6f94393a7831",
+                        "release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1146195712"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/65484189"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1146195712"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1856864477"
+                            }
+                        ]
+                    },
+                    "release_name": "Blonde",
+                    "track_name": "Nikes"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791666120,
+                "recording_msid": "017ecfab-a24c-4c40-8d35-dc7b0cee6c0f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                        "lastfm_release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "lastfm_track_mbid": "20ef5a77-b596-4263-818b-b1a7d1edbfb5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Frank Ocean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e520459c-dff4-491d-a6e4-c97be35e0044"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Frank Ocean",
+                                "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32623366008,
+                        "caa_release_mbid": "8294645a-f996-44b6-9060-7f189b9f59f3",
+                        "recording_mbid": "fe8b367d-78ef-4ec3-9c9a-ff3435a65d5b",
+                        "recording_name": "Ivy",
+                        "release_group_mbid": "0da340a0-6ad7-4fc2-a272-6f94393a7831",
+                        "release_mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1146195713"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/65484190"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1146195713"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1856864487"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+                            }
+                        ]
+                    },
+                    "release_name": "Blonde",
+                    "track_name": "Ivy"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791665871,
+                "recording_msid": "a3ac62b4-20f7-456a-a69b-4cad0e66caef",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                        "lastfm_release_mbid": "e80c4d8c-2b4c-44b3-ad07-b41a181a5909",
+                        "lastfm_track_mbid": "d0b0ba5a-bae9-4f82-9e3d-09e6b71140a0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Charli xcx",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Charli xcx",
+                                "artist_mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45279077084,
+                        "caa_release_mbid": "e80c4d8c-2b4c-44b3-ad07-b41a181a5909",
+                        "recording_mbid": "d0b0ba5a-bae9-4f82-9e3d-09e6b71140a0",
+                        "recording_name": "Camera",
+                        "release_group_mbid": "15010f36-5433-4a29-9b68-26c13fb4c7ec",
+                        "release_mbid": "12a95e9d-5a5b-484a-a1e8-655fc396a98c",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796096789"
+                            }
+                        ]
+                    },
+                    "release_name": "Music, Fashion, Film",
+                    "track_name": "Camera"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791665514,
+                "recording_msid": "c44b2c03-07a5-4ed7-8ac4-81835adcd3ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Troye Sivan",
+                                "artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45920460021,
+                        "caa_release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9",
+                        "recording_mbid": "ef44b812-76a6-49fc-893b-9e5da8fa4d51",
+                        "recording_name": "She’s the Best (album teaser)",
+                        "release_group_mbid": "511dbc31-340f-49f0-ae9f-94c77acec645",
+                        "release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9"
+                    },
+                    "release_name": "She’s the Best",
+                    "track_name": "She’s the Best (Album Teaser)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791665494,
+                "recording_msid": "4d89bff0-caa2-4939-9ab7-8a4844742580",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "lOsT time (feat. lILY ROSE DEPP)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791665253,
+                "recording_msid": "bdca808e-cc8d-454e-a18e-8addf8203022",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "lOVE sO BIG IT hUrts"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791665085,
+                "recording_msid": "a956ed5f-beee-4adb-ad83-ff067b7e51b2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "FF"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791664822,
+                "recording_msid": "ac87ed51-20af-43db-a407-ac937fcb3cc9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "TROYE MEETs world"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791664659,
+                "recording_msid": "dc476cda-1b26-4908-a56e-0dab0d62fa60",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "Sex Star"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791664470,
+                "recording_msid": "458b3838-f51c-4fe4-a79f-4935dc92148e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "Le Boy"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791664260,
+                "recording_msid": "626074c0-79ac-4e8f-bb9d-082e49b717ed",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "emBARRAssingly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791664048,
+                "recording_msid": "9c2913f8-4a5b-4369-963c-cb577913c5aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "Cowboy"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791663844,
+                "recording_msid": "17964281-dcbb-4fc1-b8f3-12f10b85d7fc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "I Do This For You"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791663517,
+                "recording_msid": "742a08c5-7ce5-47f9-a8e5-9335e05a445e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "lastfm_track_mbid": "da2f6d5b-6cad-4a41-8b25-a2bc484beed1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Troye Sivan",
+                                "artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45920460021,
+                        "caa_release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9",
+                        "recording_mbid": "da2f6d5b-6cad-4a41-8b25-a2bc484beed1",
+                        "recording_name": "Party",
+                        "release_group_mbid": "511dbc31-340f-49f0-ae9f-94c77acec645",
+                        "release_mbid": "e83ee9f1-8a85-40c8-9181-e7ba19e21ed9"
+                    },
+                    "release_name": "She’s the Best",
+                    "track_name": "Party"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791753106,
+                "listened_at": 1791663316,
+                "recording_msid": "3e4c268f-3006-466b-93af-be49384f35f6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                        "lastfm_release_mbid": "ce866c52-d8b0-440a-af14-64fb9a1052a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Troye Sivan",
+                    "release_name": "She’s the Best",
+                    "track_name": "Canada Dry"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791661328,
+                "recording_msid": "0bf4a14f-fa16-42ac-8e43-d4e9c6ddac7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SlimeyBastard",
+                    "release_name": "A Reapers World",
+                    "track_name": "Reaper Talk"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791661173,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660970,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660847,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660723,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660599,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660488,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660364,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660241,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791660117,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791659994,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791659870,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791659747,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791659623,
+                "recording_msid": "0eb3ca1f-233a-4238-9260-1c81e1718c69",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "BLOCKSTAR - Single",
+                    "track_name": "Blockstar"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791670158,
+                "listened_at": 1791659498,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791659389,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791659275,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791659160,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791659045,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658930,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658815,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658700,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658586,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658471,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658355,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658240,
+                "recording_msid": "d4f86452-7201-4569-a369-15f846756036",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly - Single",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658124,
+                "recording_msid": "4ebe9d78-6ae6-48d3-bcd2-8a1ab4254e2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & distroROE",
+                    "release_name": "Next Day Air.",
+                    "track_name": "craig = the problem (feat. distroROE)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658099,
+                "recording_msid": "52f13104-aba3-4175-b428-9e20d6ed3498",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "d2a082ef-4cae-4270-be4e-96856f90380a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "d2a082ef-4cae-4270-be4e-96856f90380a",
+                        "recording_name": "MARRIED TO MY JEWELER",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303552"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831678"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831678"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420870"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154293"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154293"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "married to my jeweler"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791658050,
+                "recording_msid": "91082aa8-3afe-441d-91ce-83ac643af5ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "iN LOVING COLOUR"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657937,
+                "recording_msid": "1db91bae-b2ea-46cf-82de-4fe5c159c893",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "luke babbittt"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657792,
+                "recording_msid": "195a39e7-fabd-4ee1-9f10-4648fdf49bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "factory reset."
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657682,
+                "recording_msid": "6739cdde-feae-456a-861a-0e47b4829435",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "ZOUTHBAYLAKERZ"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657569,
+                "recording_msid": "5b9c0b4d-5a25-45e9-9180-9c1096983521",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG, Cletus Strap & Earl Sweatshirt",
+                    "release_name": "Next Day Air.",
+                    "track_name": "Mr. Doubt (feat. Earl Sweatshirt & Cletus Strap)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657370,
+                "recording_msid": "3b5d9eda-5938-4b78-832a-e42357f27a40",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & Leota",
+                    "release_name": "Next Day Air.",
+                    "track_name": "amfibbiannn (feat. Leota)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657176,
+                "recording_msid": "52c7123c-d06b-41b6-81ae-d0ecb7822092",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace & SURF GANG",
+                    "release_name": "Next Day Air.",
+                    "track_name": "skeptix."
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791657029,
+                "recording_msid": "4ebe9d78-6ae6-48d3-bcd2-8a1ab4254e2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rockitneedspace, SURF GANG & distroROE",
+                    "release_name": "Next Day Air.",
+                    "track_name": "craig = the problem (feat. distroROE)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791655621,
+                "recording_msid": "8f93e959-942a-4f64-86cf-49d182f966f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucki",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24459966920,
+                        "caa_release_mbid": "1d37edd1-8c01-407f-8821-c015fe6f3688",
+                        "recording_mbid": "fc284622-c2d8-4b80-bab9-c6379ba584a6",
+                        "recording_name": "Me Myself & I",
+                        "release_group_mbid": "67e28e9b-830b-4a3a-9b69-2bda328dd2ee",
+                        "release_mbid": "1d37edd1-8c01-407f-8821-c015fe6f3688"
+                    },
+                    "release_name": "Days B4 III",
+                    "track_name": "Me Myself & I"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791655488,
+                "recording_msid": "c6bcd05e-266a-4c39-8498-242b8708335a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                        "lastfm_release_mbid": "a4863c96-09ff-4742-aa4c-73d394ae3c4f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33476044058,
+                        "caa_release_mbid": "2e943b8e-ea28-4e67-a5a0-7240732b7a87",
+                        "recording_mbid": "c1002c13-568d-4992-a78a-a54a07a3313a",
+                        "recording_name": "Rackz got më",
+                        "release_group_mbid": "e7995d4d-e79f-47a2-b319-58790e2508ce",
+                        "release_mbid": "2e943b8e-ea28-4e67-a5a0-7240732b7a87"
+                    },
+                    "release_name": "2 Alivë (Geëk Pack)",
+                    "track_name": "Rackz got më (feat. Gunna)"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791655306,
+                "recording_msid": "8282288f-961c-4390-97ba-f7ce793b2ab2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "56beeda0-4eef-4df7-819e-a7239745702d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40909888289,
+                        "caa_release_mbid": "83680649-6d0f-4721-ae27-67edf72f56c6",
+                        "recording_mbid": "0381fbc8-1001-42ee-a34a-63b57b5b5f5b",
+                        "recording_name": "bluberry bakwood",
+                        "release_group_mbid": "ecd03234-2323-4e1d-b367-780c9dba7778",
+                        "release_mbid": "83680649-6d0f-4721-ae27-67edf72f56c6",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1711617761"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2495399541"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/321383980"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=PeVmY14vaLo"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1711617761"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Iy9fya0uIYEehrQrqOs2k"
+                            }
+                        ]
+                    },
+                    "release_name": "Closed Captions",
+                    "track_name": "bluberry bakwood"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791655164,
+                "recording_msid": "4f677efb-1d8c-4618-a2f0-724da231a140",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                        "lastfm_release_mbid": "8342fbad-cb13-44dc-bf46-3e107960cc1b",
+                        "lastfm_track_mbid": "6f59e8d4-3193-425e-8910-3da188354247",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "bleood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ce6a32ee-197d-4a59-9dad-37eb21b45c30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "bleood",
+                                "artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43914651126,
+                        "caa_release_mbid": "8342fbad-cb13-44dc-bf46-3e107960cc1b",
+                        "recording_mbid": "6f59e8d4-3193-425e-8910-3da188354247",
+                        "recording_name": "CHARLIE MURDER",
+                        "release_group_mbid": "3afca72e-918c-49d1-ad21-e7602b12be9c",
+                        "release_mbid": "8342fbad-cb13-44dc-bf46-3e107960cc1b"
+                    },
+                    "release_name": "rascal 51",
+                    "track_name": "CHARLIE MURDER"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791654857,
+                "recording_msid": "31351c3a-9adc-4206-986f-921d1ef982de",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "085d4b07-2ec5-4193-ae2a-a7d92159a46e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "085d4b07-2ec5-4193-ae2a-a7d92159a46e",
+                        "recording_name": "PEACE IN PANDEMONIUM",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154302"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303692"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420877"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831685"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831685"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154302"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Peace In Pandemonium"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791654685,
+                "recording_msid": "b8991fe7-164f-400b-acef-9450b3c4bcb3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "7e1a31a9-7523-4b61-aee0-be058a9876a1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "7e1a31a9-7523-4b61-aee0-be058a9876a1",
+                        "recording_name": "ERASE YOUR SOCIAL",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420876"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303682"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154301"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154301"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831684"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831684"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Erase Your Social"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791654535,
+                "recording_msid": "d23d6ad2-776e-4d7f-bda1-6174ee885828",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "ce4ecca8-4982-4cfe-96d5-a740491b1f78",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "ce4ecca8-4982-4cfe-96d5-a740491b1f78",
+                        "recording_name": "SSJ2",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154300"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420875"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831683"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831683"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303672"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154300"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Ssj2"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791654344,
+                "recording_msid": "5d200c5b-fd48-4800-95c5-306ca0a4735b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "4d1e3f4a-80bd-47ac-9ca8-926b69be5da4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "4d1e3f4a-80bd-47ac-9ca8-926b69be5da4",
+                        "recording_name": "ZYGOTE",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154299"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303652"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831682"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420874"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831682"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154299"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "ZYGOTE"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791654193,
+                "recording_msid": "f0222084-78f2-468e-b053-f84c94276dfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "a6f7e01b-d3b0-43a0-8cbb-14d32213538c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "a6f7e01b-d3b0-43a0-8cbb-14d32213538c",
+                        "recording_name": "SAFESPACE",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154298"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303622"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154298"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420873"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831681"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831681"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Safespace"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791653694,
+                "recording_msid": "311e3952-bd0c-42a3-8939-fc511dd44b5f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "2a3494f0-2db3-4a10-b3ce-9c28d7d30448",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "2a3494f0-2db3-4a10-b3ce-9c28d7d30448",
+                        "recording_name": "CO POISON",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303602"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420872"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831680"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831680"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154297"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154297"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "CO POISON"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791653561,
+                "recording_msid": "047aeac3-83c6-4f17-8eba-63991cd7b092",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "6dbf3ed0-1df1-475c-b2dd-682d4fa15308",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "6dbf3ed0-1df1-475c-b2dd-682d4fa15308",
+                        "recording_name": "C SECTION",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154296"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420871"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303582"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831679"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831679"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154296"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "C SECTION"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791652740,
+                "recording_msid": "49ae6f50-d9b1-4760-9cc7-99ac701635d0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "559caf3a-2e38-42d8-b713-b22d78092e99",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "559caf3a-2e38-42d8-b713-b22d78092e99",
+                        "recording_name": "OROCHIMARU",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154290"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303522"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154290"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831677"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831677"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420869"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Orochimaru"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791652575,
+                "recording_msid": "405b627b-4b74-478e-87fe-c10f95fe27fd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "939d8320-faf4-475b-a2a5-41029dce55d1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "939d8320-faf4-475b-a2a5-41029dce55d1",
+                        "recording_name": "B.Y.O.B.",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303502"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420868"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154289"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831676"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154289"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831676"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "B.Y.O.B."
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791652413,
+                "recording_msid": "535eb8db-f756-4249-ace8-1283c9595c70",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "4a8be96e-0dc3-4f1d-8031-f34f6a84d923",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "4a8be96e-0dc3-4f1d-8031-f34f6a84d923",
+                        "recording_name": "MISS BEHAVIOR",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831675"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154287"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154287"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303492"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420867"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831675"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "MISS BEHAVIOR"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791652220,
+                "recording_msid": "45aab15b-b5ab-4fff-b8d3-41b8e5241415",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "3f1eb380-7231-45e1-9997-63b847f6d223",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "3f1eb380-7231-45e1-9997-63b847f6d223",
+                        "recording_name": "STONE IN FOCUS",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303482"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831674"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831674"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420866"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154284"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154284"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "Stone In Focus"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791652071,
+                "recording_msid": "86ac62da-7293-4686-80c5-3af65b06b499",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "074073ce-6ae9-4092-adfc-26fb9d51492c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "074073ce-6ae9-4092-adfc-26fb9d51492c",
+                        "recording_name": "SPEED DEMON",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831673"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154281"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154281"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303472"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831673"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420865"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/444219495"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/speed-demon/6801685752"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/552531801"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/lucybedroque-music/speed-demon"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "speed demon"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791651925,
+                "recording_msid": "cf1dd779-001b-493b-9768-844c548e5677",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "f89ba18d-31d2-4d79-bb1f-e1dd54549d22",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "f89ba18d-31d2-4d79-bb1f-e1dd54549d22",
+                        "recording_name": "THE 9TH CIRCLE",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154280"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420864"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154280"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831672"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831672"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303462"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "THE 9TH CIRCLE"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791659413,
+                "listened_at": 1791651803,
+                "recording_msid": "315b4e74-b20f-42de-9998-74952934f464",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                        "lastfm_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "lastfm_track_mbid": "d2f211df-cf0e-4c74-bf0c-c8f2757a554e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucy Bedroque",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lucy Bedroque",
+                                "artist_mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46220824860,
+                        "caa_release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "recording_mbid": "d2f211df-cf0e-4c74-bf0c-c8f2757a554e",
+                        "recording_name": "ALL SPEAKERS GO TO HEAVEN",
+                        "release_group_mbid": "e0c4c147-23ca-47f2-b46b-38865bd8b672",
+                        "release_mbid": "d9e806fa-f3cc-406c-a50e-06eebbb863c9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/451831671"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4293303452"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/451831671"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6811154279"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/560420863"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6811154279"
+                            }
+                        ]
+                    },
+                    "release_name": "C",
+                    "track_name": "All Speakers Go to Heaven"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791651471,
+                "listened_at": 1791650423,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791651471,
+                "listened_at": 1791646366,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639627,
+                "recording_msid": "df232a0c-926f-4531-8ac3-7ac280580546",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639506,
+                "recording_msid": "df232a0c-926f-4531-8ac3-7ac280580546",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639385,
+                "recording_msid": "df232a0c-926f-4531-8ac3-7ac280580546",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639264,
+                "recording_msid": "df232a0c-926f-4531-8ac3-7ac280580546",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639142,
+                "recording_msid": "df232a0c-926f-4531-8ac3-7ac280580546",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Forever",
+                    "track_name": "Forever"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791639019,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791638903,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791638787,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791638672,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            },
+            {
+                "inserted_at": 1791641465,
+                "listened_at": 1791638556,
+                "recording_msid": "c7f0f083-1bc6-461d-a33c-eca130ca9997",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NDO DEE",
+                    "release_name": "Free Booly",
+                    "track_name": "Free Booly"
+                },
+                "user_name": "negassie"
+            }
+        ],
+        "oldest_listen_ts": 1547238941,
+        "user_id": "negassie"
+    }
+}

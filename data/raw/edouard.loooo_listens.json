@@ -1,0 +1,3852 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791552495,
+        "listens": [
+            {
+                "inserted_at": 1791785277,
+                "listened_at": 1791781879,
+                "recording_msid": "153542ec-aee0-4411-a6e6-0252112c853a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b4a9c13f-e8c6-44cb-a693-1c23e8692cd5",
+                        "lastfm_release_mbid": "e98fc82b-c635-4ead-aa7c-831be1683367",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rim'K",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                            "b4a9c13f-e8c6-44cb-a693-1c23e8692cd5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rim’K",
+                                "artist_mbid": "b4a9c13f-e8c6-44cb-a693-1c23e8692cd5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34739812294,
+                        "caa_release_mbid": "a903289a-bf19-402c-b77a-f5dc82b2c618",
+                        "recording_mbid": "3afe2f96-c652-426a-b0c3-ac292cfe97ea",
+                        "recording_name": "Air Max",
+                        "release_group_mbid": "2190df57-d3d0-40a0-b065-18552c41a1a5",
+                        "release_mbid": "e98fc82b-c635-4ead-aa7c-831be1683367"
+                    },
+                    "release_name": "Mutant",
+                    "track_name": "Air Max"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791785277,
+                "listened_at": 1791781665,
+                "recording_msid": "16739d85-b4fa-4fe4-9972-1005603989b9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                        "lastfm_release_mbid": "8e081502-cc72-4ac5-8a0b-3462d88c0d9d",
+                        "lastfm_track_mbid": "54ebb52f-5c5c-4068-b3a6-704590ee37b2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24718573277,
+                        "caa_release_mbid": "8e081502-cc72-4ac5-8a0b-3462d88c0d9d",
+                        "recording_mbid": "a03d0ea7-5848-4f18-8219-499db5fd3609",
+                        "recording_name": "Nuit",
+                        "release_group_mbid": "19624d6d-fafd-4e93-9acc-0cef822117c2",
+                        "release_mbid": "97140414-845f-4160-8063-102502ce7f47"
+                    },
+                    "release_name": "Southside",
+                    "track_name": "Nuit"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791781487,
+                "recording_msid": "269df658-da8e-42ac-bdaa-998a9def2179",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ven1",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a65c7855-c9f4-41e7-baa8-781ad8cd3e48",
+                            "d55023b5-cf46-4c5a-9124-ae956808a149"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "VEN1",
+                                "artist_mbid": "a65c7855-c9f4-41e7-baa8-781ad8cd3e48",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ramos.",
+                                "artist_mbid": "d55023b5-cf46-4c5a-9124-ae956808a149",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42106785207,
+                        "caa_release_mbid": "8933f782-0ed4-4764-bff5-f5306895912b",
+                        "recording_mbid": "405475ab-5ba4-4ed9-b8b8-abfa781461e0",
+                        "recording_name": "Vanilla",
+                        "release_group_mbid": "c0df56e2-bcaf-4b18-b360-e7e0f5d525d1",
+                        "release_mbid": "8933f782-0ed4-4764-bff5-f5306895912b"
+                    },
+                    "release_name": "Nichen",
+                    "track_name": "Vanilla"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791781330,
+                "recording_msid": "de657544-c52c-4cbc-b64b-04c517e82280",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                        "lastfm_release_mbid": "8e081502-cc72-4ac5-8a0b-3462d88c0d9d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24718573277,
+                        "caa_release_mbid": "8e081502-cc72-4ac5-8a0b-3462d88c0d9d",
+                        "recording_mbid": "7b348e74-9642-456e-b4d4-13fbf743c765",
+                        "recording_name": "Cabaleira",
+                        "release_group_mbid": "19624d6d-fafd-4e93-9acc-0cef822117c2",
+                        "release_mbid": "97140414-845f-4160-8063-102502ce7f47"
+                    },
+                    "release_name": "Southside",
+                    "track_name": "Cabeleira"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791781223,
+                "recording_msid": "545ba9df-06e1-4649-8180-e93245cf2523",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_track_mbid": "0ede0407-0f67-41cd-aa21-c59709deb872",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "recording_mbid": "bf891049-1471-4dbc-91fa-f91052c60440"
+                    },
+                    "release_name": "M.I.L.S",
+                    "track_name": "Dis-moi que tu m'aimes"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791781024,
+                "recording_msid": "47900ba7-bec6-4f38-b160-c880dfa84617",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Népal",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "85a55a8c-c042-40d6-9dc5-fb85d0d926cf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Népal",
+                                "artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21012816269,
+                        "caa_release_mbid": "bc0d8cad-53e9-4f64-92f5-cdcb84695efc",
+                        "recording_mbid": "125c60f0-ea5b-4ba1-b046-cc1b57ffed55",
+                        "recording_name": "Babylone",
+                        "release_group_mbid": "4d8341cd-5451-4a6d-9b1d-e9d705f136ae",
+                        "release_mbid": "4f9d6b7b-fb9a-4b05-b261-89afd43bf205"
+                    },
+                    "release_name": "KKSHISENSE8",
+                    "track_name": "Babylone"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791780716,
+                "recording_msid": "199d3a06-6ac1-40a4-8837-44579d93c240",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                        "lastfm_release_mbid": "898aa2f3-3c06-47ed-9205-269475c7f6a9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jok'Air",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                            "0c17f441-47eb-4e75-bac0-20d985c288d6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jok’Air",
+                                "artist_mbid": "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Mallaury",
+                                "artist_mbid": "0c17f441-47eb-4e75-bac0-20d985c288d6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43802063304,
+                        "caa_release_mbid": "6e11de7e-9710-46f8-985a-e12100d72e1f",
+                        "recording_mbid": "3bbaeeb2-8373-463c-85d7-425923f444bd",
+                        "recording_name": "Bonbon à la menthe",
+                        "release_group_mbid": "2f62898c-bccb-465b-b708-805cb104497c",
+                        "release_mbid": "898aa2f3-3c06-47ed-9205-269475c7f6a9"
+                    },
+                    "release_name": "Jok'Travolta",
+                    "track_name": "Bonbon à la menthe"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791780518,
+                "recording_msid": "41ee9d49-0032-4307-9d6f-2b19a614c2da",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                        "lastfm_release_mbid": "0ee53670-a646-4704-bd4d-33946c4edcd6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jazzy Bazz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                            "d721866d-5640-44ee-87f7-23dd062abd8a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jazzy Bazz",
+                                "artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                                "join_phrase": " feat "
+                            },
+                            {
+                                "artist_credit_name": "Nekfeu",
+                                "artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20568981400,
+                        "caa_release_mbid": "0ee53670-a646-4704-bd4d-33946c4edcd6",
+                        "recording_mbid": "1e2de1a2-eaa5-4f4f-a4a5-5726ceff7ee0",
+                        "recording_name": "Éternité",
+                        "release_group_mbid": "0874bb0e-fb95-4777-99cd-e31a94fae20a",
+                        "release_mbid": "e9be5c70-6dcd-43ef-ac67-4b96bf4e50d8"
+                    },
+                    "release_name": "Nuit",
+                    "track_name": "Éternité"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791780329,
+                "recording_msid": "71b9ecb5-33a9-4308-81cf-7b7fee462404",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "bf1af5a1-d5f6-4298-aa78-14cdb6829e13",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "B.B. Jacques",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bf1af5a1-d5f6-4298-aa78-14cdb6829e13"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "B.B. Jacques",
+                                "artist_mbid": "bf1af5a1-d5f6-4298-aa78-14cdb6829e13",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30435673291,
+                        "caa_release_mbid": "eb8fa0f2-fe03-4a32-a9ee-ec30d13cdc9d",
+                        "recording_mbid": "bd796036-b572-43d1-9054-d6c2a4e19a74",
+                        "recording_name": "De la lune",
+                        "release_group_mbid": "c01058a4-41ee-4b60-b171-88b455c4f0a1",
+                        "release_mbid": "eb8fa0f2-fe03-4a32-a9ee-ec30d13cdc9d"
+                    },
+                    "release_name": "La nuit sera calme",
+                    "track_name": "De la lune (feat. Shadi)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791780128,
+                "recording_msid": "037f9267-80f0-4be4-abbc-8616d63ded17",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                        "lastfm_release_mbid": "50d6403e-daa0-4b33-beb2-ab817da229b2",
+                        "lastfm_track_mbid": "069a7c75-7897-4407-99d6-bf1c4589684b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nekfeu",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d721866d-5640-44ee-87f7-23dd062abd8a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nekfeu",
+                                "artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11260011752,
+                        "caa_release_mbid": "50d6403e-daa0-4b33-beb2-ab817da229b2",
+                        "recording_mbid": "16d9a2bf-303e-4def-b67a-17e0f2732f2d",
+                        "recording_name": "Égérie",
+                        "release_group_mbid": "3448c75c-f59e-41c3-9aee-03f851f80031",
+                        "release_mbid": "fcce99b4-eaad-42ff-aaf7-eecade69978d"
+                    },
+                    "release_name": "Feu",
+                    "track_name": "Egérie"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791779989,
+                "recording_msid": "0e5ec1cf-a4de-4a9b-ad1c-16f33b7fa6c5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                        "lastfm_release_mbid": "b5937ccb-5269-409c-8dbc-49c3f60e95e7",
+                        "lastfm_track_mbid": "57b69d66-0b7a-4221-92aa-3939fe4a6af5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26620342799,
+                        "caa_release_mbid": "b5937ccb-5269-409c-8dbc-49c3f60e95e7",
+                        "recording_mbid": "9b049b95-12c4-4757-ac90-25f85a818fcf",
+                        "recording_name": "Cabeza",
+                        "release_group_mbid": "b97d8ad1-35f1-445d-8862-a8a8b5d176db",
+                        "release_mbid": "b5937ccb-5269-409c-8dbc-49c3f60e95e7"
+                    },
+                    "release_name": "Mafana",
+                    "track_name": "Cabeza"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791779773,
+                "recording_msid": "35cf1d9d-dded-4117-8d75-4d12819834f0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+                        "lastfm_release_mbid": "7d987f75-1495-4d39-baea-32910890c5b7",
+                        "lastfm_track_mbid": "f1d96e3d-2b0b-4f36-9a4a-eae40f38d684",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hamza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6a2244c9-3122-454e-b83d-b23e2968884e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hamza",
+                                "artist_mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12481773329,
+                        "caa_release_mbid": "7d987f75-1495-4d39-baea-32910890c5b7",
+                        "recording_mbid": "f0e3f49c-ed35-4060-a514-5b245bda239f",
+                        "recording_name": "Mi Amor",
+                        "release_group_mbid": "8ae326ac-43b7-41cb-b321-718906343de3",
+                        "release_mbid": "7d987f75-1495-4d39-baea-32910890c5b7",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/423282028"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/be/song/1799183737"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0LbuSkJMsSFTKCvGSweQQ4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3271036001"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/be/song/1799183737"
+                            }
+                        ]
+                    },
+                    "release_name": "H-24",
+                    "track_name": "Mi Amor"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791779477,
+                "recording_msid": "0d31b30d-f1c1-4938-b641-f391662fa0e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                        "lastfm_release_mbid": "da9f5cce-bb69-4cd6-8edf-f2f8607dca30",
+                        "lastfm_track_mbid": "07397c6c-550b-44ee-b443-a68361f174ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Damso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16408350309,
+                        "caa_release_mbid": "da9f5cce-bb69-4cd6-8edf-f2f8607dca30",
+                        "recording_mbid": "0b857fdf-866b-4fb9-9de0-4a8b9cacdd97",
+                        "recording_name": "Γ. Mosaïque solitaire",
+                        "release_group_mbid": "b61b58cb-2bf3-4363-bdb1-e2afb19f5287",
+                        "release_mbid": "f3f80c9c-973d-4fe6-9a94-9d8b4ce93d93"
+                    },
+                    "release_name": "Ipséité",
+                    "track_name": "Γ. Mosaïque solitaire"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791779248,
+                "recording_msid": "112121d9-cae0-40b9-85ec-e5bce2996b9d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                        "lastfm_release_mbid": "bf2547b6-43ab-4220-9380-b8948d325a01",
+                        "lastfm_track_mbid": "f51461df-3081-44e3-be82-fd9b644be625",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Laylow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b04c952c-16c4-41ad-bd62-ace5047cdf6e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Laylow",
+                                "artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15379007868,
+                        "caa_release_mbid": "bf2547b6-43ab-4220-9380-b8948d325a01",
+                        "recording_mbid": "a2d2aedf-e64f-4ede-a218-26addbddf2ec",
+                        "recording_name": "10'",
+                        "release_group_mbid": "2785fce9-63ab-43e0-8ab0-16f482fe3562",
+                        "release_mbid": "bf2547b6-43ab-4220-9380-b8948d325a01"
+                    },
+                    "release_name": "Mercy",
+                    "track_name": "10'"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791779085,
+                "recording_msid": "84ea63b1-ee96-49b4-a30c-9985c77ff2e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "15d97e20-69c3-4876-8dcc-3360c7d1251b",
+                        "lastfm_release_mbid": "0061bb1e-6dd2-4106-a4c7-ed78b2bcef03",
+                        "lastfm_track_mbid": "077ba17e-b737-4da8-acff-4c1d1744c2a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zola",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3134d99c-a372-424a-9f65-d2dacfdccaba"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zola",
+                                "artist_mbid": "3134d99c-a372-424a-9f65-d2dacfdccaba",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27573799089,
+                        "caa_release_mbid": "0061bb1e-6dd2-4106-a4c7-ed78b2bcef03",
+                        "recording_mbid": "5e099126-06d2-4dfc-bb4a-131ff475f9d0",
+                        "recording_name": "Madame",
+                        "release_group_mbid": "ce77f781-5cbb-4079-ac04-2a4da620eb8c",
+                        "release_mbid": "76f1c08e-5126-4364-a635-efc99d4edd77"
+                    },
+                    "release_name": "Survie",
+                    "track_name": "Madame"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778964,
+                "recording_msid": "0ec78732-f947-4a02-b4ff-e793c59d9458",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Népal",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "85a55a8c-c042-40d6-9dc5-fb85d0d926cf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Népal",
+                                "artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25160022671,
+                        "caa_release_mbid": "3153e24e-393f-4b63-9a84-c1632bc724e4",
+                        "recording_mbid": "ae4f8491-0828-4857-936a-ccc1e87f6573",
+                        "recording_name": "Sundance",
+                        "release_group_mbid": "e390114f-c3b9-4391-8439-567efd26b518",
+                        "release_mbid": "d2556221-7a4f-4ff4-b591-1f52b0973727"
+                    },
+                    "release_name": "Adios Bahamas",
+                    "track_name": "Sundance"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778812,
+                "recording_msid": "0c9140da-3bd4-4dfa-abc7-644bccbe9c0a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e132494a-9138-49b4-a64e-874974729ef1",
+                        "lastfm_track_mbid": "74e3db2d-51e4-437e-a623-3875b6571fc2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Folie's",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e132494a-9138-49b4-a64e-874974729ef1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Folie's",
+                                "artist_mbid": "e132494a-9138-49b4-a64e-874974729ef1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44569265040,
+                        "caa_release_mbid": "45fbfe23-438e-41ee-9707-9ed1ef86d69f",
+                        "recording_mbid": "74e3db2d-51e4-437e-a623-3875b6571fc2",
+                        "recording_name": "BAD!",
+                        "release_group_mbid": "99769b42-ae36-40e7-8800-9267ac1d6234",
+                        "release_mbid": "45fbfe23-438e-41ee-9707-9ed1ef86d69f"
+                    },
+                    "release_name": "Folie's je t'aime",
+                    "track_name": "BAD!"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778593,
+                "recording_msid": "1f64444a-9963-446a-bd80-69f5c113a870",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                        "lastfm_release_mbid": "0ee53670-a646-4704-bd4d-33946c4edcd6",
+                        "lastfm_track_mbid": "574a8d12-edec-419b-9004-01feb86b852d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jazzy Bazz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6b786b4-0695-4fdc-954d-09612e74d9aa"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jazzy Bazz",
+                                "artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20568981400,
+                        "caa_release_mbid": "0ee53670-a646-4704-bd4d-33946c4edcd6",
+                        "recording_mbid": "6102f26e-f43c-470c-85e8-a7b30a8bf49d",
+                        "recording_name": "Cinq heures du matin",
+                        "release_group_mbid": "0874bb0e-fb95-4777-99cd-e31a94fae20a",
+                        "release_mbid": "e9be5c70-6dcd-43ef-ac67-4b96bf4e50d8"
+                    },
+                    "release_name": "Nuit",
+                    "track_name": "Cinq heures du matin"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778418,
+                "recording_msid": "cf8fb4d7-2848-4ee9-a047-5c0d955109ba",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                        "lastfm_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "lastfm_track_mbid": "9a6fcb2d-694b-423f-bca6-25904acdef76",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SDM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ee5acbd5-d291-4fe1-a06a-88060b131b77"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SDM",
+                                "artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39987000322,
+                        "caa_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "recording_mbid": "1b386c60-336e-473b-b8fe-fbc64d6dd7eb",
+                        "recording_name": "CARTIER SANTOS",
+                        "release_group_mbid": "901888b7-d739-4c52-b3ee-c453ac83d882",
+                        "release_mbid": "7dde3f73-8591-437a-b612-80d175f26ad4",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1819699060"
+                            }
+                        ]
+                    },
+                    "release_name": "A LA VIE A LA MORT",
+                    "track_name": "CARTIER SANTOS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778225,
+                "recording_msid": "f4b30f2d-fee5-4d72-9a8e-57a9d5a54867",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                        "lastfm_release_mbid": "790a26e3-1129-414a-8f2e-4b0ad660d765",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jok'Air",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jok’Air",
+                                "artist_mbid": "7f7e87b2-7680-42f5-8ad0-d0af6555212e",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35632650192,
+                        "caa_release_mbid": "790a26e3-1129-414a-8f2e-4b0ad660d765",
+                        "recording_mbid": "e48414d4-9def-4b91-9f46-d0a0d82510a4",
+                        "recording_name": "Quoi de neuf bébé",
+                        "release_group_mbid": "c6bd01c8-9306-4163-98fa-d42360c577fb",
+                        "release_mbid": "790a26e3-1129-414a-8f2e-4b0ad660d765"
+                    },
+                    "release_name": "Melvin de Paris",
+                    "track_name": "Quoi de neuf bébé"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791778048,
+                "recording_msid": "d6623c7b-8931-4a65-b93d-439d33dc3acc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                        "lastfm_release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b",
+                        "lastfm_track_mbid": "787dbf77-09c5-4615-a601-a6de2ef9c355",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23374318576,
+                        "caa_release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b",
+                        "recording_mbid": "f2afc2c1-4f25-4402-8fe8-219f4f918fc2",
+                        "recording_name": "Alpha",
+                        "release_group_mbid": "d008ef9c-4567-4fe9-bb6d-a65c0873fcd8",
+                        "release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b"
+                    },
+                    "release_name": "OMEGA",
+                    "track_name": "Alpha"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777816,
+                "recording_msid": "b3f36e24-a888-4ec9-9e4c-5d40a6f14db2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_release_mbid": "e83579dc-2404-4b17-b9c4-830f77ef9de8",
+                        "lastfm_track_mbid": "a161cd0a-dbd6-4fa7-9601-ffbd8ee57c0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16846317642,
+                        "caa_release_mbid": "e83579dc-2404-4b17-b9c4-830f77ef9de8",
+                        "recording_mbid": "cd120969-27c8-4dff-8009-6fe27385ccbd",
+                        "recording_name": "Au Bout",
+                        "release_group_mbid": "6a9610df-c90b-4a6f-bb02-9347783163c8",
+                        "release_mbid": "e83579dc-2404-4b17-b9c4-830f77ef9de8"
+                    },
+                    "release_name": "000$",
+                    "track_name": "Au Bout"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777667,
+                "recording_msid": "7f924e9d-012a-43b6-9733-453ffc1bd33b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "5834c770-7339-4c5f-b5f8-47309d2c344e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ven1",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a65c7855-c9f4-41e7-baa8-781ad8cd3e48"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "VEN1",
+                                "artist_mbid": "a65c7855-c9f4-41e7-baa8-781ad8cd3e48",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42106785207,
+                        "caa_release_mbid": "8933f782-0ed4-4764-bff5-f5306895912b",
+                        "recording_mbid": "5834c770-7339-4c5f-b5f8-47309d2c344e",
+                        "recording_name": "Hakayet",
+                        "release_group_mbid": "c0df56e2-bcaf-4b18-b360-e7e0f5d525d1",
+                        "release_mbid": "8933f782-0ed4-4764-bff5-f5306895912b"
+                    },
+                    "release_name": "Nichen",
+                    "track_name": "Hakayet"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777511,
+                "recording_msid": "19d779a8-9ac9-448b-8c31-a26895a97b5f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                        "lastfm_release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55",
+                        "lastfm_track_mbid": "a5218e90-a93c-48b6-90f1-f2b615228aeb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Laylow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b04c952c-16c4-41ad-bd62-ace5047cdf6e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Laylow",
+                                "artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21674764960,
+                        "caa_release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55",
+                        "recording_mbid": "5162ba4c-8a3c-498b-9c55-5ca1435c8afe",
+                        "recording_name": "Maladresse",
+                        "release_group_mbid": "b2185410-4aae-4be3-be70-0c3a9f78932a",
+                        "release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55"
+                    },
+                    "release_name": ".RAW-Z",
+                    "track_name": "Maladresse"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777292,
+                "recording_msid": "58802e6e-0bf8-4d47-bd73-e0ec6208a664",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+                        "lastfm_release_mbid": "9ff1dabb-9763-45c7-a244-7c04652d8a55",
+                        "lastfm_track_mbid": "11a5d0c9-5904-4d8c-82cf-03844c67b398",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hamza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6a2244c9-3122-454e-b83d-b23e2968884e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hamza",
+                                "artist_mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18150967972,
+                        "caa_release_mbid": "baff1335-ff0e-4b5c-bded-b015ebb24805",
+                        "recording_mbid": "291d787e-7bc3-4483-bff2-074d4ab2d879",
+                        "recording_name": "Life",
+                        "release_group_mbid": "2ee1bf9c-b4fb-4259-b20c-5cb312eb0427",
+                        "release_mbid": "9ff1dabb-9763-45c7-a244-7c04652d8a55",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1296240469"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/417195042"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1296240469"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/79920073"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1oHh0DAi8nJDORn90H97QA"
+                            }
+                        ]
+                    },
+                    "release_name": "1994",
+                    "track_name": "Life"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777130,
+                "recording_msid": "dc6161b8-891f-47f5-bd6a-ce1fdcdf3287",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                        "lastfm_release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d",
+                        "lastfm_track_mbid": "6771673a-1061-4e6d-9258-332565aa5ea7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nono La Grinta",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ef57061a-5919-4c3c-8905-ceb7615eb874"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nono La Grinta",
+                                "artist_mbid": "ef57061a-5919-4c3c-8905-ceb7615eb874",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42267948454,
+                        "caa_release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d",
+                        "recording_mbid": "6771673a-1061-4e6d-9258-332565aa5ea7",
+                        "recording_name": "Paris",
+                        "release_group_mbid": "451250fd-9afb-4370-94bb-791b6617d236",
+                        "release_mbid": "f8428a9c-42c0-4613-9a42-21db5ad2105d"
+                    },
+                    "release_name": "RESTART",
+                    "track_name": "Paris"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791781830,
+                "listened_at": 1791777125,
+                "recording_msid": "111d907d-c7ac-4175-b36c-cdbd318063a8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Népal",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "85a55a8c-c042-40d6-9dc5-fb85d0d926cf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Népal",
+                                "artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15600007027,
+                        "caa_release_mbid": "651c3b29-75a2-49ec-8c57-edba31a9bcdd",
+                        "recording_mbid": "68a1552f-047c-422d-acc4-c7682c370197",
+                        "recording_name": "Skyclub rmx",
+                        "release_group_mbid": "53719f1b-f8f9-4477-b660-a56fd0bb1673",
+                        "release_mbid": "651c3b29-75a2-49ec-8c57-edba31a9bcdd"
+                    },
+                    "release_name": "2016 - 2018",
+                    "track_name": "Skyclub"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791724936,
+                "listened_at": 1791718103,
+                "recording_msid": "1b7c9c4c-8250-4d6d-b6bd-433cf33d70e7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                        "lastfm_release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b",
+                        "lastfm_track_mbid": "fbf71215-c663-4c66-8286-920069815d9b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23374318576,
+                        "caa_release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b",
+                        "recording_mbid": "50230ff9-7c13-4fae-a333-ae950eee3fcb",
+                        "recording_name": "Avec Toi",
+                        "release_group_mbid": "d008ef9c-4567-4fe9-bb6d-a65c0873fcd8",
+                        "release_mbid": "e04452c2-744b-47e9-902f-51a2bf2d052b"
+                    },
+                    "release_name": "OMEGA",
+                    "track_name": "Avec Toi"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791724936,
+                "listened_at": 1791648903,
+                "recording_msid": "47363de3-2237-4255-a85d-589965ee50c2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+                        "lastfm_release_mbid": "e606731f-00fa-4c15-80d3-f1fe0f0729e6",
+                        "lastfm_track_mbid": "056c50da-f7dd-45b0-9474-c51b75fd7961",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PinkPantheress",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7441014f-f8f5-494f-81db-ff166fbc078d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PinkPantheress",
+                                "artist_mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41797917471,
+                        "caa_release_mbid": "71bc1cc0-0a54-4426-a30f-8cbc548eda3b",
+                        "recording_mbid": "056c50da-f7dd-45b0-9474-c51b75fd7961",
+                        "recording_name": "Stateside",
+                        "release_group_mbid": "7cc40a70-c4da-4726-8d84-4a7a0ee7ee6c",
+                        "release_mbid": "fc1797bb-689b-4ccd-ab71-47c7194564f9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1806614783"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5rVhh5aM1xyVe6JUXPTte3"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3588927111"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/465153350"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=vQ-a4VkeMZE"
+                            }
+                        ]
+                    },
+                    "release_name": "Fancy That",
+                    "track_name": "Stateside"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791648744,
+                "recording_msid": "f8264102-3fbf-4db5-a04c-5c4f797aec02",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "08046a6c-0e5e-4c37-859b-ed070b3a1da8",
+                        "lastfm_release_mbid": "52524626-7f49-44c0-a871-0fbedefc0e76",
+                        "lastfm_track_mbid": "73677891-64eb-4859-88ca-5a3000ee5cb2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Prince Waly",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "08046a6c-0e5e-4c37-859b-ed070b3a1da8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Prince Waly",
+                                "artist_mbid": "08046a6c-0e5e-4c37-859b-ed070b3a1da8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36786011469,
+                        "caa_release_mbid": "ab35eacd-1eca-4344-89d1-d793bb1a4aad",
+                        "recording_mbid": "73677891-64eb-4859-88ca-5a3000ee5cb2",
+                        "recording_name": "BBF",
+                        "release_group_mbid": "e22a8887-3261-4611-825f-f61ac2a19953",
+                        "release_mbid": "52524626-7f49-44c0-a871-0fbedefc0e76"
+                    },
+                    "release_name": "Moussa",
+                    "track_name": "BBF"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791648488,
+                "recording_msid": "0e2b9602-7755-4473-b10b-8ab5d6444b44",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                        "lastfm_release_mbid": "50d6403e-daa0-4b33-beb2-ab817da229b2",
+                        "lastfm_track_mbid": "daa60c79-38fa-4427-abbc-7f18cb617216",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nekfeu",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d721866d-5640-44ee-87f7-23dd062abd8a",
+                            "d4dcd067-fa98-4af0-8a07-6a47ced6814d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nekfeu",
+                                "artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Nemir",
+                                "artist_mbid": "d4dcd067-fa98-4af0-8a07-6a47ced6814d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11260011752,
+                        "caa_release_mbid": "50d6403e-daa0-4b33-beb2-ab817da229b2",
+                        "recording_mbid": "eecd6f10-a3e6-40cb-8549-9e98ebb27038",
+                        "recording_name": "Princesse",
+                        "release_group_mbid": "3448c75c-f59e-41c3-9aee-03f851f80031",
+                        "release_mbid": "fcce99b4-eaad-42ff-aaf7-eecade69978d"
+                    },
+                    "release_name": "Feu",
+                    "track_name": "Princesse"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791648320,
+                "recording_msid": "6a82e861-6122-41e2-a79e-7182c5fc88ef",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_release_mbid": "8c47bedb-cbb5-49a1-b05b-da8e8dcd84d8",
+                        "lastfm_track_mbid": "fb20ed75-8e54-4468-a8b5-92549d60b79a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40930503072,
+                        "caa_release_mbid": "4091ed0f-ea0d-4136-bb00-d8ccbb4fb1ea",
+                        "recording_mbid": "a724160a-e440-462e-98d2-8f1ca681bc42",
+                        "recording_name": "Elle m'a eu",
+                        "release_group_mbid": "e019a21d-d5c5-415d-80e3-4c44872644c6",
+                        "release_mbid": "da63d1d6-3557-4379-aeba-036039b66897"
+                    },
+                    "release_name": "Comme Prévu",
+                    "track_name": "Elle m'a eu"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791648181,
+                "recording_msid": "621f0ee5-b31e-41ac-8707-6241d488f7cb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e078d58b-e144-42ab-b21f-481181590d7a",
+                        "lastfm_track_mbid": "fb14465d-3399-4477-aa29-8c6ef3540a04",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Khali",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b5c72510-11b4-45ce-afed-f8c54570cc84"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Khali",
+                                "artist_mbid": "b5c72510-11b4-45ce-afed-f8c54570cc84",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37394740805,
+                        "caa_release_mbid": "e078d58b-e144-42ab-b21f-481181590d7a",
+                        "recording_mbid": "fb14465d-3399-4477-aa29-8c6ef3540a04",
+                        "recording_name": "RIEN NE VA ME SUFFIRE",
+                        "release_group_mbid": "1f8cd78e-30f7-49da-9ceb-9b0422063232",
+                        "release_mbid": "e078d58b-e144-42ab-b21f-481181590d7a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2560275352"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/331230182"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1718424437"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0w9qwotVazFvEAMJt4tLqs"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1718424437"
+                            }
+                        ]
+                    },
+                    "release_name": "23 -",
+                    "track_name": "RIEN NE VA ME SUFFIRE"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791648026,
+                "recording_msid": "4daac9b0-809f-4f7e-a4f0-8f458677d800",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "15e666d9-6617-4065-8817-6d3a958591bf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Caballero",
+                    "release_name": "OSO",
+                    "track_name": "Blanco"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791647741,
+                "recording_msid": "86ded241-6f6e-47b5-b21e-79d994572f64",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                        "lastfm_release_mbid": "80e6e4c5-4330-4c23-8c95-b4e16fafa4f7",
+                        "lastfm_track_mbid": "4cc3ffcf-3d13-4fc8-abee-fba9ddf09c7a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Damso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13925662926,
+                        "caa_release_mbid": "9174cb0f-55ba-4f68-976f-b1c70477738d",
+                        "recording_mbid": "df0f99cc-ebf0-4afb-97a5-5a7d29416e90",
+                        "recording_name": "Autotune",
+                        "release_group_mbid": "1fd02a81-aff7-4403-9eb4-d43c5e06639b",
+                        "release_mbid": "f8f8cd56-3836-470b-b711-d05d837a629e"
+                    },
+                    "release_name": "Batterie Faible",
+                    "track_name": "Autotune"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791647577,
+                "recording_msid": "486de9d2-f64d-43ff-9f3d-6482fe95cd69",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                        "lastfm_release_mbid": "b637a34f-56dd-4f09-90ce-1018e5e59c82",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Houdi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "08629d18-2a02-4f41-87fe-7129e7dff06e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Houdi",
+                                "artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35066052153,
+                        "caa_release_mbid": "b637a34f-56dd-4f09-90ce-1018e5e59c82",
+                        "recording_mbid": "92404412-29dc-4136-b66b-21e4df540613",
+                        "recording_name": "CIEL",
+                        "release_group_mbid": "86ec299b-18c6-4552-b65c-e18c60ed8aeb",
+                        "release_mbid": "b637a34f-56dd-4f09-90ce-1018e5e59c82"
+                    },
+                    "release_name": "LA FOLIE DES GRANDEURS",
+                    "track_name": "CIEL"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791647471,
+                "recording_msid": "358d9317-4c51-443a-9164-7a515742b6fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "5f8cede1-d58d-49e3-a715-2cb5c3ddd6c7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NES",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "894080ed-9796-4de0-ad48-263046e500fb",
+                            "1a30ade9-0c3a-4d7d-b127-507d7883fb28"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "NeS",
+                                "artist_mbid": "894080ed-9796-4de0-ad48-263046e500fb",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Luther",
+                                "artist_mbid": "1a30ade9-0c3a-4d7d-b127-507d7883fb28",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33515113192,
+                        "caa_release_mbid": "5f8cede1-d58d-49e3-a715-2cb5c3ddd6c7",
+                        "recording_mbid": "07bc0c85-8675-451a-9ec1-5e0accc5ecd3",
+                        "recording_name": "KILLCAM",
+                        "release_group_mbid": "6eddca99-47ba-4ba3-9fd8-b60437a325d1",
+                        "release_mbid": "5f8cede1-d58d-49e3-a715-2cb5c3ddd6c7"
+                    },
+                    "release_name": "LA COURSE",
+                    "track_name": "KILLCAM"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791647317,
+                "recording_msid": "398cd896-e278-4953-be3e-eb85ba0aee70",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_track_mbid": "7c37be4f-e215-40b0-a24a-52e569d56756",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37192738657,
+                        "caa_release_mbid": "0753f072-6bd0-454c-84b7-767f10231fec",
+                        "recording_mbid": "7c37be4f-e215-40b0-a24a-52e569d56756",
+                        "recording_name": "Cocktail",
+                        "release_group_mbid": "1cfd42c0-2bbf-4ea2-8d2f-2e3e7b5deea5",
+                        "release_mbid": "0753f072-6bd0-454c-84b7-767f10231fec"
+                    },
+                    "release_name": "J.000.$",
+                    "track_name": "Cocktail"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791647150,
+                "recording_msid": "3a0fec90-afee-4388-b5b3-5bc43a4c2a26",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5c1b9ce3-88f0-40cb-8cb2-fe46dd561981",
+                        "lastfm_release_mbid": "e9e6a338-3d00-4afe-944b-c9c08c4ccb04",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Krisy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5c1b9ce3-88f0-40cb-8cb2-fe46dd561981"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Krisy",
+                                "artist_mbid": "5c1b9ce3-88f0-40cb-8cb2-fe46dd561981",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16703990986,
+                        "caa_release_mbid": "e9e6a338-3d00-4afe-944b-c9c08c4ccb04",
+                        "recording_mbid": "38bf85ce-9cd1-4922-9afe-fadfd94834fa",
+                        "recording_name": "Erotiquement votre (Interlude) [feat. Instagram Followers]",
+                        "release_group_mbid": "946b6fd1-183f-4007-a8b3-82b2a987bf3e",
+                        "release_mbid": "e9e6a338-3d00-4afe-944b-c9c08c4ccb04"
+                    },
+                    "release_name": "Paradis d'amour",
+                    "track_name": "Erotiquement votre"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791646818,
+                "recording_msid": "9d9b45f6-2701-40fd-b76b-6c97ea2bef00",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+                        "lastfm_release_mbid": "073c3fe9-34d7-4c31-b9ee-104b2c1b3fc2",
+                        "lastfm_track_mbid": "61e605f7-5731-4a0f-af6a-00bf2331dfb5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gorillaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e21857d5-3256-4547-afb3-4b6ded592596"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gorillaz",
+                                "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36124994535,
+                        "caa_release_mbid": "e289452e-292b-455d-9e4b-da9319d1ed23",
+                        "recording_mbid": "318a1c51-5910-4823-bda1-09ea6d84648a",
+                        "recording_name": "Clint Eastwood",
+                        "release_group_mbid": "b0405d2a-5720-340a-bb56-4e135d031cc2",
+                        "release_mbid": "63837159-c9c4-3940-9e76-99c8d32aaccc",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=1V_xRb0x9aw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=I7yqFVEvdY0"
+                            }
+                        ]
+                    },
+                    "release_name": "Gorillaz",
+                    "track_name": "Clint Eastwood"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791646622,
+                "recording_msid": "1e8c188d-2f9e-44a8-9dc1-75a0ffbfb760",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                        "lastfm_release_mbid": "9b54d465-bee5-4f96-857e-59b524ea7c8b",
+                        "lastfm_track_mbid": "3a70f091-76c0-40db-879e-8664b0fcfd4c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jazzy Bazz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                            "b04c952c-16c4-41ad-bd62-ace5047cdf6e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jazzy Bazz",
+                                "artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Laylow",
+                                "artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34645419177,
+                        "caa_release_mbid": "a3eba0e5-0d98-436b-828c-edaaec341322",
+                        "recording_mbid": "d23f02d7-c9a6-4aed-937c-5f03b71b3779",
+                        "recording_name": ".RAW Spleen",
+                        "release_group_mbid": "388b80e2-4409-46e5-a034-04b5dfa690ae",
+                        "release_mbid": "a3eba0e5-0d98-436b-828c-edaaec341322"
+                    },
+                    "release_name": "Memoria",
+                    "track_name": ".RAW Spleen"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791646438,
+                "recording_msid": "db866b01-c899-4b78-8195-063d0371ce56",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1cc83967-d22c-49dd-87c8-6cb6e66cad77",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "artel",
+                    "release_name": "LE TEMPS NOUS A TOUT PRIS",
+                    "track_name": "LE TEMPS NOUS A TOUT PRIS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791646266,
+                "recording_msid": "ff511193-f04e-47ed-8d16-1fe623e88e29",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                        "lastfm_release_mbid": "4fe782ec-2737-46bf-8744-f089891a8bf3",
+                        "lastfm_track_mbid": "5bf25ee9-5d00-4e5e-9114-f4b4d6e8244d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "ed76cd3e-1204-4f72-a179-6ac931cf6020",
+                        "recording_name": "BMF",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "1d39bb1e-c342-4eb3-a686-7b12cb84c1ff"
+                    },
+                    "release_name": "SOS Deluxe: LANA",
+                    "track_name": "BMF"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791646102,
+                "recording_msid": "89b00e32-f991-4ea6-8239-8ff194de7f0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "68d4b2dd-8422-400a-8020-a728c646b626",
+                        "lastfm_release_mbid": "dbb7a7a3-8c46-42e8-adc6-9da251cfca98",
+                        "lastfm_track_mbid": "22aac906-4c35-4ae7-bc30-e8514303630d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rubii",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "68d4b2dd-8422-400a-8020-a728c646b626"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "RUBII",
+                                "artist_mbid": "68d4b2dd-8422-400a-8020-a728c646b626",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "b8995ebd-f430-46d3-8965-46b3ea5ff546",
+                        "recording_name": "Jealousy",
+                        "release_group_mbid": "c1c0f76f-2eaf-4013-8796-eadd4ec10300",
+                        "release_mbid": "dbb7a7a3-8c46-42e8-adc6-9da251cfca98"
+                    },
+                    "release_name": "Jealousy",
+                    "track_name": "Jealousy"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645928,
+                "recording_msid": "6f075d8d-b57e-4c8a-9e48-bf8000402da5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ba223e4c-fcb0-4e4f-834b-177ce94f6841",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zuukou Mayzie",
+                    "release_name": "Le film : Le commencement",
+                    "track_name": "Inception"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645786,
+                "recording_msid": "8655e62b-d39f-4e3e-aa5b-ac531e32785b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luther",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a30ade9-0c3a-4d7d-b127-507d7883fb28"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luther",
+                                "artist_mbid": "1a30ade9-0c3a-4d7d-b127-507d7883fb28",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35334050738,
+                        "caa_release_mbid": "cde62386-5558-4af5-9925-f137c387f6eb",
+                        "recording_mbid": "5e526f44-90da-462e-8333-dc6838da9784",
+                        "recording_name": "uet",
+                        "release_group_mbid": "b6dc8cb3-fd43-433c-acbc-47dc63c92bc9",
+                        "release_mbid": "cde62386-5558-4af5-9925-f137c387f6eb"
+                    },
+                    "release_name": "GARÇON + AMI",
+                    "track_name": "uet"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645650,
+                "recording_msid": "54624190-2ae2-43c2-9f92-942598c24985",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+                        "lastfm_release_mbid": "8660f5bc-b1a6-4922-be16-89a457ef5609",
+                        "lastfm_track_mbid": "6af83cf4-2b5e-4bcf-aa04-5921ae79416c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sabrina Carpenter",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1882fe91-cdd9-49c9-9956-8e06a3810bd4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sabrina Carpenter",
+                                "artist_mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42226804294,
+                        "caa_release_mbid": "e526b828-0f35-451a-a3d3-2ab6f44b059e",
+                        "recording_mbid": "6af83cf4-2b5e-4bcf-aa04-5921ae79416c",
+                        "recording_name": "When Did You Get Hot?",
+                        "release_group_mbid": "192a95dc-d993-4768-9f77-4496b6460400",
+                        "release_mbid": "b6bde9b3-9afe-403b-ae68-97f682d6113d",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/nz/song/1819861167"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/nz/song/1819861167"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/483984742"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0yIUSblMktt9VmCJ133gvY"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1862550854"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1862550854"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/456892729"
+                            }
+                        ]
+                    },
+                    "release_name": "Man’s Best Friend",
+                    "track_name": "When Did You Get Hot?"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645510,
+                "recording_msid": "fb122c6b-2bfd-4fd3-ab7d-9dc3ab45eeec",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31836689174,
+                        "caa_release_mbid": "85734b0f-68d2-4cc8-b173-508618812905",
+                        "recording_mbid": "9c5de12b-29a7-4f4a-9a02-ad20abcf242d",
+                        "recording_name": "F̶i̶e̶s̶t̶a̶ (Interlude)",
+                        "release_group_mbid": "6dc8e640-7068-4788-9504-0610e73ff24c",
+                        "release_mbid": "85734b0f-68d2-4cc8-b173-508618812905"
+                    },
+                    "release_name": "M.A.N (Black Roses & Lost Feelings)",
+                    "track_name": "F̶i̶e̶s̶t̶a̶ (Interlude)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645346,
+                "recording_msid": "662b1ea0-5d64-48be-803a-8b0ac37e5ab6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "5ea0024a-4b97-47ee-8a6e-372a36d880fc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NES",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "894080ed-9796-4de0-ad48-263046e500fb",
+                            "100616d1-c61c-4de8-8e99-9ea2e19578db"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "NeS",
+                                "artist_mbid": "894080ed-9796-4de0-ad48-263046e500fb",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "BU$HI",
+                                "artist_mbid": "100616d1-c61c-4de8-8e99-9ea2e19578db",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38417874023,
+                        "caa_release_mbid": "e1cdb84b-a418-4a94-adf9-54b6f5c821d3",
+                        "recording_mbid": "a7100a80-5201-438f-a07b-549637ff5a52",
+                        "recording_name": "SAMEDI SOIR À PARIS",
+                        "release_group_mbid": "4c51dda3-dd7a-470c-9289-31d4e4650aba",
+                        "release_mbid": "5573cd57-3d88-431b-94c8-c86b5835f2b3"
+                    },
+                    "release_name": "POUR 2 VRAI (Version finale)",
+                    "track_name": "SAMEDI SOIR À PARIS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791645339,
+                "recording_msid": "4e6ae892-b9c0-43a2-b2e6-f79572c8ff70",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_release_mbid": "8c47bedb-cbb5-49a1-b05b-da8e8dcd84d8",
+                        "lastfm_track_mbid": "6826a6b2-5135-4e2a-94f5-4fc985c1b6ae",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40930503072,
+                        "caa_release_mbid": "4091ed0f-ea0d-4136-bb00-d8ccbb4fb1ea",
+                        "recording_mbid": "d6b9d3a3-784c-4338-875c-b09b674ec0f1",
+                        "recording_name": "Rose",
+                        "release_group_mbid": "e019a21d-d5c5-415d-80e3-4c44872644c6",
+                        "release_mbid": "da63d1d6-3557-4379-aeba-036039b66897"
+                    },
+                    "release_name": "Comme Prévu",
+                    "track_name": "Rose"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791651508,
+                "listened_at": 1791639409,
+                "recording_msid": "4e6ae892-b9c0-43a2-b2e6-f79572c8ff70",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                        "lastfm_release_mbid": "8c47bedb-cbb5-49a1-b05b-da8e8dcd84d8",
+                        "lastfm_track_mbid": "6826a6b2-5135-4e2a-94f5-4fc985c1b6ae",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ninho",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ninho",
+                                "artist_mbid": "41fe37a6-f4bb-4340-9c14-e2c8e5d854f1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40930503072,
+                        "caa_release_mbid": "4091ed0f-ea0d-4136-bb00-d8ccbb4fb1ea",
+                        "recording_mbid": "d6b9d3a3-784c-4338-875c-b09b674ec0f1",
+                        "recording_name": "Rose",
+                        "release_group_mbid": "e019a21d-d5c5-415d-80e3-4c44872644c6",
+                        "release_mbid": "da63d1d6-3557-4379-aeba-036039b66897"
+                    },
+                    "release_name": "Comme Prévu",
+                    "track_name": "Rose"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791642051,
+                "listened_at": 1791639270,
+                "recording_msid": "d4ca657c-9441-41ef-bdc4-a1d8c7213e45",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                        "lastfm_release_mbid": "5a7a6edc-61dd-4531-b9f5-8912121f932c",
+                        "lastfm_track_mbid": "c35ef933-2cef-4516-9a86-147bc1038d15",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jazzy Bazz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6b786b4-0695-4fdc-954d-09612e74d9aa"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jazzy Bazz",
+                                "artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41562505502,
+                        "caa_release_mbid": "5a7a6edc-61dd-4531-b9f5-8912121f932c",
+                        "recording_mbid": "c35ef933-2cef-4516-9a86-147bc1038d15",
+                        "recording_name": "Gizeh",
+                        "release_group_mbid": "bd870308-3a3e-4270-a57d-0b7961d658d9",
+                        "release_mbid": "5a7a6edc-61dd-4531-b9f5-8912121f932c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/47Hac81oOEivgApSukjj7W"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/426415500"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3248463741"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1798341070"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1798341070"
+                            }
+                        ]
+                    },
+                    "release_name": "NIRVANA",
+                    "track_name": "Gizeh"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791642051,
+                "listened_at": 1791637134,
+                "recording_msid": "1f042e0b-f1d4-4c41-b8c6-db4f1595d003",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                        "lastfm_release_mbid": "878b1a7d-3d2a-4c4e-9b52-54a1455810fd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gazo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dae7d996-38fe-4578-bf75-1e2510f522bb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gazo",
+                                "artist_mbid": "dae7d996-38fe-4578-bf75-1e2510f522bb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32933044835,
+                        "caa_release_mbid": "878b1a7d-3d2a-4c4e-9b52-54a1455810fd",
+                        "recording_mbid": "8b1af74c-22a1-480e-a0b2-e757be63fe8a",
+                        "recording_name": "RAPPEL",
+                        "release_group_mbid": "93c0058b-093e-419a-a2f7-d485d641ff82",
+                        "release_mbid": "878b1a7d-3d2a-4c4e-9b52-54a1455810fd"
+                    },
+                    "release_name": "KMT",
+                    "track_name": "RAPPEL"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791642051,
+                "listened_at": 1791636929,
+                "recording_msid": "21e37dd8-1ee9-45c6-84dd-80685304cb34",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "062ab94e-b7a5-47a9-b3f4-cc1750c3f859",
+                        "lastfm_release_mbid": "a5a8a173-ebd3-4fff-987a-eac0c81978e8",
+                        "lastfm_track_mbid": "5a3722d8-2760-4eca-9b36-c139686297b3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Vald",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "062ab94e-b7a5-47a9-b3f4-cc1750c3f859"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Vald",
+                                "artist_mbid": "062ab94e-b7a5-47a9-b3f4-cc1750c3f859",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18882903741,
+                        "caa_release_mbid": "a5a8a173-ebd3-4fff-987a-eac0c81978e8",
+                        "recording_mbid": "7c4130fa-b0bf-4201-b245-20afc0701b9a",
+                        "recording_name": "Désaccordé",
+                        "release_group_mbid": "8dc57f90-a904-4dfd-8069-8cd51669f19e",
+                        "release_mbid": "a5a8a173-ebd3-4fff-987a-eac0c81978e8"
+                    },
+                    "release_name": "XEU",
+                    "track_name": "Désaccordé"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791642051,
+                "listened_at": 1791634134,
+                "recording_msid": "c9d246a9-8af7-4785-8b54-ff3cb6f50f36",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "100616d1-c61c-4de8-8e99-9ea2e19578db",
+                        "lastfm_release_mbid": "47783331-8f4e-4e25-a78f-5a682df03abd",
+                        "lastfm_track_mbid": "fad2b37f-3175-4c31-993b-a5ad27896105",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bu$hi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100616d1-c61c-4de8-8e99-9ea2e19578db"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bu$hi",
+                                "artist_mbid": "100616d1-c61c-4de8-8e99-9ea2e19578db",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38524404059,
+                        "caa_release_mbid": "eddf04a4-0819-4593-bb99-bd457397cf29",
+                        "recording_mbid": "fad2b37f-3175-4c31-993b-a5ad27896105",
+                        "recording_name": "Batman",
+                        "release_group_mbid": "9265b5c1-7ef4-42aa-8bef-f282293f017a",
+                        "release_mbid": "47783331-8f4e-4e25-a78f-5a682df03abd"
+                    },
+                    "release_name": "Bushi Tape 3",
+                    "track_name": "Batman"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633949,
+                "recording_msid": "06a10261-074c-427f-a286-981b5f43a462",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a99f60b4-985f-4f40-877e-306f813d5d7f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dalí",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "635135db-cc18-4995-a5f6-001affac91c1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dalí",
+                                "artist_mbid": "635135db-cc18-4995-a5f6-001affac91c1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38817537653,
+                        "caa_release_mbid": "a99f60b4-985f-4f40-877e-306f813d5d7f",
+                        "recording_mbid": "e52e56a6-84ea-4ffb-8cfe-123fa06e4083",
+                        "recording_name": "4¿ntent¿on",
+                        "release_group_mbid": "39eca93d-5e56-4169-aabc-82709e2e98a4",
+                        "release_mbid": "a99f60b4-985f-4f40-877e-306f813d5d7f"
+                    },
+                    "release_name": "Muse",
+                    "track_name": "4ntenton"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633752,
+                "recording_msid": "37bc96e1-321e-4c28-92d1-dbd9b8448330",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b",
+                        "lastfm_track_mbid": "77f50b35-c07b-4311-a6dd-44b302126d9e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20318896063,
+                        "caa_release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b",
+                        "recording_mbid": "fc8c917f-12f1-4520-af83-fd9c0bf377dd",
+                        "recording_name": "XS",
+                        "release_group_mbid": "154b2450-59f7-4b81-8eff-ab3445c7c8ad",
+                        "release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b"
+                    },
+                    "release_name": "J.O.$",
+                    "track_name": "XS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633596,
+                "recording_msid": "72bc2837-1b60-43d6-8b02-3f85863abb03",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+                        "lastfm_release_mbid": "1cd826a8-64a9-4a2b-b4e0-624191c57986",
+                        "lastfm_track_mbid": "8bbec865-8527-4a28-993a-8c81caf3e6ea",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "BLACKPINK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48646387-1664-4c9a-9139-9bfd091b823c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "BLACKPINK",
+                                "artist_mbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43521317372,
+                        "caa_release_mbid": "1ca3a832-c7bf-4991-b3fd-6a9d97a0b897",
+                        "recording_mbid": "752d837b-a4bc-40c5-ab85-b485de42df12",
+                        "recording_name": "뛰어 (JUMP)",
+                        "release_group_mbid": "173ec0cf-52e9-4ca6-bf30-408ccafd61d7",
+                        "release_mbid": "a115ac2b-b863-46b9-8540-3bfa1b76eaf2",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1824672652"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/447111621"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1824672652"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3454677991"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
+                            }
+                        ]
+                    },
+                    "release_name": "JUMP",
+                    "track_name": "JUMP"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633446,
+                "recording_msid": "8296da85-986d-4a66-8c60-e123c87d9a4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                        "lastfm_release_mbid": "8f8c372f-3cb1-4ee1-9323-238135d9bfef",
+                        "lastfm_track_mbid": "fccd2e3c-869a-4aea-ac2b-3c8738b5b63b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luv Resval",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "324bc359-f062-46d9-a31a-9530b0483fe7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luv Resval",
+                                "artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31255582026,
+                        "caa_release_mbid": "8f8c372f-3cb1-4ee1-9323-238135d9bfef",
+                        "recording_mbid": "fccd2e3c-869a-4aea-ac2b-3c8738b5b63b",
+                        "recording_name": "20 ans",
+                        "release_group_mbid": "20b3851f-1362-4c3b-8b69-865bacfe8129",
+                        "release_mbid": "0033ed33-b472-4e99-84af-efcc9871bdba"
+                    },
+                    "release_name": "Etoile Noire : Nébuleuse",
+                    "track_name": "20 ans"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633246,
+                "recording_msid": "d8124914-6ad3-4745-8b09-fa876590c158",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+                        "lastfm_release_mbid": "14fbd2c0-0468-4cd7-9630-6aa655e11d5b",
+                        "lastfm_track_mbid": "9b742809-0ea8-4a53-a4fe-c2b38ee2cffa",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jungle",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jungle",
+                                "artist_mbid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36765923275,
+                        "caa_release_mbid": "a041661f-d1c4-4398-b23d-6bd156bf1aed",
+                        "recording_mbid": "9b742809-0ea8-4a53-a4fe-c2b38ee2cffa",
+                        "recording_name": "Back on 74",
+                        "release_group_mbid": "07bd527b-afe9-405b-bc92-0766cb280d05",
+                        "release_mbid": "a041661f-d1c4-4398-b23d-6bd156bf1aed",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1676152328"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1676152328"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1676152328"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=ekk0NSXCuqI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=ekk0NSXCuqI"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/280609859"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/200690750"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/200690750"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/29wdCFvQTdiUPMPPlGxLss"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://jungle.bandcamp.com/track/back-on-74"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://jungle.bandcamp.com/track/back-on-74"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2181330357"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1676152328"
+                            }
+                        ]
+                    },
+                    "release_name": "Volcano",
+                    "track_name": "Back on 74"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791633023,
+                "recording_msid": "5a81716f-35c3-4a49-9a05-4acf670988e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                        "lastfm_release_mbid": "da9f5cce-bb69-4cd6-8edf-f2f8607dca30",
+                        "lastfm_track_mbid": "03eb455f-7eb8-4a6c-b14d-a9d1ec2b0707",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Damso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "71ff695e-896a-4043-aea4-93eadde08d09"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Damso",
+                                "artist_mbid": "71ff695e-896a-4043-aea4-93eadde08d09",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 16408350309,
+                        "caa_release_mbid": "da9f5cce-bb69-4cd6-8edf-f2f8607dca30",
+                        "recording_mbid": "f6d2986b-3494-4e4d-a787-1e478e723adc",
+                        "recording_name": "Ζ. Kietu",
+                        "release_group_mbid": "b61b58cb-2bf3-4363-bdb1-e2afb19f5287",
+                        "release_mbid": "f3f80c9c-973d-4fe6-9a94-9d8b4ce93d93"
+                    },
+                    "release_name": "Ipséité",
+                    "track_name": "Ζ. Kietu"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791632802,
+                "recording_msid": "c30d3b80-f07e-417d-97d9-ea603baa937b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SDM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SDM",
+                                "artist_mbid": "ee5acbd5-d291-4fe1-a06a-88060b131b77",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39987000322,
+                        "caa_release_mbid": "2f5ae499-0af5-4e9d-ba11-6042ecca0066",
+                        "recording_mbid": "69bdf8e8-882f-48f1-8f51-16cdfbe188b5",
+                        "recording_name": "AFFRANCHIS",
+                        "release_group_mbid": "901888b7-d739-4c52-b3ee-c453ac83d882",
+                        "release_mbid": "7dde3f73-8591-437a-b612-80d175f26ad4"
+                    },
+                    "release_name": "A LA VIE A LA MORT",
+                    "track_name": "AFFRANCHIS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791632492,
+                "recording_msid": "dfdbb06c-69be-42da-be79-333a0091f7e4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                        "lastfm_release_mbid": "d2894ab4-6776-41be-971a-d0101e9f6a56",
+                        "lastfm_track_mbid": "688dd7b8-c2bf-4e64-a73e-a55bfcfc74f3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bad Bunny",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bad Bunny",
+                                "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40857018101,
+                        "caa_release_mbid": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc",
+                        "recording_mbid": "5098d5cd-7f48-4cd7-8928-43e4f84cae0f",
+                        "recording_name": "DtMF",
+                        "release_group_mbid": "b3073a10-2d7c-484c-b387-e49ae629da3d",
+                        "release_mbid": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3171003131"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/409386876"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1787023936"
+                            }
+                        ]
+                    },
+                    "release_name": "DeBÍ TiRAR MáS FOToS",
+                    "track_name": "DtMF"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791632255,
+                "recording_msid": "269a6918-e2b7-49fa-a5d6-f69d4cb50c4f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2e41ae9c-afd2-4f20-8f1e-17281ce9b472",
+                        "lastfm_release_mbid": "039dfe39-3f5a-4c45-8b22-208116466809",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gwen Stefani",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2e41ae9c-afd2-4f20-8f1e-17281ce9b472"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gwen Stefani",
+                                "artist_mbid": "2e41ae9c-afd2-4f20-8f1e-17281ce9b472",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46097046418,
+                        "caa_release_mbid": "bd053712-f796-4527-b817-a95c289db6c1",
+                        "recording_mbid": "ca89829e-4227-4636-93eb-6e0a56b1e95c",
+                        "recording_name": "The Sweet Escape",
+                        "release_group_mbid": "85234f5f-c69b-434b-a5a2-ec2d251f44b4",
+                        "release_mbid": "bd053712-f796-4527-b817-a95c289db6c1"
+                    },
+                    "release_name": "The Sweet Escape",
+                    "track_name": "The Sweet Escape"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791632096,
+                "recording_msid": "b40c24b8-a014-40dc-b815-dd822bf3a5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6cea1691-ee98-40da-a305-9983cf99d83c",
+                        "lastfm_release_mbid": "509c45e3-75eb-4763-a1ac-2bc04c7410af",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wallace Cleaver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6cea1691-ee98-40da-a305-9983cf99d83c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wallace Cleaver",
+                                "artist_mbid": "6cea1691-ee98-40da-a305-9983cf99d83c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36006654773,
+                        "caa_release_mbid": "509c45e3-75eb-4763-a1ac-2bc04c7410af",
+                        "recording_mbid": "0806837b-278d-4cab-9a27-695efa9e2ee7",
+                        "recording_name": "dans ma tête",
+                        "release_group_mbid": "04e9a9c3-f820-4207-b3ba-6a2e6b09a7f2",
+                        "release_mbid": "509c45e3-75eb-4763-a1ac-2bc04c7410af"
+                    },
+                    "release_name": "baiser",
+                    "track_name": "dans ma tête"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791631915,
+                "recording_msid": "d65f25b0-29fc-4394-a2c5-dcd90b993d35",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YG Pablo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3ec48688-f91b-45ee-b7cc-1f04fec8e8b7",
+                            "04896676-1b8f-4457-9fa6-458c346bc1ae",
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YG Pablo",
+                                "artist_mbid": "3ec48688-f91b-45ee-b7cc-1f04fec8e8b7",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Sofiane Pamart",
+                                "artist_mbid": "04896676-1b8f-4457-9fa6-458c346bc1ae",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37219809870,
+                        "caa_release_mbid": "0b7ff30e-af34-45ed-a210-f50244cd2fa6",
+                        "recording_mbid": "8178f787-9f8c-4c68-aded-8dc98d7e63e3",
+                        "recording_name": "22h22",
+                        "release_group_mbid": "f04ae178-5736-4d9c-924a-085521247fab",
+                        "release_mbid": "0b7ff30e-af34-45ed-a210-f50244cd2fa6"
+                    },
+                    "release_name": "DIAMOND TEARS",
+                    "track_name": "22h22"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791631755,
+                "recording_msid": "5bfc2b91-b64c-468e-8bbd-b0edede8eebe",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b",
+                        "lastfm_track_mbid": "5004b250-db68-45be-af0e-36138403724f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20318896063,
+                        "caa_release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b",
+                        "recording_mbid": "b214a374-d456-41fd-9a4c-e7b3943b361c",
+                        "recording_name": "Un Zder, Un Thé",
+                        "release_group_mbid": "154b2450-59f7-4b81-8eff-ab3445c7c8ad",
+                        "release_mbid": "35c0d14d-75e9-446d-aaee-d5d18e1e676b"
+                    },
+                    "release_name": "J.O.$",
+                    "track_name": "UN ZDER, UN THÉ"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791631625,
+                "recording_msid": "18bb14bc-7f24-48e0-bdd2-a61668cc41e0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e132494a-9138-49b4-a64e-874974729ef1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Folie's",
+                    "release_name": "Bissap",
+                    "track_name": "Bissap"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791631398,
+                "recording_msid": "f410b84f-d782-4e96-915d-3f2048bceb30",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                        "lastfm_track_mbid": "3d988419-25ca-4967-a9f7-256bf54c0dae",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luv Resval",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "324bc359-f062-46d9-a31a-9530b0483fe7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luv Resval",
+                                "artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33937875501,
+                        "caa_release_mbid": "36d91dce-5a88-4bf5-9a1f-7159a7c11d92",
+                        "recording_mbid": "0a9f2652-0f68-463a-9314-7fdcbef1d00c",
+                        "recording_name": "Cette fille",
+                        "release_group_mbid": "7a73678d-7cea-4730-83a1-97ab45c1bf88",
+                        "release_mbid": "36d91dce-5a88-4bf5-9a1f-7159a7c11d92"
+                    },
+                    "release_name": "Etoile Noire",
+                    "track_name": "Cette Fille"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791634659,
+                "listened_at": 1791623799,
+                "recording_msid": "5d086d92-3699-40fd-9c29-78e0d70a1390",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                        "lastfm_release_mbid": "4fe782ec-2737-46bf-8744-f089891a8bf3",
+                        "lastfm_track_mbid": "ab3b0283-5b2a-4e17-8325-88a71fe63bd8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "a5b88319-0503-480e-9cf5-749eb222ccdd",
+                        "recording_name": "Kitchen",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "1d39bb1e-c342-4eb3-a686-7b12cb84c1ff"
+                    },
+                    "release_name": "SOS Deluxe: LANA",
+                    "track_name": "Kitchen"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791623649,
+                "recording_msid": "c4b345cc-170a-45b7-8ae2-06d6f790b2ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+                        "lastfm_track_mbid": "0e390968-6727-48f2-8168-0f8325a2b0c4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Doechii",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9f75277c-b283-4846-ac8c-f932255cd0ac"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doechii",
+                                "artist_mbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41372594842,
+                        "caa_release_mbid": "8ffd3b49-2101-44a0-b500-5a904bd62bb3",
+                        "recording_mbid": "9a179828-d223-47fb-b29f-ec2e0b14ab72",
+                        "recording_name": "DENIAL IS A RIVER",
+                        "release_group_mbid": "bb13ce80-b24b-4a9f-9bca-79f8743dc167",
+                        "release_mbid": "3cd3e43d-01f2-4fc9-90ed-08edfa9300ab",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=VlNktqr9cYk"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1819699067"
+                            }
+                        ]
+                    },
+                    "release_name": "Alligator Bites Never Heal",
+                    "track_name": "DENIAL IS A RIVER"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791623455,
+                "recording_msid": "0e8c4a9f-1015-4b6a-81d9-3f059ec8103d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "98873fa3-156b-4bf6-be5e-eb56e0594707",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zed",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "751e029b-b5e3-458d-a828-9d0ca3874c0f",
+                            "d721866d-5640-44ee-87f7-23dd062abd8a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zed",
+                                "artist_mbid": "751e029b-b5e3-458d-a828-9d0ca3874c0f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Nekfeu",
+                                "artist_mbid": "d721866d-5640-44ee-87f7-23dd062abd8a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38962828257,
+                        "caa_release_mbid": "98873fa3-156b-4bf6-be5e-eb56e0594707",
+                        "recording_mbid": "d70174c5-70dd-404c-88a2-be41ce1a8991",
+                        "recording_name": "Shaggy",
+                        "release_group_mbid": "b63e599c-db7f-4f12-920b-ac03dbd41512",
+                        "release_mbid": "98873fa3-156b-4bf6-be5e-eb56e0594707"
+                    },
+                    "release_name": "Malcom",
+                    "track_name": "Shaggy"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791623266,
+                "recording_msid": "174d5696-f640-49af-8625-487fbe196e21",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "GP Explorer",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9c495e81-7c8f-4488-b411-a2fa65567667",
+                            "cbff1646-1480-46e5-958f-a3ea372ff94a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "GP Explorer",
+                                "artist_mbid": "9c495e81-7c8f-4488-b411-a2fa65567667",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Anyme023",
+                                "artist_mbid": "cbff1646-1480-46e5-958f-a3ea372ff94a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43201088538,
+                        "caa_release_mbid": "c0870c81-4f94-4c6f-b606-ee023e31f9c1",
+                        "recording_mbid": "136b3978-17fd-4e44-83fb-885bb96d02dc",
+                        "recording_name": "Toute la nuit",
+                        "release_group_mbid": "f9b68519-61b2-46fa-ae67-7ba9b33973b8",
+                        "release_mbid": "c0870c81-4f94-4c6f-b606-ee023e31f9c1"
+                    },
+                    "release_name": "Toute la nuit",
+                    "track_name": "Toute la nuit"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791623051,
+                "recording_msid": "14bcb9c9-ec01-4a41-aa06-a3798f6b318b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                        "lastfm_release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55",
+                        "lastfm_track_mbid": "e2af996a-7c94-43a2-9e76-8fc1fc764303",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Laylow",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b04c952c-16c4-41ad-bd62-ace5047cdf6e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Laylow",
+                                "artist_mbid": "b04c952c-16c4-41ad-bd62-ace5047cdf6e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21674764960,
+                        "caa_release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55",
+                        "recording_mbid": "7c30cc05-1af5-4b14-b58c-85607bcf10fe",
+                        "recording_name": "Swish",
+                        "release_group_mbid": "b2185410-4aae-4be3-be70-0c3a9f78932a",
+                        "release_mbid": "f98f22f6-0bcc-4ddd-91da-f615a4d83c55"
+                    },
+                    "release_name": ".RAW-Z",
+                    "track_name": "Swish"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791622902,
+                "recording_msid": "ae610a5c-1aff-4b58-9927-2276f69969fc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                        "lastfm_release_mbid": "a6b19ccb-4ce1-4e22-98fa-7346384bceb8",
+                        "lastfm_track_mbid": "5b24dc5c-16d8-4b5a-ac7a-53123256d9fc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Houdi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "08629d18-2a02-4f41-87fe-7129e7dff06e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "HOUDI",
+                                "artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43074297884,
+                        "caa_release_mbid": "a6b19ccb-4ce1-4e22-98fa-7346384bceb8",
+                        "recording_mbid": "5b24dc5c-16d8-4b5a-ac7a-53123256d9fc",
+                        "recording_name": "TU VERRAS",
+                        "release_group_mbid": "fac89738-f5ac-4048-8251-8de11ed0f2ef",
+                        "release_mbid": "a6b19ccb-4ce1-4e22-98fa-7346384bceb8"
+                    },
+                    "release_name": "SIROCCO",
+                    "track_name": "TU VERRAS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791622718,
+                "recording_msid": "55b59057-3101-4758-9bbf-b7123798510a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "bfd8b836-4a72-4db7-ba52-24a3ec7dca55",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Oboy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OBOY",
+                                "artist_mbid": "66ffca84-c76f-416b-9371-89ccb7bb9da6",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41621046890,
+                        "caa_release_mbid": "bfd8b836-4a72-4db7-ba52-24a3ec7dca55",
+                        "recording_mbid": "b321b443-4b32-4813-a374-1ec02b786f4f",
+                        "recording_name": "Joddy Boy",
+                        "release_group_mbid": "13cf568e-4a2f-4297-b14b-35f07f498cf5",
+                        "release_mbid": "bfd8b836-4a72-4db7-ba52-24a3ec7dca55"
+                    },
+                    "release_name": "Olyboy",
+                    "track_name": "Joddy Boy (feat. Josman)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791622575,
+                "recording_msid": "7c98b67b-9afb-4300-b793-6614996b55e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_track_mbid": "166a8a8e-c766-442e-9d8a-ffdb575c6571",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31836689174,
+                        "caa_release_mbid": "85734b0f-68d2-4cc8-b173-508618812905",
+                        "recording_mbid": "166a8a8e-c766-442e-9d8a-ffdb575c6571",
+                        "recording_name": "Mort ce soir",
+                        "release_group_mbid": "6dc8e640-7068-4788-9504-0610e73ff24c",
+                        "release_mbid": "85734b0f-68d2-4cc8-b173-508618812905"
+                    },
+                    "release_name": "M.A.N (Black Roses & Lost Feelings)",
+                    "track_name": "Mort ce soir"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791622348,
+                "recording_msid": "3ff48d10-fe60-4ad4-bccb-fa4516d93915",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "04dd304d-9d27-4d64-85c5-4f9707fb8cac",
+                        "lastfm_release_mbid": "4d578760-4099-4eb0-8e9d-b4706c0b664f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lefa",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "04dd304d-9d27-4d64-85c5-4f9707fb8cac",
+                            "062ab94e-b7a5-47a9-b3f4-cc1750c3f859"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lefa",
+                                "artist_mbid": "04dd304d-9d27-4d64-85c5-4f9707fb8cac",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Vald",
+                                "artist_mbid": "062ab94e-b7a5-47a9-b3f4-cc1750c3f859",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26486948118,
+                        "caa_release_mbid": "a124e708-fff0-41d7-97f2-3ddc68f948ae",
+                        "recording_mbid": "db22e75e-2895-4312-8f2f-5d9a85f5d807",
+                        "recording_name": "Bitch",
+                        "release_group_mbid": "d2b10d49-cb51-4252-974d-bb276d4fc7c3",
+                        "release_mbid": "b84c204b-72f8-46e0-a7a0-4f1a29c7df51"
+                    },
+                    "release_name": "Fame",
+                    "track_name": "Bitch (feat. Vald)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791622104,
+                "recording_msid": "3bc9018d-0f59-43e1-ae31-c95508c486df",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "785c0e9c-89f6-4bf4-8296-443a46632d62",
+                        "lastfm_release_mbid": "3b0de364-0464-4374-92fe-d5231887f161",
+                        "lastfm_track_mbid": "435c5e6b-d852-3342-959c-059875138cd4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Booba",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "785c0e9c-89f6-4bf4-8296-443a46632d62"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Booba",
+                                "artist_mbid": "785c0e9c-89f6-4bf4-8296-443a46632d62",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1862393171,
+                        "caa_release_mbid": "a735d943-05fb-4283-b028-bb9d5fac2079",
+                        "recording_mbid": "1124ad85-ee1d-437d-880f-bc3bdfc4dbde",
+                        "recording_name": "Scarface",
+                        "release_group_mbid": "dc4e86eb-e275-4f2f-bc35-70748dda2bdd",
+                        "release_mbid": "88e9fca4-8210-4cb4-bc53-c15a4ccfe440"
+                    },
+                    "release_name": "Autopsie 0",
+                    "track_name": "Scarface"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621887,
+                "recording_msid": "02ad5256-8813-4125-9e0f-45d37d742a23",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luv Resval",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "324bc359-f062-46d9-a31a-9530b0483fe7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luv Resval",
+                                "artist_mbid": "324bc359-f062-46d9-a31a-9530b0483fe7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33937875501,
+                        "caa_release_mbid": "36d91dce-5a88-4bf5-9a1f-7159a7c11d92",
+                        "recording_mbid": "5aba1a0f-5cd3-4cb6-bc67-c192aa8300f5",
+                        "recording_name": "Jamais revenue",
+                        "release_group_mbid": "7a73678d-7cea-4730-83a1-97ab45c1bf88",
+                        "release_mbid": "36d91dce-5a88-4bf5-9a1f-7159a7c11d92"
+                    },
+                    "release_name": "Etoile Noire",
+                    "track_name": "Jamais revenue (feat. Josman)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621755,
+                "recording_msid": "9b65f036-139b-45c3-a100-0753b0ac8d14",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luther",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a30ade9-0c3a-4d7d-b127-507d7883fb28"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luther",
+                                "artist_mbid": "1a30ade9-0c3a-4d7d-b127-507d7883fb28",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32706879574,
+                        "caa_release_mbid": "e08fa6ba-bb7f-40db-939c-0480a6a32554",
+                        "recording_mbid": "7c9bac05-77bd-44c4-8b23-8e82de547b30",
+                        "recording_name": "TORIEL - VENI VIDI VIDE",
+                        "release_group_mbid": "583a18b2-5e03-44d0-b08f-8d49c505f10f",
+                        "release_mbid": "e08fa6ba-bb7f-40db-939c-0480a6a32554"
+                    },
+                    "release_name": "GARÇON",
+                    "track_name": "TORIEL - VENI VIDI VIDE"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621536,
+                "recording_msid": "1e045ad0-9718-4a32-a13a-1fc68acf4d07",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                        "lastfm_release_mbid": "9b54d465-bee5-4f96-857e-59b524ea7c8b",
+                        "lastfm_track_mbid": "6ab29a78-0612-481d-ac09-a7e0ce82c1fb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jazzy Bazz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jazzy Bazz",
+                                "artist_mbid": "c6b786b4-0695-4fdc-954d-09612e74d9aa",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34645419177,
+                        "caa_release_mbid": "a3eba0e5-0d98-436b-828c-edaaec341322",
+                        "recording_mbid": "9c8044ae-cf6e-44d2-8ba7-04f5ca9caa87",
+                        "recording_name": "Albiceleste",
+                        "release_group_mbid": "388b80e2-4409-46e5-a034-04b5dfa690ae",
+                        "release_mbid": "a3eba0e5-0d98-436b-828c-edaaec341322"
+                    },
+                    "release_name": "Memoria",
+                    "track_name": "Albiceleste"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621345,
+                "recording_msid": "bad5653a-e2b5-4e40-84e0-8977ab268b1d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                        "lastfm_release_mbid": "d2894ab4-6776-41be-971a-d0101e9f6a56",
+                        "lastfm_track_mbid": "4e7a467e-139c-4b86-a23e-c97dbec38e71",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bad Bunny",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                            "449898b5-898d-42a6-ac4b-c8be77f98a0d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bad Bunny",
+                                "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                                "join_phrase": " ft "
+                            },
+                            {
+                                "artist_credit_name": "RaiNao",
+                                "artist_mbid": "449898b5-898d-42a6-ac4b-c8be77f98a0d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40857018101,
+                        "caa_release_mbid": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc",
+                        "recording_mbid": "4e7a467e-139c-4b86-a23e-c97dbec38e71",
+                        "recording_name": "PERFuMITO NUEVO",
+                        "release_group_mbid": "b3073a10-2d7c-484c-b387-e49ae629da3d",
+                        "release_mbid": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3171003011"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/409386864"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1787022980"
+                            }
+                        ]
+                    },
+                    "release_name": "DeBÍ TiRAR MáS FOToS",
+                    "track_name": "PERFuMITO NUEVO"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621212,
+                "recording_msid": "4afbee55-da66-4f24-9821-af56c9053d38",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e98b5ad0-a69f-48aa-990b-de955cde1310",
+                        "lastfm_release_mbid": "26340804-62f8-40ca-8345-b2b973033691",
+                        "lastfm_track_mbid": "65977a44-bd70-4021-8ced-2406d96f711a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "yvnnis",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e98b5ad0-a69f-48aa-990b-de955cde1310"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yvnnis",
+                                "artist_mbid": "e98b5ad0-a69f-48aa-990b-de955cde1310",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43253979071,
+                        "caa_release_mbid": "f0606d9f-883a-43b0-a360-ff3cc397ee10",
+                        "recording_mbid": "e990bd51-1998-4b88-9e33-93db2e27ca32",
+                        "recording_name": "SUD DE LA FRANCE",
+                        "release_group_mbid": "265ebb53-f192-41e0-86c4-660fb2903edc",
+                        "release_mbid": "f0606d9f-883a-43b0-a360-ff3cc397ee10"
+                    },
+                    "release_name": "SUD DE LA FRANCE",
+                    "track_name": "SUD DE LA FRANCE"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791621070,
+                "recording_msid": "95b8b7e0-e0c1-4d54-90c2-43fc40ea3bbe",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Houdi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "08629d18-2a02-4f41-87fe-7129e7dff06e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Houdi",
+                                "artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39876666098,
+                        "caa_release_mbid": "f3035411-c384-405e-9f9e-8dae1c4e909b",
+                        "recording_mbid": "4d63df95-1dd0-4798-9fc4-83e2cd71e539",
+                        "recording_name": "LAISSE MOI",
+                        "release_group_mbid": "b8f5ab73-7bbc-48b9-8130-1e989f8bb8b9",
+                        "release_mbid": "f3035411-c384-405e-9f9e-8dae1c4e909b"
+                    },
+                    "release_name": "LE DERNIER RAYON DE SOLEIL",
+                    "track_name": "LAISSE MOI"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791620948,
+                "recording_msid": "52e930ee-a474-419a-8af7-c261650b5a3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Népal",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "85a55a8c-c042-40d6-9dc5-fb85d0d926cf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Népal",
+                                "artist_mbid": "85a55a8c-c042-40d6-9dc5-fb85d0d926cf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27652420333,
+                        "caa_release_mbid": "9bc5c379-bee4-4e1f-b7c6-aa264eef58c4",
+                        "recording_mbid": "085a1222-f4e7-4baf-8b34-7ac6bbbc2ed1",
+                        "recording_name": "Malik Al Mawt",
+                        "release_group_mbid": "13861222-479e-4911-9e73-d444e9c8d2cc",
+                        "release_mbid": "9bc5c379-bee4-4e1f-b7c6-aa264eef58c4"
+                    },
+                    "release_name": "444 Nuits",
+                    "track_name": "Malik Al Mawt"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791620713,
+                "recording_msid": "0b1b3b8c-cbe0-446c-9895-d1e29dc991e2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_release_mbid": "07d9d1f5-a2a5-4568-9e17-bb4872a60b6a",
+                        "lastfm_track_mbid": "3b9ce071-3b4a-4aed-acb2-92b3937300bf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13862134291,
+                        "caa_release_mbid": "07d9d1f5-a2a5-4568-9e17-bb4872a60b6a",
+                        "recording_mbid": "e26c05a4-bb6c-4963-8116-25ecf6b3ca6c",
+                        "recording_name": "Dans Le Vide",
+                        "release_group_mbid": "22b9fe03-3af1-4dfa-b3fc-95bb0c65de22",
+                        "release_mbid": "07d9d1f5-a2a5-4568-9e17-bb4872a60b6a"
+                    },
+                    "release_name": "Matrix",
+                    "track_name": "Dans le vide"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791620549,
+                "recording_msid": "0a1831f6-690d-4e9a-9d54-686e915917b5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680",
+                        "lastfm_release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782",
+                        "lastfm_track_mbid": "f6990e28-93fa-4773-b596-2e48b328ac9e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Alpha Wann",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Alpha Wann",
+                                "artist_mbid": "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28072341687,
+                        "caa_release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782",
+                        "recording_mbid": "f6990e28-93fa-4773-b596-2e48b328ac9e",
+                        "recording_name": "philly flingo",
+                        "release_group_mbid": "cd5f771c-be41-46ff-a6c0-b5bfdaa2e09e",
+                        "release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782"
+                    },
+                    "release_name": "don dada mixtape vol 1",
+                    "track_name": "philly flingo"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791627884,
+                "listened_at": 1791620365,
+                "recording_msid": "35f013dd-e21e-4a78-aa43-0a8692dd4412",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "William",
+                    "release_name": "Nostalgie Club",
+                    "track_name": "Westwood"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791620231,
+                "recording_msid": "16fb4a8e-b238-4bbd-9dcd-d079075891b6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+                        "lastfm_release_mbid": "2972245a-dd58-4512-88ea-fe8f31e3f2e4",
+                        "lastfm_track_mbid": "5823013b-d029-4edf-8992-1d4eea9805ab",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hamza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6a2244c9-3122-454e-b83d-b23e2968884e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hamza",
+                                "artist_mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34764858239,
+                        "caa_release_mbid": "2972245a-dd58-4512-88ea-fe8f31e3f2e4",
+                        "recording_mbid": "5823013b-d029-4edf-8992-1d4eea9805ab",
+                        "recording_name": "Codéine 19",
+                        "release_group_mbid": "612e7c0b-6aa2-4b22-b06d-ad46df279372",
+                        "release_mbid": "fd34cad3-3bd1-455c-90fa-3fdd1b051087"
+                    },
+                    "release_name": "Sincèrement",
+                    "track_name": "Codéine 19"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791620096,
+                "recording_msid": "567b61d2-58dd-4851-bf96-5fbcbe974f0b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Luther",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a30ade9-0c3a-4d7d-b127-507d7883fb28"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Luther",
+                                "artist_mbid": "1a30ade9-0c3a-4d7d-b127-507d7883fb28",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32706879574,
+                        "caa_release_mbid": "e08fa6ba-bb7f-40db-939c-0480a6a32554",
+                        "recording_mbid": "556faa81-92b8-437e-8dba-f33da3905c60",
+                        "recording_name": "GARÇON",
+                        "release_group_mbid": "583a18b2-5e03-44d0-b08f-8d49c505f10f",
+                        "release_mbid": "e08fa6ba-bb7f-40db-939c-0480a6a32554"
+                    },
+                    "release_name": "GARÇON",
+                    "track_name": "GARÇON"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791619928,
+                "recording_msid": "7443a97e-cae0-427d-9611-2008003f3215",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+                        "lastfm_release_mbid": "43c96ba7-a500-46c5-8522-934b718edb98",
+                        "lastfm_track_mbid": "0283b8c9-ef79-4ddd-b135-aa03d5d1f10e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Major Lazer",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "75be165a-ad83-4d12-bd28-f589a15c479f",
+                            "31445b1e-96f3-4c7f-84ec-dd02e647e690",
+                            "3ab2ee23-1c2f-458c-9c8c-ca4844729120"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Major Lazer",
+                                "artist_mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+                                "join_phrase": " × "
+                            },
+                            {
+                                "artist_credit_name": "DJ Snake",
+                                "artist_mbid": "31445b1e-96f3-4c7f-84ec-dd02e647e690",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "MØ",
+                                "artist_mbid": "3ab2ee23-1c2f-458c-9c8c-ca4844729120",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31325197702,
+                        "caa_release_mbid": "54bb6fed-c8f8-4643-94f2-2f17ddbf88e0",
+                        "recording_mbid": "c3888dd0-c1ce-45b3-9425-48375394fe7f",
+                        "recording_name": "Lean On",
+                        "release_group_mbid": "9adbc8fd-b77d-4e99-8951-8c43cfe4897b",
+                        "release_mbid": "54bb6fed-c8f8-4643-94f2-2f17ddbf88e0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3O8jkkrN1fyQMpSelhl9wz"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1696651165"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/54504286"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/28655610"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/28655610"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1062097165"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1062097165"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/113876568"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6A21palTzYjz3KuKgg7SHM"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/473810736"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1852885328"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1852885328"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3654928242"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/56oASnOstb2aXa7eSMK1vh"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=_mmHxzGjUZQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/23426457"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/23426457"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/46292129"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/101350932"
+                            }
+                        ]
+                    },
+                    "release_name": "Peace Is the Mission",
+                    "track_name": "Lean On (feat. MØ & DJ Snake)"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791619770,
+                "recording_msid": "e2a78d98-fd0e-4edc-8045-6d3d49ab2217",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6d87d711-43dd-4723-aa5c-b89446ec5528",
+                        "lastfm_release_mbid": "7fe33107-19cc-4a56-a354-cc63d89cefc6",
+                        "lastfm_track_mbid": "c598da35-039e-4163-aad6-5d23cf41f62b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ajna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a22ff228-6325-4c9c-903e-d08c7a643e42"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ajna",
+                                "artist_mbid": "a22ff228-6325-4c9c-903e-d08c7a643e42",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37454490265,
+                        "caa_release_mbid": "7fe33107-19cc-4a56-a354-cc63d89cefc6",
+                        "recording_mbid": "c598da35-039e-4163-aad6-5d23cf41f62b",
+                        "recording_name": "novotel",
+                        "release_group_mbid": "eed763d1-c1c5-4290-839a-1769e81aa9c4",
+                        "release_mbid": "7fe33107-19cc-4a56-a354-cc63d89cefc6"
+                    },
+                    "release_name": "Boys & Basement",
+                    "track_name": "novotel"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791619603,
+                "recording_msid": "87a1f52d-38f4-418d-8353-933f4fa5a6a1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c0da285a-81ad-41a2-8d04-d4a7e6cfb90c",
+                        "lastfm_track_mbid": "19719eeb-1dca-4b84-8fc9-5712903f9a12",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "La Mano 1.9",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c0da285a-81ad-41a2-8d04-d4a7e6cfb90c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "La Mano 1.9",
+                                "artist_mbid": "c0da285a-81ad-41a2-8d04-d4a7e6cfb90c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43112821575,
+                        "caa_release_mbid": "1f9e8288-89f1-4d25-a863-3cf974288a9b",
+                        "recording_mbid": "a1cc5252-2479-49c0-97c2-e7ad346f0146",
+                        "recording_name": "Kilo",
+                        "release_group_mbid": "66d0cf8d-75cb-4c5a-b17b-d89c6a3b0a93",
+                        "release_mbid": "1f9e8288-89f1-4d25-a863-3cf974288a9b"
+                    },
+                    "release_name": "CANON",
+                    "track_name": "Canon"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791619368,
+                "recording_msid": "743252d9-b61c-4c5a-8b23-de9cf3f81f3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                        "lastfm_release_mbid": "aded3f90-b758-451a-aad7-711d5985b05f",
+                        "lastfm_track_mbid": "bde1a5a0-7f6f-4653-8cb0-189a0f9e92c3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bad Bunny",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bad Bunny",
+                                "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32432776461,
+                        "caa_release_mbid": "aded3f90-b758-451a-aad7-711d5985b05f",
+                        "recording_mbid": "f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83",
+                        "recording_name": "Tití me preguntó",
+                        "release_group_mbid": "e992b449-141b-4aea-b07b-9b2a478a8570",
+                        "release_mbid": "fe3226ab-726b-4d52-a971-714473fec41b"
+                    },
+                    "release_name": "Un Verano Sin Ti",
+                    "track_name": "Tití Me Preguntó"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791619230,
+                "recording_msid": "2389c6a6-9a8b-4ee9-b7a3-759bfd5f0826",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                        "lastfm_release_mbid": "80b87da1-9854-48c6-a038-d1049a11965b",
+                        "lastfm_track_mbid": "0b9fd196-f9c5-4cf9-af7b-a6e9885075f4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Houdi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "08629d18-2a02-4f41-87fe-7129e7dff06e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Houdi",
+                                "artist_mbid": "08629d18-2a02-4f41-87fe-7129e7dff06e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43784687721,
+                        "caa_release_mbid": "b0a9e1f4-6c06-4847-ae00-1e02da22a47c",
+                        "recording_mbid": "0b9fd196-f9c5-4cf9-af7b-a6e9885075f4",
+                        "recording_name": "SENSATION",
+                        "release_group_mbid": "134f2c7d-7abf-45f8-9185-a7b71dfcac01",
+                        "release_mbid": "80b87da1-9854-48c6-a038-d1049a11965b"
+                    },
+                    "release_name": "SUN7",
+                    "track_name": "SENSATION"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791618976,
+                "recording_msid": "34088a4f-6e02-4a19-b03a-bfbbdb1c1671",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "26c0e53e-f6e6-4608-89ec-02ce3238bca4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Anri",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2e178faf-fbe6-44b3-8339-1b13e8ecc754"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "杏里",
+                                "artist_mbid": "2e178faf-fbe6-44b3-8339-1b13e8ecc754",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31711432025,
+                        "caa_release_mbid": "40d6409b-f8ce-4802-bd38-0e45feaced0c",
+                        "recording_mbid": "ab96fdb5-9f02-4a6c-b7ae-db3b47a02fba",
+                        "recording_name": "悲しみがとまらない",
+                        "release_group_mbid": "bf916dae-bdff-42d2-8e14-07742c5f7e0b",
+                        "release_mbid": "6be682f9-0949-4e5c-a486-ec5fb8d06a66",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/951927432"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze"
+                            }
+                        ]
+                    },
+                    "release_name": "TIMELY!!",
+                    "track_name": "悲しみがとまらない　I CAN'T STOP THE LONELINESS"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791618807,
+                "recording_msid": "03a568eb-f04a-4437-a61b-3e992b65eef9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                        "lastfm_release_mbid": "eb5e7693-8f2c-40f7-a403-66ae9cadf1d2",
+                        "lastfm_track_mbid": "27a68636-b581-4e0a-8621-2b7e3dc649af",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Josman",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d6f204c1-ea79-4ad0-bac3-862faad14130"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Josman",
+                                "artist_mbid": "d6f204c1-ea79-4ad0-bac3-862faad14130",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25584102634,
+                        "caa_release_mbid": "eb5e7693-8f2c-40f7-a403-66ae9cadf1d2",
+                        "recording_mbid": "380d08c5-4027-445d-a72c-11872405f1ab",
+                        "recording_name": "Seul",
+                        "release_group_mbid": "eb17e579-2c9b-45a0-b8a9-b182af175785",
+                        "release_mbid": "eb5e7693-8f2c-40f7-a403-66ae9cadf1d2"
+                    },
+                    "release_name": "Split",
+                    "track_name": "Seul"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791618633,
+                "recording_msid": "1a828b31-a086-4427-8c1c-b9fdfc49215e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680",
+                        "lastfm_release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Alpha Wann",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680",
+                            "81920682-bb79-4b62-afa8-fe8dece0227c",
+                            "705f2dd9-8e8a-4d43-aa4c-c8bf1049077e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Alpha Wann",
+                                "artist_mbid": "7bfb81ef-e6aa-4716-a9a5-fa5f1b419680",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Kaaris",
+                                "artist_mbid": "81920682-bb79-4b62-afa8-fe8dece0227c",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Infinit'",
+                                "artist_mbid": "705f2dd9-8e8a-4d43-aa4c-c8bf1049077e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28072341687,
+                        "caa_release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782",
+                        "recording_mbid": "67bc541b-0788-4089-ad5f-d44083488133",
+                        "recording_name": "soldat tue soldat",
+                        "release_group_mbid": "cd5f771c-be41-46ff-a6c0-b5bfdaa2e09e",
+                        "release_mbid": "7d4252c3-c700-40f5-b348-1c8ad16ed782"
+                    },
+                    "release_name": "don dada mixtape vol 1",
+                    "track_name": "soldat tue soldat"
+                },
+                "user_name": "edouard.loooo"
+            },
+            {
+                "inserted_at": 1791620454,
+                "listened_at": 1791618437,
+                "recording_msid": "4bb3c989-b5aa-46fa-a829-0ace977f700f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+                        "lastfm_release_mbid": "2e8173aa-bbfb-4b3f-acc5-ee4f3df6b552",
+                        "lastfm_track_mbid": "a3b1bcf1-ac58-4078-ac96-c66c1f6e4ea7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hamza",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6a2244c9-3122-454e-b83d-b23e2968884e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hamza",
+                                "artist_mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22174409967,
+                        "caa_release_mbid": "56aef7ca-ac35-4aa2-a77f-437a4c59e81b",
+                        "recording_mbid": "1301a05e-4de5-400d-be00-c38d08f48729",
+                        "recording_name": "Henny me noie",
+                        "release_group_mbid": "eec9d469-a3c0-42f4-9f78-08021ba3c314",
+                        "release_mbid": "456e55b8-595f-4327-a81e-8d1d13c9680c"
+                    },
+                    "release_name": "Paradise",
+                    "track_name": "Henny me noie"
+                },
+                "user_name": "edouard.loooo"
+            }
+        ],
+        "oldest_listen_ts": 1669909630,
+        "user_id": "edouard.loooo"
+    }
+}

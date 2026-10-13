@@ -1,0 +1,3995 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1786836878,
+        "listens": [
+            {
+                "inserted_at": 1786837082,
+                "listened_at": 1786836878,
+                "recording_msid": "5010eaca-56e1-4c35-9b09-c77ec4865ac6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 397,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/6LqnBrBSFyU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Rihanna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32325572219,
+                        "caa_release_mbid": "b8fdf8b5-45f6-4f1d-b7af-b7c28aff8ad8",
+                        "recording_mbid": "1f79c73c-a376-4edf-a3b1-ad4ab636fa18",
+                        "recording_name": "Same Ol’ Mistakes",
+                        "release_group_mbid": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+                        "release_mbid": "e25187a7-dd18-45fe-a292-d536a3f6e29c"
+                    },
+                    "release_name": "Anti (Deluxe) [Clean]",
+                    "track_name": "Same Ol’ Mistakes"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786836795,
+                "listened_at": 1786836713,
+                "recording_msid": "033025ab-7858-4791-84e3-6f0a143c6b97",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 161,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/WSSShAOKYfo",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Rihanna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32325572219,
+                        "caa_release_mbid": "b8fdf8b5-45f6-4f1d-b7af-b7c28aff8ad8",
+                        "recording_mbid": "f7a18eea-d7a5-4b0d-aa33-ce57718a131a",
+                        "recording_name": "Consideration",
+                        "release_group_mbid": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+                        "release_mbid": "e25187a7-dd18-45fe-a292-d536a3f6e29c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2Gxna051PLTjjQVWTOP67D"
+                            }
+                        ]
+                    },
+                    "release_name": "ANTI",
+                    "track_name": "Consideration"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786836511,
+                "listened_at": 1786836312,
+                "recording_msid": "5010eaca-56e1-4c35-9b09-c77ec4865ac6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 397,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/6LqnBrBSFyU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Rihanna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32325572219,
+                        "caa_release_mbid": "b8fdf8b5-45f6-4f1d-b7af-b7c28aff8ad8",
+                        "recording_mbid": "1f79c73c-a376-4edf-a3b1-ad4ab636fa18",
+                        "recording_name": "Same Ol’ Mistakes",
+                        "release_group_mbid": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+                        "release_mbid": "e25187a7-dd18-45fe-a292-d536a3f6e29c"
+                    },
+                    "release_name": "Anti (Deluxe) [Clean]",
+                    "track_name": "Same Ol’ Mistakes"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786836304,
+                "listened_at": 1786836127,
+                "recording_msid": "045d1fab-a212-47ce-8f12-a3d9756f814b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 352,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/iCUZsutMavs",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Slim K",
+                    "track_name": "Mary x3"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786835948,
+                "listened_at": 1786835769,
+                "recording_msid": "8ffb6807-7d7a-48cd-8c91-3e2b92a79c16",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 356,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/DVrynRO5oUc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Slim K",
+                    "track_name": "Brand New Guy"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786835589,
+                "listened_at": 1786835412,
+                "recording_msid": "045d1fab-a212-47ce-8f12-a3d9756f814b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 352,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/iCUZsutMavs",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Slim K",
+                    "track_name": "Mary x3"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786835232,
+                "listened_at": 1786835053,
+                "recording_msid": "8ffb6807-7d7a-48cd-8c91-3e2b92a79c16",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 356,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/DVrynRO5oUc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Slim K",
+                    "track_name": "Brand New Guy"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786834890,
+                "listened_at": 1786834728,
+                "recording_msid": "d03888fe-6a0c-4f3f-a1e5-dfb56ef6f871",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 320,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/vQmnZWF6m-M",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Slim K",
+                    "track_name": "Houston Old Head"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786834546,
+                "listened_at": 1786834416,
+                "recording_msid": "f3e9a3b8-0859-4f90-ab81-5dd72b28dc1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 259,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/9afVR2qO730",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30799958056,
+                        "caa_release_mbid": "7e23f641-7275-48ce-b592-ece9d0fa25cd",
+                        "recording_mbid": "94d8c136-f14b-4c69-bea3-98a671e0883b",
+                        "recording_name": "Houston Old Head",
+                        "release_group_mbid": "1b4d965f-4827-488b-9bd8-2d724e3cf282",
+                        "release_mbid": "c5f48d23-8ecf-44fa-b4b4-53b974a5f1b3"
+                    },
+                    "release_name": "LiveLoveA$AP",
+                    "track_name": "Houston Old Head"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786834238,
+                "listened_at": 1786834107,
+                "recording_msid": "f3e9a3b8-0859-4f90-ab81-5dd72b28dc1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 259,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/9afVR2qO730",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30799958056,
+                        "caa_release_mbid": "7e23f641-7275-48ce-b592-ece9d0fa25cd",
+                        "recording_mbid": "94d8c136-f14b-4c69-bea3-98a671e0883b",
+                        "recording_name": "Houston Old Head",
+                        "release_group_mbid": "1b4d965f-4827-488b-9bd8-2d724e3cf282",
+                        "release_mbid": "c5f48d23-8ecf-44fa-b4b4-53b974a5f1b3"
+                    },
+                    "release_name": "LiveLoveA$AP",
+                    "track_name": "Houston Old Head"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786740067,
+                "listened_at": 1786739817,
+                "recording_msid": "702c057f-ab0a-4c36-8ab5-30f8d35e395c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 544,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2z0TC3YAcb0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "track_name": "nice shoes / in your world (Visualizer)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786739722,
+                "listened_at": 1786739635,
+                "recording_msid": "63398d2f-bb12-4695-aa53-63b1f3821e01",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 170,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yGHEis32s2Y",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "track_name": "oh yeah? (Visualizer)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786739577,
+                "listened_at": 1786739460,
+                "recording_msid": "c4c6beb1-480b-4ade-ba68-c593378f6e52",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/qfroRRWbqmo",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Steve Lacy",
+                                "artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45315498159,
+                        "caa_release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "recording_mbid": "4633ac63-8179-41cb-a4b0-11631b28ffa1",
+                        "recording_name": "oh yeah?",
+                        "release_group_mbid": "40a8bbb9-667a-4878-beb7-05b4fdffa92d",
+                        "release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/oh-yeah/6773775282"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4151325372"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/542734708"
+                            }
+                        ]
+                    },
+                    "release_name": "Oh Yeah?",
+                    "track_name": "Oh Yeah?"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786739383,
+                "listened_at": 1786739278,
+                "recording_msid": "63398d2f-bb12-4695-aa53-63b1f3821e01",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 170,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yGHEis32s2Y",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "track_name": "oh yeah? (Visualizer)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786713847,
+                "listened_at": 1786713774,
+                "recording_msid": "ff9d7c29-2a62-4056-a24f-f95a8cee6668",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 144,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/KlhuSz0HbcE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44227317419,
+                        "caa_release_mbid": "7a35eb1b-50ce-4c03-84b3-91e6da6a4654",
+                        "recording_mbid": "492f30a6-3591-4e7f-98a1-19ba4141f716",
+                        "recording_name": "Tiramisu",
+                        "release_group_mbid": "25b63144-8711-47ba-b989-0a5cde590abc",
+                        "release_mbid": "d0ad364c-9456-4702-a8fd-25dd3e6795cf",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1871258335"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1871258335"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/494389869"
+                            }
+                        ]
+                    },
+                    "release_name": "Tiramisu",
+                    "track_name": "Tiramisu"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786712218,
+                "listened_at": 1786712185,
+                "recording_msid": "0c62d61d-c358-477f-a9b0-889ee786b404",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "Brain.fm",
+                        "origin_url": "https://my.brain.fm/player/hACqLd5vl68dQODquC3wR",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "brain.fm",
+                    "track_name": "Setting Sun"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786656958,
+                "listened_at": 1786656707,
+                "recording_msid": "d93dc25c-2f84-42d3-b697-2dbfc44a3529",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 500,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/uuZE_IRwLNI",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Timberlake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "596ffa74-3d08-44ef-b113-765d43d12738"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Justin Timberlake",
+                                "artist_mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17986327603,
+                        "caa_release_mbid": "b84af7a6-b54f-4f31-adf2-cbaa287ff79c",
+                        "recording_mbid": "c01bd40c-5f23-4c34-9238-7a5f226f6c0e",
+                        "recording_name": "Mirrors",
+                        "release_group_mbid": "deae6fc2-a675-4f35-9565-d2aaea4872c7",
+                        "release_mbid": "d120403e-23ce-49ea-a06d-1775711c33c6",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/65356224"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/8121624"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/19297572"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1441493608"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/8121624"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=uuZE_IRwLNI"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1441493608"
+                            }
+                        ]
+                    },
+                    "release_name": "The 20/20 Experience (Deluxe Version)",
+                    "track_name": "Mirrors"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786656522,
+                "listened_at": 1786656297,
+                "recording_msid": "7703dc86-67c7-47b2-9e40-025fdef9fa0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 365,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/47YClVMlthI",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Bieber",
+                    "track_name": "Confident ft. Chance the Rapper"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786646275,
+                "listened_at": 1786646195,
+                "recording_msid": "1f0eec3f-8eee-46fb-90b5-1e1856f2fc6d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 134,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "thenian",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "28cf0b7d-9eb1-4270-9a2e-6d028d4aa7b8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "thenian",
+                                "artist_mbid": "28cf0b7d-9eb1-4270-9a2e-6d028d4aa7b8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43711406012,
+                        "caa_release_mbid": "19196a27-cccf-4b2a-a73b-f7ceac1b0327",
+                        "recording_mbid": "723dfe0d-08cd-4139-bcc0-8c707bf778df",
+                        "recording_name": "Atlas",
+                        "release_group_mbid": "8b767e82-e287-4c51-97e2-64d7ff716663",
+                        "release_mbid": "19196a27-cccf-4b2a-a73b-f7ceac1b0327"
+                    },
+                    "release_name": "Atlas",
+                    "track_name": "atlas"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786646148,
+                "listened_at": 1786646080,
+                "recording_msid": "b0e90f53-0646-493c-9131-e6d60227012a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 122,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Reidenshi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3f7a621e-0d84-4558-9b25-d6f916eed2c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "reidenshi",
+                                "artist_mbid": "3f7a621e-0d84-4558-9b25-d6f916eed2c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39346675449,
+                        "caa_release_mbid": "89673d7a-0cdd-471a-bc65-7cc6a9cc8dee",
+                        "recording_mbid": "ec5a2f91-a843-43a6-9087-f39b14ebf380",
+                        "recording_name": "november 8",
+                        "release_group_mbid": "51c590f4-9bdf-44dc-8c88-1dd0812b5b02",
+                        "release_mbid": "89673d7a-0cdd-471a-bc65-7cc6a9cc8dee"
+                    },
+                    "release_name": "november 8",
+                    "track_name": "november 8"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786645987,
+                "listened_at": 1786645918,
+                "recording_msid": "402e80d9-afe9-4f8d-b55c-e52e958a9e6d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 128,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "TileKid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e56bee25-39ec-4edf-b62e-f7031d1a486a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "TileKid",
+                                "artist_mbid": "e56bee25-39ec-4edf-b62e-f7031d1a486a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33211521693,
+                        "caa_release_mbid": "51944b5c-29ad-4bc9-9ede-316b4150bb12",
+                        "recording_mbid": "f488fac8-66b1-4b04-9156-c56e9d549ce0",
+                        "recording_name": "you not the same",
+                        "release_group_mbid": "ace6e5c3-afc9-4d4f-b14a-74c0e967b5ea",
+                        "release_mbid": "51944b5c-29ad-4bc9-9ede-316b4150bb12"
+                    },
+                    "release_name": "You Not the Same",
+                    "track_name": "you not the same"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786645761,
+                "listened_at": 1786645640,
+                "recording_msid": "2009bea6-d139-40b7-be99-761e28081b40",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Alvedon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "79feec98-75aa-42da-94df-786a5d735e31"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Alvedon",
+                                "artist_mbid": "79feec98-75aa-42da-94df-786a5d735e31",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39442045858,
+                        "caa_release_mbid": "32550b57-0909-47d3-abdd-4ee8834b50b9",
+                        "recording_mbid": "0e7907c7-7d4f-4f01-b9bd-7305c3949ae1",
+                        "recording_name": "Retire",
+                        "release_group_mbid": "b764b170-4de1-43ba-b867-cf3527bb0832",
+                        "release_mbid": "32550b57-0909-47d3-abdd-4ee8834b50b9"
+                    },
+                    "track_name": "retire"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786645630,
+                "listened_at": 1786645543,
+                "recording_msid": "0377024c-b89f-4800-a392-da1ea438f868",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 94,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Øneheart",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "34890096-ab67-44d9-a196-91bf42edb785"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Øneheart",
+                                "artist_mbid": "34890096-ab67-44d9-a196-91bf42edb785",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34916636675,
+                        "caa_release_mbid": "615d7b9e-d7db-48b2-916f-c0cb4909d74d",
+                        "recording_mbid": "9af2b113-be20-4933-93f0-5278d1c2916f",
+                        "recording_name": "this feeling",
+                        "release_group_mbid": "8a30b48d-4dea-43f0-8fbb-6d2d3ac8e15f",
+                        "release_mbid": "615d7b9e-d7db-48b2-916f-c0cb4909d74d"
+                    },
+                    "release_name": "This Feeling",
+                    "track_name": "this feeling"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786645383,
+                "listened_at": 1786645353,
+                "recording_msid": "5f6884b6-f700-4c08-8bb5-750c13c8d432",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "analog_mannequin",
+                    "track_name": "milk cassette x.mp3"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786645263,
+                "listened_at": 1786645231,
+                "recording_msid": "76913663-374f-4150-b69e-d92c742c725d",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/O5p2ZX7UU9w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "øneheart x reidenshi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "34890096-ab67-44d9-a196-91bf42edb785",
+                            "3f7a621e-0d84-4558-9b25-d6f916eed2c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Øneheart",
+                                "artist_mbid": "34890096-ab67-44d9-a196-91bf42edb785",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "reidenshi",
+                                "artist_mbid": "3f7a621e-0d84-4558-9b25-d6f916eed2c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34243497107,
+                        "caa_release_mbid": "deeea568-23e1-4e34-8aad-8f2a4e317ccd",
+                        "recording_mbid": "d9643174-7f03-4404-b8ef-270f7f339f66",
+                        "recording_name": "snowfall",
+                        "release_group_mbid": "847a3585-da86-4ae0-8d2a-5545f1a81863",
+                        "release_mbid": "deeea568-23e1-4e34-8aad-8f2a4e317ccd"
+                    },
+                    "track_name": "snowfall"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786612244,
+                "listened_at": 1786611740,
+                "recording_msid": "f0d34fbd-5737-4fac-b7f4-525f0366ba1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 610,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/GodOsuCXx7M",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Charlie Puth",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Charlie Puth",
+                                "artist_mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19827744116,
+                        "caa_release_mbid": "3b8ce7ae-ff41-4dc6-a694-2e2b2edc24ae",
+                        "recording_mbid": "19b6d048-f981-40e9-8235-a5acf969e5df",
+                        "recording_name": "Attention",
+                        "release_group_mbid": "b2cc73b2-0b80-4f59-8782-244b086830e2",
+                        "release_mbid": "8004db5a-0947-4745-b391-3bcc6960411d",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=vxUBYHz_q1I"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6fu2vwScqFHbyInOTd1skp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3558131571"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/460987997"
+                            }
+                        ]
+                    },
+                    "release_name": "Attention",
+                    "track_name": "Attention"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786611897,
+                "listened_at": 1786611581,
+                "recording_msid": "c4c6beb1-480b-4ade-ba68-c593378f6e52",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/XCFHv99lf-4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Steve Lacy",
+                                "artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45315498159,
+                        "caa_release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "recording_mbid": "4633ac63-8179-41cb-a4b0-11631b28ffa1",
+                        "recording_name": "oh yeah?",
+                        "release_group_mbid": "40a8bbb9-667a-4878-beb7-05b4fdffa92d",
+                        "release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/oh-yeah/6773775282"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4151325372"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/542734708"
+                            }
+                        ]
+                    },
+                    "release_name": "Oh Yeah?",
+                    "track_name": "Oh Yeah?"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786611497,
+                "listened_at": 1786611380,
+                "recording_msid": "c4c6beb1-480b-4ade-ba68-c593378f6e52",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/XCFHv99lf-4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Steve Lacy",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Steve Lacy",
+                                "artist_mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45315498159,
+                        "caa_release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "recording_mbid": "4633ac63-8179-41cb-a4b0-11631b28ffa1",
+                        "recording_name": "oh yeah?",
+                        "release_group_mbid": "40a8bbb9-667a-4878-beb7-05b4fdffa92d",
+                        "release_mbid": "eb30b1a0-3a0a-47cb-b2b1-0856f0cb6aa8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/oh-yeah/6773775282"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4151325372"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/542734708"
+                            }
+                        ]
+                    },
+                    "release_name": "Oh Yeah?",
+                    "track_name": "Oh Yeah?"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786558807,
+                "listened_at": 1786558656,
+                "recording_msid": "acf8a792-80a7-4aa7-a447-41c13c91b170",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 293,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Amp86v4Nd8Q",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29233418143,
+                        "caa_release_mbid": "703498c2-0b1d-4c69-899e-fd2a565be31f",
+                        "recording_mbid": "f4110097-7858-4252-8794-04d34cfb639e",
+                        "recording_name": "In for It",
+                        "release_group_mbid": "3abe61aa-7bc4-4d16-ad11-5d269ef09ca8",
+                        "release_mbid": "703498c2-0b1d-4c69-899e-fd2a565be31f",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/wedidit-collective/in_for_it"
+                            }
+                        ]
+                    },
+                    "release_name": "In For It",
+                    "track_name": "In For It"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786558522,
+                "listened_at": 1786558395,
+                "recording_msid": "4f722701-00b6-40d9-af14-486ad3f9ad32",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 252,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/VAybGW3DI9Q",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Young Thug",
+                    "release_name": "Pick Up the Phone",
+                    "track_name": "Pick up the Phone"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786558342,
+                "listened_at": 1786558245,
+                "recording_msid": "00f0a5bf-1125-4cf0-9080-499abf24b1a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 191,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/APl_s6gq_M8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Famous Dex",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c34cfbd6-1df2-4865-96d9-e3bb4fe0577d",
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Famous Dex",
+                                "artist_mbid": "c34cfbd6-1df2-4865-96d9-e3bb4fe0577d",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33313308833,
+                        "caa_release_mbid": "560747fc-7155-4cb1-97e2-8fddc9260b0e",
+                        "recording_mbid": "9a297392-ceb5-4fb3-ac10-0e7498697893",
+                        "recording_name": "PICK IT UP",
+                        "release_group_mbid": "306f5f85-a1cd-4388-8ad4-79217f3c8c46",
+                        "release_mbid": "560747fc-7155-4cb1-97e2-8fddc9260b0e"
+                    },
+                    "release_name": "Pick It Up (feat. A$AP Rocky)",
+                    "track_name": "Pick It Up (Feat. A$AP Rocky)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786529084,
+                "listened_at": 1786528843,
+                "recording_msid": "902fa08a-e7d1-4f4a-a960-0996e949870f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 758,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/RKexvwfhQLU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Fleetwood Mac",
+                    "track_name": "Dreams 1977 Extended Version"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786528637,
+                "listened_at": 1786528440,
+                "recording_msid": "0daaa54f-e1f1-41e1-931c-16e4fbe9348c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 391,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/dLl4PZtxia8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Eagles",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f46bd570-5768-462e-b84c-c7c993bbf47e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eagles",
+                                "artist_mbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18785014502,
+                        "caa_release_mbid": "fa7d3357-f3e9-4da5-ad70-09c05ef8207f",
+                        "recording_mbid": "40bd0203-bc3f-4b15-9ab3-ceeb2ef35d7a",
+                        "recording_name": "Hotel California",
+                        "release_group_mbid": "836f349a-0434-3e8b-a0bc-261f77a9f99c",
+                        "release_mbid": "405602ba-4214-3f70-a3bd-8eb2d5d5fef9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20767339"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68097787"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=BciS5krYL80"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=BciS5krYL80"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/635770202"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/635770202"
+                            }
+                        ]
+                    },
+                    "release_name": "Hell Freezes Over",
+                    "track_name": "Hotel California"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786528292,
+                "listened_at": 1786528141,
+                "recording_msid": "c4d85296-d3dc-4099-a557-f0713a950f1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 294,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/xwtdhWltSIg",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "R.E.M.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea4dfa26-f633-4da6-a52a-f49ea4897b58"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "R.E.M.",
+                                "artist_mbid": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31787490103,
+                        "caa_release_mbid": "d06c3c82-67db-4c67-b2f2-e3845c9c605f",
+                        "recording_mbid": "d4e0a590-e461-499a-8f62-b595b6c65ada",
+                        "recording_name": "Losing My Religion",
+                        "release_group_mbid": "400a5fdd-e616-3598-a9bf-cd8275cb53d0",
+                        "release_mbid": "bd797f26-ddc1-43ae-8950-1757e28753cb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=Efa6BAWPm9o"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6bCPryuQjsts5cEybA3Nb5"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=Efa6BAWPm9o"
+                            }
+                        ]
+                    },
+                    "release_name": "In Time: The Best of R.E.M. 1988-2003",
+                    "track_name": "Losing My Religion"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786527962,
+                "listened_at": 1786527767,
+                "recording_msid": "a8b536ae-3cb6-4cb7-8c55-75f32fba0d1d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 301,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/izGwDsrQ1eQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "George Michael",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "George Michael",
+                                "artist_mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 2622532701,
+                        "caa_release_mbid": "ec01ad0c-a28f-4d45-bed7-d73014161c38",
+                        "recording_mbid": "173f72b2-87bd-44bb-887f-a7d1522dc035",
+                        "recording_name": "Careless Whisper",
+                        "release_group_mbid": "0e319e00-ac06-34ed-b4fa-f6d206d4a4e6",
+                        "release_mbid": "c143d542-48dc-446b-b523-1762da721638"
+                    },
+                    "release_name": "Ladies & Gentlemen: The Best of George Michael",
+                    "track_name": "Careless Whisper"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786490196,
+                "listened_at": 1786490071,
+                "recording_msid": "ea981f38-842c-468e-9327-79abd9d0a286",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 245,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/pcJo0tIWybY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27169904790,
+                        "caa_release_mbid": "ff9321b4-2977-4585-b8fd-e6129f35138b",
+                        "recording_mbid": "0379ff8a-7d59-4bf0-9b44-0b8e2612695c",
+                        "recording_name": "Garden (Say It Like Dat)",
+                        "release_group_mbid": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+                        "release_mbid": "2d5626a5-0fea-4604-97bb-4778c5c1e52f"
+                    },
+                    "release_name": "Ctrl",
+                    "track_name": "Garden (Say It Like Dat)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786489931,
+                "listened_at": 1786489793,
+                "recording_msid": "ac6a645a-6930-4216-a23e-f61f6c7b3b2f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 274,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/jJdlgKzVsnI",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24553319627,
+                        "caa_release_mbid": "9922257e-6031-425c-8d27-4fbd15cf9c46",
+                        "recording_mbid": "a1fc4545-0a2e-467b-9811-4ba120c65727",
+                        "recording_name": "Streets",
+                        "release_group_mbid": "88e46272-f172-42ad-ae4a-6df5dbfb5ae0",
+                        "release_mbid": "3adff60a-60ba-425a-99f2-d7f5176b06f7"
+                    },
+                    "release_name": "Hot Pink",
+                    "track_name": "Streets"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786489688,
+                "listened_at": 1786489586,
+                "recording_msid": "bd692fd0-890d-4f2f-9e29-f797c5b15886",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/xEAEDKzjQTY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "f5e54962-d384-435f-8006-fbb872790c73",
+                        "recording_name": "I Hate U",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "track_name": "I Hate U (Visualizer)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786489461,
+                "listened_at": 1786489336,
+                "recording_msid": "d269536f-db4e-4b98-a4f3-5b2088147098",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 245,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/KFMYx1TibeQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Kehlani",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kehlani",
+                                "artist_mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44969185831,
+                        "caa_release_mbid": "dde38b4e-af44-4afd-a420-c7ce3f8a7053",
+                        "recording_mbid": "9ea37476-fc29-4f78-802a-0b8ef1f4649b",
+                        "recording_name": "Folded",
+                        "release_group_mbid": "a49bd5e7-5a9b-4cbd-84ab-90b3fd6b4c09",
+                        "release_mbid": "d1aeb888-e99d-4556-9e7f-e24c880b8375",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1818901329"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1818901329"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=XOB9GU1As58"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3507223141"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/453949821"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3410232121"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1833033301"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1833033301"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/441289340"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/68tAAsoJnseP6T8ByVPrBb"
+                            }
+                        ]
+                    },
+                    "release_name": "Folded",
+                    "track_name": "Folded"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786489217,
+                "listened_at": 1786489099,
+                "recording_msid": "3de407c9-eac9-48bd-b7b0-d5061779fb97",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 233,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/0Exxu8lsGYE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34543657647,
+                        "caa_release_mbid": "2d5626a5-0fea-4604-97bb-4778c5c1e52f",
+                        "recording_mbid": "e217cb7e-782a-4474-b408-e994992f41a2",
+                        "recording_name": "Broken Clocks",
+                        "release_group_mbid": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+                        "release_mbid": "2d5626a5-0fea-4604-97bb-4778c5c1e52f"
+                    },
+                    "release_name": "Ctrl",
+                    "track_name": "Broken Clocks"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786488956,
+                "listened_at": 1786488818,
+                "recording_msid": "29a1b93c-3268-4719-8799-1d792907e763",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 275,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/wku2PjKQcA4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17513443505,
+                        "caa_release_mbid": "3c8821aa-7839-465a-86f7-8988b3bff12e",
+                        "recording_mbid": "056fbf4a-a354-447f-91a9-39e0fb823a64",
+                        "recording_name": "Love Galore",
+                        "release_group_mbid": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+                        "release_mbid": "2d5626a5-0fea-4604-97bb-4778c5c1e52f"
+                    },
+                    "release_name": "Love Galore",
+                    "track_name": "Love Galore"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786488738,
+                "listened_at": 1786488624,
+                "recording_msid": "7a0cb771-c637-452b-8ab4-f6d09364bbf1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 190,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/JXgV1rXUoME",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat, The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": " + "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "861679df-1dda-4c68-aef3-f4bb14bc7431",
+                        "recording_name": "You Right",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=fdrjPRnTYC0"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=fdrjPRnTYC0"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472398"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075760"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075760"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169280"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169280"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738112"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+                            }
+                        ]
+                    },
+                    "track_name": "You Right"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786488455,
+                "listened_at": 1786488281,
+                "recording_msid": "a1292ecf-7c7a-4c6a-bc85-abd8383fb272",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 339,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2p3zZoraK9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "dc80e9a0-8282-4bea-8cdb-a7acdeb7f692",
+                        "recording_name": "Good Days",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Hits 8 - as Grandes Músicas do Momento",
+                    "track_name": "Good Days"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786488185,
+                "listened_at": 1786488088,
+                "recording_msid": "32c8a63d-7e37-41ae-b71f-00187fe1358d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 188,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/V2G8ESoDXm8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36028473989,
+                        "caa_release_mbid": "a38f8a03-faf9-4f09-849e-e6596c16ae5c",
+                        "recording_mbid": "9b6b096f-36d8-4297-b181-ea501c4b41a2",
+                        "recording_name": "Saturn",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "1d39bb1e-c342-4eb3-a686-7b12cb84c1ff"
+                    },
+                    "release_name": "Saturn",
+                    "track_name": "Saturn"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786487947,
+                "listened_at": 1786487807,
+                "recording_msid": "b337594b-c4f1-4e35-aaf1-a7693108a884",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 276,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/MSRcC626prw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "52dc5433-ce6f-4946-8b71-333e66bd37b8",
+                        "recording_name": "Kill Bill",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2717935762"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=AdEKgwUqPKI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/17wTdczoW2KKzeLIfNIih7"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/04xjwlIImglVQGNUiQFvrG"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/353004555"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            }
+                        ]
+                    },
+                    "release_name": "SOS",
+                    "track_name": "Kill Bill"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786487668,
+                "listened_at": 1786487525,
+                "recording_msid": "b67bbcfe-34db-4415-8e8a-fbeeb338396d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 281,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/LDY_XyxBu8A",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "6cf2ac53-82d4-4c6d-94ca-083cfd23db6d",
+                        "recording_name": "Snooze",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "SOS",
+                    "track_name": "Snooze"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786487376,
+                "listened_at": 1786487226,
+                "recording_msid": "7da6f5b2-ae8d-421b-8ac1-cf481e0d2e6a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 294,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/hdFDrjfW548",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34281078448,
+                        "caa_release_mbid": "b82458a3-7d3a-495f-861f-8698731c4dd0",
+                        "recording_mbid": "d974be20-b524-490d-bf04-2eb1b0a11ef1",
+                        "recording_name": "Shirt",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Shirt",
+                    "track_name": "Shirt"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786487123,
+                "listened_at": 1786486951,
+                "recording_msid": "a1292ecf-7c7a-4c6a-bc85-abd8383fb272",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 339,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2p3zZoraK9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "dc80e9a0-8282-4bea-8cdb-a7acdeb7f692",
+                        "recording_name": "Good Days",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Hits 8 - as Grandes Músicas do Momento",
+                    "track_name": "Good Days"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786486799,
+                "listened_at": 1786486652,
+                "recording_msid": "7da6f5b2-ae8d-421b-8ac1-cf481e0d2e6a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 294,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/hdFDrjfW548",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34281078448,
+                        "caa_release_mbid": "b82458a3-7d3a-495f-861f-8698731c4dd0",
+                        "recording_mbid": "d974be20-b524-490d-bf04-2eb1b0a11ef1",
+                        "recording_name": "Shirt",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Shirt",
+                    "track_name": "Shirt"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786486484,
+                "listened_at": 1786486312,
+                "recording_msid": "a1292ecf-7c7a-4c6a-bc85-abd8383fb272",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 339,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2p3zZoraK9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "dc80e9a0-8282-4bea-8cdb-a7acdeb7f692",
+                        "recording_name": "Good Days",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Hits 8 - as Grandes Músicas do Momento",
+                    "track_name": "Good Days"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786486178,
+                "listened_at": 1786486033,
+                "recording_msid": "b337594b-c4f1-4e35-aaf1-a7693108a884",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 276,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/MSRcC626prw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "52dc5433-ce6f-4946-8b71-333e66bd37b8",
+                        "recording_name": "Kill Bill",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2717935762"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=AdEKgwUqPKI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/17wTdczoW2KKzeLIfNIih7"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/04xjwlIImglVQGNUiQFvrG"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/353004555"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            }
+                        ]
+                    },
+                    "release_name": "SOS",
+                    "track_name": "Kill Bill"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786485817,
+                "listened_at": 1786485714,
+                "recording_msid": "66473275-5beb-44e7-9ce7-9cea95f68746",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 193,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yxW5yuzVi8w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786485210,
+                "listened_at": 1786485039,
+                "recording_msid": "a1292ecf-7c7a-4c6a-bc85-abd8383fb272",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 339,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2p3zZoraK9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "dc80e9a0-8282-4bea-8cdb-a7acdeb7f692",
+                        "recording_name": "Good Days",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418"
+                    },
+                    "release_name": "Hits 8 - as Grandes Músicas do Momento",
+                    "track_name": "Good Days"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786484897,
+                "listened_at": 1786484757,
+                "recording_msid": "b337594b-c4f1-4e35-aaf1-a7693108a884",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 276,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/MSRcC626prw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "SZA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "272989c8-5535-492d-a25c-9f58803e027f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34308497680,
+                        "caa_release_mbid": "4e41fd97-eb16-455e-bcc3-8b867b7b84f0",
+                        "recording_mbid": "52dc5433-ce6f-4946-8b71-333e66bd37b8",
+                        "recording_name": "Kill Bill",
+                        "release_group_mbid": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+                        "release_mbid": "6b1d5b1a-e915-4451-9b4e-5229d8a7b418",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2717935762"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=AdEKgwUqPKI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/17wTdczoW2KKzeLIfNIih7"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/04xjwlIImglVQGNUiQFvrG"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/353004555"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1677821536"
+                            }
+                        ]
+                    },
+                    "release_name": "SOS",
+                    "track_name": "Kill Bill"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786484657,
+                "listened_at": 1786484558,
+                "recording_msid": "66473275-5beb-44e7-9ce7-9cea95f68746",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 193,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yxW5yuzVi8w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786484625,
+                "listened_at": 1786484303,
+                "recording_msid": "2966c433-de0f-4dac-abc7-5190a3e7e40f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 201,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/cPN4H0sSCHQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Switch Disco",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d97109a4-cb24-41cc-a1e9-d8e43512bc4a",
+                            "3a60a284-256b-4481-9c33-84d12ea481cd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Switch Disco",
+                                "artist_mbid": "d97109a4-cb24-41cc-a1e9-d8e43512bc4a",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ella Henderson",
+                                "artist_mbid": "3a60a284-256b-4481-9c33-84d12ea481cd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35748344254,
+                        "caa_release_mbid": "21ae3044-d19b-4d31-92ca-5f02e6737ba5",
+                        "recording_mbid": "e7b053aa-a023-4c26-8c5e-0d61011cd25a",
+                        "recording_name": "REACT",
+                        "release_group_mbid": "04e044cd-6edf-4ada-b74d-513357fe2e4f",
+                        "release_mbid": "21ae3044-d19b-4d31-92ca-5f02e6737ba5"
+                    },
+                    "release_name": "REACT",
+                    "track_name": "REACT"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786484215,
+                "listened_at": 1786484132,
+                "recording_msid": "39f3080d-40de-4816-8225-0a8f80ec4f62",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 164,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/lPx0n6X0d8g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Ofenbach & Quarterhead",
+                    "release_name": "NRJ Beach Party 2020",
+                    "track_name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786484012,
+                "listened_at": 1786483894,
+                "recording_msid": "8fd9ee49-c3bf-4d6e-97ea-a021f7223223",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 234,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/u9efWrWHT_E",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Rihanna",
+                    "track_name": "Disturbia (Leezardz Remix)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786483786,
+                "listened_at": 1786483672,
+                "recording_msid": "7a5a5664-d051-41f0-8b49-bb73baf45040",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 215,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Hp_TtYWPIWg",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "track_name": "Woman (DJ Nasty Remix)"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786483142,
+                "listened_at": 1786483041,
+                "recording_msid": "66473275-5beb-44e7-9ce7-9cea95f68746",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 193,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yxW5yuzVi8w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786482950,
+                "listened_at": 1786482848,
+                "recording_msid": "66473275-5beb-44e7-9ce7-9cea95f68746",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 193,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/yxW5yuzVi8w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786447096,
+                "listened_at": 1786447065,
+                "recording_msid": "8e5aa795-94e3-4c95-88a3-6dd1f0c5333e",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "Brain.fm",
+                        "origin_url": "https://my.brain.fm/player/QYN78dJrrzs5mD_TJgBcq",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "brain.fm",
+                    "track_name": "Quiet Force"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786398931,
+                "listened_at": 1786398826,
+                "recording_msid": "042e8ff8-a269-4c54-a4c7-e9acc47aa525",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 205,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Pkh8UtuejGw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Shawn Mendes, Camila Cabello",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b7d92248-97e3-4450-8057-6fe06738f735",
+                            "01b8b5bf-06cb-45da-85fb-61ada72fcd69"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Shawn Mendes",
+                                "artist_mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Camila Cabello",
+                                "artist_mbid": "01b8b5bf-06cb-45da-85fb-61ada72fcd69",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45465235824,
+                        "caa_release_mbid": "56a319ad-43df-4254-9238-e825fdf652f0",
+                        "recording_mbid": "62f09fd2-144a-439a-96f9-ce93f05b48ae",
+                        "recording_name": "Señorita",
+                        "release_group_mbid": "41b9c230-aee1-4f02-a01c-a2abdf4d4f36",
+                        "release_mbid": "3666e267-d5b9-497d-a159-6f6c7aa62ae0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=VKC_hzJ3jzg"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/823567782"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
+                            }
+                        ]
+                    },
+                    "release_name": "Valentine Pop Hits 2022",
+                    "track_name": "seÑorIta"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786398500,
+                "listened_at": 1786398383,
+                "recording_msid": "6105706f-d9ca-483d-a7f3-0a863d074d23",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 232,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/nfs8NYg7yQM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Charlie Puth",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Charlie Puth",
+                                "artist_mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19827744116,
+                        "caa_release_mbid": "3b8ce7ae-ff41-4dc6-a694-2e2b2edc24ae",
+                        "recording_mbid": "19b6d048-f981-40e9-8235-a5acf969e5df",
+                        "recording_name": "Attention",
+                        "release_group_mbid": "b2cc73b2-0b80-4f59-8782-244b086830e2",
+                        "release_mbid": "8004db5a-0947-4745-b391-3bcc6960411d",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=vxUBYHz_q1I"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6fu2vwScqFHbyInOTd1skp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3558131571"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/460987997"
+                            }
+                        ]
+                    },
+                    "release_name": "Attention",
+                    "track_name": "Attention"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786398274,
+                "listened_at": 1786398172,
+                "recording_msid": "bb86f5d7-4fe9-415f-8323-65eb35429c3a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/8ELbX5CMomE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Bieber",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0140a67-e4d1-4f13-8a01-364355bee46e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Justin Bieber",
+                                "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45547696701,
+                        "caa_release_mbid": "006391a6-3f99-4d38-9185-50633c43fe38",
+                        "recording_mbid": "5a3637a0-aa83-402c-b56e-e1f7304df316",
+                        "recording_name": "Sorry",
+                        "release_group_mbid": "2660de3c-56db-4bd1-bf99-e162c68e5712",
+                        "release_mbid": "006391a6-3f99-4d38-9185-50633c43fe38",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2BAE404zzRv7loL51YTEWR"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=fRh_vgS2dFE"
+                            }
+                        ]
+                    },
+                    "release_name": "Sorry",
+                    "track_name": "Sorry"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786398056,
+                "listened_at": 1786397937,
+                "recording_msid": "35d60587-a269-496b-a5fb-26381cddc2cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 229,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/GzU8KqOY8YA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Sean Paul",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                            "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sean Paul",
+                                "artist_mbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Dua Lipa",
+                                "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20271298649,
+                        "caa_release_mbid": "33eed724-cd55-465a-9f50-b4afe3c7728e",
+                        "recording_mbid": "7b00dbe9-53ea-41b3-877b-31503eb2fd75",
+                        "recording_name": "No Lie",
+                        "release_group_mbid": "58aef3a3-d4be-4e46-a295-6af12dce2802",
+                        "release_mbid": "cfdb91a1-693f-41a9-b9fc-f08d650a268e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=jOF8gqpoPgs"
+                            }
+                        ]
+                    },
+                    "track_name": "No Lie Ft. Dua Lipa"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786397839,
+                "listened_at": 1786397752,
+                "recording_msid": "9697a427-62a0-4cc5-be8a-c44bd30e3440",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 173,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/g7X9X6TlrUo",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786397583,
+                "listened_at": 1786397478,
+                "recording_msid": "042e8ff8-a269-4c54-a4c7-e9acc47aa525",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 205,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Pkh8UtuejGw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Shawn Mendes, Camila Cabello",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b7d92248-97e3-4450-8057-6fe06738f735",
+                            "01b8b5bf-06cb-45da-85fb-61ada72fcd69"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Shawn Mendes",
+                                "artist_mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Camila Cabello",
+                                "artist_mbid": "01b8b5bf-06cb-45da-85fb-61ada72fcd69",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45465235824,
+                        "caa_release_mbid": "56a319ad-43df-4254-9238-e825fdf652f0",
+                        "recording_mbid": "62f09fd2-144a-439a-96f9-ce93f05b48ae",
+                        "recording_name": "Señorita",
+                        "release_group_mbid": "41b9c230-aee1-4f02-a01c-a2abdf4d4f36",
+                        "release_mbid": "3666e267-d5b9-497d-a159-6f6c7aa62ae0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=VKC_hzJ3jzg"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/823567782"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
+                            }
+                        ]
+                    },
+                    "release_name": "Valentine Pop Hits 2022",
+                    "track_name": "seÑorIta"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786397364,
+                "listened_at": 1786397243,
+                "recording_msid": "6105706f-d9ca-483d-a7f3-0a863d074d23",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 232,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/nfs8NYg7yQM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Charlie Puth",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Charlie Puth",
+                                "artist_mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19827744116,
+                        "caa_release_mbid": "3b8ce7ae-ff41-4dc6-a694-2e2b2edc24ae",
+                        "recording_mbid": "19b6d048-f981-40e9-8235-a5acf969e5df",
+                        "recording_name": "Attention",
+                        "release_group_mbid": "b2cc73b2-0b80-4f59-8782-244b086830e2",
+                        "release_mbid": "8004db5a-0947-4745-b391-3bcc6960411d",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=vxUBYHz_q1I"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6fu2vwScqFHbyInOTd1skp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3558131571"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/460987997"
+                            }
+                        ]
+                    },
+                    "release_name": "Attention",
+                    "track_name": "Attention"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786397422,
+                "listened_at": 1786397040,
+                "recording_msid": "bb86f5d7-4fe9-415f-8323-65eb35429c3a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/8ELbX5CMomE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Bieber",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0140a67-e4d1-4f13-8a01-364355bee46e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Justin Bieber",
+                                "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45547696701,
+                        "caa_release_mbid": "006391a6-3f99-4d38-9185-50633c43fe38",
+                        "recording_mbid": "5a3637a0-aa83-402c-b56e-e1f7304df316",
+                        "recording_name": "Sorry",
+                        "release_group_mbid": "2660de3c-56db-4bd1-bf99-e162c68e5712",
+                        "release_mbid": "006391a6-3f99-4d38-9185-50633c43fe38",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2BAE404zzRv7loL51YTEWR"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=fRh_vgS2dFE"
+                            }
+                        ]
+                    },
+                    "release_name": "Sorry",
+                    "track_name": "Sorry"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786396917,
+                "listened_at": 1786396802,
+                "recording_msid": "35d60587-a269-496b-a5fb-26381cddc2cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 229,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/GzU8KqOY8YA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Sean Paul",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                            "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sean Paul",
+                                "artist_mbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Dua Lipa",
+                                "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20271298649,
+                        "caa_release_mbid": "33eed724-cd55-465a-9f50-b4afe3c7728e",
+                        "recording_mbid": "7b00dbe9-53ea-41b3-877b-31503eb2fd75",
+                        "recording_name": "No Lie",
+                        "release_group_mbid": "58aef3a3-d4be-4e46-a295-6af12dce2802",
+                        "release_mbid": "cfdb91a1-693f-41a9-b9fc-f08d650a268e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=jOF8gqpoPgs"
+                            }
+                        ]
+                    },
+                    "track_name": "No Lie Ft. Dua Lipa"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786396713,
+                "listened_at": 1786396625,
+                "recording_msid": "9697a427-62a0-4cc5-be8a-c44bd30e3440",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 173,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/g7X9X6TlrUo",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Doja Cat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Doja Cat",
+                                "artist_mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29589271441,
+                        "caa_release_mbid": "1cb20415-020b-4b11-b34e-5777594bd8e3",
+                        "recording_mbid": "4d7642a0-c36c-433f-9709-f6ff9a83eb11",
+                        "recording_name": "Woman",
+                        "release_group_mbid": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+                        "release_mbid": "d1907623-576f-48cb-b413-add073ad6374",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1410738042"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/188472390"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/123075753"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=GnmoJaTWiQE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1571169048"
+                            }
+                        ]
+                    },
+                    "release_name": "Bravo The Hits 2021",
+                    "track_name": "Woman"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786396525,
+                "listened_at": 1786396425,
+                "recording_msid": "85ecc037-e1b9-4504-b326-e74876ea376f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 192,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/bXUsb57dHU0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Trinidad Cardona",
+                    "track_name": "Love Me Back"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786396325,
+                "listened_at": 1786396226,
+                "recording_msid": "4a369ea8-ff15-4a0c-a368-56d9b505efaf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 194,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/D-YDEyuDxWU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Ckay",
+                    "track_name": "Love Nwantiti Remix ft. Joeboy & Kuami Eugene  [Official Music Video]"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786396090,
+                "listened_at": 1786395955,
+                "recording_msid": "92a889d6-3809-4428-be7a-722f287da82f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 264,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/FCUk7rIBBAE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Wizkid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "efc5d365-a448-4e2f-9b5f-4a7c84be725c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wizkid",
+                                "artist_mbid": "efc5d365-a448-4e2f-9b5f-4a7c84be725c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44925243678,
+                        "caa_release_mbid": "0da08952-babf-49bc-9f2b-a0721dca6087",
+                        "recording_mbid": "5b82f181-b659-4c64-93e2-2f8ca99ce25d",
+                        "recording_name": "Joro",
+                        "release_group_mbid": "4211e01e-9d65-40b0-9900-e795eed5d87b",
+                        "release_mbid": "5972b92d-f7fd-4396-89c0-462ee9362fc8"
+                    },
+                    "release_name": "Joro",
+                    "track_name": "Joro"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786395859,
+                "listened_at": 1786395764,
+                "recording_msid": "02c9909b-25a4-4ad1-baeb-c311d2783f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 189,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/pekzpzNCNDQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Fireboy DML, Ed Sheeran",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4d09a017-4e09-47a7-b274-a7e0767ac4e0",
+                            "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Fireboy DML",
+                                "artist_mbid": "4d09a017-4e09-47a7-b274-a7e0767ac4e0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Ed Sheeran",
+                                "artist_mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31339443358,
+                        "caa_release_mbid": "ccfe374a-ccfa-4cbc-a37c-1cd40b914b75",
+                        "recording_mbid": "9625392d-b574-4d3b-a185-c8a7bcf4ec77",
+                        "recording_name": "Peru",
+                        "release_group_mbid": "51182052-d6d4-49a0-bd87-a88cdb211bed",
+                        "release_mbid": "4e52710f-271b-4b51-9e92-8628e9c65f05"
+                    },
+                    "release_name": "Peru",
+                    "track_name": "Peru"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786395671,
+                "listened_at": 1786395573,
+                "recording_msid": "85e6652c-fc65-47c5-80a7-7f0d9e6064ee",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 186,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/8pRrdaP0K4A",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Chris Brown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c234fa42-e6a6-443e-937e-2f4b073538a3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chris Brown",
+                                "artist_mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23564518342,
+                        "caa_release_mbid": "7461a143-6772-455c-9914-bf8f912bf738",
+                        "recording_mbid": "e86392c3-7f16-4b57-8e37-628d7e14756f",
+                        "recording_name": "Under the Influence",
+                        "release_group_mbid": "087b3a7d-d532-44d9-b37a-84427677ddcd",
+                        "release_mbid": "d52ab773-ae03-434f-8bd4-3bf1a00b700f",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1FwPQVMtOoNMZ2lRyd7FXa"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/1643756110"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/de/song/1643756110"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/246967937"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1643756110"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1643756110"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1902552817"
+                            }
+                        ]
+                    },
+                    "release_name": "Indigo (Extended)",
+                    "track_name": "Under the Influence"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786395445,
+                "listened_at": 1786395319,
+                "recording_msid": "859ada1e-2c25-4ba6-9307-0f2a4d1d517e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 250,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Dst9gZkq1a8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "381086ea-f511-4aba-bdf9-71c753dc5077"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27250409402,
+                        "caa_release_mbid": "a5208cd2-1249-458b-9ab4-409e955e35fd",
+                        "recording_mbid": "05b394e8-3b2c-4cc4-9a2c-cbe2814d362c",
+                        "recording_name": "goosebumps",
+                        "release_group_mbid": "2d87c53b-5e6b-40c6-9c37-d7fe7bec08bd",
+                        "release_mbid": "3231f92c-6dc3-4e07-945d-652deaea418a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/132201196"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/64819408"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/34912288"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/goosebumps/1150135924"
+                            }
+                        ]
+                    },
+                    "track_name": "Goosebumps ft. Kendrick Lamar"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786395208,
+                "listened_at": 1786395100,
+                "recording_msid": "81f2f5cf-b948-40e7-8439-190d8d8e4116",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 213,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/HCq1OcAEAm0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Lil Nas X",
+                    "track_name": "Industry Baby  Ft. Jack Harlow"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786394983,
+                "listened_at": 1786394867,
+                "recording_msid": "42b748f2-a9fe-4774-ac00-aa9d89ccbd97",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 225,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/3AyMjyHu1bA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Bieber",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0140a67-e4d1-4f13-8a01-364355bee46e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Justin Bieber",
+                                "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29643758327,
+                        "caa_release_mbid": "f5a1ddfa-c836-46a3-b8ea-e836123b0d2e",
+                        "recording_mbid": "ef0bce46-b230-4995-b403-a4367f33c638",
+                        "recording_name": "Intentions",
+                        "release_group_mbid": "3dc1e7a7-0f98-430c-990c-7c1e0936f954",
+                        "release_mbid": "f5a1ddfa-c836-46a3-b8ea-e836123b0d2e"
+                    },
+                    "track_name": "Intentions (Official Video (Short Version)) ft. Quavo"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786394774,
+                "listened_at": 1786394687,
+                "recording_msid": "c3baf09e-80b0-4d2a-b1ac-5361a4697db8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 174,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/56WBK4ZK_cw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "benny blanco, Halsey & Khalid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5a6131f9-f8db-4722-b4d7-6a0c7183c590",
+                            "3377f3bb-60fc-4403-aea9-7e800612e060",
+                            "28737730-ec70-4da5-89c5-77ac13c5c34d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "benny blanco",
+                                "artist_mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Halsey",
+                                "artist_mbid": "3377f3bb-60fc-4403-aea9-7e800612e060",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Khalid",
+                                "artist_mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 23829173904,
+                        "caa_release_mbid": "62866cf5-52fd-43d3-b550-c3620ceb7f48",
+                        "recording_mbid": "787087cb-cb94-442d-98dd-2eddc59f1f84",
+                        "recording_name": "Eastside",
+                        "release_group_mbid": "b61537ee-dbc6-4203-9ef9-b5bb4b17fbd2",
+                        "release_mbid": "62866cf5-52fd-43d3-b550-c3620ceb7f48",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=56WBK4ZK_cw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=74qn0eJSjpA"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1559816124"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/178122139"
+                            }
+                        ]
+                    },
+                    "release_name": "MegaHits 2019 - Die Erste",
+                    "track_name": "Eastside"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786394592,
+                "listened_at": 1786394493,
+                "recording_msid": "19d0f9ca-d689-41f9-bb53-508e8e5849ff",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 191,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/vC8qJfVYxZY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Jason Derulo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6de0f914-3e60-4418-be3b-42e0feb6eb4d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jason Derulo",
+                                "artist_mbid": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38056349646,
+                        "caa_release_mbid": "744751ca-5de2-4f77-8f21-292e0b4b2660",
+                        "recording_mbid": "e01aa438-bfd1-42e0-9184-d1a7c071c418",
+                        "recording_name": "Take You Dancing",
+                        "release_group_mbid": "6910887e-5b74-432e-b841-5a6e3d07e65b",
+                        "release_mbid": "85d123df-c828-453c-9317-a0dddda695ee",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1727466736"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2656866392"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/345532601"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1727466736"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3at4D3FZnJnYR0Mfcn6JSN"
+                            }
+                        ]
+                    },
+                    "release_name": "Paradise - Summer Feeling",
+                    "track_name": "Take You Dancing"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786394373,
+                "listened_at": 1786394258,
+                "recording_msid": "2bb5d7cb-4886-4c45-91b2-55d13fe682b9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 230,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/TUVcZfQe-Kw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Dua Lipa",
+                    "track_name": "Levitating Featuring DaBaby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786394138,
+                "listened_at": 1786394020,
+                "recording_msid": "bc00cf25-c636-4fff-a3b2-a0b82bcd1e01",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 233,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/YQ-qToZUybM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "The Weeknd, Ariana Grande",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29173409048,
+                        "caa_release_mbid": "e7a685cb-197b-4407-9310-239ee24f0e76",
+                        "recording_mbid": "aafb433d-5124-45f9-93c3-e308ec853131",
+                        "recording_name": "Die for You",
+                        "release_group_mbid": "ceaa5c39-91c7-4c8a-886c-85b11fa8a1f6",
+                        "release_mbid": "ba2d92bf-3322-44d3-bd23-401bb9674822",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1zF69Xru3AToRB87kAKqra"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440870395"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440870395"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440872304"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440872304"
+                            }
+                        ]
+                    },
+                    "track_name": "Die For You"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786393898,
+                "listened_at": 1786393766,
+                "recording_msid": "a6899d17-874c-40a1-b08f-f368b923a044",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 251,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/x3bfa3DZ8JM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Khalid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "28737730-ec70-4da5-89c5-77ac13c5c34d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Khalid",
+                                "artist_mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22949442942,
+                        "caa_release_mbid": "cc41582e-cbf4-4882-8508-aa113df92e86",
+                        "recording_mbid": "c41e9f88-06e2-4aeb-8ed2-dd544fd9ce61",
+                        "recording_name": "Better",
+                        "release_group_mbid": "8bcc3814-f19a-448b-8ed3-c56a024bfe4d",
+                        "release_mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d"
+                    },
+                    "release_name": "Now That's What I Call Music! Vol. 80",
+                    "track_name": "Better"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786393639,
+                "listened_at": 1786393512,
+                "recording_msid": "72f1b2bf-e1ae-4d2a-8e46-1e66b9d3e88b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 250,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/qnD1hwjR3WU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Justin Bieber",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                            "373a4c98-a46b-48e4-86ec-f6ca65b4f438"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Justin Bieber",
+                                "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Chance the Rapper",
+                                "artist_mbid": "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6034254198,
+                        "caa_release_mbid": "576d0b3e-b4f0-417d-8471-b8bb14b1f659",
+                        "recording_mbid": "2d399bba-09ce-4e13-a8f7-d3741ed279cf",
+                        "recording_name": "Confident",
+                        "release_group_mbid": "37b21c23-b70c-40c1-8c24-191ff84242c1",
+                        "release_mbid": "b6fece73-2f87-4881-b816-e377be6756d1"
+                    },
+                    "track_name": "Confident ft. Chance the Rapper"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786393380,
+                "listened_at": 1786393250,
+                "recording_msid": "c175d573-2bcf-4da2-84ba-2de41559e2ef",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 257,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/xTlNMmZKwpA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Cardi B, Bad Bunny & J Balvin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2f3c4d70-0462-40da-bba3-0aec5772c556",
+                            "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                            "5bdeb32d-56a5-4b6d-a768-264101fa0a0a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cardi B",
+                                "artist_mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Bad Bunny",
+                                "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "J Balvin",
+                                "artist_mbid": "5bdeb32d-56a5-4b6d-a768-264101fa0a0a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19750463430,
+                        "caa_release_mbid": "76086324-51a9-4bf8-bf6f-93c5795839ec",
+                        "recording_mbid": "e6e2b27b-2de0-445d-b4a8-bc722c3ebcfe",
+                        "recording_name": "I Like It",
+                        "release_group_mbid": "45c6de75-bea5-4dd9-a912-55fb9497c3fc",
+                        "release_mbid": "5dcd49ee-eda2-462f-971b-1ad0c925495e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/285jK9VYQKmijjcrjD4CRa"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/86900556"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1368157211"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/482986842"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=xTlNMmZKwpA"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1368157211"
+                            }
+                        ]
+                    },
+                    "release_name": "My Bad",
+                    "track_name": "I Like It"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786393160,
+                "listened_at": 1786393070,
+                "recording_msid": "389544b3-bd59-4590-a638-1857917b6787",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 178,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2f31hcGTb-0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Trinidad Cardona",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0b0d11f2-3358-4838-b521-04de4291ac45"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trinidad Cardona",
+                                "artist_mbid": "0b0d11f2-3358-4838-b521-04de4291ac45",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25691273132,
+                        "caa_release_mbid": "831f2156-8f96-449d-bee6-20d92ae34843",
+                        "recording_mbid": "817f0409-21d8-4588-ba31-bc12c2d038a8",
+                        "recording_name": "Dinero",
+                        "release_group_mbid": "e8f86f85-4fb1-49d9-92cf-1037959897a1",
+                        "release_mbid": "831f2156-8f96-449d-bee6-20d92ae34843"
+                    },
+                    "release_name": "Dinero",
+                    "track_name": "Dinero"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786392920,
+                "listened_at": 1786392841,
+                "recording_msid": "35b9feb2-3a93-46b6-ac93-b604eb644d51",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 158,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/kTJczUoc26U",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "The Kid LAROI, Justin Bieber",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "80609a00-b394-4a49-975b-2db6b543fa97",
+                            "e0140a67-e4d1-4f13-8a01-364355bee46e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Kid LAROI",
+                                "artist_mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Justin Bieber",
+                                "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29843695490,
+                        "caa_release_mbid": "9edb549d-b9cd-47b8-8b33-523b0bf8e301",
+                        "recording_mbid": "21d852bf-c5ab-4cfb-b1fb-9e8067f6de02",
+                        "recording_name": "STAY",
+                        "release_group_mbid": "c23a7995-9f2a-4716-8812-3b35d05eddd3",
+                        "release_mbid": "9edb549d-b9cd-47b8-8b33-523b0bf8e301",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/127450038"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1445417562"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1578326262"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/192257995"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/127450038"
+                            }
+                        ]
+                    },
+                    "release_name": "The Dome, Vol. 99",
+                    "track_name": "Stay"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786392740,
+                "listened_at": 1786392650,
+                "recording_msid": "c3f22368-249c-494f-b9bf-dda1facf22b4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 175,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/KxYT1TsEa6E",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Don Toliver x Travis Scott Type Beat 2026",
+                    "track_name": "Houston"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786392181,
+                "listened_at": 1786392109,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786391913,
+                "listened_at": 1786391841,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786391721,
+                "listened_at": 1786391606,
+                "recording_msid": "8494894b-5857-43af-8f92-49bde60a1297",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 230,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ThGpv7kv6Iw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee & Dave",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                            "f93bac9e-b20a-403e-abc9-06a2fc151df1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Central Cee",
+                                "artist_mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Dave",
+                                "artist_mbid": "f93bac9e-b20a-403e-abc9-06a2fc151df1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42532877598,
+                        "caa_release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724",
+                        "recording_mbid": "06602026-2b89-4dfe-8eb3-18df3fd59373",
+                        "recording_name": "Sprinter",
+                        "release_group_mbid": "a7051c12-571b-46f8-8df5-607de595c8f5",
+                        "release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724"
+                    },
+                    "release_name": "Sprinter",
+                    "track_name": "Sprinter"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786391532,
+                "listened_at": 1786391459,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786391341,
+                "listened_at": 1786391224,
+                "recording_msid": "8494894b-5857-43af-8f92-49bde60a1297",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 230,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ThGpv7kv6Iw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee & Dave",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                            "f93bac9e-b20a-403e-abc9-06a2fc151df1"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Central Cee",
+                                "artist_mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Dave",
+                                "artist_mbid": "f93bac9e-b20a-403e-abc9-06a2fc151df1",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42532877598,
+                        "caa_release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724",
+                        "recording_mbid": "06602026-2b89-4dfe-8eb3-18df3fd59373",
+                        "recording_name": "Sprinter",
+                        "release_group_mbid": "a7051c12-571b-46f8-8df5-607de595c8f5",
+                        "release_mbid": "9c90ac74-2df8-4a7c-8b59-fea5f07c5724"
+                    },
+                    "release_name": "Sprinter",
+                    "track_name": "Sprinter"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786391153,
+                "listened_at": 1786391081,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786390826,
+                "listened_at": 1786390713,
+                "recording_msid": "ed76ca40-9c1a-431e-bdf5-239f87c57ba5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 222,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/salwJjShv2M",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Shakira & Burna Boy",
+                    "track_name": "Dai Dai  World Cup Song 2026"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786390635,
+                "listened_at": 1786390563,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786384047,
+                "listened_at": 1786383976,
+                "recording_msid": "f795b3c3-61ea-421f-9a92-96b6de39d5ae",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 139,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/zoz2ORjru_w",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            },
+            {
+                "inserted_at": 1786383902,
+                "listened_at": 1786383831,
+                "recording_msid": "16b3337d-bd21-42f6-9a34-380e271aca2e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 141,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/C1VB1FLaeBc",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.22.0"
+                    },
+                    "artist_name": "Central Cee",
+                    "track_name": "BAND4BAND ft. Lil Baby"
+                },
+                "user_name": "pothos"
+            }
+        ],
+        "oldest_listen_ts": 1757880104,
+        "user_id": "pothos"
+    }
+}

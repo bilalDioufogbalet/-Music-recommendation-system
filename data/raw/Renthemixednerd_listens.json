@@ -1,0 +1,3931 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791828866,
+        "listens": [
+            {
+                "inserted_at": 1791828866,
+                "listened_at": 1791828866,
+                "recording_msid": "e6eac698-91ea-46cc-bf01-4a02a90cf85a",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "23efaf5f-dd81-458b-8eb8-cb83c89c3828"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44759578591,
+                        "caa_release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5",
+                        "recording_mbid": "194597f9-afdc-4e75-93f8-bcebf4948ae2",
+                        "recording_name": "Childish",
+                        "release_group_mbid": "faeca4fd-d198-4512-bfcc-e43ce5c35e58",
+                        "release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5"
+                    },
+                    "release_name": "Gaia 2",
+                    "track_name": "Childish"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791826805,
+                "listened_at": 1791826405,
+                "recording_msid": "343c2703-c488-48f2-bfdc-418fe460f20a",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "c6e75a20-b77c-4a82-a720-f1883437f8be"
+                    },
+                    "artist_name": "MASS OF THE FERMENTING DREGS",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a19b0cd-fa9d-4363-b130-b3eb394cf373"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "MASS OF THE FERMENTING DREGS",
+                                "artist_mbid": "1a19b0cd-fa9d-4363-b130-b3eb394cf373",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45910700266,
+                        "caa_release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "recording_mbid": "aa3320b5-2103-4685-bfb8-889fc1723243",
+                        "recording_name": "Simmer Summer",
+                        "release_group_mbid": "284a4afc-3462-46e4-abe9-b551a1ea76e4",
+                        "release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/59DjEEQBhu8uO0fXSI9mm5"
+                            }
+                        ]
+                    },
+                    "release_name": "Iwaou",
+                    "track_name": "Simmer Summer"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791826236,
+                "recording_msid": "5b75ae6f-2ec3-44f0-a7aa-9fd75acc0cfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42111573954,
+                        "caa_release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286",
+                        "recording_mbid": "d5ea6e74-2a6b-42bc-a61a-55140b023373",
+                        "recording_name": "SwagStealin",
+                        "release_group_mbid": "46627460-6ad7-4e84-adf4-216527d6cdb0",
+                        "release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286"
+                    },
+                    "release_name": "HeavenTunes",
+                    "track_name": "SwagStealin"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791826699,
+                "listened_at": 1791826234,
+                "recording_msid": "5b75ae6f-2ec3-44f0-a7aa-9fd75acc0cfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "8fea5871-cbfc-4aba-8682-67fb78c8c6ad"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42111573954,
+                        "caa_release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286",
+                        "recording_mbid": "d5ea6e74-2a6b-42bc-a61a-55140b023373",
+                        "recording_name": "SwagStealin",
+                        "release_group_mbid": "46627460-6ad7-4e84-adf4-216527d6cdb0",
+                        "release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286"
+                    },
+                    "release_name": "HeavenTunes",
+                    "track_name": "SwagStealin"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791826070,
+                "recording_msid": "f81c2cd8-1683-474d-aec2-78e11f054c01",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Reach Out to the Truth -Revival-",
+                    "track_name": "Reach Out to the Truth -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791826642,
+                "listened_at": 1791826068,
+                "recording_msid": "f81c2cd8-1683-474d-aec2-78e11f054c01",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Reach Out To The Truth -Revival-",
+                    "track_name": "Reach Out To The Truth -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791825217,
+                "recording_msid": "a68db76e-cab3-406f-b392-4134d86c3e31",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a390c5e6-6701-423c-82c8-b06123d8b606",
+                        "lastfm_track_mbid": "1c653367-c6b4-4cea-9a3f-72f1bcea211b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "8699d778-df32-4ca0-abb9-d0b23b7c7b1a",
+                        "recording_name": "Racks",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/504004333"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/racks/1882124813"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3mhiGSzKqf4wNOExveNRKs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3879695951"
+                            }
+                        ]
+                    },
+                    "release_name": "Half Blood (Bloodluxe)",
+                    "track_name": "Racks"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791825003,
+                "recording_msid": "0834ba35-1729-411f-8ee6-add4a3334711",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a4024dc-cc62-4d9b-8bed-c22426136a52",
+                        "lastfm_release_mbid": "b1d51fc1-ee3c-495b-aea6-384ae0cc01d1",
+                        "lastfm_track_mbid": "a43764c1-02db-4c0a-9ec9-ce3c4e0167ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quadeca",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a4024dc-cc62-4d9b-8bed-c22426136a52"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quadeca",
+                                "artist_mbid": "3a4024dc-cc62-4d9b-8bed-c22426136a52",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46309365305,
+                        "caa_release_mbid": "9cdc8cdf-2712-44cd-8285-5bc85704d8e3",
+                        "recording_mbid": "a43764c1-02db-4c0a-9ec9-ce3c4e0167ec",
+                        "recording_name": "Baby steps",
+                        "release_group_mbid": "7cae1c56-da60-4036-a42f-03ffcadc8f4d",
+                        "release_mbid": "9cdc8cdf-2712-44cd-8285-5bc85704d8e3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4145875542"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/561167943"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541944142"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/529115746"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6789598706"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3YCjxrqgnysFT80WJtfyw9"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=s__0ujP9o28"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/6774735624"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4285993422"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6815154384"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6811988737"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6811988737"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7eS9yh0FyFmgvSQODnLTiV"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6815154384"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4053469841"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/434498578"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5CZrOxA1sCrY7jlxpzUk05"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6789598706"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/434498578"
+                            }
+                        ]
+                    },
+                    "release_name": "Baby Steps",
+                    "track_name": "Baby Steps"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824802,
+                "recording_msid": "f1cd42ff-3f05-4748-9677-5b03c4f87f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824595,
+                "recording_msid": "a66a14e2-9562-438d-ae52-43da969ac314",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+                        "lastfm_release_mbid": "344d4916-7325-4533-90a9-00931a95eab5",
+                        "lastfm_track_mbid": "9fd85307-6217-4fd2-a04f-a13a4440f1b8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "underscores",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "underscores",
+                                "artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "9fd85307-6217-4fd2-a04f-a13a4440f1b8",
+                        "recording_name": "Unlimited Love",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/553973127"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4234741602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            }
+                        ]
+                    },
+                    "release_name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+                    "track_name": "Unlimited Love"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824396,
+                "recording_msid": "a53ac218-835b-469d-b1f9-00ff60fdc944",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "release_name": "Try and Fail (feat. SoFaygo)",
+                    "track_name": "Try and Fail (feat. SoFaygo)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824249,
+                "recording_msid": "bdcf216f-6cb6-48ad-8393-afb83605f6f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45776365660,
+                        "caa_release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "recording_mbid": "9c7cfa92-ac99-44ed-9331-01ad276a86aa",
+                        "recording_name": "Soon Be Old",
+                        "release_group_mbid": "8ccf35e3-ebda-4a77-ad8c-e453984f1f83",
+                        "release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/295097057"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2286269447"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7IBwGwCUA9RHPncUhg9f6n"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/slayr/soon-be-old-prod-luciid"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/215464064"
+                            }
+                        ]
+                    },
+                    "release_name": "Gaia",
+                    "track_name": "Soon Be Old"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824133,
+                "recording_msid": "64e2862a-9137-420e-b73d-298fd172f3a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Your Affection -Revival-",
+                    "track_name": "Your Affection -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791824017,
+                "recording_msid": "85911a1f-4356-445c-93a0-2f074f0a8a5e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                        "lastfm_track_mbid": "91521482-2f4c-4612-a178-80fb333829a0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Megan Thee Stallion",
+                    "track_name": "Tina Tuesday Freestyle"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823884,
+                "recording_msid": "529e683e-3ff0-429f-a1d5-2bd2bbbd174c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "ab51e16a-5a5d-45e9-8cac-2f7018314648",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45552365684,
+                        "caa_release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894",
+                        "recording_mbid": "010b0efe-1b93-4ba4-abf9-1b2207c6f7d3",
+                        "recording_name": "scrape",
+                        "release_group_mbid": "27257f34-0756-4a84-b267-2801e333c1d2",
+                        "release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "scrape"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823720,
+                "recording_msid": "28e2c263-d0c2-4e93-b499-4107d992cd9e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "e466fad9-b694-4b60-b4d1-c6026d27dec9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "89e16c36-6ba2-4a0c-9946-a4647d2639f4",
+                        "recording_name": "9 bitches (with ApolloRed1)"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "9 bitches (with ApolloRed1 )"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823576,
+                "recording_msid": "3d84efa2-ddb0-4562-a7cf-1a366f41d047",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "lastfm_track_mbid": "e6eec65c-137b-447d-89ba-6ba160328cc6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45801171480,
+                        "caa_release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "recording_mbid": "e6eec65c-137b-447d-89ba-6ba160328cc6",
+                        "recording_name": "keep me going (BIRDBRAIN)",
+                        "release_group_mbid": "345db220-5766-4bce-a317-d7a72599443c",
+                        "release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440323504"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/548321436"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/keep-me-going-birdbrain/6796841351"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195011922"
+                            }
+                        ]
+                    },
+                    "release_name": "Keep Me Going (Birdbrain)",
+                    "track_name": "Keep Me Going (BIRDBRAIN)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823404,
+                "recording_msid": "425f4f87-682a-4153-bd33-07864cee0c83",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "c301d6af-7eee-4f98-9c28-b1ce98cc53c6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert & Gucci Mane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15249060524,
+                        "caa_release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802",
+                        "recording_mbid": "c873fccd-1d9b-42ed-a936-93b79c90c151",
+                        "recording_name": "Secure the Bag",
+                        "release_group_mbid": "7ae44dd0-177e-4f33-a48d-218c7c17aaac",
+                        "release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802"
+                    },
+                    "release_name": "1017 Vs. The World",
+                    "track_name": "Secure the Bag"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823232,
+                "recording_msid": "bb48769d-dea8-48e5-9f16-d428216c1db2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "II",
+                    "track_name": "EVIL GRIN [Feat. JPEGMAFIA]"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791823080,
+                "recording_msid": "3d3ca8c0-c929-4f59-9d44-0a45656847bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "5c49eccd-2663-4158-9a38-c244b5adee4b",
+                        "lastfm_track_mbid": "0ae3889a-956c-4f60-af8b-81c7b618fcce",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45593230367,
+                        "caa_release_mbid": "5c49eccd-2663-4158-9a38-c244b5adee4b",
+                        "recording_mbid": "0ae3889a-956c-4f60-af8b-81c7b618fcce",
+                        "recording_name": "promise",
+                        "release_group_mbid": "37231465-f1ec-487c-b652-164193e42f6d",
+                        "release_mbid": "5c49eccd-2663-4158-9a38-c244b5adee4b",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4136765561"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6786787335"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3M1QxosuSy3XPJkoeogqlf"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6786787335"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/540828030"
+                            }
+                        ]
+                    },
+                    "release_name": "Avant Nova",
+                    "track_name": "Promise"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791822926,
+                "recording_msid": "3ce68e0f-e099-4f10-889c-99b65de06a3f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "release_name": "#B4G2",
+                    "track_name": "Follow the Leader"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791821374,
+                "recording_msid": "4eda8d67-ad31-4461-acef-1fecb8dc0ebf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "8f80a42c-1f1b-4889-ac62-8e54e1f708ce",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hikaru Utada",
+                    "release_name": "光",
+                    "track_name": "光 - PLANITb Remix"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791821099,
+                "recording_msid": "8236ba36-b490-4e4f-9e0f-9b6028fe32d7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "4eb8007d-7e53-4ab8-bbda-17c7aef5564a",
+                        "lastfm_track_mbid": "bad7f33d-74f4-4672-b71d-5f2f87017bc4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "release_name": "No LUV Lost",
+                    "track_name": "Nothing"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820920,
+                "recording_msid": "316647bb-1b7c-49a4-b5d0-9d093f7262bf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "38a8be60-3543-4ab4-b344-a0764463e4f4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rexv2",
+                    "release_name": "bowling",
+                    "track_name": "Bowling"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820844,
+                "recording_msid": "5b75ae6f-2ec3-44f0-a7aa-9fd75acc0cfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42111573954,
+                        "caa_release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286",
+                        "recording_mbid": "d5ea6e74-2a6b-42bc-a61a-55140b023373",
+                        "recording_name": "SwagStealin",
+                        "release_group_mbid": "46627460-6ad7-4e84-adf4-216527d6cdb0",
+                        "release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286"
+                    },
+                    "release_name": "HeavenTunes",
+                    "track_name": "SwagStealin"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820662,
+                "recording_msid": "3d84efa2-ddb0-4562-a7cf-1a366f41d047",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "lastfm_track_mbid": "e6eec65c-137b-447d-89ba-6ba160328cc6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45801171480,
+                        "caa_release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "recording_mbid": "e6eec65c-137b-447d-89ba-6ba160328cc6",
+                        "recording_name": "keep me going (BIRDBRAIN)",
+                        "release_group_mbid": "345db220-5766-4bce-a317-d7a72599443c",
+                        "release_mbid": "389be5d9-a027-4e00-b8b0-1a7cb008353f",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440323504"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/548321436"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/keep-me-going-birdbrain/6796841351"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195011922"
+                            }
+                        ]
+                    },
+                    "release_name": "Keep Me Going (Birdbrain)",
+                    "track_name": "Keep Me Going (BIRDBRAIN)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820508,
+                "recording_msid": "f1cd42ff-3f05-4748-9677-5b03c4f87f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820449,
+                "recording_msid": "64e2862a-9137-420e-b73d-298fd172f3a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Your Affection -Revival-",
+                    "track_name": "Your Affection -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791821015,
+                "listened_at": 1791820380,
+                "recording_msid": "64e2862a-9137-420e-b73d-298fd172f3a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Your Affection -Revival-",
+                    "track_name": "Your Affection -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820246,
+                "recording_msid": "e6eac698-91ea-46cc-bf01-4a02a90cf85a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44759578591,
+                        "caa_release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5",
+                        "recording_mbid": "194597f9-afdc-4e75-93f8-bcebf4948ae2",
+                        "recording_name": "Childish",
+                        "release_group_mbid": "faeca4fd-d198-4512-bfcc-e43ce5c35e58",
+                        "release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5"
+                    },
+                    "release_name": "Gaia 2",
+                    "track_name": "Childish"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791820788,
+                "listened_at": 1791820097,
+                "recording_msid": "bdcf216f-6cb6-48ad-8393-afb83605f6f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "7a44568d-59c3-4e68-8373-e5a9a33a8d98"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45776365660,
+                        "caa_release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "recording_mbid": "9c7cfa92-ac99-44ed-9331-01ad276a86aa",
+                        "recording_name": "Soon Be Old",
+                        "release_group_mbid": "8ccf35e3-ebda-4a77-ad8c-e453984f1f83",
+                        "release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/295097057"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2286269447"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7IBwGwCUA9RHPncUhg9f6n"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/slayr/soon-be-old-prod-luciid"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/215464064"
+                            }
+                        ]
+                    },
+                    "release_name": "Gaia",
+                    "track_name": "Soon Be Old"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791820016,
+                "recording_msid": "2f4de0e1-6729-4722-a7e6-841a9bd0b292",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6143403a-df6c-429e-8ee6-ef869896b0da",
+                            "70f5bb6e-9b87-4500-9c9f-2e1d373d07da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Takeoff",
+                                "artist_mbid": "70f5bb6e-9b87-4500-9c9f-2e1d373d07da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34800133062,
+                        "caa_release_mbid": "6d73bd3f-e7ec-44e1-b8c2-23d5f2d364d4",
+                        "recording_mbid": "f4f9c4f5-033c-487c-94c1-67472eaaf5dd",
+                        "recording_name": "Bars Into Captions",
+                        "release_group_mbid": "464ed4d7-4fa1-4f74-9ea7-3550eb3bdad9",
+                        "release_mbid": "6d73bd3f-e7ec-44e1-b8c2-23d5f2d364d4"
+                    },
+                    "release_name": "Only Built For Infinity Links",
+                    "track_name": "Bars Into Captions"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791819784,
+                "recording_msid": "198d53af-e8b3-421c-8620-89d8ce8e7067",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6143403a-df6c-429e-8ee6-ef869896b0da",
+                            "70f5bb6e-9b87-4500-9c9f-2e1d373d07da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Takeoff",
+                                "artist_mbid": "70f5bb6e-9b87-4500-9c9f-2e1d373d07da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41985202303,
+                        "caa_release_mbid": "bb20d0f8-4448-47ef-9d24-8b8aefe4d439",
+                        "recording_mbid": "df08ae78-7255-4819-8f91-2f01390b3dcf",
+                        "recording_name": "HOTEL LOBBY (Unc & Phew)",
+                        "release_group_mbid": "7bb477ac-98a4-446c-acd4-43ae1c2aafcd",
+                        "release_mbid": "bb20d0f8-4448-47ef-9d24-8b8aefe4d439"
+                    },
+                    "release_name": "Only Built For Infinity Links",
+                    "track_name": "HOTEL LOBBY (Unc & Phew)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791820350,
+                "listened_at": 1791819783,
+                "recording_msid": "198d53af-e8b3-421c-8620-89d8ce8e7067",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "8fbd7351-f340-4b10-9b2b-8e1f79e3f835"
+                    },
+                    "artist_name": "Quavo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6143403a-df6c-429e-8ee6-ef869896b0da",
+                            "70f5bb6e-9b87-4500-9c9f-2e1d373d07da"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quavo",
+                                "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Takeoff",
+                                "artist_mbid": "70f5bb6e-9b87-4500-9c9f-2e1d373d07da",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41985202303,
+                        "caa_release_mbid": "bb20d0f8-4448-47ef-9d24-8b8aefe4d439",
+                        "recording_mbid": "df08ae78-7255-4819-8f91-2f01390b3dcf",
+                        "recording_name": "HOTEL LOBBY (Unc & Phew)",
+                        "release_group_mbid": "7bb477ac-98a4-446c-acd4-43ae1c2aafcd",
+                        "release_mbid": "bb20d0f8-4448-47ef-9d24-8b8aefe4d439"
+                    },
+                    "release_name": "Only Built For Infinity Links",
+                    "track_name": "HOTEL LOBBY (Unc & Phew)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791819384,
+                "recording_msid": "005f98cc-14d8-4d75-a519-767ab65c811e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "884eca77-975b-4973-9a1b-e6ec2732db77",
+                        "lastfm_track_mbid": "48beda4c-2a06-4286-ae48-f65267f81d97",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41217631546,
+                        "caa_release_mbid": "35d7e88b-889a-4796-8a85-d4521baeb60a",
+                        "recording_mbid": "39499da5-0ba8-4bc8-a1ae-58cc70c73b3d",
+                        "recording_name": "All Day",
+                        "release_group_mbid": "2b7d0e71-a5f5-4899-8c03-0dd7e0a564d1",
+                        "release_mbid": "58148f9f-f814-40b9-8a08-24292fe4739f"
+                    },
+                    "release_name": "All Day",
+                    "track_name": "All Day"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791819041,
+                "recording_msid": "1c1ee076-b766-4d39-8f9c-fbf3595aa9c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d44b92db-dd49-4636-abe8-7c381f90b7aa",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Tjay",
+                    "release_name": "Headshots",
+                    "track_name": "Headshot (feat. Polo G & Fivio Foreign)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791817889,
+                "recording_msid": "e6eac698-91ea-46cc-bf01-4a02a90cf85a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44759578591,
+                        "caa_release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5",
+                        "recording_mbid": "194597f9-afdc-4e75-93f8-bcebf4948ae2",
+                        "recording_name": "Childish",
+                        "release_group_mbid": "faeca4fd-d198-4512-bfcc-e43ce5c35e58",
+                        "release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5"
+                    },
+                    "release_name": "Gaia 2",
+                    "track_name": "Childish"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791829513,
+                "listened_at": 1791817737,
+                "recording_msid": "ec602509-4c1c-4035-826e-a730b3c76bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Anderson .Paak",
+                    "release_name": "A Good Day",
+                    "track_name": "A Good Day"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791812262,
+                "listened_at": 1791812261,
+                "recording_msid": "8632035c-a49e-4b35-96fe-aeb472f63d71",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "9a014728-0353-491f-8fb4-4c9cfb1de009",
+                        "recording_name": "Plot Twist",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568609"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568609"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851248"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Plot Twist"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791775298,
+                "listened_at": 1791768457,
+                "recording_msid": "9fba2c6f-d5ce-48c3-8504-f6868986975a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Camie",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "60deb61b-f6f5-4e68-ada6-da9b537ebd7e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Camie",
+                                "artist_mbid": "60deb61b-f6f5-4e68-ada6-da9b537ebd7e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46109571374,
+                        "caa_release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8",
+                        "recording_mbid": "21710938-2c49-47d5-bf2d-b4547d9e6435",
+                        "recording_name": "TRUST",
+                        "release_group_mbid": "bdb11e5a-3e0a-4b8d-8fb0-9c75b128f6a9",
+                        "release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8"
+                    },
+                    "release_name": "TRUST",
+                    "track_name": "TRUST"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791741975,
+                "listened_at": 1791740056,
+                "recording_msid": "9fba2c6f-d5ce-48c3-8504-f6868986975a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Camie",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "60deb61b-f6f5-4e68-ada6-da9b537ebd7e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Camie",
+                                "artist_mbid": "60deb61b-f6f5-4e68-ada6-da9b537ebd7e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46109571374,
+                        "caa_release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8",
+                        "recording_mbid": "21710938-2c49-47d5-bf2d-b4547d9e6435",
+                        "recording_name": "TRUST",
+                        "release_group_mbid": "bdb11e5a-3e0a-4b8d-8fb0-9c75b128f6a9",
+                        "release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8"
+                    },
+                    "release_name": "TRUST",
+                    "track_name": "TRUST"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791702583,
+                "listened_at": 1791697521,
+                "recording_msid": "bb48769d-dea8-48e5-9f16-d428216c1db2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "II",
+                    "track_name": "EVIL GRIN [Feat. JPEGMAFIA]"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791693253,
+                "listened_at": 1791693253,
+                "recording_msid": "36689efa-d27b-47e3-9ecd-6e70ef49e29e",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "8a261e32-4579-419b-91f1-860e172099ed"
+                    },
+                    "artist_name": "Vince Staples",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "78e854b8-9713-4ff2-9218-6b3784893bff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Vince Staples",
+                                "artist_mbid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32253904043,
+                        "caa_release_mbid": "c864deef-f168-4035-bf83-03cac93e8964",
+                        "recording_mbid": "dc52bebd-a089-435d-acf0-d4f1787656c9",
+                        "recording_name": "DJ QUIK",
+                        "release_group_mbid": "61cf202e-1c44-4090-a089-6be530096739",
+                        "release_mbid": "cc28f811-8ffd-4c13-b2c4-f41992dff0ec",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/223761186"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1615493892"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/152643088"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/152643088"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3MVFHHeksQCnVuKOjPN01M"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1615493892"
+                            }
+                        ]
+                    },
+                    "release_name": "RAMONA PARK BROKE MY HEART",
+                    "track_name": "DJ QUIK"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791693123,
+                "listened_at": 1791693121,
+                "recording_msid": "78274a21-86ce-4840-b1d4-da2b19c08476",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "a14b8212-c2be-4947-adee-545bcf06b3fd"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42540556019,
+                        "caa_release_mbid": "8c45cf65-1483-4c3e-965c-90f380c9c1dc",
+                        "recording_mbid": "e64359d6-2ead-41ca-bb10-cd92d6e858c3",
+                        "recording_name": "MAKE OUT WITH MY CHOPPA",
+                        "release_group_mbid": "69a1fd25-ad5b-4b27-befc-24f0b464cabb",
+                        "release_mbid": "7f7ef9a8-b36a-4256-af7e-b78f035d8e6f",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3738503282"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1gK8piCdSoSZoLxB0K5mOe"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/480825442"
+                            }
+                        ]
+                    },
+                    "release_name": "REST IN BASS: ENCORE",
+                    "track_name": "MAKE OUT WITH MY CHOPPA"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692989,
+                "listened_at": 1791692988,
+                "recording_msid": "83148157-6d93-4f90-9fb1-cbd00ec98e9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "88df6993-7592-4d4c-b5a2-4f3b580ec1be"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "f6af669a-56ea-448a-a044-de76181ada33"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Machine Gun Kelly",
+                                "artist_mbid": "f6af669a-56ea-448a-a044-de76181ada33",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "6f3d0f2d-876b-4c4d-a32b-cb5d36b95b09",
+                        "recording_name": "Ecstasy",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "e66e25c8-536f-4b1e-8057-634cc2502cbc"
+                    },
+                    "release_name": "So Much Fun",
+                    "track_name": "Ecstasy"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692800,
+                "listened_at": 1791692800,
+                "recording_msid": "506d3ebb-2ed2-46ac-9f7d-61e1a27f6ae9",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "cf65b6d6-8a08-4695-ab36-a5aba66e4e10"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12812276773,
+                        "caa_release_mbid": "9273577d-c225-4b16-b070-f4193e1868d4",
+                        "recording_mbid": "66ba2e61-b98f-442f-891f-b4bc52d8d8bf",
+                        "recording_name": "Banned From TV",
+                        "release_group_mbid": "a337f4d3-1d6f-4494-8dcd-ad1f04ea5a6f",
+                        "release_mbid": "9273577d-c225-4b16-b070-f4193e1868d4"
+                    },
+                    "release_name": "Luv Is Rage",
+                    "track_name": "Banned from TV"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791692799,
+                "recording_msid": "506d3ebb-2ed2-46ac-9f7d-61e1a27f6ae9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "9273577d-c225-4b16-b070-f4193e1868d4",
+                        "lastfm_track_mbid": "79583c73-3ef1-4eb0-9236-2578aac91741",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12812276773,
+                        "caa_release_mbid": "9273577d-c225-4b16-b070-f4193e1868d4",
+                        "recording_mbid": "66ba2e61-b98f-442f-891f-b4bc52d8d8bf",
+                        "recording_name": "Banned From TV",
+                        "release_group_mbid": "a337f4d3-1d6f-4494-8dcd-ad1f04ea5a6f",
+                        "release_mbid": "9273577d-c225-4b16-b070-f4193e1868d4"
+                    },
+                    "release_name": "Luv Is Rage",
+                    "track_name": "Banned From TV"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692611,
+                "listened_at": 1791692610,
+                "recording_msid": "3fb1764b-acb4-4a66-befc-c2c0a9a466d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "b3377747-5757-4baa-a56e-19a92ce0a59a"
+                    },
+                    "artist_name": "IDK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "02fa2b63-016b-4cb3-bf01-2f8f43973876",
+                            "eeb8db1a-8fee-41f1-a530-e752c76c8372"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "IDK",
+                                "artist_mbid": "02fa2b63-016b-4cb3-bf01-2f8f43973876",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Yung Gleesh",
+                                "artist_mbid": "eeb8db1a-8fee-41f1-a530-e752c76c8372",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35730683805,
+                        "caa_release_mbid": "c15f0f77-bf4c-45c1-8412-d72075b1c0ea",
+                        "recording_mbid": "201f167b-5890-4dcc-bb1e-875cabda8a6e",
+                        "recording_name": "Baby Scale",
+                        "release_group_mbid": "d08a210c-d5bd-4a29-a578-b504204ff60a",
+                        "release_mbid": "5a3c5834-ab28-4a89-85b7-df9a9804db66"
+                    },
+                    "release_name": "IWASVERYBAD",
+                    "track_name": "Baby Scale (with Yung Gleesh) (Bonus Track)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692441,
+                "listened_at": 1791692440,
+                "recording_msid": "0c6ca629-6902-4e84-90b3-1d0092200758",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "c41560f8-4168-41dd-bb51-ee67a726c383"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45932403512,
+                        "caa_release_mbid": "291d7f14-be14-4a96-a4c6-7d0367ffac03",
+                        "recording_mbid": "7de4618f-07e4-4301-81dd-dc92d7f9f0ea",
+                        "recording_name": "No More",
+                        "release_group_mbid": "a527925c-1eec-4869-b0e6-53a6a56a82d7",
+                        "release_mbid": "291d7f14-be14-4a96-a4c6-7d0367ffac03"
+                    },
+                    "release_name": "BeFour My Creation",
+                    "track_name": "No More"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692279,
+                "listened_at": 1791692279,
+                "recording_msid": "ea0634d3-c828-4036-80dd-bebd7b069da2",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "d9f4a567-ab2a-471b-8564-cff88b54463f"
+                    },
+                    "artist_name": "Baby Keem",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81d12ca7-5b89-4d21-8736-860b7400b4eb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Baby Keem",
+                                "artist_mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38454284039,
+                        "caa_release_mbid": "a5503103-e92d-4c6f-86c8-493239ce191d",
+                        "recording_mbid": "d30785d7-d841-4882-8827-672651e4efec",
+                        "recording_name": "hooligan",
+                        "release_group_mbid": "15fa148e-7f69-4559-aa2b-42dc4bf730b3",
+                        "release_mbid": "8b6358a9-9e80-49bd-aebf-4c56e774b762",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/256716935"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/132063944"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3diZz7nVRbyuvAXSW7hzI7"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1500359822"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/198352139"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/fr/song/1651946661"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/fr/song/1651946661"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/182528446"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/182528446"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5zEsv2Uz9r7J5pGpCRdeTx"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1987477847"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1586855020"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/132063944"
+                            }
+                        ]
+                    },
+                    "release_name": "The Melodic Blue (Deluxe)",
+                    "track_name": "hooligan"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791692113,
+                "listened_at": 1791692112,
+                "recording_msid": "1a7d01e7-9c3f-4b6c-80b5-436d25d3852f",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "6110f122-7aa3-4c8c-aa8e-90f94dbf0856"
+                    },
+                    "artist_name": "JPEGMAFIA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "JPEGMAFIA",
+                                "artist_mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25936642942,
+                        "caa_release_mbid": "0708f595-c841-4a97-86f0-cf8b2dfa5613",
+                        "recording_mbid": "24d6bd79-48ca-428c-8430-d3b919b8cafe",
+                        "recording_name": "Jesus Forgive Me, I Am a Thot",
+                        "release_group_mbid": "c35a4a3f-d584-42fc-ac0f-b9592aedd3b2",
+                        "release_mbid": "ab788818-35f2-4751-a26f-374fe97146f5",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/117192025"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV"
+                            }
+                        ]
+                    },
+                    "release_name": "All My Heroes Are Cornballs",
+                    "track_name": "Jesus Forgive Me, I Am a Thot"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691950,
+                "listened_at": 1791691949,
+                "recording_msid": "95977fc6-f5d7-4047-b5ae-02ee1e7d1954",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "dd0b417e-8c83-4e59-a1a6-6696528fa979"
+                    },
+                    "artist_name": "Pusha T",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "14ecd19f-7121-4192-8549-e5056241a42f",
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pusha T",
+                                "artist_mbid": "14ecd19f-7121-4192-8549-e5056241a42f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32293124064,
+                        "caa_release_mbid": "93ac524e-6a75-4177-bea2-7f6fd0c2bc1c",
+                        "recording_mbid": "e9de5913-f5aa-46a2-8814-ebb65226556b",
+                        "recording_name": "Dreamin of the Past",
+                        "release_group_mbid": "6f9df0f8-8d8d-41b4-a623-8fbbd30d7e64",
+                        "release_mbid": "3da32548-84cf-4812-90af-19e17d0c1839",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/155245182"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/155245182"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/225814249"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3No4qP0ELXvgpat07sOOwI"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1620409462"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3aiNtTte39ck6RdkykAn8n"
+                            }
+                        ]
+                    },
+                    "release_name": "It's Almost Dry",
+                    "track_name": "Dreamin Of The Past (feat. Kanye West)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691815,
+                "listened_at": 1791691813,
+                "recording_msid": "b9beb530-0d35-4429-bb32-d7f4ae33c3a8",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "a5e7bf3f-b90f-4588-80a4-11165cd95931"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45776365660,
+                        "caa_release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "recording_mbid": "706227aa-272f-4902-b6bd-fc5bd81afaed",
+                        "recording_name": "Slayer World Tour 2077",
+                        "release_group_mbid": "8ccf35e3-ebda-4a77-ad8c-e453984f1f83",
+                        "release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/295097052"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/215464059"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3KfQYPI9UIDeyRQXwzlmBh"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2286269397"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/slayr/slayer-world-tour-2077-prod"
+                            }
+                        ]
+                    },
+                    "release_name": "Gaia",
+                    "track_name": "Slayer World Tour 2077"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691690,
+                "listened_at": 1791691690,
+                "recording_msid": "2a74eb11-bad0-44da-8566-9f952d7b9018",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "16d839c8-84c0-4b20-892d-a3bbd318160f"
+                    },
+                    "artist_name": "JID",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "JID",
+                                "artist_mbid": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42697015770,
+                        "caa_release_mbid": "ed8fc4a5-ad86-430d-bc78-44b66d516697",
+                        "recording_mbid": "0ada1481-7f49-4526-96d4-40e5fd1b335c",
+                        "recording_name": "Behold",
+                        "release_group_mbid": "577228d1-b5db-45b8-a081-1ee78ee87d60",
+                        "release_mbid": "a4cf6d83-d793-4f9b-b39f-68404e4bd624",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0S1HoxH4mgqcfhLmJ7t9XZ"
+                            }
+                        ]
+                    },
+                    "release_name": "GDLU (Preluxe)",
+                    "track_name": "Behold"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691533,
+                "listened_at": 1791691533,
+                "recording_msid": "1b6132c5-ea70-4227-8bfd-66bfed3aa44f",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "78e4a69e-3a49-471d-bccc-9e6ffaccdc0c"
+                    },
+                    "artist_name": "Danny Brown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "960afc67-9c21-46dd-9c7f-ff2b509e3150"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Danny Brown",
+                                "artist_mbid": "960afc67-9c21-46dd-9c7f-ff2b509e3150",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43654021564,
+                        "caa_release_mbid": "3a18ab5d-33f9-4434-b120-057fe5af9144",
+                        "recording_mbid": "0cdb5ec3-74c6-4365-90cd-0c4261cee141",
+                        "recording_name": "Change Up",
+                        "release_group_mbid": "b0f30e65-966b-49be-92e6-547adda88643",
+                        "release_mbid": "3880f343-9c3b-4da3-a526-cbec3d2684dd",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/119157929"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://dannybrown.bandcamp.com/track/change-up"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://dannybrown.bandcamp.com/track/change-up"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5R9a8VVpB31usiHEaYcs3F"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/767262102"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/change-up/12627301"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/25SfpbLWuDoVo4z6NUDZmX"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1476829922"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1476829922"
+                            }
+                        ]
+                    },
+                    "release_name": "uknowhatimsayin¿",
+                    "track_name": "Change Up"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691437,
+                "listened_at": 1791691436,
+                "recording_msid": "6c853f5d-d00a-445d-b2ef-8ed7648c8b5c",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "93bd0f63-3451-4eef-b5c0-a4354dde8343"
+                    },
+                    "artist_name": "Vince Staples",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "78e854b8-9713-4ff2-9218-6b3784893bff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Vince Staples",
+                                "artist_mbid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45550677967,
+                        "caa_release_mbid": "15d2c76f-4d10-4a73-8c95-a587ed032b57",
+                        "recording_mbid": "219119d0-f093-4e90-86ed-8f2d4ef9ca03",
+                        "recording_name": "Ramona Park Legend, Pt. 1",
+                        "release_group_mbid": "ce0c3be2-5d01-4640-9bb8-9ced890ea989",
+                        "release_mbid": "ddf8e715-7f7a-4e9d-8fbb-cad0b7964351",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/102364896"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/46953054"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3AKcGXSSwfXR3DKK8REr4h"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/46953097"
+                            }
+                        ]
+                    },
+                    "release_name": "Summertime '06",
+                    "track_name": "Ramona Park Legend Pt. 1"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691310,
+                "listened_at": 1791691310,
+                "recording_msid": "1b5ed94d-d4b7-4018-8218-e1049d9f7025",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "5b515c33-fc0a-47dd-a35a-349da0d26ef7"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37713084492,
+                        "caa_release_mbid": "9f7f9e86-8c61-4ccc-997a-b06c3d9140f4",
+                        "recording_mbid": "a3903ba3-228e-4432-9638-fc77c43ead9a",
+                        "recording_name": "Sauce It Up",
+                        "release_group_mbid": "0218232d-4b51-4315-a830-8fb91bd6e2c4",
+                        "release_mbid": "e12e30da-de50-43d4-b385-78eb31ed8692"
+                    },
+                    "release_name": "Luv Is Rage 2",
+                    "track_name": "Sauce It Up"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791691309,
+                "recording_msid": "1b5ed94d-d4b7-4018-8218-e1049d9f7025",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "37d430f4-cbbc-4716-aafe-6d9d1103ba69",
+                        "lastfm_track_mbid": "083c7f58-db8f-4454-ac76-56134a504d99",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37713084492,
+                        "caa_release_mbid": "9f7f9e86-8c61-4ccc-997a-b06c3d9140f4",
+                        "recording_mbid": "a3903ba3-228e-4432-9638-fc77c43ead9a",
+                        "recording_name": "Sauce It Up",
+                        "release_group_mbid": "0218232d-4b51-4315-a830-8fb91bd6e2c4",
+                        "release_mbid": "e12e30da-de50-43d4-b385-78eb31ed8692"
+                    },
+                    "release_name": "Luv Is Rage 2",
+                    "track_name": "Sauce It Up"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791691095,
+                "listened_at": 1791691095,
+                "recording_msid": "5192eb3d-9b15-4813-b450-6e453270a091",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "a99bdd60-5a3a-485a-8dc0-3cced098c7f8"
+                    },
+                    "artist_name": "JPEGMAFIA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c42e60f4-4520-4954-b6e4-82bbdf532c11"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "JPEGMAFIA",
+                                "artist_mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36219160420,
+                        "caa_release_mbid": "6cd7bf25-8393-465c-8152-203e4fa28e9e",
+                        "recording_mbid": "82e37220-0c61-44ea-8e33-ac3b377fa3be",
+                        "recording_name": "drake era",
+                        "release_group_mbid": "c95a2f0f-29fe-48a2-93a3-5cbefaa8df5a",
+                        "release_mbid": "6cd7bf25-8393-465c-8152-203e4fa28e9e"
+                    },
+                    "release_name": "Black Ben Carson",
+                    "track_name": "Drake Era"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690897,
+                "listened_at": 1791690897,
+                "recording_msid": "14a37774-9420-4a3a-93dc-14fda443b863",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "ce6adf15-7279-37c3-8b61-42bbd8734cbf"
+                    },
+                    "artist_name": "Danny Brown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "960afc67-9c21-46dd-9c7f-ff2b509e3150"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Danny Brown",
+                                "artist_mbid": "960afc67-9c21-46dd-9c7f-ff2b509e3150",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 4920341635,
+                        "caa_release_mbid": "77d955b1-8cac-4a87-8fa1-84a6f93466bc",
+                        "recording_mbid": "f1e8c66c-f141-4ed4-b4dd-362746f0ac25",
+                        "recording_name": "Pac Blood",
+                        "release_group_mbid": "bb024a53-89a1-4c57-b17c-88f1a127eb32",
+                        "release_mbid": "560d74eb-0cc2-4a02-81e6-ba0f09b298c1",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1805644340"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/pac-blood/20325672"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/427354862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5BRQf96oEWMdtBAs4mlb25"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1805644340"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3302757651"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4avnZ1D12Qg2kloDZyP1br"
+                            }
+                        ]
+                    },
+                    "release_name": "XXX (Deluxe Version)",
+                    "track_name": "Pac Blood"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690685,
+                "listened_at": 1791690685,
+                "recording_msid": "70da30d6-69ab-43bf-93b4-e7e9d4142ae5",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "7e684b7b-3aca-4583-80ad-50e624317d82"
+                    },
+                    "artist_name": "Freddie Gibbs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "21645c31-fe1c-45a4-955c-3e172b12c3f9",
+                            "03f3deb7-0419-4bf9-a1e7-511946385717"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Freddie Gibbs",
+                                "artist_mbid": "21645c31-fe1c-45a4-955c-3e172b12c3f9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Alchemist",
+                                "artist_mbid": "03f3deb7-0419-4bf9-a1e7-511946385717",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42527657863,
+                        "caa_release_mbid": "e581070c-0d27-4b62-a7aa-d465789285d9",
+                        "recording_mbid": "f63b3a22-3a79-4cf0-868e-5e4b6878c688",
+                        "recording_name": "1995",
+                        "release_group_mbid": "71a56463-11cf-4c0d-96cf-75c9acf53191",
+                        "release_mbid": "43155a39-4536-451b-ab92-3a7c95398761",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF"
+                            }
+                        ]
+                    },
+                    "release_name": "Alfredo 2",
+                    "track_name": "1995"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690476,
+                "listened_at": 1791690476,
+                "recording_msid": "69589a58-8918-422e-9015-bf0c69a580c2",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "61fdc9b1-cc9a-4468-b7fc-cecbcd9bcdd5"
+                    },
+                    "artist_name": "IDK",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "02fa2b63-016b-4cb3-bf01-2f8f43973876"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "IDK",
+                                "artist_mbid": "02fa2b63-016b-4cb3-bf01-2f8f43973876",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35731502825,
+                        "caa_release_mbid": "a09eda54-4f43-4cd8-be54-eda70651f554",
+                        "recording_mbid": "1866a341-8636-4981-aefd-406d21df6aab",
+                        "recording_name": "Dogs Don’t Lie",
+                        "release_group_mbid": "dba47302-d5b8-4ec1-a176-6a5b36656e59",
+                        "release_mbid": "dcbebae0-2947-459a-bf3c-44697c4189e9"
+                    },
+                    "release_name": "USEE4YOURSELF",
+                    "track_name": "Dogs Don't Lie"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690351,
+                "listened_at": 1791690350,
+                "recording_msid": "1c332c4d-5ead-4ce2-87b7-e75982d25938",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "6f0e688e-8acf-4a44-b388-f0c256ff3ea8"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8032cf05-d916-4b2a-9c53-6e75d4a24bd8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Trippie Redd",
+                                "artist_mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45915757484,
+                        "caa_release_mbid": "ca0f995c-7b8f-4053-ab2c-5d93ecb85b1a",
+                        "recording_mbid": "f6ce6736-c10e-4945-b46d-757cf063a6b2",
+                        "recording_name": "Yopstar",
+                        "release_group_mbid": "b65521c2-e69d-401e-9a6b-b970622b47fc",
+                        "release_mbid": "aa36c033-1dbc-4948-9b9b-6668d7a76d11",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/66aEfQ4htWHwEaiW99otVi"
+                            }
+                        ]
+                    },
+                    "release_name": "NDA",
+                    "track_name": "Yopstar"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690244,
+                "listened_at": 1791690206,
+                "recording_msid": "f19d4efc-2ae6-4e36-8baa-4d004c6d835b",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "35b42cac-8d12-4b95-a1e5-ab3e92c71e03"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "45b8ee00-a73e-4aff-9de8-6e7548ca54a7",
+                        "recording_name": "POP OUT",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr"
+                            }
+                        ]
+                    },
+                    "release_name": "MUSIC",
+                    "track_name": "POP OUT"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791690205,
+                "recording_msid": "f19d4efc-2ae6-4e36-8baa-4d004c6d835b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_release_mbid": "e8308f36-b5c9-4e42-b110-fc70f609dae5",
+                        "lastfm_track_mbid": "ae684ee0-9a9f-404a-8548-e16e2bbbc506",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "45b8ee00-a73e-4aff-9de8-6e7548ca54a7",
+                        "recording_name": "POP OUT",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr"
+                            }
+                        ]
+                    },
+                    "release_name": "Music",
+                    "track_name": "POP OUT"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791690046,
+                "recording_msid": "529e683e-3ff0-429f-a1d5-2bd2bbbd174c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "ab51e16a-5a5d-45e9-8cac-2f7018314648",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45552365684,
+                        "caa_release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894",
+                        "recording_mbid": "010b0efe-1b93-4ba4-abf9-1b2207c6f7d3",
+                        "recording_name": "scrape",
+                        "release_group_mbid": "27257f34-0756-4a84-b267-2801e333c1d2",
+                        "release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "scrape"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791690049,
+                "listened_at": 1791690045,
+                "recording_msid": "529e683e-3ff0-429f-a1d5-2bd2bbbd174c",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45552365684,
+                        "caa_release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894",
+                        "recording_mbid": "010b0efe-1b93-4ba4-abf9-1b2207c6f7d3",
+                        "recording_name": "scrape",
+                        "release_group_mbid": "27257f34-0756-4a84-b267-2801e333c1d2",
+                        "release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "scrape"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791689937,
+                "listened_at": 1791689933,
+                "recording_msid": "64e2862a-9137-420e-b73d-298fd172f3a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Your Affection -Revival-",
+                    "track_name": "Your Affection -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791689961,
+                "listened_at": 1791689779,
+                "recording_msid": "bc991bc1-3035-4958-8e4e-05bae3041b8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "232df676-119f-43ad-9a32-75a2a4105599"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "ii",
+                    "track_name": "COLD NIGHT IN HELL"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791689586,
+                "recording_msid": "425f4f87-682a-4153-bd33-07864cee0c83",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "c301d6af-7eee-4f98-9c28-b1ce98cc53c6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert & Gucci Mane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15249060524,
+                        "caa_release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802",
+                        "recording_mbid": "c873fccd-1d9b-42ed-a936-93b79c90c151",
+                        "recording_name": "Secure the Bag",
+                        "release_group_mbid": "7ae44dd0-177e-4f33-a48d-218c7c17aaac",
+                        "release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802"
+                    },
+                    "release_name": "1017 Vs. The World",
+                    "track_name": "Secure the Bag"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791689440,
+                "recording_msid": "9fba2c6f-d5ce-48c3-8504-f6868986975a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Camie",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "60deb61b-f6f5-4e68-ada6-da9b537ebd7e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Camie",
+                                "artist_mbid": "60deb61b-f6f5-4e68-ada6-da9b537ebd7e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46109571374,
+                        "caa_release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8",
+                        "recording_mbid": "21710938-2c49-47d5-bf2d-b4547d9e6435",
+                        "recording_name": "TRUST",
+                        "release_group_mbid": "bdb11e5a-3e0a-4b8d-8fb0-9c75b128f6a9",
+                        "release_mbid": "b3abcc36-54dc-42be-b52f-7d96906d55d8"
+                    },
+                    "release_name": "TRUST",
+                    "track_name": "TRUST"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791689836,
+                "listened_at": 1791689320,
+                "recording_msid": "32aae5c6-67b4-44c5-bdec-9130cfd30531",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "145de177-987f-4169-9915-ec37e913ccfc"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44759578591,
+                        "caa_release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5",
+                        "recording_mbid": "2bafe342-6118-4895-af9b-31b7d9546ece",
+                        "recording_name": "Find Me Again",
+                        "release_group_mbid": "faeca4fd-d198-4512-bfcc-e43ce5c35e58",
+                        "release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5"
+                    },
+                    "release_name": "Gaia 2",
+                    "track_name": "Find Me Again"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791689116,
+                "listened_at": 1791689116,
+                "recording_msid": "0834ba35-1729-411f-8ee6-add4a3334711",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "ca7142ba-44de-4c91-985f-16f5b7b8c8d0"
+                    },
+                    "artist_name": "Quadeca",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a4024dc-cc62-4d9b-8bed-c22426136a52"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Quadeca",
+                                "artist_mbid": "3a4024dc-cc62-4d9b-8bed-c22426136a52",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46309365305,
+                        "caa_release_mbid": "9cdc8cdf-2712-44cd-8285-5bc85704d8e3",
+                        "recording_mbid": "a43764c1-02db-4c0a-9ec9-ce3c4e0167ec",
+                        "recording_name": "Baby steps",
+                        "release_group_mbid": "7cae1c56-da60-4036-a42f-03ffcadc8f4d",
+                        "release_mbid": "9cdc8cdf-2712-44cd-8285-5bc85704d8e3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4145875542"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/561167943"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541944142"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/529115746"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6789598706"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3YCjxrqgnysFT80WJtfyw9"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=s__0ujP9o28"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/de/song/6774735624"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4285993422"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6815154384"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6811988737"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6811988737"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7eS9yh0FyFmgvSQODnLTiV"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6815154384"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4053469841"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/434498578"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5CZrOxA1sCrY7jlxpzUk05"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6789598706"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/434498578"
+                            }
+                        ]
+                    },
+                    "release_name": "Baby Steps",
+                    "track_name": "Baby Steps"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688941,
+                "listened_at": 1791688940,
+                "recording_msid": "3ce68e0f-e099-4f10-889c-99b65de06a3f",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "slayr",
+                    "release_name": "#B4G2",
+                    "track_name": "Follow the Leader"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791688754,
+                "recording_msid": "a66a14e2-9562-438d-ae52-43da969ac314",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+                        "lastfm_release_mbid": "344d4916-7325-4533-90a9-00931a95eab5",
+                        "lastfm_track_mbid": "9fd85307-6217-4fd2-a04f-a13a4440f1b8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "underscores",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "underscores",
+                                "artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "9fd85307-6217-4fd2-a04f-a13a4440f1b8",
+                        "recording_name": "Unlimited Love",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/553973127"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4234741602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            }
+                        ]
+                    },
+                    "release_name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+                    "track_name": "Unlimited Love"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688753,
+                "listened_at": 1791688753,
+                "recording_msid": "a66a14e2-9562-438d-ae52-43da969ac314",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "9b175460-ccc1-4c41-a45e-463c15bc3847"
+                    },
+                    "artist_name": "underscores",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "underscores",
+                                "artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "9fd85307-6217-4fd2-a04f-a13a4440f1b8",
+                        "recording_name": "Unlimited Love",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/553973127"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6801280290"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4234741602"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/447257531"
+                            }
+                        ]
+                    },
+                    "release_name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+                    "track_name": "Unlimited Love"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688550,
+                "listened_at": 1791688549,
+                "recording_msid": "bb48769d-dea8-48e5-9f16-d428216c1db2",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "92627a9c-c1af-41c8-8b40-c7cd96c20084"
+                    },
+                    "artist_name": "Denzel Curry",
+                    "release_name": "ii",
+                    "track_name": "EVIL GRIN [Feat. JPEGMAFIA]"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688401,
+                "listened_at": 1791688400,
+                "recording_msid": "e6eac698-91ea-46cc-bf01-4a02a90cf85a",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "23efaf5f-dd81-458b-8eb8-cb83c89c3828"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44759578591,
+                        "caa_release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5",
+                        "recording_mbid": "194597f9-afdc-4e75-93f8-bcebf4948ae2",
+                        "recording_name": "Childish",
+                        "release_group_mbid": "faeca4fd-d198-4512-bfcc-e43ce5c35e58",
+                        "release_mbid": "85cdff7e-cc7d-433c-b946-07de7a9ce9b5"
+                    },
+                    "release_name": "Gaia 2",
+                    "track_name": "Childish"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688227,
+                "listened_at": 1791688226,
+                "recording_msid": "9a8b4cf3-6d86-4996-8723-cf13f83e8e59",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "6c2d5f4d-d5cb-41dc-98f3-66482e965fe4"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "recording_mbid": "a39f245a-e679-46fd-bd86-c7702f4873af"
+                    },
+                    "release_name": "Half Blood",
+                    "track_name": "Wipe Yo Nose"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791688060,
+                "listened_at": 1791688060,
+                "recording_msid": "bdcf216f-6cb6-48ad-8393-afb83605f6f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "7a44568d-59c3-4e68-8373-e5a9a33a8d98"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45776365660,
+                        "caa_release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "recording_mbid": "9c7cfa92-ac99-44ed-9331-01ad276a86aa",
+                        "recording_name": "Soon Be Old",
+                        "release_group_mbid": "8ccf35e3-ebda-4a77-ad8c-e453984f1f83",
+                        "release_mbid": "e52365d6-00b2-4bdf-b728-8326ea401e51",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/295097057"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2286269447"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7IBwGwCUA9RHPncUhg9f6n"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/slayr/soon-be-old-prod-luciid"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/215464064"
+                            }
+                        ]
+                    },
+                    "release_name": "Gaia",
+                    "track_name": "Soon Be Old"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791687901,
+                "listened_at": 1791687900,
+                "recording_msid": "4d3a92ac-8bbb-4a4a-aea6-9002fc5c6cd8",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Juice WRLD",
+                    "release_name": "Artic Tundra",
+                    "track_name": "Artic Tundra"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791687951,
+                "listened_at": 1791687726,
+                "recording_msid": "2956d66d-be54-4790-a840-d0077510e5be",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Lil Uzi Vert & Gucci Mane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15249060524,
+                        "caa_release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802",
+                        "recording_mbid": "81983237-0fcd-4ec3-b4e8-f42c73d3c77f",
+                        "recording_name": "Threesome",
+                        "release_group_mbid": "7ae44dd0-177e-4f33-a48d-218c7c17aaac",
+                        "release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802"
+                    },
+                    "release_name": "1017 vs. the World",
+                    "track_name": "Threesome"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791687725,
+                "recording_msid": "2956d66d-be54-4790-a840-d0077510e5be",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "560e5d72-dbbb-47be-b68b-2ed676a2690d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert & Gucci Mane",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                            "36494952-f434-45d8-a958-8b4acdbcf8a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Gucci Mane",
+                                "artist_mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15249060524,
+                        "caa_release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802",
+                        "recording_mbid": "81983237-0fcd-4ec3-b4e8-f42c73d3c77f",
+                        "recording_name": "Threesome",
+                        "release_group_mbid": "7ae44dd0-177e-4f33-a48d-218c7c17aaac",
+                        "release_mbid": "d5f94a96-a227-4b06-887e-0863f3c5e802"
+                    },
+                    "release_name": "1017 Vs. The World",
+                    "track_name": "Threesome"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791687543,
+                "recording_msid": "f1cd42ff-3f05-4748-9677-5b03c4f87f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791687736,
+                "listened_at": 1791687542,
+                "recording_msid": "f1cd42ff-3f05-4748-9677-5b03c4f87f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "187c47a9-74ee-4948-8242-c636977780e3"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791687387,
+                "recording_msid": "a68db76e-cab3-406f-b392-4134d86c3e31",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "a390c5e6-6701-423c-82c8-b06123d8b606",
+                        "lastfm_track_mbid": "1c653367-c6b4-4cea-9a3f-72f1bcea211b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "8699d778-df32-4ca0-abb9-d0b23b7c7b1a",
+                        "recording_name": "Racks",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/504004333"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/racks/1882124813"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3mhiGSzKqf4wNOExveNRKs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3879695951"
+                            }
+                        ]
+                    },
+                    "release_name": "Half Blood (Bloodluxe)",
+                    "track_name": "Racks"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791687385,
+                "listened_at": 1791687385,
+                "recording_msid": "a68db76e-cab3-406f-b392-4134d86c3e31",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "595692d1-61ba-4f5d-89a5-f8f038b4d73f"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "8699d778-df32-4ca0-abb9-d0b23b7c7b1a",
+                        "recording_name": "Racks",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/504004333"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/racks/1882124813"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3mhiGSzKqf4wNOExveNRKs"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3879695951"
+                            }
+                        ]
+                    },
+                    "release_name": "Half Blood (BloodLuxe)",
+                    "track_name": "Racks"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791687245,
+                "recording_msid": "85911a1f-4356-445c-93a0-2f074f0a8a5e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                        "lastfm_track_mbid": "91521482-2f4c-4612-a178-80fb333829a0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Megan Thee Stallion",
+                    "track_name": "Tina Tuesday Freestyle"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791687129,
+                "listened_at": 1791687129,
+                "recording_msid": "114197fd-4348-49c6-b73e-14066c27bcef",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "7f335d09-77bd-4b99-aed2-b1665a2f7dbe"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44771865702,
+                        "caa_release_mbid": "983e1a34-b26b-4bd3-b897-0f2dfcb3ed6b",
+                        "recording_mbid": "cae63a3e-d535-4967-b7ab-981e053388cb",
+                        "recording_name": "Died but Came Back",
+                        "release_group_mbid": "d1d879d7-82b6-4b80-a5cd-2da75e74ae36",
+                        "release_mbid": "a390c5e6-6701-423c-82c8-b06123d8b606",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/504004336"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3879695971"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/died-but-came-back/1882124817"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5hOp7Ts9RvBBH4Oq3wUC9V"
+                            }
+                        ]
+                    },
+                    "release_name": "Half Blood (BloodLuxe)",
+                    "track_name": "Died But Came Back"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686960,
+                "listened_at": 1791686960,
+                "recording_msid": "f81c2cd8-1683-474d-aec2-78e11f054c01",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Shiori Sasaki",
+                    "release_name": "Reach Out To The Truth -Revival-",
+                    "track_name": "Reach Out To The Truth -Revival-"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791686770,
+                "recording_msid": "343c2703-c488-48f2-bfdc-418fe460f20a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "1a19b0cd-fa9d-4363-b130-b3eb394cf373",
+                        "lastfm_release_mbid": "516b4ff7-14ed-46f0-9cf4-6a9c62b01aa2",
+                        "lastfm_track_mbid": "aa3320b5-2103-4685-bfb8-889fc1723243",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "MASS OF THE FERMENTING DREGS",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a19b0cd-fa9d-4363-b130-b3eb394cf373"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "MASS OF THE FERMENTING DREGS",
+                                "artist_mbid": "1a19b0cd-fa9d-4363-b130-b3eb394cf373",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45910700266,
+                        "caa_release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "recording_mbid": "aa3320b5-2103-4685-bfb8-889fc1723243",
+                        "recording_name": "Simmer Summer",
+                        "release_group_mbid": "284a4afc-3462-46e4-abe9-b551a1ea76e4",
+                        "release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/59DjEEQBhu8uO0fXSI9mm5"
+                            }
+                        ]
+                    },
+                    "release_name": "IWAOU",
+                    "track_name": "Simmer Summer"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686769,
+                "listened_at": 1791686769,
+                "recording_msid": "343c2703-c488-48f2-bfdc-418fe460f20a",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "c6e75a20-b77c-4a82-a720-f1883437f8be"
+                    },
+                    "artist_name": "MASS OF THE FERMENTING DREGS",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a19b0cd-fa9d-4363-b130-b3eb394cf373"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "MASS OF THE FERMENTING DREGS",
+                                "artist_mbid": "1a19b0cd-fa9d-4363-b130-b3eb394cf373",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45910700266,
+                        "caa_release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "recording_mbid": "aa3320b5-2103-4685-bfb8-889fc1723243",
+                        "recording_name": "Simmer Summer",
+                        "release_group_mbid": "284a4afc-3462-46e4-abe9-b551a1ea76e4",
+                        "release_mbid": "136a16b9-1dde-41a7-972f-97f859a21ba2",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/59DjEEQBhu8uO0fXSI9mm5"
+                            }
+                        ]
+                    },
+                    "release_name": "Iwaou",
+                    "track_name": "Simmer Summer"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686622,
+                "listened_at": 1791686621,
+                "recording_msid": "c01bbd87-3d60-41a5-a930-e06e9495e67c",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "1614de3f-1dfa-46f5-b8d0-92ff186c8666"
+                    },
+                    "artist_name": "redveil",
+                    "release_name": "Pawn Shop",
+                    "track_name": "pawn shop"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686508,
+                "listened_at": 1791686507,
+                "recording_msid": "a53ac218-835b-469d-b1f9-00ff60fdc944",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "661ba9a1-2bca-4ea0-9909-73cf49bf3564"
+                    },
+                    "artist_name": "slayr",
+                    "release_name": "Try and Fail (feat. SoFaygo)",
+                    "track_name": "Try and Fail (feat. SoFaygo)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791694082,
+                "listened_at": 1791686344,
+                "recording_msid": "28e2c263-d0c2-4e93-b499-4107d992cd9e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "e466fad9-b694-4b60-b4d1-c6026d27dec9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "89e16c36-6ba2-4a0c-9946-a4647d2639f4",
+                        "recording_name": "9 bitches (with ApolloRed1)"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "9 bitches (with ApolloRed1 )"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686344,
+                "listened_at": 1791686343,
+                "recording_msid": "28e2c263-d0c2-4e93-b499-4107d992cd9e",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "89e16c36-6ba2-4a0c-9946-a4647d2639f4",
+                        "recording_name": "9 bitches (with ApolloRed1)"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "9 bitches (with ApolloRed1 )"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686203,
+                "listened_at": 1791686201,
+                "recording_msid": "5b75ae6f-2ec3-44f0-a7aa-9fd75acc0cfd",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "8fea5871-cbfc-4aba-8682-67fb78c8c6ad"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42111573954,
+                        "caa_release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286",
+                        "recording_mbid": "d5ea6e74-2a6b-42bc-a61a-55140b023373",
+                        "recording_name": "SwagStealin",
+                        "release_group_mbid": "46627460-6ad7-4e84-adf4-216527d6cdb0",
+                        "release_mbid": "5c7a1bd8-bc23-4cbc-bca1-d57003703286"
+                    },
+                    "release_name": "HeavenTunes",
+                    "track_name": "SwagStealin"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791686060,
+                "listened_at": 1791686059,
+                "recording_msid": "ec602509-4c1c-4035-826e-a730b3c76bdc",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "Anderson .Paak",
+                    "release_name": "A Good Day",
+                    "track_name": "A Good Day"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791685897,
+                "listened_at": 1791685894,
+                "recording_msid": "53ee4857-910f-483b-b78f-be79bf7ce04c",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0",
+                        "track_mbid": "c86e5e3a-cfa3-4d11-8017-9daba8933b04"
+                    },
+                    "artist_name": "AZ Chike",
+                    "release_name": "Look Like My Mama (feat. Tyler, The Creator)",
+                    "track_name": "Look Like My Mama (feat. Tyler, The Creator)"
+                },
+                "user_name": "Renthemixednerd"
+            },
+            {
+                "inserted_at": 1791685712,
+                "listened_at": 1791685711,
+                "recording_msid": "3d3ca8c0-c929-4f59-9d44-0a45656847bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "listening_from": "Plex",
+                        "media_player": "Plex",
+                        "submission_client": "eavesdrop.fm",
+                        "submission_client_version": "2.0.0"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfa0e221-4717-4281-bff3-46c88d45bf93"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "slayr",
+                                "artist_mbid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45593230367,
+                        "caa_release_mbid": "5c49eccd-2663-4158-9a38-c244b5adee4b",
+                        "recording_mbid": "0ae3889a-956c-4f60-af8b-81c7b618fcce",
+                        "recording_name": "promise",
+                        "release_group_mbid": "37231465-f1ec-487c-b652-164193e42f6d",
+                        "release_mbid": "5c49eccd-2663-4158-9a38-c244b5adee4b",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4136765561"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6786787335"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3M1QxosuSy3XPJkoeogqlf"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6786787335"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/540828030"
+                            }
+                        ]
+                    },
+                    "release_name": "AVANT NOVA",
+                    "track_name": "promise"
+                },
+                "user_name": "Renthemixednerd"
+            }
+        ],
+        "oldest_listen_ts": 1628708606,
+        "user_id": "Renthemixednerd"
+    }
+}

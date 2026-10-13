@@ -1,0 +1,3598 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791793956,
+        "listens": [
+            {
+                "inserted_at": 1791830406,
+                "listened_at": 1791793956,
+                "recording_msid": "21e8ad27-be0b-41e6-873d-0949c2e2deed",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "834f1bc2-e088-45f4-b794-a2d7392bd983",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "ae4094ea-7ce3-49a6-9c22-eadd163c46ce",
+                        "recording_name": "The Place Where He Inserted the Blade",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619391099"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070267"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730152"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715538"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/the-place-where-he-inserted-the-blade"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070267"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915469"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/203VDFQRLEMIxcrz4j49UL"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628207"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105441"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/the-place-where-he-inserted-the-blade"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619391099"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915469"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827597"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715538"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "The Place Where He Inserted The Blade"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791793789,
+                "recording_msid": "2d0e0a21-8e44-444a-a015-cf37f7f8bf52",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "2807bc42-1b3a-45e3-b94b-c00e883ac979",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "68927239-c6af-4d07-9304-9e477e84eaf6",
+                        "recording_name": "Mark’s Theme",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915468"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105440"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715537"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070266"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0K4HD4meXy662mfS8Og0NU"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/mark-s-theme"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070266"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715537"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/mark-s-theme"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730142"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827596"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915468"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619391098"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628197"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2bw0BbQfAa4X8QGK0WAcGN"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619391098"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Mark’s Theme"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791793483,
+                "recording_msid": "2458057b-4da7-4dd7-afcb-9af7cba8b587",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "d512b620-984a-461f-8821-150ce3d45dc0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "fdb5ac68-c3b4-407c-b2b0-902b8e5c93d9",
+                        "recording_name": "Haldern",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619391096"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915467"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7rzZJJFj2DsoOptJOOHSmz"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/haldern"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730132"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070265"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715536"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/haldern"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827595"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628187"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915467"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715536"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070265"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105439"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619391096"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Haldern"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791793185,
+                "recording_msid": "24fa23f7-0594-4f5b-8b13-84c0aa124989",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "a81f23ba-d166-494b-8098-fd36d573d2ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "7c0bcdb4-38fc-4f27-81c9-7f3f79efa755",
+                        "recording_name": "Good Will Hunting",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070264"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827594"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070264"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915466"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619390825"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628177"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/18RlS8Sou3HHRvdsTNAPvp"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915466"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619390825"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105438"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715535"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730122"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/good-will-hunting"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715535"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/good-will-hunting"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Good Will Hunting"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791792804,
+                "recording_msid": "2f84c1a0-6450-4756-9bae-56c98b15107b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "3d83855d-d9f0-4f56-a799-9e113e910f16",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "bdbb90d5-b122-4631-8c6a-68572e3e73a9",
+                        "recording_name": "Bread Song",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/bread-song"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7hxdkHpl8gNgx3NnoffkK4"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/136749312"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0BNI6GU1k6AnnAj3yPxEmy"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1522003062"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/136749312"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201233565"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/139825288"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0r7wKu8XV3xuei8ZnQq6si"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1547354122"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/139825288"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/204423996"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/144376089"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3KwCuei6FiNSZUeRAoH2Na"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1586679572"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/144376089"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/208745415"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/bread-song"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070263"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715534"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730112"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070263"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715534"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105437"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619390824"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915465"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6CxK2FfNHrENSqqJIG6C04"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628167"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619390824"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915465"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827593"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Bread Song"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791792440,
+                "recording_msid": "55078541-f967-45a1-878f-a4ce0e2cf2a7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "ddea782b-e8df-4291-823a-d72a5e7b15e1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "65d13473-dd9c-45f2-8db7-cb118098c4e9",
+                        "recording_name": "Concorde",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619390823"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/139825286"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1547354102"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/139825286"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/204423994"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/144376088"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7eJvbMU5XPEg2e8YHMdt9r"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1586679562"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/144376088"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/208745414"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/concorde"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070262"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715533"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/concorde"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730102"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070262"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715533"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105436"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619390823"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915464"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0pjbgf0AFhQP3FDzOEsCMJ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628157"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827592"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Concorde"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791797852,
+                "listened_at": 1791792067,
+                "recording_msid": "2e692179-4442-45b1-afcb-a716c5a6a5dc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "45974686-7ee1-444a-aceb-6cbbdddc41a4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "a3878518-5b93-4b3f-beb1-8320a49364e2",
+                        "recording_name": "Chaos Space Marine",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/198826331"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715532"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105435"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619390822"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915463"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/22mmSTntJcdl9275Th2VMC"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070261"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628147"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730092"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/chaos-space-marine"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715532"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070261"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/chaos-space-marine"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/208745413"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619390822"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915463"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827591"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/144376087"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1586679552"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/52jcx4i5owxlEXy1hYyYuV"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/144376087"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/204423995"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/139825287"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1547354112"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/134401484"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1503837572"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/134401484"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1522003072"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4OPFjDD0iSFhP2L6bieQNW"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/139825287"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201233566"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/136749313"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/136749313"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2coyjAa1vtdDjjj9OFYaEY"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Chaos Space Marine"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791792013,
+                "recording_msid": "0e07e4e6-d632-4413-a529-fcad301d18b1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                        "lastfm_release_mbid": "0788e1b9-d989-4a8f-9a9a-244d6338f014",
+                        "lastfm_track_mbid": "bb2383da-e987-40ff-8d2e-43fce6ee190f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Black Country, New Road",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e9403d9c-329b-4108-a26f-564159d441d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Black Country, New Road",
+                                "artist_mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31640191132,
+                        "caa_release_mbid": "d9a6a448-a14f-4776-ae47-43125358fcb7",
+                        "recording_mbid": "7d703f69-fb86-4d43-9b93-a85459e0ca34",
+                        "recording_name": "Intro",
+                        "release_group_mbid": "d622ed70-ccc3-4658-8a0a-b7a2d577c28d",
+                        "release_mbid": "9295c9ab-33a0-4f8d-9352-024217c17193",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/160915462"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1586070260"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1774628137"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/145715531"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/intro"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/61t9zpwq3VCHDrZKBgSOEj"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1586070260"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/145715531"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/231827590"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/160915462"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1619390821"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://blackcountrynewroad.bandcamp.com/track/intro"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1520730082"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/201105434"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1619390821"
+                            }
+                        ]
+                    },
+                    "release_name": "Ants From Up There",
+                    "track_name": "Intro"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791791781,
+                "recording_msid": "74e99c37-625d-4e6d-b1d4-e5421ceeafe2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                        "lastfm_release_mbid": "5f70f8b6-0b7e-43ae-8a9c-7fa1eed7f38f",
+                        "lastfm_track_mbid": "0e8e383b-39f6-4317-9c66-13e15fc32eed",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "XXXTENTACION",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "61af87f4-16ee-4431-8504-cc06187079fb"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "XXXTENTACION",
+                                "artist_mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19468690550,
+                        "caa_release_mbid": "d2d28cad-918d-4499-8b03-7da4d6fd81a0",
+                        "recording_mbid": "0e8e383b-39f6-4317-9c66-13e15fc32eed",
+                        "recording_name": "HOPE",
+                        "release_group_mbid": "311ae629-ee9e-443e-9c38-d7a5c97679d5",
+                        "release_mbid": "1e01d59d-a99f-40b8-8bd6-92d7fd26c309"
+                    },
+                    "release_name": "?",
+                    "track_name": "HOPE"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791791708,
+                "recording_msid": "4e8aa029-8a2b-47f3-87a7-fc12d7b3a46f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaydes",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "bb23af17-c893-4460-9146-404baf7a9011"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "jaydes",
+                                "artist_mbid": "bb23af17-c893-4460-9146-404baf7a9011",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41966327154,
+                        "caa_release_mbid": "2dc32f3f-9ef8-4a37-bd0b-b92f5bf9f096",
+                        "recording_mbid": "b1ea65d5-b266-403e-a340-7c38bfc78b99",
+                        "recording_name": "convenience",
+                        "release_group_mbid": "4ce20356-cf6c-42d3-aadf-9cdc9407044e",
+                        "release_mbid": "2dc32f3f-9ef8-4a37-bd0b-b92f5bf9f096",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/349237555"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1734619019"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2690761492"
+                            }
+                        ]
+                    },
+                    "release_name": "romanticism",
+                    "track_name": "convenience"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791791603,
+                "recording_msid": "2585bce3-3b20-47c7-810a-5dbec27cce59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "LA NY ATL",
+                    "track_name": "Prince Slime"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791788622,
+                "recording_msid": "6b9e3eca-81d9-4f68-b128-596fad4f554d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "8c45cf65-1483-4c3e-965c-90f380c9c1dc",
+                        "lastfm_track_mbid": "0ae14c2f-1422-4178-b631-08a7316939d6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42540556019,
+                        "caa_release_mbid": "8c45cf65-1483-4c3e-965c-90f380c9c1dc",
+                        "recording_mbid": "0ae14c2f-1422-4178-b631-08a7316939d6",
+                        "recording_name": "ON FLEEK",
+                        "release_group_mbid": "69a1fd25-ad5b-4b27-befc-24f0b464cabb",
+                        "release_mbid": "7f7ef9a8-b36a-4256-af7e-b78f035d8e6f",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/480825458"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7HARFpMSh4HONBV0tO3ygI"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3738503562"
+                            }
+                        ]
+                    },
+                    "release_name": "REST IN BASS",
+                    "track_name": "ON FLEEK"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791788475,
+                "recording_msid": "76584ee2-3bbc-4366-87b8-495a7481754a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "LA NY ATL",
+                    "track_name": "Studio Fein"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791788269,
+                "recording_msid": "1d34b2a2-0cef-464b-ac75-877a93c1a2f8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d8fd8d9b-473b-4f06-83c8-869b1bb9de89",
+                        "lastfm_release_mbid": "2cbbde2d-c33f-4267-be3a-2f6fb9087f1a",
+                        "lastfm_track_mbid": "16da365e-cb2a-449f-a011-a81f7ec34de5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Bryson Tiller",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d8fd8d9b-473b-4f06-83c8-869b1bb9de89"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bryson Tiller",
+                                "artist_mbid": "d8fd8d9b-473b-4f06-83c8-869b1bb9de89",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "dfdc8c05-465d-4262-9a34-3937b8e0c37f",
+                        "recording_name": "Blame",
+                        "release_group_mbid": "e79326dd-d1e5-44d3-91a2-60d0530580d2",
+                        "release_mbid": "2cbbde2d-c33f-4267-be3a-2f6fb9087f1a"
+                    },
+                    "release_name": "Blame",
+                    "track_name": "Blame"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791788164,
+                "recording_msid": "2585bce3-3b20-47c7-810a-5dbec27cce59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "LA NY ATL",
+                    "track_name": "Prince Slime"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791787961,
+                "recording_msid": "76584ee2-3bbc-4366-87b8-495a7481754a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "LA NY ATL",
+                    "track_name": "Studio Fein"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791787521,
+                "recording_msid": "c43c2d7d-d620-4776-864b-a92f766a1b05",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f1660eaa-929f-48d4-9926-9aaa61afa52f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Teezo Touchdown",
+                    "release_name": "HONEYMOON NIGHT",
+                    "track_name": "Honeymoon Night"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791787372,
+                "recording_msid": "a4aad824-1faf-4dcb-aae5-1b678494dca5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ad322b8b-31b2-437d-8fd8-1af13c1d7b91",
+                        "lastfm_release_mbid": "0141b328-6ea3-4010-869e-a29ec7ca12d8",
+                        "lastfm_track_mbid": "268b3ae5-06b3-4727-9f13-c6eba9c23a06",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Givēon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ad322b8b-31b2-437d-8fd8-1af13c1d7b91"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "GIVĒON",
+                                "artist_mbid": "ad322b8b-31b2-437d-8fd8-1af13c1d7b91",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27114164450,
+                        "caa_release_mbid": "0141b328-6ea3-4010-869e-a29ec7ca12d8",
+                        "recording_mbid": "5a3ed719-3d6b-473e-ba86-865a1edeb1a7",
+                        "recording_name": "The Beach",
+                        "release_group_mbid": "8891da89-48da-4f56-85d4-e24053584ea5",
+                        "release_mbid": "0141b328-6ea3-4010-869e-a29ec7ca12d8"
+                    },
+                    "release_name": "TAKE TIME",
+                    "track_name": "THE BEACH"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791786940,
+                "recording_msid": "26610138-4116-4bc5-86f8-58742daa433c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "f82bcf78-5b69-4622-a5ef-73800768d9ac"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "JAY‐Z",
+                                "artist_mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21709902406,
+                        "caa_release_mbid": "9e7dd586-814e-4ba7-ab18-5b3e554b38a7",
+                        "recording_mbid": "aa7cd00a-a101-489a-8576-4105ed023c4c",
+                        "recording_name": "Pound Cake / Paris Morton Music 2",
+                        "release_group_mbid": "0b6c2da8-ac60-4663-beae-bd3dc6dea94a",
+                        "release_mbid": "9e7dd586-814e-4ba7-ab18-5b3e554b38a7"
+                    },
+                    "release_name": "Nothing Was the Same (Deluxe)",
+                    "track_name": "Pound Cake / Paris Morton Music 2"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791786796,
+                "recording_msid": "e728ae01-7104-4d14-827a-7b37a9b0e69e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                        "lastfm_release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6",
+                        "lastfm_track_mbid": "92e09293-c1c3-4271-b821-8adca7a1ff00",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "bleood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ce6a32ee-197d-4a59-9dad-37eb21b45c30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "bleood",
+                                "artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45141292333,
+                        "caa_release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6",
+                        "recording_mbid": "92e09293-c1c3-4271-b821-8adca7a1ff00",
+                        "recording_name": "rub my belly",
+                        "release_group_mbid": "095f53f6-d22d-486f-8552-e7e442daf8a2",
+                        "release_mbid": "da5fd948-bf47-402b-8d84-4f7173fcc2c6"
+                    },
+                    "release_name": "protagonist",
+                    "track_name": "rub my belly"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791785778,
+                "recording_msid": "b966847a-e52b-41e4-ac47-9bd88d361efc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "54506e19-9c48-4a56-9f20-9d3d38e87bf9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "54506e19-9c48-4a56-9f20-9d3d38e87bf9",
+                        "recording_name": "U da 1",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "u da 1"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791785641,
+                "recording_msid": "7415e4dc-61bc-46a1-9189-cff64c2d25d5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "57bb7b48-fd8b-48ac-a2b8-a6a979466259",
+                        "lastfm_release_mbid": "7ad9dc51-cd79-4e37-9a31-0f143ff71bb0",
+                        "lastfm_track_mbid": "902393a0-2c09-4d31-a1bc-c90bcef31264",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kuru",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "57bb7b48-fd8b-48ac-a2b8-a6a979466259"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "kuru",
+                                "artist_mbid": "57bb7b48-fd8b-48ac-a2b8-a6a979466259",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44897112098,
+                        "caa_release_mbid": "b0fdac71-7756-47de-976a-4ebe0aff0b1b",
+                        "recording_mbid": "902393a0-2c09-4d31-a1bc-c90bcef31264",
+                        "recording_name": "Gracious",
+                        "release_group_mbid": "8929bb23-51ae-4652-9350-48923d052637",
+                        "release_mbid": "386b64dd-eabc-410c-a070-2d1e98ca03c7",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/512950633"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1890530999"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3941047651"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1890530999"
+                            }
+                        ]
+                    },
+                    "release_name": "Backstage Hologram",
+                    "track_name": "Gracious"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791792183,
+                "listened_at": 1791785492,
+                "recording_msid": "91346e4c-44a0-4088-a0f4-db58ff23085a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "lastfm_track_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45356829462,
+                        "caa_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "recording_mbid": "5422d3f7-d6e9-4a10-8284-b6b640305509",
+                        "recording_name": "ØWAY",
+                        "release_group_mbid": "37b63cfa-84c8-4c3e-9568-3449319c0358",
+                        "release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818"
+                    },
+                    "release_name": "THE RESURRECTIØN",
+                    "track_name": "ØWAY"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791785354,
+                "recording_msid": "99a0da73-c8f3-4e57-ac7c-39fa8331fde9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "DEM HOT SHIT",
+                    "track_name": "Double C"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791785247,
+                "recording_msid": "483fd656-6a6b-4191-974a-586fdc2ef103",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6e61b52a-9001-4638-9f10-f684c180a749",
+                        "lastfm_track_mbid": "6682a97d-076f-45d0-8ebc-081f98e20518",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Homixide Gang",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6e61b52a-9001-4638-9f10-f684c180a749"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Homixide Gang",
+                                "artist_mbid": "6e61b52a-9001-4638-9f10-f684c180a749",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35532995604,
+                        "caa_release_mbid": "7d837ee3-2a2f-4f83-9cc1-3b879b3f061a",
+                        "recording_mbid": "6682a97d-076f-45d0-8ebc-081f98e20518",
+                        "recording_name": "Uzi Work",
+                        "release_group_mbid": "6ead3fc5-51b6-4a99-8460-aec91a20bcc2",
+                        "release_mbid": "7d837ee3-2a2f-4f83-9cc1-3b879b3f061a"
+                    },
+                    "track_name": "Uzi Work"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791785123,
+                "recording_msid": "68eedc5a-ebd8-4920-a1ca-4660c78af69d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Percaso",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "241c366d-4b5a-4cde-80cb-eddf0ae44407",
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Percaso",
+                                "artist_mbid": "241c366d-4b5a-4cde-80cb-eddf0ae44407",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "a8e2b68d-9415-47de-8a2d-24b184a3b479",
+                        "recording_name": "Hallelujah",
+                        "release_group_mbid": "0e8b0a7f-8437-478b-a1ab-f74203b11afc",
+                        "release_mbid": "6b17223a-9172-442f-a9ef-c5ac819c75fd"
+                    },
+                    "release_name": "SØUFSIDE",
+                    "track_name": "Hallelujah"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784987,
+                "recording_msid": "57b40c48-4c0e-4a17-a279-6232417a7b2a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Percaso",
+                    "release_name": "SØUFSIDE",
+                    "track_name": "Wish U Well"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784809,
+                "recording_msid": "7adaa623-c78e-409e-896c-6793a21bca20",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "RichPhønks",
+                    "track_name": "Gourmet"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784621,
+                "recording_msid": "789f1d97-3c90-4f38-baf6-d7b2f0a33af5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166",
+                        "lastfm_track_mbid": "54a566d3-0f04-4655-ba42-e33c5bcaa57a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45469183610,
+                        "caa_release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166",
+                        "recording_mbid": "54a566d3-0f04-4655-ba42-e33c5bcaa57a",
+                        "recording_name": "Like Lil Mexico",
+                        "release_group_mbid": "3a62f554-ae74-41e3-b15d-6f780d856ab4",
+                        "release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166"
+                    },
+                    "release_name": "Empty Clip",
+                    "track_name": "Like Lil Mexico"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784468,
+                "recording_msid": "4308d87d-2ebc-4d83-8de4-1d6c11a2c377",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "RichPhønks",
+                    "track_name": "MATCHES"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784357,
+                "recording_msid": "8054e229-a234-430c-9ec3-f3d00c5a79d5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_track_mbid": "77637a35-78b1-46dd-9b17-41b1393dcafd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "track_name": "wii"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784240,
+                "recording_msid": "d4bcd555-5887-44f7-a9ce-ed1912edcd84",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_release_mbid": "5cced940-2c92-4b70-996c-186f35accf95",
+                        "lastfm_track_mbid": "18791aef-2b86-4da3-a214-07d9c1ad56a6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "release_name": "ksuuvi buckets xtended",
+                    "track_name": "pole"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791784104,
+                "recording_msid": "d5f16d1b-15b9-499b-ab99-0d80aa4d2183",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_release_mbid": "5cced940-2c92-4b70-996c-186f35accf95",
+                        "lastfm_track_mbid": "ee4a049c-e422-44a8-bdef-540d8ca03657",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "release_name": "ksuuvi buckets xtended",
+                    "track_name": "sendshit"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783960,
+                "recording_msid": "822cddc3-f33d-4c16-8b18-4c806809c0a8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475",
+                        "lastfm_track_mbid": "41f01629-74c2-4291-8345-5a46057807d2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25f406de-7368-49f0-b4ef-eb64ffbc0b61"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ksuuvi",
+                                "artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43279803300,
+                        "caa_release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475",
+                        "recording_mbid": "41f01629-74c2-4291-8345-5a46057807d2",
+                        "recording_name": "trance",
+                        "release_group_mbid": "03ffeaf2-50fb-4957-bdb0-baaaa51374ba",
+                        "release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475"
+                    },
+                    "release_name": "ksuuvi buckets",
+                    "track_name": "trance"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783816,
+                "recording_msid": "52c265ac-444a-4502-b1a6-737c1707acbc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "pz'",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ff7aa752-5d88-4959-8291-3f1d2a2fc8be"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pz'",
+                                "artist_mbid": "ff7aa752-5d88-4959-8291-3f1d2a2fc8be",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45448940117,
+                        "caa_release_mbid": "da586f16-07d4-4b88-bd9d-8d48504016fa",
+                        "recording_mbid": "5fa9bb32-5085-4df6-ae6f-6f21fa3ac3cf",
+                        "recording_name": "Cannes",
+                        "release_group_mbid": "6a3ca18f-f790-460a-b558-1818f7e6c103",
+                        "release_mbid": "da586f16-07d4-4b88-bd9d-8d48504016fa"
+                    },
+                    "release_name": "NO TURNING BACK",
+                    "track_name": "Cannes"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783718,
+                "recording_msid": "36740186-5afb-4924-a809-0155f0aaebe1",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "pz'",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ff7aa752-5d88-4959-8291-3f1d2a2fc8be"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pz'",
+                                "artist_mbid": "ff7aa752-5d88-4959-8291-3f1d2a2fc8be",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45448940117,
+                        "caa_release_mbid": "da586f16-07d4-4b88-bd9d-8d48504016fa",
+                        "recording_mbid": "097cea0a-928a-4ba5-99a8-7b5ced5ccb61",
+                        "recording_name": "Maxfields",
+                        "release_group_mbid": "6a3ca18f-f790-460a-b558-1818f7e6c103",
+                        "release_mbid": "da586f16-07d4-4b88-bd9d-8d48504016fa"
+                    },
+                    "release_name": "NO TURNING BACK",
+                    "track_name": "Maxfields"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783463,
+                "recording_msid": "85df24ab-f68c-41c6-bce2-b0fe8499ee62",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166",
+                        "lastfm_track_mbid": "42e64bdd-99ce-48e3-b8a5-a0ca07ecb209",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45469183610,
+                        "caa_release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166",
+                        "recording_mbid": "42e64bdd-99ce-48e3-b8a5-a0ca07ecb209",
+                        "recording_name": "Og Ginobili",
+                        "release_group_mbid": "3a62f554-ae74-41e3-b15d-6f780d856ab4",
+                        "release_mbid": "3cdb6151-a360-41a7-8532-dcaf6e3b2166"
+                    },
+                    "release_name": "Empty Clip",
+                    "track_name": "Og Ginobili"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783339,
+                "recording_msid": "908df202-9907-4642-8a7f-3c47f9e26fe8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "67070603-47e6-41f1-a45e-aa937abd200f",
+                        "lastfm_track_mbid": "492b1e1e-cd5e-4329-9bf5-d7bae5e88b1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "pz'",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ff7aa752-5d88-4959-8291-3f1d2a2fc8be"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pz'",
+                                "artist_mbid": "ff7aa752-5d88-4959-8291-3f1d2a2fc8be",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "492b1e1e-cd5e-4329-9bf5-d7bae5e88b1e",
+                        "recording_name": "TAMAGOTCHI"
+                    },
+                    "release_name": "B4NTB",
+                    "track_name": "TAMAGOTCHI"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783215,
+                "recording_msid": "dad4669c-79ae-4bc7-8808-6173f9f2bc33",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "37917bf2-83f7-41bb-9f89-5320aa4561c4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43062874484,
+                        "caa_release_mbid": "3a38d5a7-b178-4d2c-8366-0140da9f8dd4",
+                        "recording_mbid": "37917bf2-83f7-41bb-9f89-5320aa4561c4",
+                        "recording_name": "Pizza Time",
+                        "release_group_mbid": "283ecb6f-3848-4e32-88ac-604ef2074cec",
+                        "release_mbid": "3a38d5a7-b178-4d2c-8366-0140da9f8dd4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2801397902"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/363209655"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1746405851"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1746405851"
+                            }
+                        ]
+                    },
+                    "track_name": "Pizza Time"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791783106,
+                "recording_msid": "66ab86c9-6dc9-46be-b671-e9a51c823705",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "99cfdd90-e822-40cd-bfaf-f528e734747a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "99cfdd90-e822-40cd-bfaf-f528e734747a",
+                        "recording_name": "Reset",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "reset"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782999,
+                "recording_msid": "5fdf722f-5fc5-4270-98f3-0805cbef7023",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "6056bb60-c2b9-4bc5-a6d8-c3df7b8913f9",
+                        "lastfm_track_mbid": "9f40fd85-4841-4403-b820-b418d7d72be3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45552365684,
+                        "caa_release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894",
+                        "recording_mbid": "9f40fd85-4841-4403-b820-b418d7d72be3",
+                        "recording_name": "shadeson (with 2hollis)",
+                        "release_group_mbid": "27257f34-0756-4a84-b267-2801e333c1d2",
+                        "release_mbid": "5c85d41b-0066-4798-9bd8-760fa7611b30"
+                    },
+                    "release_name": "Xperiment",
+                    "track_name": "shadeson (with 2hollis)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782841,
+                "recording_msid": "45392e3e-8bf8-409c-9b3f-6543dd456ce6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Diamond*",
+                    "release_name": "UY Scuti Bøyz",
+                    "track_name": "Baby (feat. Yung Fazo & Southsidesilhouette)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782643,
+                "recording_msid": "82b38ebe-0b51-4edb-afd4-dec65ce01685",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ec63abed-419c-45c8-a189-fb8e1b44f926",
+                        "lastfm_release_mbid": "cccad994-b3d8-4677-9849-119381651a9d",
+                        "lastfm_track_mbid": "a8d2a577-b399-4e6a-ba2e-219cf71fcebc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ec63abed-419c-45c8-a189-fb8e1b44f926"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nine Vicious",
+                                "artist_mbid": "ec63abed-419c-45c8-a189-fb8e1b44f926",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44766976656,
+                        "caa_release_mbid": "cccad994-b3d8-4677-9849-119381651a9d",
+                        "recording_mbid": "8696f8d2-fa18-4c61-98e4-3aa3f05fe68a",
+                        "recording_name": "Trevon O'Ryan Echols",
+                        "release_group_mbid": "53328a37-44e2-4697-a081-695133482a76",
+                        "release_mbid": "cccad994-b3d8-4677-9849-119381651a9d"
+                    },
+                    "release_name": "Emotions",
+                    "track_name": "Trevon O'Ryan Echols"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782460,
+                "recording_msid": "29c0537f-82d9-40c4-a550-454d5dd65418",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "songchant",
+                    "release_name": "legendary loot",
+                    "track_name": "legendary loot"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782305,
+                "recording_msid": "f1e4d08e-ac45-4612-bb9e-db67f06ba679",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Iyrus",
+                    "release_name": "Blessed In Hell",
+                    "track_name": "blessed in hell"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782165,
+                "recording_msid": "657dc248-e40f-4c99-8f84-a1dc6253f914",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475",
+                        "lastfm_track_mbid": "b4521c0e-7ba3-4cc0-a3e7-a8bd85daf07f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25f406de-7368-49f0-b4ef-eb64ffbc0b61"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "ksuuvi",
+                                "artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43279803300,
+                        "caa_release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475",
+                        "recording_mbid": "b4521c0e-7ba3-4cc0-a3e7-a8bd85daf07f",
+                        "recording_name": "speak",
+                        "release_group_mbid": "03ffeaf2-50fb-4957-bdb0-baaaa51374ba",
+                        "release_mbid": "990fbe33-2fc0-4d64-884e-38ff2e185475"
+                    },
+                    "release_name": "ksuuvi buckets",
+                    "track_name": "speak"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791782015,
+                "recording_msid": "c82e764a-0ad9-43af-816e-e6af1a0d9e86",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40951316837,
+                        "caa_release_mbid": "1ffb9027-6718-4166-853f-29970fd793c6",
+                        "recording_mbid": "345ebb39-b00e-4396-a6e6-e818746721ac",
+                        "recording_name": "Pose For The Pic",
+                        "release_group_mbid": "67d67cb9-40d1-4f08-8763-da0653fdcd8c",
+                        "release_mbid": "1ffb9027-6718-4166-853f-29970fd793c6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1789231396"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/410134239"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3174057321"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1789231396"
+                            }
+                        ]
+                    },
+                    "track_name": "Pose For The Pic"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791781865,
+                "recording_msid": "29627941-009c-42f9-a136-4114ac897eee",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "lastfm_track_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "recording_name": "Raf trench",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "release_name": "slimedude2003",
+                    "track_name": "Raf Trench"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791781683,
+                "recording_msid": "4685dc85-ec19-4972-847b-79c21654d941",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "lastfm_track_mbid": "e5f1df61-7acc-41e2-b8dc-ac647866b6c8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45356829462,
+                        "caa_release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818",
+                        "recording_mbid": "e5f1df61-7acc-41e2-b8dc-ac647866b6c8",
+                        "recording_name": "Ye",
+                        "release_group_mbid": "37b63cfa-84c8-4c3e-9568-3449319c0358",
+                        "release_mbid": "72106aea-68aa-4f6a-9e20-f1d6b1268818"
+                    },
+                    "release_name": "THE RESURRECTIØN",
+                    "track_name": "Ye"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791781488,
+                "recording_msid": "45eeff54-7726-4614-874d-97cc180c55c3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_track_mbid": "26560f5d-3bcc-411c-b843-b64f9c34e699",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "release_name": "triple B",
+                    "track_name": "triple B"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791781220,
+                "recording_msid": "071ed65f-bd7c-4fa7-9b82-7a40598fe159",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "785c0e9c-89f6-4bf4-8296-443a46632d62",
+                        "lastfm_release_mbid": "6a1e8515-8cd7-451c-9c6e-3e1f337c56a1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Booba",
+                    "release_name": "Blanco Nemesis",
+                    "track_name": "V"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791781083,
+                "recording_msid": "d1279058-e63e-48c5-bb4d-4685b2f7f412",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "406ahmad",
+                    "release_name": "B4LOA3",
+                    "track_name": "Peace N Love"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780984,
+                "recording_msid": "4febd6fc-b7c8-4911-bb30-542a3798d91d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4585749c-5489-4699-9daf-1ffa9717179f",
+                        "lastfm_release_mbid": "d26b08aa-0c3d-47ad-84e0-7ddaac1d8c1d",
+                        "lastfm_track_mbid": "76234331-afcd-43a4-abc4-8d3ae48feadc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "nettspend",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4585749c-5489-4699-9daf-1ffa9717179f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nettspend",
+                                "artist_mbid": "4585749c-5489-4699-9daf-1ffa9717179f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38775970962,
+                        "caa_release_mbid": "d26b08aa-0c3d-47ad-84e0-7ddaac1d8c1d",
+                        "recording_mbid": "04ee0600-73f9-4544-9abe-5c5899d060ba",
+                        "recording_name": "nothing like uuu",
+                        "release_group_mbid": "84250898-c737-48e5-964e-18a43aa07d68",
+                        "release_mbid": "d26b08aa-0c3d-47ad-84e0-7ddaac1d8c1d"
+                    },
+                    "release_name": "nothing like uuu",
+                    "track_name": "nothing like uuu"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780857,
+                "recording_msid": "3e8517b0-713a-4e1a-a7d2-4f13cc7fb9a7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "4dde88ae-b925-4dd8-8b6e-b0c02254ef40",
+                        "lastfm_track_mbid": "0c8881cb-d0da-436e-9db8-d080855372f4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "pz'",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ff7aa752-5d88-4959-8291-3f1d2a2fc8be"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pz'",
+                                "artist_mbid": "ff7aa752-5d88-4959-8291-3f1d2a2fc8be",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44306403430,
+                        "caa_release_mbid": "4dde88ae-b925-4dd8-8b6e-b0c02254ef40",
+                        "recording_mbid": "0c8881cb-d0da-436e-9db8-d080855372f4",
+                        "recording_name": "Swagger Jackin",
+                        "release_group_mbid": "017cb218-82a2-4785-8253-e10ef166191c",
+                        "release_mbid": "4dde88ae-b925-4dd8-8b6e-b0c02254ef40",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=OcSBBhl3uR4"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1817005810"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/438357768"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1817005810"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1rTQVS7lSmIJchyJJ2fdu4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3386057791"
+                            }
+                        ]
+                    },
+                    "release_name": "Swagger Jackin",
+                    "track_name": "Swagger Jackin"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780689,
+                "recording_msid": "7f271752-1af6-425b-a7f7-065afd0c3f95",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "akhsosa",
+                    "release_name": "SLIME TIME",
+                    "track_name": "SLIME TIME"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780547,
+                "recording_msid": "0f1dd6ea-5145-4764-a628-ee0d32ac37aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                        "lastfm_track_mbid": "63f85720-e324-4064-9a7a-09f9a2f89d91",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "aa3ca36a-d7e9-400b-8f27-4e8d68a92850",
+                        "recording_name": "JumpOutTheHouse",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "track_name": "JumpOutTheHouse"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780296,
+                "recording_msid": "1b45333a-5742-412b-bfbf-6847c81084f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "Crakkin (The Øne)",
+                    "track_name": "Crakkin (The Øne)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791785430,
+                "listened_at": 1791780147,
+                "recording_msid": "efaa303e-5a46-4567-bc05-dd3a1516d6d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Auora",
+                    "release_name": "T Time",
+                    "track_name": "T Time"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791780000,
+                "recording_msid": "789e6bb2-1c27-4b94-8fc0-88592f1c2f92",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Iyrus",
+                    "release_name": "oK",
+                    "track_name": "oK"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779872,
+                "recording_msid": "9ae4a181-d16d-4319-ba85-e8177c19c601",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "57bb7b48-fd8b-48ac-a2b8-a6a979466259",
+                        "lastfm_release_mbid": "8abe47f4-1275-45ae-a994-597c14f1687c",
+                        "lastfm_track_mbid": "d1042737-2c45-4413-b5c7-a9c0fbdcbecf",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kuru",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "57bb7b48-fd8b-48ac-a2b8-a6a979466259"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "kuru",
+                                "artist_mbid": "57bb7b48-fd8b-48ac-a2b8-a6a979466259",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44897112098,
+                        "caa_release_mbid": "b0fdac71-7756-47de-976a-4ebe0aff0b1b",
+                        "recording_mbid": "d9d871a1-fe8d-4b6a-bfcc-422186538d71",
+                        "recording_name": "FW19",
+                        "release_group_mbid": "8929bb23-51ae-4652-9350-48923d052637",
+                        "release_mbid": "386b64dd-eabc-410c-a070-2d1e98ca03c7",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1879723910"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/kggn/fw19-prod-bhertuy"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/501805538"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1879723910"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3863584161"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3QxHYmMloI76Zbw0XT4H5y"
+                            }
+                        ]
+                    },
+                    "release_name": "FW19",
+                    "track_name": "FW19"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779726,
+                "recording_msid": "bebde770-edf2-4ead-8507-c67312860041",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "6056bb60-c2b9-4bc5-a6d8-c3df7b8913f9",
+                        "lastfm_track_mbid": "9be5bbc4-abde-40c4-95a6-028957a648a7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45552365684,
+                        "caa_release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894",
+                        "recording_mbid": "9be5bbc4-abde-40c4-95a6-028957a648a7",
+                        "recording_name": "fw00",
+                        "release_group_mbid": "27257f34-0756-4a84-b267-2801e333c1d2",
+                        "release_mbid": "036f4155-6e73-4ec2-b58c-6ae42b562894"
+                    },
+                    "release_name": "Xperiment",
+                    "track_name": "fw00"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779536,
+                "recording_msid": "ec6cb215-3af2-45f9-8e70-1c38b277c0b8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "8b1381ec-af97-4b68-a56c-bc811b92554d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "8b1381ec-af97-4b68-a56c-bc811b92554d",
+                        "recording_name": "Poured",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339626"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132832"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Poured"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779354,
+                "recording_msid": "a60d2ad9-b472-4f24-b618-6a1626b1da9c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "911fa044-ff5c-40b6-90d5-7cef83c57968",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "911fa044-ff5c-40b6-90d5-7cef83c57968",
+                        "recording_name": "Go !",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132822"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346460"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859140"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339625"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346460"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859140"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Go !"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779205,
+                "recording_msid": "e8294362-89b6-49e8-bc70-075b80df1178",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "94fd5089-79d8-42f0-a2e4-e9555a831f77",
+                        "lastfm_track_mbid": "9455c752-d083-4d00-b47d-a625ca896c47",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Iyrus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "584c2516-28b0-44f3-bf5e-7551297c60ee"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Iyrus",
+                                "artist_mbid": "584c2516-28b0-44f3-bf5e-7551297c60ee",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "9455c752-d083-4d00-b47d-a625ca896c47",
+                        "recording_name": "Habibi",
+                        "release_group_mbid": "7e0b8468-94ca-494a-bde3-52ff3aa8d602",
+                        "release_mbid": "94fd5089-79d8-42f0-a2e4-e9555a831f77"
+                    },
+                    "release_name": "ii",
+                    "track_name": "habibi"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791779088,
+                "recording_msid": "f6ece2c1-9b7d-460d-a956-1d55c24d439e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "15e0902b-3619-4fb4-b22f-55f88baa6d1f",
+                        "lastfm_track_mbid": "e1bf24a8-f432-476e-a048-256faa8160ee",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Diamond*",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fb52e98f-f68a-4eaa-918a-f42a5dad1329"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "diamond*",
+                                "artist_mbid": "fb52e98f-f68a-4eaa-918a-f42a5dad1329",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "e1bf24a8-f432-476e-a048-256faa8160ee",
+                        "recording_name": "SICKÖ",
+                        "release_group_mbid": "c6ebc3a3-1713-4774-9720-e62df392c5cb",
+                        "release_mbid": "15e0902b-3619-4fb4-b22f-55f88baa6d1f"
+                    },
+                    "release_name": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+                    "track_name": "SICKÖ"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778954,
+                "recording_msid": "396d117c-e36a-45df-af5e-17e95b2aaf3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "track_name": "Rock N Roll"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778822,
+                "recording_msid": "e9bbbb73-6583-4006-ae0d-8bcb95ca5710",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                        "lastfm_release_mbid": "5cc691a5-070a-485e-9291-4d04943c0ac2",
+                        "lastfm_track_mbid": "368cb0f1-4f55-486f-b84d-49bebd138698",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "bleood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ce6a32ee-197d-4a59-9dad-37eb21b45c30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "bleood",
+                                "artist_mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43914642654,
+                        "caa_release_mbid": "5cc691a5-070a-485e-9291-4d04943c0ac2",
+                        "recording_mbid": "368cb0f1-4f55-486f-b84d-49bebd138698",
+                        "recording_name": "girl u drive me crazy i might crash",
+                        "release_group_mbid": "e27f5ecf-d976-4f1a-aeb2-e0f5d7bf71e7",
+                        "release_mbid": "5cc691a5-070a-485e-9291-4d04943c0ac2"
+                    },
+                    "release_name": "pain",
+                    "track_name": "girl u drive me crazy i might crash"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778702,
+                "recording_msid": "e91be94c-2a65-417d-9efd-2de216bdaee7",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "Homage",
+                    "track_name": "Stop Taking Pics"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778572,
+                "recording_msid": "8511f488-b1aa-4980-bc6a-fa9228796320",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sk8Star",
+                    "release_name": "Quagoo",
+                    "track_name": "Quagoo"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778436,
+                "recording_msid": "3b5943ca-f34a-4648-ab13-47591d3c4403",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1753124e-e4be-4dba-9741-5e50e4dc351f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tezzus",
+                                "artist_mbid": "1753124e-e4be-4dba-9741-5e50e4dc351f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "f09da6bd-905b-4501-ae27-67ecb89fc665",
+                        "recording_name": "Duality",
+                        "release_group_mbid": "ff5a396e-5133-493d-a8d0-590016d0244f",
+                        "release_mbid": "e4a364e3-55d9-4068-a1d4-245ffe2541a2"
+                    },
+                    "release_name": "DUALITY",
+                    "track_name": "Duality"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778297,
+                "recording_msid": "7520e814-19c8-4f63-af45-a32016437344",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tezzus",
+                    "release_name": "Warriør",
+                    "track_name": "Warriør"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778174,
+                "recording_msid": "966cbcb8-169a-4446-8d15-51a72264e62f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "009a11e2-f11f-452b-980f-9052edf3d739",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Boohavinn",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "009a11e2-f11f-452b-980f-9052edf3d739"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "boohavinn",
+                                "artist_mbid": "009a11e2-f11f-452b-980f-9052edf3d739",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "0ff2db76-eb7e-4739-8ebb-64248f80cc88",
+                        "recording_name": "ON DA FLO",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4129360681"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5jmqgcPxMRmp3OF4mfLOpe"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/446645728"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6804878505"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/539579258"
+                            }
+                        ]
+                    },
+                    "release_name": "On Da Flo",
+                    "track_name": "On Da Flo"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791778070,
+                "recording_msid": "e242d4d3-b4a4-4bbb-8af9-083080db5a8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "38a8be60-3543-4ab4-b344-a0764463e4f4",
+                        "lastfm_track_mbid": "8b7c2014-a660-44bd-b2e0-cc35184e84a0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "rexv2",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "38a8be60-3543-4ab4-b344-a0764463e4f4"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "rexv2",
+                                "artist_mbid": "38a8be60-3543-4ab4-b344-a0764463e4f4",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45967244805,
+                        "caa_release_mbid": "6e1d541a-280d-4023-acae-04ac7fe08eeb",
+                        "recording_mbid": "73358bc7-2d31-4432-9340-ccbff6521064",
+                        "recording_name": "REEFER",
+                        "release_group_mbid": "a0a3d875-39ba-4eb1-b6fd-2de0b7d704f6",
+                        "release_mbid": "6e1d541a-280d-4023-acae-04ac7fe08eeb",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/388522600"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/494384688"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3812206302"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2RcWgkF4RS6e3ci0kklrIP"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/reefer/1873125246"
+                            }
+                        ]
+                    },
+                    "release_name": "WINNERS CIRCLE",
+                    "track_name": "REEFER"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777956,
+                "recording_msid": "729907ad-8ed6-44c2-b574-345aa43c1cc6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e90c0e2b-92a9-40ad-b637-819569f10616",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Sk8Star",
+                    "release_name": "The Beautiful Rebellion",
+                    "track_name": "Doom (feat. Pz')"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777829,
+                "recording_msid": "bfeb495a-d4b3-4f71-aca5-5caf1c3e8625",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f9788bf2-2317-4a9c-9649-6e168d2249e0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Stoner Life",
+                    "release_name": "Slime Language 3: Side B",
+                    "track_name": "Tonight"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777710,
+                "recording_msid": "99a0da73-c8f3-4e57-ac7c-39fa8331fde9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "DEM HOT SHIT",
+                    "track_name": "Double C"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777591,
+                "recording_msid": "a25949fe-ac8d-4493-8f31-ea0091ec12e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25f406de-7368-49f0-b4ef-eb64ffbc0b61",
+                        "lastfm_release_mbid": "5cced940-2c92-4b70-996c-186f35accf95",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ksuuvi",
+                    "release_name": "ksuuvi buckets xtended",
+                    "track_name": "shake n bake ft. elibanss"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777515,
+                "recording_msid": "51254320-d1ed-4f2f-9abd-7e72f7d538bc",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "supachefm",
+                    "release_name": "gumball",
+                    "track_name": "gumball"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777387,
+                "recording_msid": "934e8d4a-aad9-498c-9b61-721880695478",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "Makonnen",
+                    "track_name": "Makonnen"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777234,
+                "recording_msid": "98744b45-a3fa-4539-815b-bcfb9c1211f1",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "e3d48d3c-cf14-49d0-91e7-056504da2f5f",
+                        "lastfm_track_mbid": "dfb26373-051c-4245-84fc-3eba92107e87",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "64fec024-fec3-4656-8c8d-c3fc6b0cc538",
+                        "recording_name": "roxy reynolds (with Destroy Lonely)"
+                    },
+                    "release_name": "xperiment - cartunez",
+                    "track_name": "roxy reynolds (with Destroy Lonely)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791777061,
+                "recording_msid": "d976d6c3-651d-4ebf-ad6e-53c53868d731",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "plaqueboymax",
+                    "release_name": "1V1",
+                    "track_name": "1V1"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791776906,
+                "recording_msid": "57b8e7fd-1949-4348-b6cd-1fa8d9f834d9",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "B4SD",
+                    "track_name": "Carly Rae Jepsen (Bella)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791776799,
+                "recording_msid": "c286ef6f-c624-42e0-bc64-993a2148aa17",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                        "lastfm_release_mbid": "5885a985-a313-46cf-b6d5-f8ec2af5fe94",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Internet Money",
+                    "release_name": "WE ALL WE NEEDED",
+                    "track_name": "MEDUSA (feat. Babybartier & Sir Untre)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791780073,
+                "listened_at": 1791776704,
+                "recording_msid": "3937d6c8-99f1-479a-bd8f-ad9934e6b184",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "4de63c4e-24bf-4e07-b2a6-2fc08eea2c9b",
+                        "lastfm_track_mbid": "4aacbca3-11ac-48f8-92e2-80c53487e4d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Zukenee",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ae817ca3-cc3f-4212-b034-dfea9b046bd8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Zukenee",
+                                "artist_mbid": "ae817ca3-cc3f-4212-b034-dfea9b046bd8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46266612630,
+                        "caa_release_mbid": "4de63c4e-24bf-4e07-b2a6-2fc08eea2c9b",
+                        "recording_mbid": "4aacbca3-11ac-48f8-92e2-80c53487e4d9",
+                        "recording_name": "WALKED OUT",
+                        "release_group_mbid": "6f4bc1f7-550d-491a-83c9-fefc55ba87db",
+                        "release_mbid": "4de63c4e-24bf-4e07-b2a6-2fc08eea2c9b"
+                    },
+                    "release_name": "BLUNTS & BLADES",
+                    "track_name": "WALKED OUT"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791767660,
+                "recording_msid": "4db14c13-3174-49d4-992b-18c90b84ecc3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "527fc371-2ffe-4cf9-9f6b-ccd174a7ae11",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "ayowitty",
+                    "release_name": "#wings",
+                    "track_name": "She"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791767448,
+                "recording_msid": "699d7b2f-c3ba-4490-a973-1f3b27244558",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "41b78e1c-dfde-4b57-b5ad-19e075408f53",
+                        "lastfm_track_mbid": "86a6a8a2-1231-4730-b8ab-08f65428f738",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Cochise",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d78119f0-9268-4547-8b8f-bab6cea6378c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Cochise",
+                                "artist_mbid": "d78119f0-9268-4547-8b8f-bab6cea6378c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40555579964,
+                        "caa_release_mbid": "f6e1f74a-f08a-48c4-960b-7cec93fe4522",
+                        "recording_mbid": "86a6a8a2-1231-4730-b8ab-08f65428f738",
+                        "recording_name": "GOOGLE ME",
+                        "release_group_mbid": "e82860d0-550b-4992-82c9-160524b52aa5",
+                        "release_mbid": "f6e1f74a-f08a-48c4-960b-7cec93fe4522"
+                    },
+                    "release_name": "GOOGLE ME",
+                    "track_name": "GOOGLE ME"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791767325,
+                "recording_msid": "52a29f48-580b-4236-b5bf-f56c4e1348d8",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "c012a898-4d50-4446-a0b8-66286adf40df",
+                        "lastfm_track_mbid": "302dfec9-f905-4e6b-995b-362110ae485b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "plaqueboymax",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "24479d57-44cd-4ca3-94f1-cdf0e11e61ad"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PlaqueBoyMax",
+                                "artist_mbid": "24479d57-44cd-4ca3-94f1-cdf0e11e61ad",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "302dfec9-f905-4e6b-995b-362110ae485b",
+                        "recording_name": "InTheMorning",
+                        "release_group_mbid": "ad0c0558-2459-4247-8090-749612dcaa8a",
+                        "release_mbid": "c012a898-4d50-4446-a0b8-66286adf40df"
+                    },
+                    "release_name": "Too Much Music",
+                    "track_name": "inthemorning"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791767233,
+                "recording_msid": "67eeca7f-eacb-412c-87eb-7a08f14c61a2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "c012a898-4d50-4446-a0b8-66286adf40df",
+                        "lastfm_track_mbid": "ae598164-f590-4431-9a28-7433dd440391",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "plaqueboymax",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "24479d57-44cd-4ca3-94f1-cdf0e11e61ad"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PlaqueBoyMax",
+                                "artist_mbid": "24479d57-44cd-4ca3-94f1-cdf0e11e61ad",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "ae598164-f590-4431-9a28-7433dd440391",
+                        "recording_name": "RealSpill",
+                        "release_group_mbid": "ad0c0558-2459-4247-8090-749612dcaa8a",
+                        "release_mbid": "c012a898-4d50-4446-a0b8-66286adf40df"
+                    },
+                    "release_name": "Too Much Music",
+                    "track_name": "realspill"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791767090,
+                "recording_msid": "32794f3e-8908-4dac-80ce-68a7e9b04e9a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b552ec08-a9a8-4783-a753-04e2d42d1a4b",
+                        "lastfm_release_mbid": "06ac737e-c83e-484c-9207-98fd50f50960",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "YT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b552ec08-a9a8-4783-a753-04e2d42d1a4b",
+                            "6a45326d-df49-474e-8169-e3524914331b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YT",
+                                "artist_mbid": "b552ec08-a9a8-4783-a753-04e2d42d1a4b",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lancey Foux",
+                                "artist_mbid": "6a45326d-df49-474e-8169-e3524914331b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39201464134,
+                        "caa_release_mbid": "8a26c50d-eb02-4f76-9d8f-b90476df144d",
+                        "recording_mbid": "70266a75-7242-4d98-9533-d0e2b6897880",
+                        "recording_name": "Black & Tan",
+                        "release_group_mbid": "27785fb8-1438-472c-970e-deec52f5863e",
+                        "release_mbid": "8a26c50d-eb02-4f76-9d8f-b90476df144d"
+                    },
+                    "release_name": "OI!",
+                    "track_name": "Black & Tan"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791766776,
+                "recording_msid": "75085d92-e665-4e6a-8c7f-a257503bda0b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "2b689a71-0385-4024-afa4-aa79aed9dee0",
+                        "lastfm_track_mbid": "03174c65-17a3-3b37-9c03-9c067dba59e7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hikaru Utada",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b539e453-c4fe-47e3-8a07-8517eac74429"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Utada",
+                                "artist_mbid": "b539e453-c4fe-47e3-8a07-8517eac74429",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10431556147,
+                        "caa_release_mbid": "38e773b7-b993-4022-b55a-5fff21d527df",
+                        "recording_mbid": "ad56f91d-3d37-4eba-a255-f80b95dff1d8",
+                        "recording_name": "Simple and Clean",
+                        "release_group_mbid": "671e04d6-3903-374b-8e48-621383408b6f",
+                        "release_mbid": "9a8a540d-1957-4b53-9350-7284931c248d"
+                    },
+                    "release_name": "Colors",
+                    "track_name": "Simple And Clean"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791773868,
+                "listened_at": 1791765784,
+                "recording_msid": "07604ce7-706f-4255-8447-94891cd926db",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                        "lastfm_track_mbid": "811c75de-9500-4c09-b326-3b43afd128de",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lucki",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9ccaca30-60aa-4890-ae6c-ab55225ee274"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "LUCKI",
+                                "artist_mbid": "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39190475843,
+                        "caa_release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "recording_mbid": "811c75de-9500-4c09-b326-3b43afd128de",
+                        "recording_name": "Heavy on My Heart",
+                        "release_group_mbid": "96de8524-8ffb-4483-91a3-7beb5db2571b",
+                        "release_mbid": "b792d6e4-9383-4ba7-bca5-b9335951197a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/363691154"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/1746843646"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/1746843646"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2805915772"
+                            }
+                        ]
+                    },
+                    "release_name": "2 Faced, Pt. 2",
+                    "track_name": "Heavy On My Heart"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791765553,
+                "recording_msid": "712f35f3-8d69-4d8d-a102-da3a6734a0c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                        "lastfm_release_mbid": "d63c8fa9-f605-410d-8183-aae514171402",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Destroy Lonely",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "987d3d86-0d7a-4292-ae96-a8d59e456436"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Destroy Lonely",
+                                "artist_mbid": "987d3d86-0d7a-4292-ae96-a8d59e456436",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37393822548,
+                        "caa_release_mbid": "9bc2fcb3-6934-43b8-99b7-77edbf2c82e3",
+                        "recording_mbid": "eff9c36b-213a-4ec4-a073-0a94e409f50d",
+                        "recording_name": "how u feel?",
+                        "release_group_mbid": "bc915c52-9691-4bdf-aeff-f21d0fcb5ea7",
+                        "release_mbid": "b9324ef2-555b-4872-8290-7d23448be7dd"
+                    },
+                    "release_name": "if looks could kill",
+                    "track_name": "how u feel?"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791765322,
+                "recording_msid": "920e0915-ca9a-43d8-a319-25d3f48fcb53",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "201b2d1c-1502-42ce-8e68-400a63388803",
+                        "lastfm_release_mbid": "2ff8585d-ac30-4553-b6de-a08b4ca901ea",
+                        "lastfm_track_mbid": "9fb32315-5a65-45fa-9acb-c858b1019dbc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hi-C",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "201b2d1c-1502-42ce-8e68-400a63388803"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Hi-C",
+                                "artist_mbid": "201b2d1c-1502-42ce-8e68-400a63388803",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29975222573,
+                        "caa_release_mbid": "d9e42a6d-cd3e-4bd2-b534-9bb4a527a38b",
+                        "recording_mbid": "9fb32315-5a65-45fa-9acb-c858b1019dbc",
+                        "recording_name": "Rank10 + Let U Kno (Death Metal)",
+                        "release_group_mbid": "e800d53c-9223-4871-8e64-4fb12c727ecf",
+                        "release_mbid": "50b69bbd-04e4-435f-9973-62c434c4fcf7"
+                    },
+                    "release_name": "No More Heroes, Vol. 2",
+                    "track_name": "Rank10 + Let U Kno (Death Metal)"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791765217,
+                "recording_msid": "2585bce3-3b20-47c7-810a-5dbec27cce59",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nine Vicious Vault",
+                    "release_name": "LA NY ATL",
+                    "track_name": "Prince Slime"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791765015,
+                "recording_msid": "b36f5253-2132-4d31-81be-dcaf05f37a99",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f23ef341-33bd-47c1-b83c-846a78581f05",
+                        "lastfm_track_mbid": "f0060821-7eaa-49c1-8a01-b7ebf3b4802f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "PARTYNEXTDOOR",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f23ef341-33bd-47c1-b83c-846a78581f05",
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "PARTYNEXTDOOR",
+                                "artist_mbid": "f23ef341-33bd-47c1-b83c-846a78581f05",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41198369747,
+                        "caa_release_mbid": "e965f0ca-4339-45c1-9091-43f1f1d898cb",
+                        "recording_mbid": "44e6ed1d-bf05-425d-aa58-a40ba0aa18ee",
+                        "recording_name": "SPIDER‐MAN SUPERMAN",
+                        "release_group_mbid": "786a089a-9266-4fd3-984a-1df9e0ca34b4",
+                        "release_mbid": "87cdc8d5-8950-4732-9b35-db6e6e12f7cf"
+                    },
+                    "release_name": "$ome $exy $ongs 4 U",
+                    "track_name": "SPIDER-MAN SUPERMAN"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791764765,
+                "recording_msid": "693f8b4c-fde7-4d8b-8b80-a62c3a81d0cc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b7ea87e2-edfc-427f-a766-83c65c01166c",
+                        "lastfm_release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9",
+                        "lastfm_track_mbid": "27256f40-8087-49bb-bb7e-c06dfc74a576",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "prettifun",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b7ea87e2-edfc-427f-a766-83c65c01166c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "prettifun",
+                                "artist_mbid": "b7ea87e2-edfc-427f-a766-83c65c01166c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42135445123,
+                        "caa_release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9",
+                        "recording_mbid": "27256f40-8087-49bb-bb7e-c06dfc74a576",
+                        "recording_name": "#FreePretti",
+                        "release_group_mbid": "d41dec37-290f-4304-8820-324d51df11ea",
+                        "release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9"
+                    },
+                    "release_name": "Pretti",
+                    "track_name": "#FreePretti"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791764638,
+                "recording_msid": "e49804d8-288f-4bf0-ae36-94edb74353b9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b7ea87e2-edfc-427f-a766-83c65c01166c",
+                        "lastfm_release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9",
+                        "lastfm_track_mbid": "5e763ab9-ec18-4397-9de5-388e64577dd1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "prettifun",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b7ea87e2-edfc-427f-a766-83c65c01166c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "prettifun",
+                                "artist_mbid": "b7ea87e2-edfc-427f-a766-83c65c01166c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42135445123,
+                        "caa_release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9",
+                        "recording_mbid": "33f369af-e3e8-453e-9c9d-e8aae54e79f7",
+                        "recording_name": "Ice Cream",
+                        "release_group_mbid": "d41dec37-290f-4304-8820-324d51df11ea",
+                        "release_mbid": "3a54b921-4c99-4cac-8503-74dbc29969c9"
+                    },
+                    "release_name": "Pretti",
+                    "track_name": "Ice Cream"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791763207,
+                "recording_msid": "fbbeb038-b934-451e-a7a2-691205494902",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nebiu",
+                    "release_name": "Grudge",
+                    "track_name": "Grudge"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791763129,
+                "recording_msid": "275a5320-026e-4a5b-b060-c8b217bc172c",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "DJ Dread",
+                    "release_name": "One Life",
+                    "track_name": "Ok Shorty"
+                },
+                "user_name": "Sear"
+            },
+            {
+                "inserted_at": 1791766519,
+                "listened_at": 1791763015,
+                "recording_msid": "599fea84-6029-467d-9717-3d54e382caf4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yves!",
+                    "release_name": "ROTY",
+                    "track_name": "1 of 1."
+                },
+                "user_name": "Sear"
+            }
+        ],
+        "oldest_listen_ts": 1505216075,
+        "user_id": "Sear"
+    }
+}

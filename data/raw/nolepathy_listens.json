@@ -1,0 +1,3151 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791814371,
+        "listens": [
+            {
+                "inserted_at": 1791821222,
+                "listened_at": 1791820538,
+                "recording_msid": "2352e5a5-67be-41f3-b2ad-b0a6e82d641b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Playboi Carti",
+                            "Future"
+                        ],
+                        "duration": 194,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Playboi Carti, Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "2eea5017-fffd-4a6a-9d66-2f0d538c7474",
+                        "recording_name": "TRIM",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4qvsNsA4gQKC9HLrmPC2Vx"
+                            }
+                        ]
+                    },
+                    "release_name": "MUSIC",
+                    "track_name": "TRIM"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791817034,
+                "listened_at": 1791816858,
+                "recording_msid": "6ebf9647-c994-4583-8c13-5aee81156f9d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 198,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/UWi1tbAXV-0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25604442789,
+                        "caa_release_mbid": "77c11f45-c808-4487-af46-39a26891403d",
+                        "recording_mbid": "981eb7a2-9202-4137-bd0e-ab067febbd77",
+                        "recording_name": "Lotus",
+                        "release_group_mbid": "4e60f08e-4b53-4139-a8c8-5bd81fad0d62",
+                        "release_mbid": "20e4f5e2-262c-428a-a1b3-f13b9b932f7e"
+                    },
+                    "release_name": "Eternal Atake: LUV vs. The World 2",
+                    "track_name": "Lotus"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791816757,
+                "listened_at": 1791816616,
+                "recording_msid": "ceb11164-1475-43b7-8b1b-eca528ce8806",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 280,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/dTzt3WEz_9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Kodie Shane",
+                    "track_name": "Hold Up (Dough Up)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791816529,
+                "listened_at": 1791816448,
+                "recording_msid": "dd463f86-1923-4872-8189-9d87dc0c9de0",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 160,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Lo45KFdTYjs",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "BigGucci Sosa",
+                    "track_name": "Blew My High"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791816346,
+                "listened_at": 1791816248,
+                "recording_msid": "99ad3cb1-380e-4607-9fef-b2d7d05280e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 195,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/-M0nQ8or3Dk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Tay K",
+                    "track_name": "Spyro (feat Cardiac The Ghost)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791816153,
+                "listened_at": 1791816059,
+                "recording_msid": "6fc90822-68b9-4883-889c-cd8eb128deae",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 185,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/QiANWkRx1_E",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Shoulder Shrug (Unreleased)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791814461,
+                "listened_at": 1791814371,
+                "recording_msid": "94ca18fe-bdf6-4c21-bdba-9ee1c0ae2d31",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 175,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ronLNImzZoM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "track_name": "Let Me Pop My Shi/ Designer Shoes"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791811260,
+                "listened_at": 1791811189,
+                "recording_msid": "52033ba6-d4a1-42eb-a78f-5e4f776197c5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 139,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/RB_ti0818J8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "track_name": "They Afraid of You (feat. Playboi Carti)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791809077,
+                "listened_at": 1791808874,
+                "recording_msid": "ab6357d1-3628-4f3b-a896-115f541cf3c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/HFuu0vZBb7g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Bag (Audio ) (From \"SUPERFLY\")"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791805728,
+                "listened_at": 1791805627,
+                "recording_msid": "ab6357d1-3628-4f3b-a896-115f541cf3c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/HFuu0vZBb7g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Bag (Audio ) (From \"SUPERFLY\")"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791805059,
+                "listened_at": 1791804929,
+                "recording_msid": "7886b0fb-b5ad-4bec-8aa6-df83449aada8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 259,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/GoLJJRIWCLU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Radiohead",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Radiohead",
+                                "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14926982777,
+                        "caa_release_mbid": "1a33443c-3fff-450f-8298-efbc65659d32",
+                        "recording_mbid": "31600df4-e6dd-48ca-9f6b-8804027d8d6e",
+                        "recording_name": "Jigsaw Falling Into Place",
+                        "release_group_mbid": "6e335887-60ba-38f0-95af-fae7774336bf",
+                        "release_mbid": "ea92a194-2d60-35c7-9d56-0e1dba20cd45",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=GoLJJRIWCLU"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
+                            }
+                        ]
+                    },
+                    "release_name": "In Rainbows",
+                    "track_name": "Jigsaw Falling Into Place"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791764236,
+                "listened_at": 1791764228,
+                "recording_msid": "130f69c9-902e-4aa7-bdf9-cb86c73cb84b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Young Thug"
+                        ],
+                        "duration": 237,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29313034185,
+                        "caa_release_mbid": "6c8da063-2c3c-49ca-9f55-553ec642c71d",
+                        "recording_mbid": "0f4aa1df-56cb-49c4-a6e2-55386f144b12",
+                        "recording_name": "Wyclef Jean",
+                        "release_group_mbid": "9d3bd99f-d0a7-4fd1-87db-2d6c03980f4b",
+                        "release_mbid": "6c8da063-2c3c-49ca-9f55-553ec642c71d"
+                    },
+                    "release_name": "JEFFERY",
+                    "track_name": "Wyclef Jean"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791763957,
+                "listened_at": 1791763949,
+                "recording_msid": "e4df5a6a-851d-4602-9d21-8d2d7466018c",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Dem Franchize Boyz"
+                        ],
+                        "duration": 261,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Dem Franchize Boyz",
+                    "release_name": "Our World, Our Way",
+                    "track_name": "Turn Heads (feat. Lloyd)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791763917,
+                "listened_at": 1791763908,
+                "recording_msid": "136856b1-0ad3-4fb7-9d0e-d48d424c0ebc",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 160,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "40c6d2f7-ed60-44b6-91af-7e90f3060eb6",
+                        "recording_name": "Say It Was",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346465"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339630"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346465"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859386"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859386"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132872"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7DNUXjL2tv2cPXGAwsOY5t"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Say It Was"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791758890,
+                "listened_at": 1791758492,
+                "recording_msid": "01492672-5230-4900-b17e-264a932c9cad",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 395,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/pzgQ74s5eJ8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "6 Min Freestyle"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791758383,
+                "listened_at": 1791758276,
+                "recording_msid": "af50465a-6ee9-42f6-ab4d-2e7dc666b832",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 211,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/0_vi5yy84ug",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "track_name": "THEY GO OFF"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791758366,
+                "listened_at": 1791758103,
+                "recording_msid": "1a5f1835-ca53-4163-b454-d2aa8991ac00",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 168,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/PD0npN2EBec",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Harden (Prod Wheezy & Cubeatz)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791758171,
+                "listened_at": 1791757890,
+                "recording_msid": "93e703ce-af16-472b-9374-f78846762583",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 207,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/9bp0Dzjaeg8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "be0d7749-0974-48ba-93bb-6e974ec193a2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Pi’erre Bourne",
+                                "artist_mbid": "be0d7749-0974-48ba-93bb-6e974ec193a2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19853555708,
+                        "caa_release_mbid": "5867dcc6-8707-414b-83c1-a42d9d537e9f",
+                        "recording_mbid": "16189c0a-bbc0-43ad-9371-b61b4298b4ed",
+                        "recording_name": "Right Now",
+                        "release_group_mbid": "f7479a73-66a7-41be-9f77-9e70828a5809",
+                        "release_mbid": "5f940d8a-48e7-4b81-96dd-e316fccd123f"
+                    },
+                    "release_name": "Die Lit",
+                    "track_name": "Right Now"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791757706,
+                "listened_at": 1791757641,
+                "recording_msid": "152bf151-b88f-479e-a1be-ff590f96cfa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 127,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2tfn5Z6V_QI",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Baby Smoove",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e852986c-8ffd-45e3-9934-554612569c8b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Baby Smoove",
+                                "artist_mbid": "e852986c-8ffd-45e3-9934-554612569c8b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "94e349e7-473d-43b1-b969-75a4e8089eae",
+                        "recording_name": "Under Cover",
+                        "release_group_mbid": "3db0f90a-e260-4fff-8441-433a9013ee30",
+                        "release_mbid": "fe0c234f-195b-4c25-a99a-d9cbe54bc3f3"
+                    },
+                    "track_name": "Undercover"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791757575,
+                "listened_at": 1791757515,
+                "recording_msid": "73dc3310-2d18-4376-ae5f-de104390dd30",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 120,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/4rBDQCTjEqI",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Kiggz",
+                    "track_name": "They Know (Remix)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791757310,
+                "listened_at": 1791757108,
+                "recording_msid": "bcfb8fda-125d-40ad-94e1-2f31fbb58c2a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 401,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/BKdILS4xn-g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "d8fd8d9b-473b-4f06-83c8-869b1bb9de89"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Bryson Tiller",
+                                "artist_mbid": "d8fd8d9b-473b-4f06-83c8-869b1bb9de89",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19853555708,
+                        "caa_release_mbid": "5867dcc6-8707-414b-83c1-a42d9d537e9f",
+                        "recording_mbid": "e6fb95e6-6a94-47ad-91fb-ddfd5688867c",
+                        "recording_name": "Fell in Luv",
+                        "release_group_mbid": "f7479a73-66a7-41be-9f77-9e70828a5809",
+                        "release_mbid": "5f940d8a-48e7-4b81-96dd-e316fccd123f"
+                    },
+                    "release_name": "WELCOME TO THE THE PREGAME",
+                    "track_name": "Fell In Luv"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791757100,
+                "listened_at": 1791757070,
+                "recording_msid": "6d994a1e-a2b6-4e87-9d37-05f8f670dc4c",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/aDXntQtMeMM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Chorus"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791756940,
+                "listened_at": 1791756908,
+                "recording_msid": "363d8c73-9f26-4800-ac96-da34e18e72d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/aDXntQtMeMM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Verse 2"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791756806,
+                "listened_at": 1791756775,
+                "recording_msid": "4cba1d7b-016f-4e83-8af6-94417cb2166d",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/aDXntQtMeMM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Verse"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791756730,
+                "listened_at": 1791756688,
+                "recording_msid": "f0227021-7ad1-4f0c-80b5-d4339ccab0e4",
+                "track_metadata": {
+                    "additional_info": {
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/aDXntQtMeMM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29427175937,
+                        "caa_release_mbid": "b7a4b7fd-aa92-49dd-85fa-45944339c354",
+                        "recording_mbid": "3d282d6b-b60a-44d7-bbc7-e21282b83520",
+                        "recording_name": "Uzi Intro",
+                        "release_group_mbid": "b6abdf4e-c500-458d-9d9f-2b0b42babd96",
+                        "release_mbid": "b7a4b7fd-aa92-49dd-85fa-45944339c354"
+                    },
+                    "track_name": "INTRO"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791756613,
+                "listened_at": 1791756496,
+                "recording_msid": "6fc90822-68b9-4883-889c-cd8eb128deae",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 185,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/QiANWkRx1_E",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Shoulder Shrug (Unreleased)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791756262,
+                "listened_at": 1791756015,
+                "recording_msid": "39454d08-9751-4c75-bf3d-88a153c03d31",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 472,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/X0WVU2xoD2o",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Miles DeSantis",
+                    "track_name": "90210 by Travis Scott but it will change your life"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791755834,
+                "listened_at": 1791755659,
+                "recording_msid": "f2f2af02-9092-4d34-a53e-3334fe03a8f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 350,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/2Imx7iL8DXY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Sade",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "67930b3e-e00b-469f-8c74-fd69f20522ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sade",
+                                "artist_mbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5391926442,
+                        "caa_release_mbid": "49c1eeeb-919f-33d2-b72d-71b3fa5572cf",
+                        "recording_mbid": "8df92dd1-4c31-449a-b356-9fa2bf175222",
+                        "recording_name": "Kiss of Life",
+                        "release_group_mbid": "e4a67add-6aab-390c-bb82-53939fb9cd0a",
+                        "release_mbid": "49c1eeeb-919f-33d2-b72d-71b3fa5572cf"
+                    },
+                    "release_name": "The Best of Sade",
+                    "track_name": "Kiss Of Life"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791755503,
+                "listened_at": 1791755355,
+                "recording_msid": "612de205-32bc-4604-b869-9ce532accdf3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 296,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/Zi_XLOBDo_Y",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Michael Jackson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f27ec8db-af05-4f36-916e-3d57f91ecf5e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Michael Jackson",
+                                "artist_mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22018478497,
+                        "caa_release_mbid": "e1b94ba6-c63c-4c2d-8928-9d1a525b7000",
+                        "recording_mbid": "f980fc14-e29b-481d-ad3a-5ed9b4ab6340",
+                        "recording_name": "Billie Jean",
+                        "release_group_mbid": "f32fab67-77dd-3937-addc-9062e28e4c37",
+                        "release_mbid": "897b7802-6317-492f-8da1-d94e3bf9cba9",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/273598914"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/11335979"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/159293848"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/159293848"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/14874863"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/4838149"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/4838149"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4WSfyC9pFp0nc8OD0rHyaD"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/11738484"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/11834932"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/11834932"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/273598914"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=P_7q2RJtVQA"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0MHgys5H8i0bvpIScMeNTl"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/13129199"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/5279053"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/3113005"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/3113005"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/310505605"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/ca/song/310505605"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/8164626"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6vR5u5b8JeRESx5nZaIWx6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/516690650"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3967022591"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/399250292"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/399250292"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0Pta7osIb37yGqah9k3zOp"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+                            }
+                        ]
+                    },
+                    "release_name": "Thriller 25 Super Deluxe Edition",
+                    "track_name": "Billie Jean"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791755189,
+                "listened_at": 1791755038,
+                "recording_msid": "c930839f-f846-4751-9ddf-de0c4859ac92",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 300,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/pxwm3sqAytE",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "10615e42-e1ca-4d54-91ff-e81a50cd6e8d",
+                        "recording_name": "MY EYES",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "track_name": "My Eyes - (Second Half Extended)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791754885,
+                "listened_at": 1791754747,
+                "recording_msid": "fac7356d-f95b-4756-8276-849aa1d898d5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 273,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/PMk8L9FNqnY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39501156583,
+                        "caa_release_mbid": "1e268632-6b5a-4592-bd60-64be3276d104",
+                        "recording_mbid": "34814b3e-8415-4076-87c6-c767cc9a38dc",
+                        "recording_name": "Over My Dead Body",
+                        "release_group_mbid": "47809021-4515-4215-beea-db3f5dfb6267",
+                        "release_mbid": "02f7e348-b1ae-4c4e-a057-b97f1f56e53c"
+                    },
+                    "release_name": "Take Care",
+                    "track_name": "Over My Dead Body"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791754645,
+                "listened_at": 1791754559,
+                "recording_msid": "56750074-e8bf-4614-a90e-1ce735394949",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ETdESc-u458",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti feat. Smooky MarGielaa & Maddmax",
+                    "track_name": "Whole Lotta Red (Remastered)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791754448,
+                "listened_at": 1791754341,
+                "recording_msid": "4a28533b-5cdd-4a44-8d49-342ea2473a64",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 212,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/tkPoOvVnbRk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19853555708,
+                        "caa_release_mbid": "5867dcc6-8707-414b-83c1-a42d9d537e9f",
+                        "recording_mbid": "d8f1e3f6-c2b9-460d-8282-8874bb59d6ba",
+                        "recording_name": "Long Time (intro)",
+                        "release_group_mbid": "f7479a73-66a7-41be-9f77-9e70828a5809",
+                        "release_mbid": "5f940d8a-48e7-4b81-96dd-e316fccd123f"
+                    },
+                    "release_name": "Hip Hop Moshpit by STOKED - Rage Mix",
+                    "track_name": "Long Time (Intro)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791754252,
+                "listened_at": 1791754166,
+                "recording_msid": "91655c8f-1d2a-4685-83b3-0a67d1ec38fb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/zsb_lNrfOAk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791754041,
+                "listened_at": 1791753922,
+                "recording_msid": "a5d948bb-b36b-401a-9df0-2f04809ee299",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 236,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/SD4yRDY9mek",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45129897824,
+                        "caa_release_mbid": "a54e992d-71d9-4037-8688-3a04b6c9eda0",
+                        "recording_mbid": "e9114896-a5bb-464d-8231-245ccf66ba03",
+                        "recording_name": "Janice STFU",
+                        "release_group_mbid": "34009a25-def9-4e37-b3be-803b154902c0",
+                        "release_mbid": "dceb056a-32ed-4ce3-9003-2f5e07b42cf8",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6769568596"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6769568596"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/524851240"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+                            }
+                        ]
+                    },
+                    "release_name": "ICEMAN",
+                    "track_name": "Janice STFU"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791753804,
+                "listened_at": 1791753699,
+                "recording_msid": "c0716d9d-233d-4b64-bb94-b692aae0f14f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 208,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/BQlJXwLy-N4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "track_name": "This Ain't That (Visualizer)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791753593,
+                "listened_at": 1791753510,
+                "recording_msid": "59ebee92-b180-4e0c-a95c-6434a11fb058",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 164,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/55iN4H6kRN4",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13322607474,
+                        "caa_release_mbid": "9fe5db81-faa2-49c4-b384-217eff36896f",
+                        "recording_mbid": "d5fd5bca-505a-4329-aa9f-8eb5cb951bc0",
+                        "recording_name": "You Was Right",
+                        "release_group_mbid": "d8d3f2ce-c611-4474-bc6b-19cef080cc89",
+                        "release_mbid": "9fe5db81-faa2-49c4-b384-217eff36896f"
+                    },
+                    "release_name": "Lil Uzi Vert vs. the World",
+                    "track_name": "You Was Right"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791753433,
+                "listened_at": 1791753379,
+                "recording_msid": "fcdc1f84-99ef-40b3-b26d-2a502c2d11ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 106,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/UJpXimvWgbY",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "1d4d4587-878f-4611-9746-ecbeac4007a5",
+                        "recording_name": "Blurred - Twitch Tapes"
+                    },
+                    "release_name": "Blurred (Twitch Tapes)",
+                    "track_name": "Blurred (Twitch Tapes)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791753042,
+                "listened_at": 1791752942,
+                "recording_msid": "99ad3cb1-380e-4607-9fef-b2d7d05280e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 195,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/-M0nQ8or3Dk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Tay K",
+                    "track_name": "Spyro (feat Cardiac The Ghost)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791752628,
+                "listened_at": 1791752498,
+                "recording_msid": "04ab514d-6926-46a3-a90d-a13d2d3d44b9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 256,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/5EpyN_6dqyk",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "The Weeknd & Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "048634e9-b2b4-48e2-ae14-8d0657ca1dc1",
+                        "recording_name": "Timeless"
+                    },
+                    "release_name": "TIMELESS",
+                    "track_name": "Timeless"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791752224,
+                "listened_at": 1791752133,
+                "recording_msid": "aef01421-2e96-4ecd-a02f-7779ec02f1ff",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 180,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/trUbRz0RwYU",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "8b1381ec-af97-4b68-a56c-bc811b92554d",
+                        "recording_name": "Poured",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339626"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132832"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Poured"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791752001,
+                "listened_at": 1791751900,
+                "recording_msid": "d1d55209-a180-478e-83a6-601a1972da4d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 202,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/7qoPFVyjgNA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "6934e720-b6f6-4499-9a11-4377048a87be"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Duke",
+                                "artist_mbid": "6934e720-b6f6-4499-9a11-4377048a87be",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "94a809b3-6030-4e5b-805e-be37d5d6557c",
+                        "recording_name": "I Bought Her",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "e66e25c8-536f-4b1e-8057-634cc2502cbc"
+                    },
+                    "track_name": "I Bought Her"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791751391,
+                "listened_at": 1791751243,
+                "recording_msid": "203f4771-0f52-47a2-9d3d-5c28e725c29f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 295,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/8RFbYtOet4g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32795248180,
+                        "caa_release_mbid": "6544941b-2dd8-4e01-87ab-a643289896fc",
+                        "recording_mbid": "45fac124-0dcd-46a4-a556-922613e0e8b7",
+                        "recording_name": "Star67",
+                        "release_group_mbid": "68d79778-aceb-486c-88a7-0abb3665344b",
+                        "release_mbid": "f5075fa7-8774-4063-afdd-86c35e39e95f"
+                    },
+                    "release_name": "If You're Reading This It's Too Late",
+                    "track_name": "Star67"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791751092,
+                "listened_at": 1791750941,
+                "recording_msid": "f40f7d85-af1f-455e-9014-fe9d93670bfa",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 299,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/COz9lDCFHjw",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39156522354,
+                        "caa_release_mbid": "59444c3f-f4ed-4184-8d57-03c00f8d2632",
+                        "recording_mbid": "78c2466b-7940-40d0-8b89-7c1d57aca98e",
+                        "recording_name": "Passionfruit",
+                        "release_group_mbid": "32720ec6-2d5a-41af-a8c4-d7c8d72bb79c",
+                        "release_mbid": "59444c3f-f4ed-4184-8d57-03c00f8d2632"
+                    },
+                    "release_name": "More Life",
+                    "track_name": "Passionfruit"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791750789,
+                "listened_at": 1791750637,
+                "recording_msid": "02502d0a-92b9-4804-a437-538f6cda2ae3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 299,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/56BCCUULKdA",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Childish Gambino",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7fb57fba-a6ef-44c2-abab-2fa3bdee607e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Childish Gambino",
+                                "artist_mbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39925129953,
+                        "caa_release_mbid": "047fce7e-aa11-41f9-a14e-63dc2af99606",
+                        "recording_mbid": "aab4c449-63d6-4509-a3a8-06727091d866",
+                        "recording_name": "L.E.S.",
+                        "release_group_mbid": "5253c012-f7d3-440e-919b-5bac6d91ae7e",
+                        "release_mbid": "aafbfd73-43a2-48f5-9f1c-bfdc5db18129"
+                    },
+                    "track_name": "Les (edited)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791750438,
+                "listened_at": 1791750237,
+                "recording_msid": "cbc77731-87da-44ae-9a83-8db5d5433d9e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 399,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/6hfbHSItskQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake & 21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34003705355,
+                        "caa_release_mbid": "7db95535-b487-47f8-8889-fbf4358518b6",
+                        "recording_mbid": "9710bc80-9798-4901-af90-bfa7e9ea96af",
+                        "recording_name": "Hours in Silence",
+                        "release_group_mbid": "81463cd8-2608-41d7-9112-acf9981dd054",
+                        "release_mbid": "a2c7dbee-dcf8-4fa7-90ee-e369d0409e57"
+                    },
+                    "release_name": "Her Loss",
+                    "track_name": "Hours in Silence"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791750098,
+                "listened_at": 1791749957,
+                "recording_msid": "ceb11164-1475-43b7-8b1b-eca528ce8806",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 280,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/dTzt3WEz_9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Kodie Shane",
+                    "track_name": "Hold Up (Dough Up)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791749890,
+                "listened_at": 1791749818,
+                "recording_msid": "52033ba6-d4a1-42eb-a78f-5e4f776197c5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 139,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/RB_ti0818J8",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "track_name": "They Afraid of You (feat. Playboi Carti)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791749493,
+                "listened_at": 1791749405,
+                "recording_msid": "94ca18fe-bdf6-4c21-bdba-9ee1c0ae2d31",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 175,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/ronLNImzZoM",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "track_name": "Let Me Pop My Shi/ Designer Shoes"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791749162,
+                "listened_at": 1791749061,
+                "recording_msid": "ab6357d1-3628-4f3b-a896-115f541cf3c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/HFuu0vZBb7g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Bag (Audio ) (From \"SUPERFLY\")"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791690112,
+                "listened_at": 1791689923,
+                "recording_msid": "9688fc21-2093-48ed-95b9-ee38c79f9ff2",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 375,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/s_IATuze-R0",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Drake",
+                    "release_name": "So Far Gone EP",
+                    "track_name": "Successful"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791689883,
+                "listened_at": 1791689634,
+                "recording_msid": "ceb11164-1475-43b7-8b1b-eca528ce8806",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 280,
+                        "music_service_name": "YouTube",
+                        "origin_url": "https://youtu.be/dTzt3WEz_9g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Kodie Shane",
+                    "track_name": "Hold Up (Dough Up)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791686686,
+                "listened_at": 1791686676,
+                "recording_msid": "fe189e59-f6bb-4acd-ba8f-8a77ae90ed46",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Kodak Black"
+                        ],
+                        "duration": 201,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Kodak Black",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5ec1ecc6-4535-4911-a27a-e26343f4a189"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kodak Black",
+                                "artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12394640456,
+                        "caa_release_mbid": "7124b4a7-66d8-422b-9c88-6c7967d190cf",
+                        "recording_mbid": "7840735b-4e03-46d3-b619-e29dcaf8fdf4",
+                        "recording_name": "Like Dat",
+                        "release_group_mbid": "5e104f83-bdf5-4642-9b62-ba279e99192d",
+                        "release_mbid": "7124b4a7-66d8-422b-9c88-6c7967d190cf"
+                    },
+                    "release_name": "Institution",
+                    "track_name": "Like Dat"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791686573,
+                "listened_at": 1791686564,
+                "recording_msid": "d8049845-257d-4639-a9b1-01ebe7bed9b7",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "ulises romero"
+                        ],
+                        "duration": 120,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "ulises romero",
+                    "track_name": "Homixide Gang - Uzi Work (with og intro)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791686478,
+                "listened_at": 1791686462,
+                "recording_msid": "764d8fd6-9a14-4df0-9b8c-cd08a6c064ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 136,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "86e5bcdf-2604-4018-9989-8927de9e0b65",
+                        "recording_name": "Kick",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1ToQjz5blAdvdLiS09rUKf"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327518"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327518"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797523"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "Kick"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791686287,
+                "listened_at": 1791686275,
+                "recording_msid": "6d099efe-1dda-45c6-82e1-3953f5640848",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Kballerjuice"
+                        ],
+                        "duration": 153,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Kballerjuice",
+                    "track_name": "Chief Keef - Lowlife (best version)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791686147,
+                "listened_at": 1791686138,
+                "recording_msid": "62e2c928-15d9-4405-bce4-ed5d7642538c",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 174,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "f273e575-cb06-48e2-b236-559147a80e6a",
+                        "recording_name": "Yoko",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859144"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859144"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346463"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339628"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346463"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132852"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Yoko"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685940,
+                "listened_at": 1791685920,
+                "recording_msid": "cba3d47c-a9c6-4032-bf19-ab6378fb9e73",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Playboi Carti"
+                        ],
+                        "duration": 190,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28273306891,
+                        "caa_release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff",
+                        "recording_mbid": "07486a3e-38d5-405e-a537-ac1c971406fa",
+                        "recording_name": "Broke Boi",
+                        "release_group_mbid": "daf0f547-7260-4306-95e8-230ba3849be6",
+                        "release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff"
+                    },
+                    "release_name": "Broke Boi",
+                    "track_name": "Broke Boi"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685771,
+                "listened_at": 1791685762,
+                "recording_msid": "1c0a4a14-1604-447b-9abe-cd13e66732f6",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Young Thug"
+                        ],
+                        "duration": 163,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Young Thug",
+                    "release_name": "So Much Fun",
+                    "track_name": "Mannequin Challenge (feat. Juice WRLD)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685649,
+                "listened_at": 1791685640,
+                "recording_msid": "225f29f3-3a86-4b43-bafb-d075b6cbcb76",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 107,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33924420351,
+                        "caa_release_mbid": "0f69e8f2-fb7f-4379-acba-33591af46083",
+                        "recording_mbid": "5c7c2b6c-6486-474c-bcee-38116d8f69de",
+                        "recording_name": "MASSAGING ME",
+                        "release_group_mbid": "503bb581-ecf1-4794-9746-aa896c3a89e3",
+                        "release_mbid": "2b440879-df84-4769-83b7-b1a85a248070"
+                    },
+                    "release_name": "I NEVER LIKED YOU",
+                    "track_name": "MASSAGING ME"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685526,
+                "listened_at": 1791685516,
+                "recording_msid": "963cad15-608b-40ff-804b-713e6e79b585",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Kiggz"
+                        ],
+                        "duration": 121,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Kiggz",
+                    "track_name": "They Know (Remix) (feat. Chief Keef)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685385,
+                "listened_at": 1791685377,
+                "recording_msid": "cc5179b4-d64d-4327-a333-da2d99f5a23b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Chief Keef",
+                            "DJ Scream"
+                        ],
+                        "duration": 161,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Chief Keef, DJ Scream",
+                    "release_name": "Almighty So",
+                    "track_name": "Blew My High"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685324,
+                "listened_at": 1791685305,
+                "recording_msid": "5021a570-3a82-49b0-b6f3-bc71ada1b698",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 199,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25604442789,
+                        "caa_release_mbid": "77c11f45-c808-4487-af46-39a26891403d",
+                        "recording_mbid": "bf295c80-9186-4e4d-98a2-641e3a3969e5",
+                        "recording_name": "Futsal Shuffle 2020",
+                        "release_group_mbid": "4e60f08e-4b53-4139-a8c8-5bd81fad0d62",
+                        "release_mbid": "20e4f5e2-262c-428a-a1b3-f13b9b932f7e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1830656097"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7bVtkfw3ZCF65jCc1Jv8G6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/238622017"
+                            }
+                        ]
+                    },
+                    "release_name": "Eternal Atake",
+                    "track_name": "Futsal Shuffle 2020 (Bonus Track)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791685233,
+                "listened_at": 1791685224,
+                "recording_msid": "8a993f4e-cb06-4896-a7e7-3b24fcb5a70d",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "EsDeeKid"
+                        ],
+                        "duration": 110,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "EsDeeKid",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3d253cbd-fb66-4752-a8d1-f9b0db75bcea"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "EsDeeKid",
+                                "artist_mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43437214601,
+                        "caa_release_mbid": "1c5a4013-7d5a-40db-8e9e-974e363155e7",
+                        "recording_mbid": "665836e7-a7bb-4fbf-a830-e551f4027c0f",
+                        "recording_name": "Century",
+                        "release_group_mbid": "496ca77d-1bb8-4a4b-8a7f-fc01b75b699f",
+                        "release_mbid": "1c5a4013-7d5a-40db-8e9e-974e363155e7"
+                    },
+                    "release_name": "Century",
+                    "track_name": "Century"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684986,
+                "listened_at": 1791684977,
+                "recording_msid": "470d3aca-7a68-4448-b12a-a93d490e2fda",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "RXKNephew"
+                        ],
+                        "duration": 201,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "RXKNephew",
+                    "release_name": "Universal Slither",
+                    "track_name": "Slave Myself for it"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684680,
+                "listened_at": 1791684671,
+                "recording_msid": "02bee914-5fa4-4cc6-8bf8-cf3c9fed3b65",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Travis Scott"
+                        ],
+                        "duration": 313,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20755480136,
+                        "caa_release_mbid": "cd653261-861d-49ab-90b8-cef707eb5f89",
+                        "recording_mbid": "73784600-a665-4a6c-9687-187dbefc556d",
+                        "recording_name": "SICKO MODE",
+                        "release_group_mbid": "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2",
+                        "release_mbid": "82784744-65ed-4f32-b004-ba45cd726509"
+                    },
+                    "release_name": "ASTROWORLD",
+                    "track_name": "SICKO MODE"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684521,
+                "listened_at": 1791684512,
+                "recording_msid": "6ffe2178-f7d9-4f4f-8e5f-3f18efe889c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Tory Lanez"
+                        ],
+                        "duration": 159,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27502520892,
+                        "caa_release_mbid": "0668ce0a-51a5-4301-b6b3-dd5e9338c706",
+                        "recording_mbid": "cf257a30-1c14-47e7-9b6b-27867d7dee44",
+                        "recording_name": "Things I Should of Said",
+                        "release_group_mbid": "da95da2b-4148-43c7-a1d7-adbb7d579e36",
+                        "release_mbid": "5d063c52-efa8-45ff-86a5-e841bc6d389c"
+                    },
+                    "release_name": "DAYSTAR",
+                    "track_name": "Things I Should Of Said"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684469,
+                "listened_at": 1791684460,
+                "recording_msid": "cfb3b403-867c-4162-b9e1-2a6ba68f0d39",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Playboi Carti"
+                        ],
+                        "duration": 90,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "ae48043a-3db2-4c79-b441-2ce5a58a7ae9",
+                        "recording_name": "New Tank",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "release_name": "Whole Lotta Red",
+                    "track_name": "New Tank"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684280,
+                "listened_at": 1791684272,
+                "recording_msid": "cb1ba1e2-0f28-4efe-a325-e2c19b4cb41a",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Yeat",
+                            "Don Toliver"
+                        ],
+                        "duration": 158,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Yeat, Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44704334374,
+                        "caa_release_mbid": "1aa8c963-188c-4df5-88f1-53adfaaea7df",
+                        "recording_mbid": "6508d4ac-bb29-4821-84ae-afe32641cb0b",
+                        "recording_name": "Griddlë",
+                        "release_group_mbid": "5156d18d-0f4d-474f-9d48-2cccf2a48ee7",
+                        "release_mbid": "3d48435b-eb23-458e-b9dc-4095c18e87f3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
+                            }
+                        ]
+                    },
+                    "release_name": "ADL",
+                    "track_name": "Griddlë"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684132,
+                "listened_at": 1791684114,
+                "recording_msid": "15044cc5-5854-452c-b030-9f47c698ef7c",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Blocctwinbendo",
+                            "Prod by OG Berger"
+                        ],
+                        "duration": 146,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Blocctwinbendo, Prod by OG Berger",
+                    "release_name": "Kehle",
+                    "track_name": "Kehle"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791684000,
+                "listened_at": 1791683991,
+                "recording_msid": "2258b466-4e09-4bf7-bc35-5119fb4baf79",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 168,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "release_name": "Beast Mode",
+                    "track_name": "Lay Up"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791683887,
+                "listened_at": 1791683877,
+                "recording_msid": "2e97a39d-1ed6-4b2f-9a00-63acadf26eff",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 151,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "8cacd3a6-cfea-43c6-aad1-20b106a1396e",
+                        "recording_name": "223",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859142"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339627"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859142"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346462"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132842"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346462"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "223"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681684,
+                "listened_at": 1791681676,
+                "recording_msid": "ca369699-3728-46a2-998a-a09f6cee9470",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Yeat"
+                        ],
+                        "duration": 167,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33521161696,
+                        "caa_release_mbid": "436b3c50-edc1-46f8-9419-dee04393c253",
+                        "recording_mbid": "bffca276-742a-4e40-a6ea-315ab42b3ba4",
+                        "recording_name": "Systëm",
+                        "release_group_mbid": "8feff902-8ee8-42bf-9a8c-cf28c208a5fa",
+                        "release_mbid": "436b3c50-edc1-46f8-9419-dee04393c253"
+                    },
+                    "release_name": "Lyfë",
+                    "track_name": "Systëm"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681781,
+                "listened_at": 1791681656,
+                "recording_msid": "604a7c14-d78f-4d12-befa-d1e111cb7509",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future",
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 275,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future, Lil Uzi Vert",
+                    "track_name": "Stripes Like Burberry"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681603,
+                "listened_at": 1791681594,
+                "recording_msid": "d1af7902-c8f4-46f7-b748-9955bbe1de1e",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Playboi Carti"
+                        ],
+                        "duration": 212,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "track_name": "Playboi Carti - They Go Off (Official Audio)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681675,
+                "listened_at": 1791681564,
+                "recording_msid": "aee94318-0fff-4f6a-8080-05a11bf95911",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Veeze"
+                        ],
+                        "duration": 183,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Veeze",
+                    "track_name": "One of Them Ones (feat. Rylo Rodriguez & Lil Baby)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681524,
+                "listened_at": 1791681514,
+                "recording_msid": "37f3aa0e-0629-46f3-9f96-bc9109fc23f0",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Perfect Plug"
+                        ],
+                        "duration": 88,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Perfect Plug",
+                    "track_name": "Lucki - Difference (Prod. AR + Plu2o Nash)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681386,
+                "listened_at": 1791681377,
+                "recording_msid": "4214cf1c-0f88-40fa-a29f-750186507f1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "babychrxstwo"
+                        ],
+                        "duration": 208,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "babychrxstwo",
+                    "track_name": "Future - Match My Speed"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681217,
+                "listened_at": 1791681160,
+                "recording_msid": "746f65ca-2943-42cd-a986-bcc17ef10200",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 181,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "8b1381ec-af97-4b68-a56c-bc811b92554d",
+                        "recording_name": "Poured",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339626"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346461"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859141"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132832"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+                            }
+                        ]
+                    },
+                    "track_name": "Poured"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791681057,
+                "listened_at": 1791681048,
+                "recording_msid": "23113f94-697a-412e-8c62-20fb5130f204",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "SODA CLUB"
+                        ],
+                        "duration": 138,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "SODA CLUB",
+                    "track_name": "Playboi Carti - \"Talk\" (Official Music Video)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791680900,
+                "listened_at": 1791680891,
+                "recording_msid": "5802c312-f309-4ee5-8dc9-188151b44f99",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Plug-N-Playlist"
+                        ],
+                        "duration": 127,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Plug-N-Playlist",
+                    "track_name": "Baby Smoove - Undercover"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791671149,
+                "listened_at": 1791671138,
+                "recording_msid": "6cbdec40-056c-45a3-a013-eeba051cae63",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 241,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Rich $ex (Official Music Video)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791670448,
+                "listened_at": 1791670440,
+                "recording_msid": "d589ab5a-0aad-49a6-9bc4-d46c08fab6bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Trippie Redd"
+                        ],
+                        "duration": 209,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Trippie Redd",
+                    "track_name": "This Ain't That (Visualizer) (feat. Lil Mosey)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791670174,
+                "listened_at": 1791670164,
+                "recording_msid": "71ac9153-cc93-449d-ae10-dfa42c3e3ca3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 263,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "track_name": "Pretty Mami"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669959,
+                "listened_at": 1791669948,
+                "recording_msid": "6b40d798-ea72-46a3-a7aa-f4bdf0831b50",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "21 Savage"
+                        ],
+                        "duration": 189,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "21 Savage",
+                    "track_name": "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669776,
+                "listened_at": 1791669763,
+                "recording_msid": "afd017ae-b1d6-47b5-ac72-fb9cdb5e8f13",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 188,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Crushed Up (Official Music Video)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669621,
+                "listened_at": 1791669609,
+                "recording_msid": "11167591-e2e8-46ea-a3b2-411185473208",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Playboi Carti"
+                        ],
+                        "duration": 169,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "track_name": "Location (Audio)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669433,
+                "listened_at": 1791669423,
+                "recording_msid": "c22ab424-bb7f-4618-a57c-adb78761fd18",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 171,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669282,
+                "listened_at": 1791669267,
+                "recording_msid": "a157972d-969b-4f7e-8bb7-068b1bc0a14b",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Travis Scott"
+                        ],
+                        "duration": 177,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Travis Scott",
+                    "track_name": "HIGHEST IN THE ROOM (Official Music Video)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791669098,
+                "listened_at": 1791669080,
+                "recording_msid": "d23d9b60-26a6-4b67-b67b-078d831938c3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Gunna"
+                        ],
+                        "duration": 167,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Gunna",
+                    "track_name": "Gunna - Sold Out Dates ft. Lil Baby [Official Audio]"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791668332,
+                "listened_at": 1791668321,
+                "recording_msid": "bd15afa8-1a87-4423-b994-60746cbe23a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Young Thug"
+                        ],
+                        "duration": 207,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43202838350,
+                        "caa_release_mbid": "194f1841-a0a9-455a-a61d-e9dd15651304",
+                        "recording_mbid": "a8f68af7-5191-461a-9c43-a0df961aeca6",
+                        "recording_name": "Catch Me I’m Falling",
+                        "release_group_mbid": "fbd1a704-1046-47d4-9bbd-ddb38bdc577b",
+                        "release_mbid": "02b6d3b3-3297-4778-b716-335a84870e83",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4eUswkWSIft2T9UDLmDE3s"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3584445351"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1843745871"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3573921041"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1842255362"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/463068334"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7mSprlOjmkKxBA5l1jorTE"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1843745871"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1842255362"
+                            }
+                        ]
+                    },
+                    "track_name": "Catch Me I’m Falling"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791668085,
+                "listened_at": 1791668075,
+                "recording_msid": "2c6ff125-3398-40a2-972d-da81994cad9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Kodak Black",
+                            "Don Toliver"
+                        ],
+                        "duration": 230,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Kodak Black, Don Toliver",
+                    "track_name": "Who U Seeing Tonight (Audio)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791667950,
+                "listened_at": 1791667940,
+                "recording_msid": "28ad702c-69c9-454c-97f7-25d1c11faaa7",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 134,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Talk Shit Like a Preacher (Audio)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791667839,
+                "listened_at": 1791667829,
+                "recording_msid": "4a63bd30-5a7e-4b9a-83c1-46d85a72c9d0",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Drake"
+                        ],
+                        "duration": 127,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Drake",
+                    "track_name": "High Fives"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791667440,
+                "listened_at": 1791667431,
+                "recording_msid": "0fb731f7-9e20-46ed-8c95-c93c433937e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "21 Savage",
+                            "Lil Uzi Vert"
+                        ],
+                        "duration": 221,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "21 Savage, Lil Uzi Vert",
+                    "track_name": "Lil Uzi Vert - Yessirskii [Official Lyric Video]"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791666507,
+                "listened_at": 1791666495,
+                "recording_msid": "a6ecb530-357b-4cac-bb5b-c79441e9b7f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 199,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Bag (Audio ) (From \"SUPERFLY\") (feat. Yung Bans)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791666484,
+                "listened_at": 1791666475,
+                "recording_msid": "a6ecb530-357b-4cac-bb5b-c79441e9b7f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Future"
+                        ],
+                        "duration": 199,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "Bag (Audio ) (From \"SUPERFLY\") (feat. Yung Bans)"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791654388,
+                "listened_at": 1791654378,
+                "recording_msid": "781248d5-19b1-4fbd-a2e9-298487e07c08",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Don Toliver"
+                        ],
+                        "duration": 202,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32584693613,
+                        "caa_release_mbid": "3d8cd86b-5deb-4254-a3c8-6fabab506dc2",
+                        "recording_mbid": "59c7fa9c-e68d-48e3-80f7-f7d6d6ed836b",
+                        "recording_name": "Diva",
+                        "release_group_mbid": "f9a79498-5bfd-4220-94c1-126cf1e2086b",
+                        "release_mbid": "3d8cd86b-5deb-4254-a3c8-6fabab506dc2"
+                    },
+                    "track_name": "Diva"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791654472,
+                "listened_at": 1791654370,
+                "recording_msid": "ddb602fe-7508-4ed3-ac7c-1b270a0f20d5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 202,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=LEfgBTj9egY&list=RDAMVMHFuu0vZBb7g",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32584693613,
+                        "caa_release_mbid": "3d8cd86b-5deb-4254-a3c8-6fabab506dc2",
+                        "recording_mbid": "59c7fa9c-e68d-48e3-80f7-f7d6d6ed836b",
+                        "recording_name": "Diva",
+                        "release_group_mbid": "f9a79498-5bfd-4220-94c1-126cf1e2086b",
+                        "release_mbid": "3d8cd86b-5deb-4254-a3c8-6fabab506dc2"
+                    },
+                    "release_name": "Donny Womack",
+                    "track_name": "Diva"
+                },
+                "user_name": "nolepathy"
+            },
+            {
+                "inserted_at": 1791654199,
+                "listened_at": 1791654190,
+                "recording_msid": "6f0f0102-faf6-4050-9849-fff2040c5474",
+                "track_metadata": {
+                    "additional_info": {
+                        "artist_names": [
+                            "Forgotten"
+                        ],
+                        "duration": 188,
+                        "music_service": "music.youtube.com",
+                        "music_service_name": "Youtube Music",
+                        "submission_client": "multi-scrobbler",
+                        "submission_client_version": "0.16.4"
+                    },
+                    "artist_name": "Forgotten",
+                    "track_name": "Drake - Plot Twist (Forgotten Remix)"
+                },
+                "user_name": "nolepathy"
+            }
+        ],
+        "oldest_listen_ts": 1744785010,
+        "user_id": "nolepathy"
+    }
+}

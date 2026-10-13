@@ -1,0 +1,3867 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1784843592,
+        "listens": [
+            {
+                "inserted_at": 1784843836,
+                "listened_at": 1784843592,
+                "recording_msid": "0d6c47c5-780c-42de-8d4b-1b49ad010224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "377fc4d6-5444-4bc5-9931-088e0f32f6b7",
+                        "lastfm_track_mbid": "4474e3b3-4da4-38db-bf04-9780f5c592c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11293336818,
+                        "caa_release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7",
+                        "recording_mbid": "808077b5-4f0e-4e67-b9f7-5e2e9fc9c4a2",
+                        "recording_name": "Real Muthaphuckkin’ G’s",
+                        "release_group_mbid": "036d3226-3fe3-4b07-854f-3c61c3a46df8",
+                        "release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7"
+                    },
+                    "release_name": "It's On (Dr. Dre) 187um Killa",
+                    "track_name": "Real Muthaphuckkin G's"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784843836,
+                "listened_at": 1784843400,
+                "recording_msid": "900e9fe3-14df-4569-99a8-40f55dadcb31",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "44d560bf-2026-43dd-b09d-7960b81253a3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ichiko Aoba",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "青葉市子",
+                                "artist_mbid": "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27945839779,
+                        "caa_release_mbid": "2dbed6f5-9b44-4ce9-b6c5-badd0a34c51a",
+                        "recording_mbid": "44d560bf-2026-43dd-b09d-7960b81253a3",
+                        "recording_name": "Parfum d’étoiles",
+                        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1",
+                        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3jB3vzH1WG6aiUiiLLGvly"
+                            }
+                        ]
+                    },
+                    "release_name": "Windswept Adan",
+                    "track_name": "Parfum d'étoiles"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784843836,
+                "listened_at": 1784843250,
+                "recording_msid": "225d6e4e-43fa-4994-a0a3-baee57f89420",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "45bbde2e-bfc1-48c6-8b58-491348cd5459",
+                        "lastfm_track_mbid": "6fdfb200-6543-49c4-8de7-768bb0f0eda1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077",
+                            "af2d2bfb-99a1-4e8d-9656-5e0c3cdca31e",
+                            "f13f9a16-117d-4039-b6d8-3576ca7497d3",
+                            "c1a1e1c0-9c27-4fc6-bd8b-afb958456d27"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Hitta J3",
+                                "artist_mbid": "af2d2bfb-99a1-4e8d-9656-5e0c3cdca31e",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "YoungThreat",
+                                "artist_mbid": "f13f9a16-117d-4039-b6d8-3576ca7497d3",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Peysoh",
+                                "artist_mbid": "c1a1e1c0-9c27-4fc6-bd8b-afb958456d27",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40476627968,
+                        "caa_release_mbid": "ab97a501-5505-427a-b9cd-81e3e6c1085c",
+                        "recording_mbid": "968091e9-0e7d-4ed7-a8a7-03af702da915",
+                        "recording_name": "gnx",
+                        "release_group_mbid": "32cb822c-a14e-49ce-a169-f209c5f31e0f",
+                        "release_mbid": "13acfa3a-e73f-43aa-a109-e3216cb6b1b3",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/302791428"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/302791428"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1781270554"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1781270554"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1781270554"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/401317300"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ"
+                            }
+                        ]
+                    },
+                    "release_name": "GNX",
+                    "track_name": "gnx (feat. hitta j3, youngthreat, peysoh)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784836545,
+                "recording_msid": "20430d0d-d11f-48e2-93b2-e08f53668f41",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "8055b4fa-db29-4bef-9b53-a99f47f9988c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "c2e49f7a-cd6f-48ca-8596-b03614ea4fe8",
+                            "ea6b7199-901d-4c0e-8242-6d7bc2bf62b7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Consequence",
+                                "artist_mbid": "c2e49f7a-cd6f-48ca-8596-b03614ea4fe8",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Cam’Ron",
+                                "artist_mbid": "ea6b7199-901d-4c0e-8242-6d7bc2bf62b7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "14a9e4fa-1c8a-4339-9477-18a4c7802022",
+                        "recording_name": "Gone",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190"
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Gone"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784836491,
+                "recording_msid": "c3928cf4-b9da-4185-8623-62902d07efe0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "3c5e6765-9c85-4510-9e4b-75531379f375",
+                        "recording_name": "Skit #4",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "c4a2e331-9b7d-429f-8117-7749e64f75e8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3zXhvJaLpxefYIxBE0cnB0"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1184323"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/593865"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440669597"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440669597"
+                            }
+                        ]
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Skit #4 (Kanye West/Late Registration)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784836290,
+                "recording_msid": "93476ca1-f866-407b-a481-ed7c90f5a613",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "0614244f-1b86-4ee6-8a90-41b0673937ff",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "d7121779-9df6-4f8a-bd83-51744fe2b8c1",
+                        "recording_name": "Celebration",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "c4a2e331-9b7d-429f-8117-7749e64f75e8",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/593864"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1184322"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7jAxGkXU58FwNMjqoMahn7"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440669593"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440669593"
+                            }
+                        ]
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Celebration"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784835959,
+                "recording_msid": "41361e26-f886-4b75-94b3-a78781690320",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "bb42227b-98e1-41e9-8e2a-55c6b94c9f0d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "a169e398-244c-48f5-b81f-13f8cbe1f7e1",
+                        "recording_name": "Hey Mama",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "c4a2e331-9b7d-429f-8117-7749e64f75e8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/593863"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440669586"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440669586"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1184321"
+                            }
+                        ]
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Hey Mama"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784835705,
+                "recording_msid": "0ccffaaf-1904-4140-ad42-356ce876b941",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "8f3580fd-b00d-4a5e-a9ab-bd96d66023ca",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "c84a9e2b-975e-4062-8656-05c98c488858",
+                        "recording_name": "We Major",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "c4a2e331-9b7d-429f-8117-7749e64f75e8"
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "We Major"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784835375,
+                "recording_msid": "22b6eb9f-9596-4a03-bb2a-4335f1328478",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "983f1f8e-d626-44cb-a9bd-b2b0cc23447d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "01e60eba-52df-4694-8f09-39f43abe54e9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Brandy",
+                                "artist_mbid": "01e60eba-52df-4694-8f09-39f43abe54e9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "97ee696b-0412-40fa-9503-abbd8c9ec7db",
+                        "recording_name": "Bring Me Down",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190"
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Bring Me Down"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784835002,
+                "recording_msid": "0ae19bf8-8233-4f6c-9c2d-f7b8fb79dd96",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "175aca1c-3595-42b4-bb29-d2c6301503b0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "a1421d73-1a21-484b-97ad-77c9a5676daf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Adam Levine",
+                                "artist_mbid": "a1421d73-1a21-484b-97ad-77c9a5676daf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "0ee6c11f-0952-4381-aa87-abc7446e5314",
+                        "recording_name": "Heard ’Em Say",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440668859"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1184307"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/593849"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440668859"
+                            }
+                        ]
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Heard 'Em Say"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784834958,
+                "recording_msid": "09b5b520-9740-46f5-9a6b-3724f2f01e71",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "05b67f03-9593-4bef-bb61-01b28ec1600e",
+                        "lastfm_track_mbid": "d734bcd6-05b1-4f6d-b414-9880cbdd85d0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5638377094,
+                        "caa_release_mbid": "d6f9a7a4-d291-44a5-be15-66101e094190",
+                        "recording_mbid": "66ea2ad7-1eee-4436-8e2b-428b7344c835",
+                        "recording_name": "Wake Up Mr. West",
+                        "release_group_mbid": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+                        "release_mbid": "c4a2e331-9b7d-429f-8117-7749e64f75e8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/62KeM7jbmYvzT5FycdiQeS"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1184306"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/593848"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440668770"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440668770"
+                            }
+                        ]
+                    },
+                    "release_name": "Late Registration",
+                    "track_name": "Wake Up Mr. West"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784834257,
+                "recording_msid": "292d5d4f-bf33-4b4d-b6ab-e87ff2ee11bf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "141832c3-de98-4c4d-bcd7-1733b9141ba7",
+                        "lastfm_track_mbid": "08d70c76-8d44-4a24-b4f4-ee5ecce27f3e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20178703246,
+                        "caa_release_mbid": "44f67341-2586-4283-bc3f-cf03ae89dc35",
+                        "recording_mbid": "b57591e9-4849-4d95-a0a4-fbb5563dbb6c",
+                        "recording_name": "Hold My Liquor",
+                        "release_group_mbid": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+                        "release_mbid": "5b78aa6b-67be-43b5-8f56-a89116e48087",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440873239"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20753862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68350108"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh"
+                            }
+                        ]
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "Hold My Liquor"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784834000,
+                "recording_msid": "0b35c868-d4a6-4115-9571-d0e40ce13392",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "141832c3-de98-4c4d-bcd7-1733b9141ba7",
+                        "lastfm_track_mbid": "94407e8b-8bb3-442c-95b4-da768a747c0f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20178703246,
+                        "caa_release_mbid": "44f67341-2586-4283-bc3f-cf03ae89dc35",
+                        "recording_mbid": "fa20c1c7-4ef7-4638-b7a5-46c3e86a3bc8",
+                        "recording_name": "New Slaves",
+                        "release_group_mbid": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+                        "release_mbid": "5b78aa6b-67be-43b5-8f56-a89116e48087",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68350107"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4cAgkb0ifwn0FSHGXnr4F6"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440873235"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20753861"
+                            }
+                        ]
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "New Slaves"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784833797,
+                "recording_msid": "0837ac39-3537-405a-880e-e5c4abadb6ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "141832c3-de98-4c4d-bcd7-1733b9141ba7",
+                        "lastfm_track_mbid": "2284a148-9b90-4098-a170-cfbbd06572c3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20178703246,
+                        "caa_release_mbid": "44f67341-2586-4283-bc3f-cf03ae89dc35",
+                        "recording_mbid": "2e48f30b-7ad2-4fea-97f1-edef65565d7c",
+                        "recording_name": "Black Skinhead",
+                        "release_group_mbid": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+                        "release_mbid": "5b78aa6b-67be-43b5-8f56-a89116e48087",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68350105"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20753859"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440873230"
+                            }
+                        ]
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "Black Skinhead"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784833639,
+                "recording_msid": "05cd5496-ed5d-43c4-8d72-437dd6ca701a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "141832c3-de98-4c4d-bcd7-1733b9141ba7",
+                        "lastfm_track_mbid": "735c822c-59a4-4e65-b242-7355a914051b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 20178703246,
+                        "caa_release_mbid": "44f67341-2586-4283-bc3f-cf03ae89dc35",
+                        "recording_mbid": "1912fd49-90be-4409-9b98-f5781409e732",
+                        "recording_name": "On Sight",
+                        "release_group_mbid": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+                        "release_mbid": "5b78aa6b-67be-43b5-8f56-a89116e48087",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/68350104"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/20753858"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440873225"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
+                            }
+                        ]
+                    },
+                    "release_name": "Yeezus",
+                    "track_name": "On Sight"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784833477,
+                "recording_msid": "900e9fe3-14df-4569-99a8-40f55dadcb31",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "44d560bf-2026-43dd-b09d-7960b81253a3",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Ichiko Aoba",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "青葉市子",
+                                "artist_mbid": "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27945839779,
+                        "caa_release_mbid": "2dbed6f5-9b44-4ce9-b6c5-badd0a34c51a",
+                        "recording_mbid": "44d560bf-2026-43dd-b09d-7960b81253a3",
+                        "recording_name": "Parfum d’étoiles",
+                        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1",
+                        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3jB3vzH1WG6aiUiiLLGvly"
+                            }
+                        ]
+                    },
+                    "release_name": "Windswept Adan",
+                    "track_name": "Parfum d'étoiles"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784832982,
+                "recording_msid": "47bcf487-ad48-40c1-a08c-099469917a27",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "60d5fb6a-cad6-4918-95dd-f59c90c9f406",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30944412549,
+                        "caa_release_mbid": "8052a9d4-3d20-4f66-a94b-cc9d8cbc437a",
+                        "recording_mbid": "f5134645-f9ee-4b5a-a63c-7b058e0c86ad",
+                        "recording_name": "Off the Grid",
+                        "release_group_mbid": "7f4792fe-b563-4554-849a-95a89be71f84",
+                        "release_mbid": "61b235f7-a362-4d4a-b6ce-a325964d313e"
+                    },
+                    "release_name": "Donda (Deluxe)",
+                    "track_name": "Off the Grid"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784837459,
+                "listened_at": 1784832590,
+                "recording_msid": "37594a6e-b821-4522-aca9-013989ed33bf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "6d7a76b1-be8d-48d9-9c6f-cd4dbe78bc40",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "André 3000",
+                                "artist_mbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30944412549,
+                        "caa_release_mbid": "8052a9d4-3d20-4f66-a94b-cc9d8cbc437a",
+                        "recording_mbid": "d4812000-8986-42b6-b1fa-58077a7a81fc",
+                        "recording_name": "Life of the Party",
+                        "release_group_mbid": "7f4792fe-b563-4554-849a-95a89be71f84",
+                        "release_mbid": "1b0567d1-9475-4607-8cfe-49cf3f51da7c"
+                    },
+                    "release_name": "Donda (Deluxe)",
+                    "track_name": "Life of the Party (with André 3000)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784832318,
+                "recording_msid": "00e442f0-7820-47ef-92b6-60c7a002d586",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "0d440e7c-6c37-45e5-8d5d-eb07e678249e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30944412549,
+                        "caa_release_mbid": "8052a9d4-3d20-4f66-a94b-cc9d8cbc437a",
+                        "recording_mbid": "dd97d168-bc9f-4989-9575-efb822961d47",
+                        "recording_name": "Moon",
+                        "release_group_mbid": "7f4792fe-b563-4554-849a-95a89be71f84",
+                        "release_mbid": "61b235f7-a362-4d4a-b6ce-a325964d313e"
+                    },
+                    "release_name": "Donda (Deluxe)",
+                    "track_name": "Moon"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784832072,
+                "recording_msid": "058722dd-5bfd-4877-94d7-8ecc9f39f584",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "a42ff699-4645-47f6-8ca4-6f2014a8a48e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30944412549,
+                        "caa_release_mbid": "8052a9d4-3d20-4f66-a94b-cc9d8cbc437a",
+                        "recording_mbid": "68f3572e-96c2-4080-8d53-03c91e67d647",
+                        "recording_name": "Hurricane",
+                        "release_group_mbid": "7f4792fe-b563-4554-849a-95a89be71f84",
+                        "release_mbid": "61b235f7-a362-4d4a-b6ce-a325964d313e"
+                    },
+                    "release_name": "Donda (Deluxe)",
+                    "track_name": "Hurricane"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784831881,
+                "recording_msid": "af180059-5fbe-409e-8895-67d0574a3b63",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Snoop Dogg",
+                    "release_name": "Tupac: Live at the House of Blues",
+                    "track_name": "If We All Gonna Fuck - Live"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784831415,
+                "recording_msid": "4cb29fa0-751f-4734-9547-668c4972aa45",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Notorious BIG",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14279999743,
+                        "caa_release_mbid": "e85b9be3-1b8a-42ee-a972-b456e1a2814e",
+                        "recording_mbid": "1893e368-a93f-4dc8-877a-199cd411a1b0",
+                        "recording_name": "Who Shot Ya",
+                        "release_group_mbid": "8aaefc82-fd9e-4282-9283-5cd94cee74dd",
+                        "release_mbid": "63e785d1-6ff3-48c8-9805-f5f03e9c466e"
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Who Shot Ya? - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784830996,
+                "recording_msid": "13912f17-d0d9-4975-8708-968acd312acc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "396836d7-feea-4847-99b6-aad559c4110e",
+                        "lastfm_track_mbid": "819390b1-6687-4b06-835a-e88ba4fb0927",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5658377319,
+                        "caa_release_mbid": "d930166c-e5b6-420d-8177-e62f351f6859",
+                        "recording_mbid": "d9633e2f-1d46-49e9-bc9e-9f80557d4414",
+                        "recording_name": "Gangsta Gangsta",
+                        "release_group_mbid": "fed1608d-80b7-38d2-aeb8-c6357f0d4c23",
+                        "release_mbid": "c6dd0a83-5777-4450-a0c2-0ab585854475",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1pOIpxfrQ8AszXZdKR3aH3"
+                            }
+                        ]
+                    },
+                    "release_name": "Straight Outta Compton",
+                    "track_name": "Gangsta Gangsta"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784830750,
+                "recording_msid": "1445e8d8-af16-4665-930b-450979adeb3a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "110e0ffe-6b43-3b96-89d2-6dce90b225c7",
+                        "lastfm_track_mbid": "a4e00352-3049-4b37-996d-16346a151272",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24578999164,
+                        "caa_release_mbid": "110e0ffe-6b43-3b96-89d2-6dce90b225c7",
+                        "recording_mbid": "a4e00352-3049-4b37-996d-16346a151272",
+                        "recording_name": "Get Down",
+                        "release_group_mbid": "ee377b52-d425-383e-9cf3-c3a958a190cf",
+                        "release_mbid": "110e0ffe-6b43-3b96-89d2-6dce90b225c7"
+                    },
+                    "release_name": "God's Son",
+                    "track_name": "Get Down"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784830428,
+                "recording_msid": "a9a43c6a-c217-468f-abaa-bb9cfff51be4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wu-Tang Clan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0febdcf7-4e1f-4661-9493-b40427de2c13"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Wu‐Tang Clan",
+                                "artist_mbid": "0febdcf7-4e1f-4661-9493-b40427de2c13",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38779236522,
+                        "caa_release_mbid": "bc050dc0-334e-4e62-9fd7-d6b5d361d137",
+                        "recording_mbid": "60fa922f-092e-46c5-b08e-dedf63d4cdee",
+                        "recording_name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+                        "release_group_mbid": "3d8e16cb-73cb-4fb8-8bf7-5540a00ef131",
+                        "release_mbid": "bc050dc0-334e-4e62-9fd7-d6b5d361d137"
+                    },
+                    "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+                    "track_name": "C.R.E.A.M. (Cash Rules Everything Around Me)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784830052,
+                "recording_msid": "ea17045a-cf32-4d1c-bbce-8842c8e486cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "0726c5f4-da29-4a78-a8ab-b08e632fe3b9",
+                        "lastfm_track_mbid": "159a93a8-98c4-498e-86a7-75608a47d874",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077",
+                            "5f6ab597-f57a-40da-be9e-adad48708203"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": " featuring "
+                            },
+                            {
+                                "artist_credit_name": "Dr. Dre",
+                                "artist_mbid": "5f6ab597-f57a-40da-be9e-adad48708203",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46277696375,
+                        "caa_release_mbid": "ceb01f3f-3a63-4ad7-ad9e-7b9bd18f82d2",
+                        "recording_mbid": "115be1e6-3937-41ef-96dd-11b768c3a56e",
+                        "recording_name": "Compton",
+                        "release_group_mbid": "499c19c8-0dab-4824-884b-6191d145e95b",
+                        "release_mbid": "2de6d2c1-349b-4f89-9b84-9653624293a4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6q0zsagVIiAn9zb7vqTmZi"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3i2XxFTLd2061UISvE5W7f"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/35470550"
+                            }
+                        ]
+                    },
+                    "release_name": "good kid, m.A.A.d city",
+                    "track_name": "Compton"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784829903,
+                "recording_msid": "bb4e7dd8-9b7f-4b9f-afd1-da315b05a993",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_track_mbid": "eb94ddb1-cba0-35a6-a98a-67e0786f1a95",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27339141283,
+                        "caa_release_mbid": "b1266c10-920d-4f1d-a087-11a92f511e6b",
+                        "recording_mbid": "25b89c58-9bcc-4361-aa79-57a57f61fcdb",
+                        "recording_name": "Nas Is Like",
+                        "release_group_mbid": "c8c517b2-48b9-3d65-9547-e177fd6762c6",
+                        "release_mbid": "f4e24ed0-16de-471c-a343-0ac97435f864"
+                    },
+                    "release_name": "I Am...",
+                    "track_name": "Nas Is Like"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784829791,
+                "recording_msid": "0fe73fb7-a2ac-4175-8eec-5508f8dfe569",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "188711ed-c99b-439c-844a-ca831f63a727",
+                        "lastfm_release_mbid": "09d2c2ef-c494-429b-bbc9-91a2189cca89",
+                        "lastfm_track_mbid": "2cce6015-eefb-4e26-afb6-ffebe68c3325",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "MF DOOM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "188711ed-c99b-439c-844a-ca831f63a727",
+                            "fbf641b9-a5e0-4231-8203-8319056ffa39"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "MF DOOM",
+                                "artist_mbid": "188711ed-c99b-439c-844a-ca831f63a727",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Mr. Fantastik",
+                                "artist_mbid": "fbf641b9-a5e0-4231-8203-8319056ffa39",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25498831242,
+                        "caa_release_mbid": "263d7827-4c0e-4d7f-a8f1-5877194fe532",
+                        "recording_mbid": "534bfb31-9e63-40bc-8e91-5418e95b393c",
+                        "recording_name": "Rapp Snitch Knishes",
+                        "release_group_mbid": "ec84ab32-eb41-3d91-a099-7a01c72f21d2",
+                        "release_mbid": "8dc35066-e444-445a-a8c6-bb112f8bc844",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
+                            }
+                        ]
+                    },
+                    "release_name": "MM..FOOD",
+                    "track_name": "Rapp Snitch Knishes"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784829463,
+                "recording_msid": "08e27bba-f82e-44a4-ac09-9dfc874c2130",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d75d1f08-bbb8-4eae-9877-399ca9121197",
+                        "lastfm_release_mbid": "07e92711-51fe-4e80-97a3-be995b7f4119",
+                        "lastfm_track_mbid": "144fd997-7a29-428e-8306-99427f563517",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mobb Deep",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d75d1f08-bbb8-4eae-9877-399ca9121197"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mobb Deep",
+                                "artist_mbid": "d75d1f08-bbb8-4eae-9877-399ca9121197",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40387944804,
+                        "caa_release_mbid": "f81e36a4-6be0-4125-b107-dfc6eee94d3c",
+                        "recording_mbid": "0cc6fb5a-98ad-4ff3-9b50-3f2184285e50",
+                        "recording_name": "Shook Ones Pt. II",
+                        "release_group_mbid": "d4800b7a-0bcb-46ef-a367-3e09cc14e74b",
+                        "release_mbid": "f81e36a4-6be0-4125-b107-dfc6eee94d3c"
+                    },
+                    "release_name": "The Infamous",
+                    "track_name": "Shook Ones, Pt. II"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784829162,
+                "recording_msid": "c9f8c26e-d964-45ca-aa78-77bd37fd5f22",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "2aeaa967-8a57-428d-8e99-4955fe7382f0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "767825e6-72a9-4488-8f70-1ebb3e88365b",
+                        "recording_name": "The World Is Yours",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "The World Is Yours"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784828779,
+                "recording_msid": "c99de4f2-06ed-4f09-8dc8-d43f9bd51b27",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "ab27ba65-f00c-4316-b2fb-3e7d325dce7b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "0cc75068-5de4-4b4e-872a-410c193db4ed",
+                        "recording_name": "Halftime",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "Halftime"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784828455,
+                "recording_msid": "b4eb88a9-650e-404e-a25f-6b7a3b727206",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823",
+                            "0506bf37-90d7-4654-9585-b4800dc945d5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "AZ",
+                                "artist_mbid": "0506bf37-90d7-4654-9585-b4800dc945d5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "cf2ccc2a-3396-4676-9d06-e0ce49633c62",
+                        "recording_name": "Life’s a Bitch",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "Life's A Bitch (feat. AZ & Olu Dara)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784828329,
+                "recording_msid": "56d2d8ab-5988-4f16-893a-32a483c851c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "1bf8426c-53f4-4392-8aab-17d10c39f6d2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "35cd7342-74d2-4fe5-8e03-88edfa1cb1e1",
+                        "recording_name": "The Genesis",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4N0olzsMpr5cAPFrzNErGv"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "The Genesis"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784828028,
+                "recording_msid": "5bde252e-eee9-4bbf-9245-1876b34fa2d3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "ff95b74f-d167-4860-8759-d72b37e03823",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "ee9eaab7-99e5-4ffe-8876-5b6882ef3d23",
+                        "recording_name": "N.Y. State of Mind",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "N.Y. State of Mind"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784827704,
+                "recording_msid": "07974496-f5dc-4fe9-ab01-a7f0fed63f0c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "292861e9-3efe-4ac2-8a66-39c621e1d4d8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "90f9b911-5ece-4762-a9bf-8d921a8c3f98",
+                        "recording_name": "Represent",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "Represent"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784827454,
+                "recording_msid": "7afa312a-0dc3-443b-bf26-5fdb860a349c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "3ae9af6c-158f-4fb5-bccc-44aff9537b32",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "5c1ee415-be84-4d23-a15d-5f568e8cea25",
+                        "recording_name": "Memory Lane (Sittin’ in da Park)",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "Memory Lane (Sittin' in da Park)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784827251,
+                "recording_msid": "48fb7b2b-c62f-4491-8bca-459c50cb3c35",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "fa1ede5f-d4bf-49c8-8af5-94247614c743",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "307ca877-7764-42cc-b77e-23f0a416e614",
+                        "recording_name": "It Ain’t Hard to Tell",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "It Ain't Hard to Tell"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784832656,
+                "listened_at": 1784827019,
+                "recording_msid": "01383b07-c4cc-4c8d-bc25-2540004457f2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "758d4fc6-0a01-4d5c-9066-c951e5fc9a65",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "7ffc4bc2-e81d-4844-9c7d-d2e4c3ce4f5b",
+                        "recording_name": "One Time 4 Your Mind",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3p50PUgtBHM6rwUuD3RfFV"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "One Time 4 Your Mind"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784825420,
+                "listened_at": 1784823041,
+                "recording_msid": "0d6c47c5-780c-42de-8d4b-1b49ad010224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "377fc4d6-5444-4bc5-9931-088e0f32f6b7",
+                        "lastfm_track_mbid": "4474e3b3-4da4-38db-bf04-9780f5c592c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11293336818,
+                        "caa_release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7",
+                        "recording_mbid": "808077b5-4f0e-4e67-b9f7-5e2e9fc9c4a2",
+                        "recording_name": "Real Muthaphuckkin’ G’s",
+                        "release_group_mbid": "036d3226-3fe3-4b07-854f-3c61c3a46df8",
+                        "release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7"
+                    },
+                    "release_name": "It's On (Dr. Dre) 187um Killa",
+                    "track_name": "Real Muthaphuckkin G's"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784825420,
+                "listened_at": 1784822784,
+                "recording_msid": "01f9b506-93d6-4465-a867-8eb0d30d58a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "86caef0e-45d1-4eb5-aff1-8facdc1ecf72",
+                        "lastfm_track_mbid": "186bc3da-ad3b-40a9-9203-55b76d4f8b55",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42862522093,
+                        "caa_release_mbid": "9847ef24-23e3-4608-868c-1c30bd6a1968",
+                        "recording_mbid": "b81dd1b6-24ba-4d3c-8ad7-35ed3aa3d9e3",
+                        "recording_name": "No More ?’s",
+                        "release_group_mbid": "9c32d266-006d-3301-94b0-da3ca5daf3a9",
+                        "release_mbid": "5347a8c4-a4a9-4cd3-a4e8-515c762916c0"
+                    },
+                    "release_name": "Eazy-Duz-It",
+                    "track_name": "No More ?'s"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784822985,
+                "listened_at": 1784822456,
+                "recording_msid": "2b168196-68f4-4fb4-a06d-cd9c6d207cd9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                        "lastfm_release_mbid": "79d15472-a7b6-4e70-9e41-c74e2eac5e33",
+                        "lastfm_track_mbid": "5d2f60da-95a5-47dd-a436-06f064e45227",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Rihanna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44233885567,
+                        "caa_release_mbid": "dc398f6e-3791-4b41-bbce-dd5124ed86f4",
+                        "recording_mbid": "09862af4-3818-468f-9d04-2a0c39ef20b1",
+                        "recording_name": "FourFiveSeconds",
+                        "release_group_mbid": "dd5d8c4c-9887-4a8c-8a1a-98daebb1b9bf",
+                        "release_mbid": "dc398f6e-3791-4b41-bbce-dd5124ed86f4"
+                    },
+                    "release_name": "FourFiveSeconds",
+                    "track_name": "FourFiveSeconds"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784822985,
+                "listened_at": 1784822195,
+                "recording_msid": "b39cdcde-33ad-46c1-a6bf-2a6c7ee03880",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "5dbb6f71-8e49-4948-8557-cf7c93302c35",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "a0723a3c-4135-438e-85c5-012712144ede"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ye",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44791300701,
+                        "caa_release_mbid": "bd8f50bf-9ddd-41ad-8499-4e04c36ea655",
+                        "recording_mbid": "b01f5e3d-5a7f-44f0-83bb-892c137e9cfd",
+                        "recording_name": "OK",
+                        "release_group_mbid": "56327267-51fb-472c-919e-d6ca258ebab2",
+                        "release_mbid": "8bf89110-6231-4829-bfbc-ec47676cc5b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/428199667"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6782267816"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6782267816"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/428199667"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4100961631"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/535134158"
+                            }
+                        ]
+                    },
+                    "release_name": "BULLY - DELUXE",
+                    "track_name": "OK (Feat. Don Toliver)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784822985,
+                "listened_at": 1784822117,
+                "recording_msid": "ba9e1bc9-15b5-4edf-a2c7-ada45595f5fa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "db2d6e01-7ac9-4528-815a-529ba487b993",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "release_name": "BULLY - DELUXE",
+                    "track_name": "MISSION CONTROL (feat. THE WRLDFMS Tony Williams)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784822985,
+                "listened_at": 1784821844,
+                "recording_msid": "0c08b0b7-6a59-45ee-bf5b-390eeb2e74d0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "06a81817-093d-40f0-aef2-90673fa550ae",
+                        "lastfm_track_mbid": "d4e8a2de-3bca-4333-be81-8812822c1349",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kanye West",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44233885567,
+                        "caa_release_mbid": "dc398f6e-3791-4b41-bbce-dd5124ed86f4",
+                        "recording_mbid": "f44e8ad0-02bb-4852-a72b-ffe41eb752a3",
+                        "recording_name": "Flashing Lights",
+                        "release_group_mbid": "dd5d8c4c-9887-4a8c-8a1a-98daebb1b9bf",
+                        "release_mbid": "dc398f6e-3791-4b41-bbce-dd5124ed86f4"
+                    },
+                    "release_name": "Graduation",
+                    "track_name": "Flashing Lights"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784822985,
+                "listened_at": 1784755998,
+                "recording_msid": "4e5e338b-40a2-47bb-8650-727f65802b05",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+                        "lastfm_release_mbid": "cb567a8a-8685-4d13-82e6-4e729d870f30",
+                        "lastfm_track_mbid": "018c64ae-1f60-4b5f-9da9-2090bf35380a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eminem",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+                            "73e5e69d-3554-40d8-8516-00cb38737a1c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eminem",
+                                "artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Rihanna",
+                                "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42148337676,
+                        "caa_release_mbid": "41d88360-ec68-43f5-b461-d9016d38a275",
+                        "recording_mbid": "7e9e29c6-c643-41bb-bd1c-f77e4a453719",
+                        "recording_name": "The Monster",
+                        "release_group_mbid": "b1fdc9cc-8680-44da-abab-59edca6b2ad3",
+                        "release_mbid": "253ff8d4-00e3-4a0d-9372-ac0ded6bea19",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0g81BXLg8tsoY5RuGpBjHE"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/94377876"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3aUp8U4MNWctRXlY5MPysv"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440820363"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=ZDXXi19_7iE"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/72160317"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/23369517"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/94377900"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4WgvTITBJbEfCJHguiE7QS"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/72160253"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/ca/song/1440878245"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/23369551"
+                            }
+                        ]
+                    },
+                    "release_name": "The Marshall Mathers LP2",
+                    "track_name": "The Monster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784755291,
+                "recording_msid": "7043a928-847d-456d-bd86-8a9c272ae88f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "a3631980-cdac-4d12-854f-8ba8b95808c4",
+                        "lastfm_track_mbid": "5a1f1b44-4aad-415c-9076-986050462f72",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38736205358,
+                        "caa_release_mbid": "de74b543-fb5b-4c35-8530-efb277f5cad1",
+                        "recording_mbid": "167b0a18-8923-4f64-82dd-30fb57e6216f",
+                        "recording_name": "Not Like Us",
+                        "release_group_mbid": "564b9cea-cde5-46b5-bc66-2eb707920ee1",
+                        "release_mbid": "9da5903b-0f7b-42e7-a48f-eb44cf7adaf9",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/265514889"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/361396454"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1744776167"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/265514889"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1744776167"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/265514887"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2783963122"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/265514887"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/361394619"
+                            }
+                        ]
+                    },
+                    "release_name": "Not Like Us",
+                    "track_name": "Not Like Us"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784755021,
+                "recording_msid": "136c8b9a-3d90-4378-a3e9-a1474c65301b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_release_mbid": "5e658ccb-cdfe-4e3c-91f7-79299ee45027",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077",
+                            "41ca19c2-935f-4647-9ef5-26f81291a9aa",
+                            "9d7a44f1-ec57-4d36-a9d3-a665c69d19f0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Blxst",
+                                "artist_mbid": "41ca19c2-935f-4647-9ef5-26f81291a9aa",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Amanda Reifer",
+                                "artist_mbid": "9d7a44f1-ec57-4d36-a9d3-a665c69d19f0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32685552532,
+                        "caa_release_mbid": "d5659d9d-b3f1-4d86-9216-5846f1df9471",
+                        "recording_mbid": "ecb49a39-b3f9-4445-8d4a-3134395dc495",
+                        "recording_name": "Die Hard",
+                        "release_group_mbid": "6bd70eee-bd46-4738-851a-f50c19d8d6db",
+                        "release_mbid": "e940cc84-d063-49e5-ad38-8fc1fd46b9ab",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/230909384"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1626196087"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/kendrick-lamar-music/die-hard-ft-blxst-amanda-reifer"
+                            }
+                        ]
+                    },
+                    "release_name": "Mr. Morale & the Big Steppers",
+                    "track_name": "Die Hard"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784754679,
+                "recording_msid": "dc2f656f-0f30-4551-8258-86f4725d6003",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "SAWTOWNE",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "31b60257-e0ab-42c6-97ee-3458b741c81e",
+                            "130d679a-9a92-4373-8348-0800b6b93a30"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SAWTOWNE",
+                                "artist_mbid": "31b60257-e0ab-42c6-97ee-3458b741c81e",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "初音ミク",
+                                "artist_mbid": "130d679a-9a92-4373-8348-0800b6b93a30",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43948927763,
+                        "caa_release_mbid": "d5ffd072-470b-46a0-bf8a-099f8564e909",
+                        "recording_mbid": "fdbbfeac-74f8-4807-95c9-b63a4d9ba3b7",
+                        "recording_name": "Chu! Future Express!",
+                        "release_group_mbid": "2a8c53b4-a8a5-457f-b1c5-2042f384b1c3",
+                        "release_mbid": "d5ffd072-470b-46a0-bf8a-099f8564e909"
+                    },
+                    "release_name": "Chu! Future Express!",
+                    "track_name": "Chu! Future Express! (feat. 初音ミク)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784754492,
+                "recording_msid": "d418d95e-f6c9-40c5-81e8-3a2f5e17d48b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dj Droyd",
+                    "release_name": "Gook (Chinese Version)",
+                    "track_name": "Gook - Chinese Version"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784754356,
+                "recording_msid": "33db8139-163b-48dd-9770-88f3a9cec318",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yeety",
+                    "release_name": "Project Genesis",
+                    "track_name": "Brother Hallelujah"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784753738,
+                "recording_msid": "2cb03a64-2f21-4cb6-b395-687f9a02d489",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "940e7413-82ac-4a3c-9331-ffefdd115e47",
+                        "lastfm_track_mbid": "ed356694-5a17-40a8-9d56-9d6124932887",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6292613820,
+                        "caa_release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26",
+                        "recording_mbid": "71095dfb-6475-4588-9909-ca778291df14",
+                        "recording_name": "Kamurshol",
+                        "release_group_mbid": "80347957-efcf-3d67-80d5-8575d3c31852",
+                        "release_mbid": "3f722f4f-94d3-4db1-9149-fdc787db10f1"
+                    },
+                    "release_name": "100 Miles And Runnin'",
+                    "track_name": "Kamurshol"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784753523,
+                "recording_msid": "4c79eda3-6a08-47eb-8e14-10fbfb6af044",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "396836d7-feea-4847-99b6-aad559c4110e",
+                        "lastfm_track_mbid": "038edde0-12ce-3645-85ff-f8cf0ab1d3f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5658377319,
+                        "caa_release_mbid": "d930166c-e5b6-420d-8177-e62f351f6859",
+                        "recording_mbid": "267f123e-ba15-42e7-9943-6ebd8765f6f0",
+                        "recording_name": "If It Ain’t Ruff",
+                        "release_group_mbid": "fed1608d-80b7-38d2-aeb8-c6357f0d4c23",
+                        "release_mbid": "c6dd0a83-5777-4450-a0c2-0ab585854475",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/68Wj3g73FAl8Q22q9vO6Fw"
+                            }
+                        ]
+                    },
+                    "release_name": "Straight Outta Compton",
+                    "track_name": "If It Ain't Ruff"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784753331,
+                "recording_msid": "0ace995d-7171-4509-ad2b-dd59555e5b97",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "1d43ef52-fcc3-4920-934d-c1f1613e8829",
+                        "lastfm_track_mbid": "0ef38054-9e99-3fe6-9585-18b30cf7e501",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30837463698,
+                        "caa_release_mbid": "1d43ef52-fcc3-4920-934d-c1f1613e8829",
+                        "recording_mbid": "b0e52087-2530-454c-8f57-2edfa1c92d27",
+                        "recording_name": "Arrested (insert)",
+                        "release_group_mbid": "af542890-2cfb-3efe-847c-d06cbb4c5c8e",
+                        "release_mbid": "b29279b6-52c1-3ad9-99f0-72a993eb8844"
+                    },
+                    "release_name": "Greatest Hits",
+                    "track_name": "Arrested (Insert)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784753105,
+                "recording_msid": "3b970775-6372-42b4-abb5-19b67bffee57",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "a4f4d2cc-d6ed-4a83-a0e4-f971d89a2fcd",
+                        "lastfm_track_mbid": "04de403f-129f-4b2f-a1a1-5ac023eee9fb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43589901028,
+                        "caa_release_mbid": "723b09aa-2bb6-4f76-b593-a758a996241d",
+                        "recording_mbid": "415a3bcc-429d-4988-9e85-9730476fb568",
+                        "recording_name": "Panic Zone",
+                        "release_group_mbid": "49cc1b18-9acd-410c-bea3-2b53005d0b6d",
+                        "release_mbid": "7492c340-ed99-4ba8-9e2e-d0ce09231272"
+                    },
+                    "release_name": "N.W.A. and the Posse",
+                    "track_name": "Panic Zone"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784752762,
+                "recording_msid": "e7dd83d0-fe91-443d-b2b8-22529d01d37d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "1d43ef52-fcc3-4920-934d-c1f1613e8829",
+                        "lastfm_track_mbid": "d1354d7c-d81d-457c-b36e-e2680eafd423",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6292613820,
+                        "caa_release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26",
+                        "recording_mbid": "828debce-b03a-4560-bb71-8454494c3c41",
+                        "recording_name": "100 Miles and Runnin’",
+                        "release_group_mbid": "80347957-efcf-3d67-80d5-8575d3c31852",
+                        "release_mbid": "3f722f4f-94d3-4db1-9149-fdc787db10f1"
+                    },
+                    "release_name": "Greatest Hits",
+                    "track_name": "100 Miles and Runnin'"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784752563,
+                "recording_msid": "19a80895-51bc-4d69-b32c-530d76288631",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "58a8bd39-052e-4bac-be30-7e778a656a32",
+                        "lastfm_track_mbid": "3c27e273-5d76-3b43-9a55-e36c97796a11",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5658377319,
+                        "caa_release_mbid": "d930166c-e5b6-420d-8177-e62f351f6859",
+                        "recording_mbid": "f8187248-e631-4151-8f46-c309bb89bea3",
+                        "recording_name": "A Bitch Iz a Bitch",
+                        "release_group_mbid": "fed1608d-80b7-38d2-aeb8-c6357f0d4c23",
+                        "release_mbid": "c6dd0a83-5777-4450-a0c2-0ab585854475"
+                    },
+                    "release_name": "Express Yourself",
+                    "track_name": "A Bitch Iz a Bitch"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784752369,
+                "recording_msid": "f86cedb3-d72d-4204-819b-47dcf1075f77",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "c4818ae0-0837-4fbe-aab6-1f3bc2985dd8",
+                        "lastfm_track_mbid": "2c53615e-2c11-4d59-a645-530416ebe26a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6292613820,
+                        "caa_release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26",
+                        "recording_mbid": "2f9fc88d-0b29-44f5-a840-f2c85471afee",
+                        "recording_name": "Appetite for Destruction",
+                        "release_group_mbid": "80347957-efcf-3d67-80d5-8575d3c31852",
+                        "release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26"
+                    },
+                    "release_name": "The Best Of N.W.A: The Strength Of Street Knowledge",
+                    "track_name": "Appetite for Destruction"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784751976,
+                "recording_msid": "1df28092-f168-4138-bacb-179a77adc00d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "a4f4d2cc-d6ed-4a83-a0e4-f971d89a2fcd",
+                        "lastfm_track_mbid": "086f80b3-7d50-4591-ba11-295d8f0d5464",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43589901028,
+                        "caa_release_mbid": "723b09aa-2bb6-4f76-b593-a758a996241d",
+                        "recording_mbid": "bc3d8d38-8ec1-4ba9-88ed-ee4819680c1e",
+                        "recording_name": "Dopeman",
+                        "release_group_mbid": "49cc1b18-9acd-410c-bea3-2b53005d0b6d",
+                        "release_mbid": "7492c340-ed99-4ba8-9e2e-d0ce09231272"
+                    },
+                    "release_name": "N.W.A. and the Posse",
+                    "track_name": "Dope Man"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784751534,
+                "recording_msid": "dc94db1c-4362-4f0f-8c72-88872f3d84c5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_track_mbid": "3620ddb6-360c-4e9e-8c5a-ff1e480cd213",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14142747147,
+                        "caa_release_mbid": "7b907456-e8d2-4c6d-81e1-d23f386a4f3c",
+                        "recording_mbid": "f18f2bdd-cf5a-4922-9cd9-80d95bbc0ee7",
+                        "recording_name": "Party and Bullshit",
+                        "release_group_mbid": "63cf4d69-76dc-3dbb-89f5-e9fec5c189e7",
+                        "release_mbid": "7b907456-e8d2-4c6d-81e1-d23f386a4f3c"
+                    },
+                    "release_name": "Whos The Man ? Soundtrack",
+                    "track_name": "Party and Bullshit"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784751310,
+                "recording_msid": "894fc54d-6ec7-40fb-b29b-cc2f5d8cbc07",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "306c705e-d3f7-46e2-aa43-6105bc0e82d7",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "306c705e-d3f7-46e2-aa43-6105bc0e82d7",
+                        "recording_name": "Unbelievable",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4heC6SnTBxTZZDef4AIBOk"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Unbelievable - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784750991,
+                "recording_msid": "4cb29fa0-751f-4734-9547-668c4972aa45",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Notorious BIG",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14279999743,
+                        "caa_release_mbid": "e85b9be3-1b8a-42ee-a972-b456e1a2814e",
+                        "recording_mbid": "1893e368-a93f-4dc8-877a-199cd411a1b0",
+                        "recording_name": "Who Shot Ya",
+                        "release_group_mbid": "8aaefc82-fd9e-4282-9283-5cd94cee74dd",
+                        "release_mbid": "63e785d1-6ff3-48c8-9805-f5f03e9c466e"
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Who Shot Ya? - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784758955,
+                "listened_at": 1784750664,
+                "recording_msid": "95bd3c4a-28f5-494d-b233-c3e74cd6fc92",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "64b25c2b-005b-463f-87ad-d20d78ba1d83",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "64b25c2b-005b-463f-87ad-d20d78ba1d83",
+                        "recording_name": "Machine Gun Funk",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Machine Gun Funk - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784750360,
+                "recording_msid": "4e3623a7-0ec0-415f-a326-0697c26d98cb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "181c0a32-6e3f-4680-8a7d-1daf0b42e43b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Notorious B.I.G",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42148041264,
+                        "caa_release_mbid": "ac633300-2548-4c26-ac7c-47336d29aa32",
+                        "recording_mbid": "ec98ccee-7197-43af-8edb-6fd04dda6945",
+                        "recording_name": "Juicy",
+                        "release_group_mbid": "1965f073-db7d-47e3-8f4a-5abcbd9a0a78",
+                        "release_mbid": "ac633300-2548-4c26-ac7c-47336d29aa32"
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Juicy - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784750101,
+                "recording_msid": "88a6cd28-6486-471b-aedf-129588ccbe06",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "42fd64d1-ce8a-4d3e-8af2-ce646f05a678",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "42fd64d1-ce8a-4d3e-8af2-ce646f05a678",
+                        "recording_name": "Things Done Changed",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7hdOchAKFm6FwzyevcQ56y"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Things Done Changed - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784749759,
+                "recording_msid": "407ab27b-c38c-4bb7-8fb7-8704bffefaea",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "fca30760-7e5f-4c0c-9563-81cd4eaa799e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "fca30760-7e5f-4c0c-9563-81cd4eaa799e",
+                        "recording_name": "Friend of Mine",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0TibDQQ58jAlr6jnl5AORf"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Friend of Mine - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784749572,
+                "recording_msid": "67f4ce44-682f-4d6a-a443-41e829eeb9b6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "57e3ec3e-4edf-4eeb-86c4-44a5e8bb7dde",
+                        "recording_name": "Me & My Bitch",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0C5IKY0sXz4sg0hpx7HOz0"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Me and My Bitch - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784749351,
+                "recording_msid": "f6a5fe74-9b07-4c88-950b-9b0781b76aa7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "c08b8fd6-9149-48fd-a64d-0e24aba959ff",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "c08b8fd6-9149-48fd-a64d-0e24aba959ff",
+                        "recording_name": "Warning",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/33rsCCLHklTQav9klbpnAi"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/216666767"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/390066"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/216666767"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3616654"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0QfbuZrjcfyS8HqQ8d8xcs"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Warning - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784749045,
+                "recording_msid": "c287804d-61ea-4088-8907-576ec70ad76d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "8154704f-cedf-4b1e-95b1-5ad7b5a24052",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35769968708,
+                        "caa_release_mbid": "e88c244d-6199-4551-9059-5156a1fee061",
+                        "recording_mbid": "71cd53d7-4974-4025-85c5-87c5fe0e94d8",
+                        "recording_name": "Big Poppa",
+                        "release_group_mbid": "66a83f03-6ca3-4027-bc9d-09d69c299b1c",
+                        "release_mbid": "e88c244d-6199-4551-9059-5156a1fee061"
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Big Poppa - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784748762,
+                "recording_msid": "e705c293-439b-4210-a653-5a38d6d99b46",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "0edbf1f6-b562-42d8-9515-7da7b84f8bbd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "The What - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784748365,
+                "recording_msid": "f7d40627-17e1-4bf5-b54b-7ac6f59ca155",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "ad93b7ff-25c2-48bd-8535-50c3f1ca3773",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "ad93b7ff-25c2-48bd-8535-50c3f1ca3773",
+                        "recording_name": "Ready to Die",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3UQAKY0SUEonxneROvv4jy"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Ready to Die - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784748078,
+                "recording_msid": "0e50e59a-3567-461b-825c-cb009441732f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "e86ee6e1-ccd4-46fe-9781-cea01aa5db92",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42148041264,
+                        "caa_release_mbid": "ac633300-2548-4c26-ac7c-47336d29aa32",
+                        "recording_mbid": "f24054db-f539-44ec-840e-8ef02f0003a9",
+                        "recording_name": "Gimme the Loot",
+                        "release_group_mbid": "1965f073-db7d-47e3-8f4a-5abcbd9a0a78",
+                        "release_mbid": "ac633300-2548-4c26-ac7c-47336d29aa32"
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Gimme the Loot - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784747665,
+                "recording_msid": "1c5554c1-bc24-4153-85a8-7b0293bfec15",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                        "lastfm_release_mbid": "0756fea0-10c2-4d4d-afaf-c5e81ae496b4",
+                        "lastfm_track_mbid": "0bc9a2bc-8375-4ab9-8da8-6b1dc095e5db",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Notorious B.I.G.",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "d5d97b2b-b83b-4976-814a-056d9076c8c3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Notorious B.I.G.",
+                                "artist_mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43805669742,
+                        "caa_release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "recording_mbid": "0bc9a2bc-8375-4ab9-8da8-6b1dc095e5db",
+                        "recording_name": "Everyday Struggle",
+                        "release_group_mbid": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+                        "release_mbid": "ed2eb0db-4ef9-3658-a613-582dd359348e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B"
+                            }
+                        ]
+                    },
+                    "release_name": "Ready To Die (The Remaster)",
+                    "track_name": "Everyday Struggle - 2005 Remaster"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784747026,
+                "recording_msid": "0d6c47c5-780c-42de-8d4b-1b49ad010224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "377fc4d6-5444-4bc5-9931-088e0f32f6b7",
+                        "lastfm_track_mbid": "4474e3b3-4da4-38db-bf04-9780f5c592c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11293336818,
+                        "caa_release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7",
+                        "recording_mbid": "808077b5-4f0e-4e67-b9f7-5e2e9fc9c4a2",
+                        "recording_name": "Real Muthaphuckkin’ G’s",
+                        "release_group_mbid": "036d3226-3fe3-4b07-854f-3c61c3a46df8",
+                        "release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7"
+                    },
+                    "release_name": "It's On (Dr. Dre) 187um Killa",
+                    "track_name": "Real Muthaphuckkin G's"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784746780,
+                "recording_msid": "01f9b506-93d6-4465-a867-8eb0d30d58a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "86caef0e-45d1-4eb5-aff1-8facdc1ecf72",
+                        "lastfm_track_mbid": "186bc3da-ad3b-40a9-9203-55b76d4f8b55",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42862522093,
+                        "caa_release_mbid": "9847ef24-23e3-4608-868c-1c30bd6a1968",
+                        "recording_mbid": "b81dd1b6-24ba-4d3c-8ad7-35ed3aa3d9e3",
+                        "recording_name": "No More ?’s",
+                        "release_group_mbid": "9c32d266-006d-3301-94b0-da3ca5daf3a9",
+                        "release_mbid": "5347a8c4-a4a9-4cd3-a4e8-515c762916c0"
+                    },
+                    "release_name": "Eazy-Duz-It",
+                    "track_name": "No More ?'s"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784746668,
+                "recording_msid": "56d2d8ab-5988-4f16-893a-32a483c851c6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "1bf8426c-53f4-4392-8aab-17d10c39f6d2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "35cd7342-74d2-4fe5-8e03-88edfa1cb1e1",
+                        "recording_name": "The Genesis",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4N0olzsMpr5cAPFrzNErGv"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "The Genesis"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784746338,
+                "recording_msid": "69e5d5f0-05e9-4784-9da4-331110a33fad",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "ab69fe00-6917-4b4d-9c6d-5c9361d240f3",
+                        "recording_name": "One Love",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/27u3Rh4IWYPdwVST20ALrt"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "One Love (feat. Q-Tip)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784750978,
+                "listened_at": 1784744440,
+                "recording_msid": "7afa312a-0dc3-443b-bf26-5fdb860a349c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                        "lastfm_release_mbid": "2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+                        "lastfm_track_mbid": "3ae9af6c-158f-4fb5-bccc-44aff9537b32",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Nas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfbc0924-0035-4d6c-8197-f024653af823"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Nas",
+                                "artist_mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28008351580,
+                        "caa_release_mbid": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+                        "recording_mbid": "5c1ee415-be84-4d23-a15d-5f568e8cea25",
+                        "recording_name": "Memory Lane (Sittin’ in da Park)",
+                        "release_group_mbid": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+                        "release_mbid": "9651aac2-4296-381f-a595-f11e3242c997",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC"
+                            }
+                        ]
+                    },
+                    "release_name": "Illmatic",
+                    "track_name": "Memory Lane (Sittin' in da Park)"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784744906,
+                "listened_at": 1784744308,
+                "recording_msid": "09360be7-186e-46a9-84ab-2887d015e007",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                        "lastfm_release_mbid": "0d1379b2-6b9d-4a90-b122-0a5755a45143",
+                        "lastfm_track_mbid": "80618884-c0e3-4e83-9b7e-a3dec1a022bc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Wayne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ac9a487a-d9d2-4f27-bb23-0f4686488345"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Wayne",
+                                "artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11836049975,
+                        "caa_release_mbid": "314f763c-f347-4fc3-a91f-e52a1884510c",
+                        "recording_mbid": "0fbf43cf-1482-4177-b44e-7442390930a4",
+                        "recording_name": "A Milli",
+                        "release_group_mbid": "cb688885-74b2-4e9b-a18c-6102866151f2",
+                        "release_mbid": "314f763c-f347-4fc3-a91f-e52a1884510c",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=xX-N3B8ulnI"
+                            }
+                        ]
+                    },
+                    "release_name": "Tha Carter III",
+                    "track_name": "A Milli"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784744906,
+                "listened_at": 1784744122,
+                "recording_msid": "46ea5ccc-d9d8-4e1f-ab53-c4608a5e26a5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                        "lastfm_release_mbid": "0d1379b2-6b9d-4a90-b122-0a5755a45143",
+                        "lastfm_track_mbid": "1b1c2e2f-1f30-4a28-b757-d7e604e42fc2",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Wayne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ac9a487a-d9d2-4f27-bb23-0f4686488345"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Wayne",
+                                "artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11836049975,
+                        "caa_release_mbid": "314f763c-f347-4fc3-a91f-e52a1884510c",
+                        "recording_mbid": "1b1c2e2f-1f30-4a28-b757-d7e604e42fc2",
+                        "recording_name": "3 Peat",
+                        "release_group_mbid": "cb688885-74b2-4e9b-a18c-6102866151f2",
+                        "release_mbid": "314f763c-f347-4fc3-a91f-e52a1884510c"
+                    },
+                    "release_name": "Tha Carter III",
+                    "track_name": "3 Peat"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784744906,
+                "listened_at": 1784739663,
+                "recording_msid": "7ca6044f-f1fa-45da-a5dc-e40715688a30",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "d602d4b5-1c11-429e-a16a-85554bbe9f1e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Indra",
+                    "release_name": "Immersed in White Air",
+                    "track_name": "Immersed in White Air"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784739503,
+                "recording_msid": "9fcd6332-8df5-429e-8821-ec36b4317d66",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dust Vale",
+                    "release_name": "White Noise In the Skies",
+                    "track_name": "White Noise In the Skies"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784739374,
+                "recording_msid": "1a6ef29a-b104-4b5d-be8b-31f94cbac4e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Orchestrate the Universe",
+                    "release_name": "Harmonious White Noise",
+                    "track_name": "Harmonious White Noise"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784739194,
+                "recording_msid": "9e6afc5a-d19d-4700-aa61-b91e09a7b641",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Utmost-@mos",
+                    "release_name": "Straight White Noise",
+                    "track_name": "Straight White Noise"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784737374,
+                "recording_msid": "7b674915-db76-4fa3-8cb7-04b9d30e3477",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                        "lastfm_track_mbid": "be7c98ef-c93a-42eb-a867-5a73b26306a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Wayne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ac9a487a-d9d2-4f27-bb23-0f4686488345"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Wayne",
+                                "artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30382440129,
+                        "caa_release_mbid": "1a910443-6b52-4284-9d99-fcc9e2a38873",
+                        "recording_mbid": "9264d1c7-ceed-49fc-b62f-64fde0b6efb5",
+                        "recording_name": "Go DJ",
+                        "release_group_mbid": "be8d2d6a-1542-3c02-a466-d23a1fbb97b8",
+                        "release_mbid": "1a910443-6b52-4284-9d99-fcc9e2a38873"
+                    },
+                    "release_name": "I Am Music",
+                    "track_name": "Go DJ"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784737164,
+                "recording_msid": "4298e788-8d91-4c2c-ad74-34996c1ed960",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "3f2406fe-33e0-4f49-aea8-ff656a3143f9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil' Wayne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ac9a487a-d9d2-4f27-bb23-0f4686488345"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Wayne",
+                                "artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39228312593,
+                        "caa_release_mbid": "048d282c-00e4-46f3-a6e8-745fc84510ff",
+                        "recording_mbid": "6cb198d4-3152-4b15-9bfb-6f3c461833f5",
+                        "recording_name": "MegaMan",
+                        "release_group_mbid": "75fb59d5-4880-4f39-a447-5e0f81bf4448",
+                        "release_mbid": "048d282c-00e4-46f3-a6e8-745fc84510ff"
+                    },
+                    "release_name": "Tha Carter IV (Explicit Version)",
+                    "track_name": "Megaman"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784737005,
+                "recording_msid": "04999d12-7933-4fa7-b4c4-e3b36c65e5cc",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                        "lastfm_release_mbid": "1684a38a-9809-4b3f-8f7f-1722dfb1d10e",
+                        "lastfm_track_mbid": "f95b5564-63ab-4ca2-acf0-242fde42dee1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Wayne",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ac9a487a-d9d2-4f27-bb23-0f4686488345"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Wayne",
+                                "artist_mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17183697894,
+                        "caa_release_mbid": "cdd4ba80-b911-4942-916f-b984dac07f16",
+                        "recording_mbid": "da9023df-cd6b-48dc-b82c-2c43ad9a89dc",
+                        "recording_name": "Fireman",
+                        "release_group_mbid": "d97d9f3b-3dc1-3330-a240-b84b74e62044",
+                        "release_mbid": "cdd4ba80-b911-4942-916f-b984dac07f16"
+                    },
+                    "release_name": "Tha Carter II",
+                    "track_name": "Fireman"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784741653,
+                "listened_at": 1784735061,
+                "recording_msid": "53942aad-2867-4a36-a618-a1e0f30fdd06",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "c4818ae0-0837-4fbe-aab6-1f3bc2985dd8",
+                        "lastfm_track_mbid": "7ada142f-1fd3-3d93-9de1-7f45c8c4ffcc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45899755351,
+                        "caa_release_mbid": "6a8d25e2-cc05-4b18-a53d-1310746a5744",
+                        "recording_mbid": "355b3f39-6650-412d-80a4-d455d887a437",
+                        "recording_name": "Chin Check",
+                        "release_group_mbid": "1d098cb0-816a-474c-ad9d-5a47b3a88c4f",
+                        "release_mbid": "6a8d25e2-cc05-4b18-a53d-1310746a5744"
+                    },
+                    "release_name": "The Best Of N.W.A: The Strength Of Street Knowledge",
+                    "track_name": "Chin Check"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784735826,
+                "listened_at": 1784673373,
+                "recording_msid": "f86cedb3-d72d-4204-819b-47dcf1075f77",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "c4818ae0-0837-4fbe-aab6-1f3bc2985dd8",
+                        "lastfm_track_mbid": "2c53615e-2c11-4d59-a645-530416ebe26a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6292613820,
+                        "caa_release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26",
+                        "recording_mbid": "2f9fc88d-0b29-44f5-a840-f2c85471afee",
+                        "recording_name": "Appetite for Destruction",
+                        "release_group_mbid": "80347957-efcf-3d67-80d5-8575d3c31852",
+                        "release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26"
+                    },
+                    "release_name": "The Best Of N.W.A: The Strength Of Street Knowledge",
+                    "track_name": "Appetite for Destruction"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784672994,
+                "recording_msid": "1df28092-f168-4138-bacb-179a77adc00d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "a4f4d2cc-d6ed-4a83-a0e4-f971d89a2fcd",
+                        "lastfm_track_mbid": "086f80b3-7d50-4591-ba11-295d8f0d5464",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43589901028,
+                        "caa_release_mbid": "723b09aa-2bb6-4f76-b593-a758a996241d",
+                        "recording_mbid": "bc3d8d38-8ec1-4ba9-88ed-ee4819680c1e",
+                        "recording_name": "Dopeman",
+                        "release_group_mbid": "49cc1b18-9acd-410c-bea3-2b53005d0b6d",
+                        "release_mbid": "7492c340-ed99-4ba8-9e2e-d0ce09231272"
+                    },
+                    "release_name": "N.W.A. and the Posse",
+                    "track_name": "Dope Man"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784672709,
+                "recording_msid": "53d2d912-4e64-436e-bc9f-ca13504be646",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                        "lastfm_release_mbid": "cb9a2fa5-2c0d-4762-adde-169051db90e9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "N.W.A",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3a54bffa-2314-44a2-927b-60144119c780"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "N.W.A",
+                                "artist_mbid": "3a54bffa-2314-44a2-927b-60144119c780",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 6292613820,
+                        "caa_release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26",
+                        "recording_mbid": "f47beb9f-fc46-4e19-be3f-4d4582718f64",
+                        "recording_name": "Findum, Fuckum & Flee",
+                        "release_group_mbid": "80347957-efcf-3d67-80d5-8575d3c31852",
+                        "release_mbid": "ddd09a83-fb3d-4c49-a97d-5755ae4eea26"
+                    },
+                    "release_name": "Starring...Eazy E",
+                    "track_name": "Findum, Fuckum and Flee"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784672248,
+                "recording_msid": "9a55b799-cc80-46ae-be5f-ff4c7462ce42",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "cb9a2fa5-2c0d-4762-adde-169051db90e9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                            "db5a7508-4c8e-46de-af21-7f44edd4dade"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": " and "
+                            },
+                            {
+                                "artist_credit_name": "Ron-De-Vu",
+                                "artist_mbid": "db5a7508-4c8e-46de-af21-7f44edd4dade",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42832921891,
+                        "caa_release_mbid": "aa4b10a5-fe22-4992-87f6-110faf53b487",
+                        "recording_mbid": "90d8de73-8bea-4567-b5e9-b7fc1c1d57f5",
+                        "recording_name": "L.A. Is the Place",
+                        "release_group_mbid": "b2b52002-bdb3-3fb6-b7a3-b3b94b682319",
+                        "release_mbid": "ba2b2851-8bbd-4431-a950-930e3b14c9f8"
+                    },
+                    "release_name": "Starring...Eazy E",
+                    "track_name": "l.a. is the place"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784671861,
+                "recording_msid": "01f9b506-93d6-4465-a867-8eb0d30d58a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "86caef0e-45d1-4eb5-aff1-8facdc1ecf72",
+                        "lastfm_track_mbid": "186bc3da-ad3b-40a9-9203-55b76d4f8b55",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42862522093,
+                        "caa_release_mbid": "9847ef24-23e3-4608-868c-1c30bd6a1968",
+                        "recording_mbid": "b81dd1b6-24ba-4d3c-8ad7-35ed3aa3d9e3",
+                        "recording_name": "No More ?’s",
+                        "release_group_mbid": "9c32d266-006d-3301-94b0-da3ca5daf3a9",
+                        "release_mbid": "5347a8c4-a4a9-4cd3-a4e8-515c762916c0"
+                    },
+                    "release_name": "Eazy-Duz-It",
+                    "track_name": "No More ?'s"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784671459,
+                "recording_msid": "0d6c47c5-780c-42de-8d4b-1b49ad010224",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "377fc4d6-5444-4bc5-9931-088e0f32f6b7",
+                        "lastfm_track_mbid": "4474e3b3-4da4-38db-bf04-9780f5c592c5",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Eazy-E",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Eazy‐E",
+                                "artist_mbid": "c3009d7a-51ac-4c9c-888a-04f5c3c4be0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11293336818,
+                        "caa_release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7",
+                        "recording_mbid": "808077b5-4f0e-4e67-b9f7-5e2e9fc9c4a2",
+                        "recording_name": "Real Muthaphuckkin’ G’s",
+                        "release_group_mbid": "036d3226-3fe3-4b07-854f-3c61c3a46df8",
+                        "release_mbid": "45deb9c9-51ef-444d-966c-56eb66e3bca7"
+                    },
+                    "release_name": "It's On (Dr. Dre) 187um Killa",
+                    "track_name": "Real Muthaphuckkin G's"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784675630,
+                "listened_at": 1784665605,
+                "recording_msid": "22d8e3cc-7983-448c-b13a-3dd8a4ca94ac",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JAŸ-Z",
+                    "release_name": "Watch The Throne",
+                    "track_name": "Lift Off"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784665324,
+                "recording_msid": "a9b70708-ca1f-4571-8473-fa1f4e849334",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaÿ-Z",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "164f0d73-1234-4e2c-8743-d77bf2191051",
+                            "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                            "e520459c-dff4-491d-a6e4-c97be35e0044",
+                            "66a4b9d2-d5a6-40b8-93d5-0bdd1dbb4b43"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "JAY Z",
+                                "artist_mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                                "join_phrase": " featuring "
+                            },
+                            {
+                                "artist_credit_name": "Frank Ocean",
+                                "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Dream",
+                                "artist_mbid": "66a4b9d2-d5a6-40b8-93d5-0bdd1dbb4b43",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39148413945,
+                        "caa_release_mbid": "ec78a8b0-6a81-42a4-adde-75445bd87b02",
+                        "recording_mbid": "62851a84-b837-4356-9e05-ebd8b68c0dad",
+                        "recording_name": "No Church in the Wild",
+                        "release_group_mbid": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+                        "release_mbid": "2dfab7a7-7cdf-4ab8-bd35-785e5cded0be",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2ZeQFFAIQx4UF7ZXTX1sT8"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/91076854"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440845343"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440845343"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4270470972"
+                            }
+                        ]
+                    },
+                    "release_name": "Watch The Throne",
+                    "track_name": "No Church In The Wild"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784664647,
+                "recording_msid": "a4790970-5985-40fc-b80e-9ac6bdd75c1a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaÿ-Z",
+                    "release_name": "Watch The Throne (Deluxe)",
+                    "track_name": "Made in America"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784664456,
+                "recording_msid": "6844d72d-eedd-467c-930a-05b77102a95e",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JAŸ-Z",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                            "164f0d73-1234-4e2c-8743-d77bf2191051"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jay‐Z",
+                                "artist_mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Kanye West",
+                                "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 1585310284,
+                        "caa_release_mbid": "f0d155f1-4769-4e1f-bb7a-2b7be9c8a8a0",
+                        "recording_mbid": "baa41267-29bf-4c88-a5f1-635e73b6f964",
+                        "recording_name": "Gotta Have It",
+                        "release_group_mbid": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+                        "release_mbid": "2dfab7a7-7cdf-4ab8-bd35-785e5cded0be",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1440845685"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1440845685"
+                            }
+                        ]
+                    },
+                    "release_name": "Watch The Throne (Deluxe)",
+                    "track_name": "Gotta Have It"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784664277,
+                "recording_msid": "9231877e-7d89-4cc9-9bd6-fe553f232d76",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaÿ-Z",
+                    "release_name": "Watch The Throne (Deluxe)",
+                    "track_name": "Otis"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784663919,
+                "recording_msid": "395e1a69-c540-4398-bed7-47d6054cac88",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "JAŸ-Z",
+                    "release_name": "Watch The Throne (Deluxe)",
+                    "track_name": "Lift Off"
+                },
+                "user_name": "Xledz"
+            },
+            {
+                "inserted_at": 1784669546,
+                "listened_at": 1784663646,
+                "recording_msid": "cb84bcd8-afa6-46cc-9385-6e224e45de97",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Jaÿ-Z",
+                    "release_name": "Watch The Throne (Deluxe)",
+                    "track_name": "No Church In The Wild"
+                },
+                "user_name": "Xledz"
+            }
+        ],
+        "oldest_listen_ts": 1756249103,
+        "user_id": "Xledz"
+    }
+}

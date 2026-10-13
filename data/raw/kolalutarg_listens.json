@@ -1,0 +1,3172 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791831396,
+        "listens": [
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791831396,
+                "recording_msid": "002b69b3-07f1-4807-9d0f-8d14fce85c0b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "lastfm_track_mbid": "2cf0fc7f-5a12-4928-8f21-dfe06bcc5a0a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45605528228,
+                        "caa_release_mbid": "ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+                        "recording_mbid": "2cf0fc7f-5a12-4928-8f21-dfe06bcc5a0a",
+                        "recording_name": "No Misery",
+                        "release_group_mbid": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+                        "release_mbid": "d72f5a73-3550-4fab-9c50-269949836bd3",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/6784327275"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/541797505"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/68V6KjU8OVGYfebIAwsUza"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/6784327275"
+                            }
+                        ]
+                    },
+                    "release_name": "The Real Me",
+                    "track_name": "No Misery"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791830766,
+                "recording_msid": "494ef66c-fda7-4978-8a28-30a09141840c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                        "lastfm_release_mbid": "0e6bd297-d1b2-4386-8c0a-8d50eb2a33a1",
+                        "lastfm_track_mbid": "2a37fbe6-f3e7-418e-90d0-a09453f630ab",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29197443146,
+                        "caa_release_mbid": "44ae223a-3963-415f-8a35-8958543fd576",
+                        "recording_mbid": "ee458835-f356-4b20-b6ac-03bc2f7f3d9e",
+                        "recording_name": "The Hills",
+                        "release_group_mbid": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e",
+                        "release_mbid": "2c633a54-a053-4671-866e-c1666887cd22",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l"
+                            }
+                        ]
+                    },
+                    "release_name": "Beauty Behind the Madness",
+                    "track_name": "The Hills"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791830488,
+                "recording_msid": "46d3058e-4fc6-4d53-bf75-ee109984131a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                        "lastfm_track_mbid": "be95e42d-5371-4938-a286-9b15c66905ba",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45194765731,
+                        "caa_release_mbid": "c807933b-b18b-4ec9-a126-bd4aecf2f5fb",
+                        "recording_mbid": "b8b1e3b1-96d0-41c0-bd69-812e5fa092cc",
+                        "recording_name": "Red Terror",
+                        "release_group_mbid": "14f83b04-2b9e-4974-9169-476f26475be3",
+                        "release_mbid": "44de7119-8fa0-4cfc-bd1c-b769f01c81c4",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1793654654"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1793654654"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/717s9KFmHhyy5t3xkStS56"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3210598571"
+                            }
+                        ]
+                    },
+                    "release_name": "Hurry Up Tomorrow",
+                    "track_name": "Red Terror"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791830298,
+                "recording_msid": "0fcb4631-176f-4d92-9e4f-c17f93462b6c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9b9bd06b-58cf-4867-90c8-d2332e7ff5f7",
+                        "lastfm_release_mbid": "cf39d485-73b9-4d9c-832c-b78c58111140",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Berner",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9b9bd06b-58cf-4867-90c8-d2332e7ff5f7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Berner",
+                                "artist_mbid": "9b9bd06b-58cf-4867-90c8-d2332e7ff5f7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27303001931,
+                        "caa_release_mbid": "f155c6e9-4dc0-4336-a56c-e09ff7b1d78c",
+                        "recording_mbid": "a13aa5d3-b5d4-4024-81cb-e8d4283b99f9",
+                        "recording_name": "100 Joints (20 Joints Part 2)",
+                        "release_group_mbid": "c1725038-651e-451d-b841-04d658fef85c",
+                        "release_mbid": "f155c6e9-4dc0-4336-a56c-e09ff7b1d78c"
+                    },
+                    "release_name": "20 Joints",
+                    "track_name": "20 Joints"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791829914,
+                "recording_msid": "d0219db2-ae72-421d-a16d-40ef57a7e89b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "release_name": "Plugged In",
+                    "track_name": "Red Star"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791825893,
+                "recording_msid": "dd40aeeb-fe19-4184-87e2-5917b6526980",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "f93bac9e-b20a-403e-abc9-06a2fc151df1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Dave",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f93bac9e-b20a-403e-abc9-06a2fc151df1",
+                            "b0337af1-8d93-4671-b6c9-ba306bf942bf"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dave",
+                                "artist_mbid": "f93bac9e-b20a-403e-abc9-06a2fc151df1",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Central Cee",
+                                "artist_mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35888127571,
+                        "caa_release_mbid": "813c4748-d6a5-4e9d-aedb-054b4a0cc776",
+                        "recording_mbid": "1ec1bfc4-2407-4369-b070-177fea0b38ba",
+                        "recording_name": "Sprinter",
+                        "release_group_mbid": "cd3bde26-2929-4404-86ef-4623e57b66cd",
+                        "release_mbid": "813c4748-d6a5-4e9d-aedb-054b4a0cc776"
+                    },
+                    "release_name": "Split Decision",
+                    "track_name": "Sprinter"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791825637,
+                "recording_msid": "9dcc4bf7-a636-4800-9181-2e85bcac7700",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_release_mbid": "8d7cbd0e-73e6-4915-94f7-8a79bea24709",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                            "46c72926-ae72-4e89-a709-047c40c42558"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Roisee",
+                                "artist_mbid": "46c72926-ae72-4e89-a709-047c40c42558",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35818706296,
+                        "caa_release_mbid": "8d7cbd0e-73e6-4915-94f7-8a79bea24709",
+                        "recording_mbid": "12f377a0-a2f6-4085-82cd-c7d7cf561a03",
+                        "recording_name": "Am I Dreaming",
+                        "release_group_mbid": "de08b495-9dd1-40bd-b866-3006b88715a8",
+                        "release_mbid": "5e38a701-16fa-4c2e-b43a-cf59cee97157"
+                    },
+                    "release_name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+                    "track_name": "Am I Dreaming"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791825307,
+                "recording_msid": "674769c7-9c70-472c-a70d-83f2ffd04081",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                        "lastfm_release_mbid": "482751a5-b378-47a3-a8a7-d6fc741b21bb",
+                        "lastfm_track_mbid": "468b6a8a-4d92-4720-8867-2e015aad8668",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 30441335037,
+                        "caa_release_mbid": "482751a5-b378-47a3-a8a7-d6fc741b21bb",
+                        "recording_mbid": "ff61a220-fe4b-4573-b98a-42c86d9e742f",
+                        "recording_name": "Monëy so big",
+                        "release_group_mbid": "09871725-17f2-4997-b197-85a5575a322d",
+                        "release_mbid": "63b98af4-c722-46c5-ba03-3ce56b2af9aa"
+                    },
+                    "release_name": "Up 2 Më",
+                    "track_name": "Monëy So Big"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791825124,
+                "recording_msid": "5f78472e-49f0-477a-840d-25427d95939f",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "NAV",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "418fe547-4bec-48fe-8df0-ed25e27f4570",
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "NAV",
+                                "artist_mbid": "418fe547-4bec-48fe-8df0-ed25e27f4570",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44406929642,
+                        "caa_release_mbid": "6deee146-51ca-4e23-8a0b-c961586d6944",
+                        "recording_mbid": "545bc040-dc77-4d23-a196-e3d198a10b8b",
+                        "recording_name": "Trimski",
+                        "release_group_mbid": "6d1b2e44-429d-46dc-9d61-c4193bf06458",
+                        "release_mbid": "6deee146-51ca-4e23-8a0b-c961586d6944",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3838488361"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/498299607"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1876695030"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1876695030"
+                            }
+                        ]
+                    },
+                    "release_name": "Trimski",
+                    "track_name": "Trimski"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791824963,
+                "recording_msid": "cd4e6264-98c3-4920-82b5-db48ed41c849",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "69866ffc-221a-4638-aabb-c3cee1f4b3bc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tyla Yaweh",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "69866ffc-221a-4638-aabb-c3cee1f4b3bc",
+                            "c234fa42-e6a6-443e-937e-2f4b073538a3"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tyla Yaweh",
+                                "artist_mbid": "69866ffc-221a-4638-aabb-c3cee1f4b3bc",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Chris Brown",
+                                "artist_mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36377075835,
+                        "caa_release_mbid": "e04c6aaa-f521-4459-92f7-958d57655296",
+                        "recording_mbid": "ea67ca65-0746-475d-a6b6-a80c7abf20bb",
+                        "recording_name": "City Of Dreams",
+                        "release_group_mbid": "43426d82-4da1-4444-b776-83fc05e8428b",
+                        "release_mbid": "e04c6aaa-f521-4459-92f7-958d57655296",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/308578062"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1695999993"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2392123465"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/217844001"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/217844001"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1695999993"
+                            }
+                        ]
+                    },
+                    "release_name": "Heart Full of Rage 2",
+                    "track_name": "City Of Dreams (feat. Chris Brown)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791824388,
+                "recording_msid": "db3c181c-c5d4-4e5e-8a65-b8544dc4e1bb",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "d6091fdc-58a1-4659-8d31-7b2be5021e20",
+                        "lastfm_track_mbid": "7b5f4f0d-fbde-481b-b211-c662a835e455",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "7b5f4f0d-fbde-481b-b211-c662a835e455",
+                        "recording_name": "I KNOW ?",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "release_name": "UTOPIA",
+                    "track_name": "I KNOW ?"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791824231,
+                "recording_msid": "9af1757a-af45-40b6-a44d-b43aa8b2dfc7",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                            "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Baby",
+                                "artist_mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29252496555,
+                        "caa_release_mbid": "71a843d9-ae96-4efc-8966-09607e8a13dd",
+                        "recording_mbid": "0a51c8e4-fda2-4a90-8832-131d09fdbc32",
+                        "recording_name": "Sold Out Dates",
+                        "release_group_mbid": "7889e12f-02ae-4bc1-9b6b-eb0b0772c845",
+                        "release_mbid": "71a843d9-ae96-4efc-8966-09607e8a13dd"
+                    },
+                    "release_name": "Sold Out Dates",
+                    "track_name": "Sold Out Dates (feat. Lil Baby)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791823856,
+                "recording_msid": "7485448b-4a8f-4a6c-b1db-21a2f056c019",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077",
+                            "870df552-bcb0-46a6-b17b-f5f04ff04936"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": " ft. "
+                            },
+                            {
+                                "artist_credit_name": "Zacari",
+                                "artist_mbid": "870df552-bcb0-46a6-b17b-f5f04ff04936",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46309689086,
+                        "caa_release_mbid": "b292c647-e3f6-4991-a919-7bd4df4d99ff",
+                        "recording_mbid": "7766ea21-d94e-4f7b-966d-2d2e2b1f137f",
+                        "recording_name": "LOVE.",
+                        "release_group_mbid": "b88655ba-7469-48b8-a296-b9011ab73ef3",
+                        "release_mbid": "81ad6e82-8e70-4805-8866-42e246c6f68c"
+                    },
+                    "release_name": "DAMN. COLLECTORS EDITION.",
+                    "track_name": "LOVE. (feat. Zacari)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791823619,
+                "recording_msid": "adda1798-7634-4138-a70f-0fec26590ece",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "7b630539-817c-44b8-b762-ea86391caff0",
+                        "lastfm_track_mbid": "368c8c33-9a86-407a-8054-b994862d4426",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26275385133,
+                        "caa_release_mbid": "8667c0c7-6536-45b4-bc0f-e8c408308d61",
+                        "recording_mbid": "33b717e3-9944-4f6c-94a0-8d16215e0168",
+                        "recording_name": "Too Comfortable",
+                        "release_group_mbid": "06fe5095-875d-4638-b2d8-393e5b00fec7",
+                        "release_mbid": "9dcf3823-1254-4089-85a8-4c2b47a7cfbb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0biVzpdI2z0vAxwfU9xuuA"
+                            }
+                        ]
+                    },
+                    "release_name": "High Off Life",
+                    "track_name": "Too Comfortable"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791823406,
+                "recording_msid": "000289b6-3659-42eb-803e-a072c758ad20",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                        "lastfm_release_mbid": "47f54012-18f6-43c0-aee7-bcb861ee5d21",
+                        "lastfm_track_mbid": "5959fbc1-e985-4985-8811-515c36ba6a0d",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "J. Cole",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "875203e1-8e58-4b86-8dcb-7190faf411c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "J. Cole",
+                                "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22362411710,
+                        "caa_release_mbid": "47f54012-18f6-43c0-aee7-bcb861ee5d21",
+                        "recording_mbid": "3f48a631-dea1-480d-9433-f3b97e63246a",
+                        "recording_name": "MIDDLE CHILD",
+                        "release_group_mbid": "d263c57b-400b-4553-9fc2-b329497c6488",
+                        "release_mbid": "47f54012-18f6-43c0-aee7-bcb861ee5d21"
+                    },
+                    "release_name": "MIDDLE CHILD",
+                    "track_name": "MIDDLE CHILD"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791823235,
+                "recording_msid": "adde1045-34f5-45fd-850b-6e75ea1c4e61",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40446577373,
+                        "caa_release_mbid": "9f60f419-e563-4c79-b6b6-760ca6d3b9eb",
+                        "recording_mbid": "9a09ddba-0d80-4dcd-a316-824c90544807",
+                        "recording_name": "Black Hole",
+                        "release_group_mbid": "ba869de3-196f-4ccb-8458-a35912f17516",
+                        "release_mbid": "0767b492-a0fa-4a43-9451-7aea37cebf26"
+                    },
+                    "track_name": "Black Hole"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791831612,
+                "listened_at": 1791823076,
+                "recording_msid": "dcdf29a2-0a6b-4bd3-b26f-41a6edc7cbf3",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_track_mbid": "0ae7f70d-57eb-449b-99a3-d19ad90caad1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Skye Riley",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "019a4223-9a7b-467a-8f38-bdfe718c62b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Skye Riley",
+                                "artist_mbid": "019a4223-9a7b-467a-8f38-bdfe718c62b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45488815180,
+                        "caa_release_mbid": "5376fbc1-03b8-4830-a5ab-4b64e129facf",
+                        "recording_mbid": "0ae7f70d-57eb-449b-99a3-d19ad90caad1",
+                        "recording_name": "Grieved You (performed by Naomi Scott)",
+                        "release_group_mbid": "bd2a78ed-4951-4d5d-83ce-2475963c9cf9",
+                        "release_mbid": "5376fbc1-03b8-4830-a5ab-4b64e129facf",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/391234689"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3029916181"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6EGqxyxRlRZlDXd0UizwCz"
+                            }
+                        ]
+                    },
+                    "track_name": "Grieved You (performed by Naomi Scott)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739648,
+                "listened_at": 1791739230,
+                "recording_msid": "fc2870f1-27d0-40b0-90d7-5b815c7c220f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4f6370b6-46cc-44dd-a891-c58735310499",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "beton.hofi",
+                    "track_name": "HELLO HELLO"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791738363,
+                "recording_msid": "7c9be3c7-5a76-48f3-b983-fd6394a7e377",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "36eb3876-16be-4814-b923-9dc11e555c81",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kkevin",
+                    "track_name": "Fekete Bárány"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791738193,
+                "recording_msid": "a8449340-408c-4ac3-9270-4f1c911e0fa6",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kkevin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "36eb3876-16be-4814-b923-9dc11e555c81",
+                            "e7148314-d3ce-4715-934d-770a03e7152a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kkevin",
+                                "artist_mbid": "36eb3876-16be-4814-b923-9dc11e555c81",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "L.L. Junior",
+                                "artist_mbid": "e7148314-d3ce-4715-934d-770a03e7152a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42843190449,
+                        "caa_release_mbid": "8b059eb4-8dc5-4385-81b1-3cde39709f30",
+                        "recording_mbid": "f8a9d68e-4789-4451-8af4-133c4c2e6950",
+                        "recording_name": "Csavargó",
+                        "release_group_mbid": "2cf75959-d453-4687-ab7f-f46c361c8ef1",
+                        "release_mbid": "8b059eb4-8dc5-4385-81b1-3cde39709f30"
+                    },
+                    "track_name": "Csavargó"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791738017,
+                "recording_msid": "874518c0-b9ef-45cc-92a1-813268ee5f4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4f6370b6-46cc-44dd-a891-c58735310499",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "beton.hofi",
+                    "track_name": "TESI"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737840,
+                "recording_msid": "bfb29d19-b1a4-4600-886f-4f5f16c8db7a",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "CIBI",
+                    "release_name": "EDM TRIP",
+                    "track_name": "Szív Utca"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737740,
+                "recording_msid": "d4e251df-103d-4548-b5cf-35d230926c6d",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "CIBI",
+                    "track_name": "Szív Utca"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737601,
+                "recording_msid": "fe57b5cb-e35e-4fb6-afe3-7bfeaff6779d",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "35797be7-1ac2-4bc9-9af7-a9fc800f2ec0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Mirror Glimpse",
+                    "track_name": "HÍVTAK AZ ALBÁNOK / EDI KRISTAQ RAMA"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737397,
+                "recording_msid": "2b59ae09-d7f5-446c-91af-1d735b21c552",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4f6370b6-46cc-44dd-a891-c58735310499",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "beton.hofi",
+                    "track_name": "TÜKÖRTEREM"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737254,
+                "recording_msid": "375353b0-4b52-4f33-b18e-1d61aad29192",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "4f6370b6-46cc-44dd-a891-c58735310499",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "beton.hofi",
+                    "track_name": "MEGGYFÁN"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791739116,
+                "listened_at": 1791737119,
+                "recording_msid": "82c03507-0668-4f33-b29b-045502320d9c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "2ad20128-2e0a-4122-b989-e352412cb923",
+                        "lastfm_track_mbid": "520dab34-f7bc-49ea-9653-1ac35160fe52",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27302014786,
+                        "caa_release_mbid": "f028a23c-7e0c-457f-a0e0-de25608e370c",
+                        "recording_mbid": "67f7ada0-d95a-4a06-b02e-5b7ba903c729",
+                        "recording_name": "Never Gon Lose",
+                        "release_group_mbid": "00ee204f-a94a-4455-89c9-bd55f3642038",
+                        "release_mbid": "f028a23c-7e0c-457f-a0e0-de25608e370c"
+                    },
+                    "release_name": "56 Nights",
+                    "track_name": "Never Gon Lose"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791737247,
+                "listened_at": 1791737011,
+                "recording_msid": "777b7983-64ea-4636-b491-9b415f20c656",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "2a838b9c-d08b-481a-83f3-f78773c8517a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                            "1e4e9db7-5068-4a9c-bdd0-5777e47172c8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "FKA twigs",
+                                "artist_mbid": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45054692782,
+                        "caa_release_mbid": "6993535a-aef4-4282-abb9-296e549ef283",
+                        "recording_mbid": "48877286-44d4-4b0a-a1e0-d703a587f64b",
+                        "recording_name": "Fukk Sleep",
+                        "release_group_mbid": "a82cafe6-d3df-4d76-be85-60a757ad2687",
+                        "release_mbid": "335c481a-7123-44d8-9189-20d6153ad64e"
+                    },
+                    "release_name": "TESTING",
+                    "track_name": "Fukk Sleep (feat. FKA twigs)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791737247,
+                "listened_at": 1791736854,
+                "recording_msid": "3d4aaee1-668e-4b51-be3c-8d4a990436db",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_track_mbid": "b7aa75e4-e4c6-4f81-b45f-9ae5639b49ed",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 25259419320,
+                        "caa_release_mbid": "5eacc7da-e425-4bfb-83bd-384a053919d2",
+                        "recording_mbid": "fe1b497c-7780-4ca7-8935-a214f4185e3c",
+                        "recording_name": "Millions",
+                        "release_group_mbid": "24942280-2605-4e49-a507-67136d22a0b4",
+                        "release_mbid": "87173167-795b-475d-a6b4-d0c92b78eb23",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6VSjhUIKsdEhiUgQeyaI34"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/238622006"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1830656027"
+                            }
+                        ]
+                    },
+                    "release_name": "So Much Fun (Deluxe)",
+                    "track_name": "Millions"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791737247,
+                "listened_at": 1791734538,
+                "recording_msid": "4c8630f7-6f09-45fa-9d8d-854416508a02",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "lastfm_release_mbid": "329a8a7e-ad2e-4583-be5f-21fdb1e44b9d",
+                        "lastfm_track_mbid": "0851a25e-b0a1-4e62-b9f5-b63167effb02",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 11461059616,
+                        "caa_release_mbid": "329a8a7e-ad2e-4583-be5f-21fdb1e44b9d",
+                        "recording_mbid": "271b3cbc-50d3-44c6-9ebe-7944990cbd19",
+                        "recording_name": "Mix It",
+                        "release_group_mbid": "dfe013f2-49ae-48d5-9d46-a1b23c58b720",
+                        "release_mbid": "329a8a7e-ad2e-4583-be5f-21fdb1e44b9d"
+                    },
+                    "release_name": "100% Juice",
+                    "track_name": "Mix It"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791737247,
+                "listened_at": 1791734373,
+                "recording_msid": "4837b299-4f22-4c20-9337-e85bab1c2f37",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "3b146b58-6030-4e02-a3e8-48d1d793a547",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " with "
+                            },
+                            {
+                                "artist_credit_name": "Drake",
+                                "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35468872037,
+                        "caa_release_mbid": "b54297b3-9d5b-4b79-a348-27874ade0752",
+                        "recording_mbid": "9271a20b-e5f5-4aaa-875d-5d8cdb979696",
+                        "recording_name": "Bubbly",
+                        "release_group_mbid": "a5b65469-d34a-4901-a9e6-ed56eba43d1c",
+                        "release_mbid": "b54297b3-9d5b-4b79-a348-27874ade0752"
+                    },
+                    "release_name": "PUNK",
+                    "track_name": "Bubbly (with Drake & Travis Scott) (feat. Drake & Travis Scott)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791731263,
+                "recording_msid": "0667eaf8-3f17-4923-8518-72a60680ba97",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_release_mbid": "e918c89f-a23e-4498-9d9b-0c44a4a866f3",
+                        "lastfm_track_mbid": "47b5e5ff-adff-4564-a698-60397d0a1f35",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44898484488,
+                        "caa_release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e",
+                        "recording_mbid": "486effe4-0f41-401a-9790-4603270ee593",
+                        "recording_name": "Mind Right",
+                        "release_group_mbid": "dfc64907-81ba-4803-92a6-824e19541ab4",
+                        "release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e"
+                    },
+                    "release_name": "Slime Season 2",
+                    "track_name": "Mind Right"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791731055,
+                "recording_msid": "5b9c7eb6-a00f-4837-a405-55d2a6d39681",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "61831e5f-a54a-44fd-aca0-1048d78a31ba",
+                        "lastfm_track_mbid": "ea468d7c-7bc1-422f-8352-394c144aa252",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39927637815,
+                        "caa_release_mbid": "f7e91329-519d-46f0-8a34-ce094f80ffaa",
+                        "recording_mbid": "ea468d7c-7bc1-422f-8352-394c144aa252",
+                        "recording_name": "AYE SAY GANG",
+                        "release_group_mbid": "3a3eab5b-7b43-44e4-b716-abbca517a72d",
+                        "release_mbid": "010f8c5f-7a5d-4de6-ba9a-3cd6809ec23d"
+                    },
+                    "release_name": "MIXTAPE PLUTO",
+                    "track_name": "AYE SAY GANG"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791730790,
+                "recording_msid": "85558369-f6ac-4a77-8898-478210fe6baa",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "DJ Esco",
+                    "release_name": "No Sleep",
+                    "track_name": "How It Was (feat. Future)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791730681,
+                "recording_msid": "6956d2b6-6a5f-4e53-b53d-bc6c4bc81d49",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "61831e5f-a54a-44fd-aca0-1048d78a31ba",
+                        "lastfm_track_mbid": "028869f4-1cb6-46c1-89d7-7284884dd120",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39927637815,
+                        "caa_release_mbid": "f7e91329-519d-46f0-8a34-ce094f80ffaa",
+                        "recording_mbid": "028869f4-1cb6-46c1-89d7-7284884dd120",
+                        "recording_name": "OATH",
+                        "release_group_mbid": "3a3eab5b-7b43-44e4-b716-abbca517a72d",
+                        "release_mbid": "010f8c5f-7a5d-4de6-ba9a-3cd6809ec23d"
+                    },
+                    "release_name": "MIXTAPE PLUTO",
+                    "track_name": "OATH"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791728558,
+                "recording_msid": "b5bf7341-a787-4d78-9853-4572975e4a57",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                        "lastfm_release_mbid": "3f21e3fe-822b-4649-ae38-143a1d99945c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                            "127d8614-0876-4408-886c-6f110b047a78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "YoungBoy Never Broke Again",
+                                "artist_mbid": "127d8614-0876-4408-886c-6f110b047a78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29605174976,
+                        "caa_release_mbid": "d67efe95-ccf1-4902-8728-2bcc2afedb17",
+                        "recording_mbid": "62db1ef0-d46e-468b-b53c-2640447b74de",
+                        "recording_name": "Need It",
+                        "release_group_mbid": "8b2364e1-3ccb-4f9a-9a72-6d826ae76f3c",
+                        "release_mbid": "e290db0b-3959-47d8-ab33-74946d938959"
+                    },
+                    "release_name": "Culture III",
+                    "track_name": "Need It (feat. YoungBoy Never Broke Again)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791728355,
+                "recording_msid": "ff8cd862-280e-4505-93a1-4b948e050887",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                        "lastfm_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "lastfm_track_mbid": "2821040d-7dfb-4828-9d2c-4b178359147a",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Don Toliver",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a0723a3c-4135-438e-85c5-012712144ede",
+                            "5ec1ecc6-4535-4911-a27a-e26343f4a189"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Toliver",
+                                "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kodak Black",
+                                "artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39081964602,
+                        "caa_release_mbid": "92236f8b-9327-487a-933e-71a3acf3460b",
+                        "recording_mbid": "94793eb6-88c9-4b0e-b857-ee2b52ecba3f",
+                        "recording_name": "BROTHER STONE",
+                        "release_group_mbid": "a9e7b811-5900-4398-af60-6db7ef02b536",
+                        "release_mbid": "aa0c9224-bba6-4e1a-b974-bc96d37c3d01"
+                    },
+                    "release_name": "HARDSTONE PSYCHO",
+                    "track_name": "BROTHER STONE (FEAT. KODAK BLACK)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791728088,
+                "recording_msid": "a7db7abb-7dc9-4c47-8ce8-a75298357833",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9",
+                            "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                            "92da4329-77a4-425c-8e92-4280110cace9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Wiz Khalifa",
+                                "artist_mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Lil Peep",
+                                "artist_mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18851360232,
+                        "caa_release_mbid": "62cb1119-924b-4297-8921-42f217f4ba40",
+                        "recording_mbid": "d60aa983-1ef7-4d51-be59-3aca97876505",
+                        "recording_name": "Got Em Like",
+                        "release_group_mbid": "5a5614ce-c115-48c3-9d96-347ae98c45d0",
+                        "release_mbid": "6ebdd63b-2218-4348-b8cf-c303d1a0092a"
+                    },
+                    "release_name": "Got Em Like",
+                    "track_name": "Got Em Like (feat. Wiz Khalifa)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791727894,
+                "recording_msid": "f8642d70-552f-42c1-8bf0-62f3dac21a30",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "release_name": "Project E.T.",
+                    "track_name": "Who (feat. Young Thug)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791727696,
+                "recording_msid": "3f545be7-d1f3-4318-bc58-ebcfaf858f91",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_track_mbid": "726c7c3a-265f-4c64-af0e-77ce58858471",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13136573538,
+                        "caa_release_mbid": "fc8ad53e-ae61-4718-bb40-beb5a611e787",
+                        "recording_mbid": "ba32f4fc-6cd1-4f69-9aef-051a2036bafb",
+                        "recording_name": "With Them",
+                        "release_group_mbid": "1e668b45-ce5b-4ccf-9b8e-4d8585ae550f",
+                        "release_mbid": "fc8ad53e-ae61-4718-bb40-beb5a611e787"
+                    },
+                    "track_name": "With Them"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791727464,
+                "recording_msid": "2a1cc434-7fb2-4be8-83ca-4e46257c7e73",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_track_mbid": "e97f182d-b23b-4ee6-9369-0f2f5050bf95",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37958183661,
+                        "caa_release_mbid": "75f4b9cd-0ea1-4279-b85f-5c4506be2145",
+                        "recording_mbid": "96be7cc3-fddf-4634-aa8a-26c4f4b747b2",
+                        "recording_name": "Halftime",
+                        "release_group_mbid": "8a464f35-a2c9-455f-9e71-5decf2b2b7fd",
+                        "release_mbid": "75f4b9cd-0ea1-4279-b85f-5c4506be2145"
+                    },
+                    "track_name": "Halftime"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791727261,
+                "recording_msid": "98de406e-f511-4d7f-8dd3-63ffa2a8047b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "track_name": "Too Many Nights (ChoppedNotSlopped) (feat. Don Toliver)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791732817,
+                "listened_at": 1791727002,
+                "recording_msid": "e8d6d344-1229-46e9-a6fb-9a707517a629",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "track_name": "Young Thug x Metro Boomin (Metro Thuggin) - The Blanguage (Official Video)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791582144,
+                "listened_at": 1791581760,
+                "recording_msid": "21e282d3-64c1-4886-beb0-8c34fc8d650f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 236,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=hUkBmPvMpOM&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                            "6d063567-dbf9-4b2a-bd11-1a4450cd93ca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kodak Black",
+                                "artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rich the Kid",
+                                "artist_mbid": "6d063567-dbf9-4b2a-bd11-1a4450cd93ca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28273306891,
+                        "caa_release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff",
+                        "recording_mbid": "ae3ec6bd-d5d7-4928-b93c-349e29a92c30",
+                        "recording_name": "Plug",
+                        "release_group_mbid": "daf0f547-7260-4306-95e8-230ba3849be6",
+                        "release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff"
+                    },
+                    "track_name": "Plug"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791581760,
+                "recording_msid": "b2060d46-c8af-426d-a865-7f956e6ebd64",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                            "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                            "6d063567-dbf9-4b2a-bd11-1a4450cd93ca"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Kodak Black",
+                                "artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Rich the Kid",
+                                "artist_mbid": "6d063567-dbf9-4b2a-bd11-1a4450cd93ca",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28273306891,
+                        "caa_release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff",
+                        "recording_mbid": "ae3ec6bd-d5d7-4928-b93c-349e29a92c30",
+                        "recording_name": "Plug",
+                        "release_group_mbid": "daf0f547-7260-4306-95e8-230ba3849be6",
+                        "release_mbid": "8e5ecbe3-7eb7-4012-942c-39bf73de26ff"
+                    },
+                    "track_name": "Plug"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791581850,
+                "listened_at": 1791581554,
+                "recording_msid": "c7682492-c407-4a2e-9c5c-80cb99f30670",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 206,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=zFBz2zZJC9U&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future, Metro Boomin és The Weeknd",
+                    "track_name": "Young Metro"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791581554,
+                "recording_msid": "d7d3da34-4924-4a19-9c73-183d6775d193",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future, Metro Boomin és The Weeknd",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec",
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "The Weeknd",
+                                "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38355932138,
+                        "caa_release_mbid": "34d138d9-77f6-48dd-accb-4a219debc213",
+                        "recording_mbid": "efa145f1-a7e9-497c-a9fe-51fd90026ff1",
+                        "recording_name": "Young Metro",
+                        "release_group_mbid": "566b49e2-5642-4361-9e10-90456afa935a",
+                        "release_mbid": "36202f93-9002-4262-b259-9da02f676076"
+                    },
+                    "track_name": "Young Metro"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791581304,
+                "recording_msid": "3e2ca520-8e58-4cbb-8d60-bee96d2e30d9",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "06de6cf8-c969-4ba8-b502-171df6cd9d57",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                            "c9cd225b-4883-428e-82c2-73e0b6282fb6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Lil Durk",
+                                "artist_mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12713664389,
+                        "caa_release_mbid": "e2f6fec8-5b8a-4bdf-8b24-c4e7d294541f",
+                        "recording_mbid": "c209b886-20b3-4e49-a307-d017dbfbfdfd",
+                        "recording_name": "Ridin",
+                        "release_group_mbid": "01a2d809-5f48-48b7-9c16-0857c9646bf8",
+                        "release_mbid": "e2f6fec8-5b8a-4bdf-8b24-c4e7d294541f"
+                    },
+                    "release_name": "I'm Up",
+                    "track_name": "Ridin'"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791581628,
+                "listened_at": 1791581093,
+                "recording_msid": "918a365c-fbcc-4d51-a44e-9ebc92f227b8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 211,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=YPStvbMJfVo&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Thugga",
+                    "release_name": "Red Slime",
+                    "track_name": "Wood Would"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791581093,
+                "recording_msid": "d8ce9fe5-9118-4770-b3a0-a6ffaa805155",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0cbfdf16-9943-4f9d-a0ad-d67ce15141ed",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Thugga",
+                    "release_name": "Red Slime",
+                    "track_name": "Wood Would"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791580995,
+                "listened_at": 1791580894,
+                "recording_msid": "420287e6-f613-47b4-9580-aaf1a590143e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 199,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=z0hJswr1v0M&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42654987292,
+                        "caa_release_mbid": "37d07b85-b278-413f-8462-b3acc96da104",
+                        "recording_mbid": "f86c6b30-14e9-47ce-8c54-50991e7aeb3c",
+                        "recording_name": "COMË N GO",
+                        "release_group_mbid": "ee5cc9d7-278a-4a19-8e7c-d27535e867e3",
+                        "release_mbid": "2e6f3673-1db6-46b0-9d34-4f1f5a1d380d",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1830346719"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/451479576"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1830346719"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3486842891"
+                            }
+                        ]
+                    },
+                    "release_name": "DANGEROUS SUMMER",
+                    "track_name": "COMË N GO"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791580894,
+                "recording_msid": "f1144d92-fc22-48cb-bb6a-8a07df03da2a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                        "lastfm_release_mbid": "99c37a63-fab3-44f1-b5aa-5944a2207deb",
+                        "lastfm_track_mbid": "f86c6b30-14e9-47ce-8c54-50991e7aeb3c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yeat",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Yeat",
+                                "artist_mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42654987292,
+                        "caa_release_mbid": "37d07b85-b278-413f-8462-b3acc96da104",
+                        "recording_mbid": "f86c6b30-14e9-47ce-8c54-50991e7aeb3c",
+                        "recording_name": "COMË N GO",
+                        "release_group_mbid": "ee5cc9d7-278a-4a19-8e7c-d27535e867e3",
+                        "release_mbid": "2e6f3673-1db6-46b0-9d34-4f1f5a1d380d",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1830346719"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/451479576"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1830346719"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3486842891"
+                            }
+                        ]
+                    },
+                    "release_name": "DANGEROUS SUMMER",
+                    "track_name": "COMË N GO"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791580727,
+                "recording_msid": "37494bc5-51d2-452c-b13f-c98090b9c734",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future és Southside",
+                    "track_name": "Diamonds From Africa"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791581066,
+                "listened_at": 1791580727,
+                "recording_msid": "d96909d5-3b8e-4d4c-8aaf-4dfc07ff1dd6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 166,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=pHqLqoj6Tu4&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future és Southside",
+                    "track_name": "Diamonds From Africa"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791580520,
+                "recording_msid": "1b3bceb4-e680-4922-a8e5-6b522dd125a4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_release_mbid": "afd4df26-13d1-444c-9983-bf6fe5d1940a",
+                        "lastfm_track_mbid": "ef959a2d-5e01-43b0-b05c-093c800989d8",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37023795062,
+                        "caa_release_mbid": "4117dc40-900c-430a-9490-718565228ba2",
+                        "recording_mbid": "cd2afa8e-949d-46d1-aba9-d956065a4703",
+                        "recording_name": "From A Man",
+                        "release_group_mbid": "23517811-d80f-49e2-8bb6-c0479d39fb94",
+                        "release_mbid": "4117dc40-900c-430a-9490-718565228ba2"
+                    },
+                    "release_name": "From a Man",
+                    "track_name": "From a Man"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791580624,
+                "listened_at": 1791580520,
+                "recording_msid": "a9741f90-2db2-49c8-8763-8ef14c1f32f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 208,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=fx60z-NZwQ8&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37023795062,
+                        "caa_release_mbid": "4117dc40-900c-430a-9490-718565228ba2",
+                        "recording_mbid": "cd2afa8e-949d-46d1-aba9-d956065a4703",
+                        "recording_name": "From A Man",
+                        "release_group_mbid": "23517811-d80f-49e2-8bb6-c0479d39fb94",
+                        "release_mbid": "4117dc40-900c-430a-9490-718565228ba2"
+                    },
+                    "release_name": "From a Man",
+                    "track_name": "From a Man"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791580447,
+                "listened_at": 1791580348,
+                "recording_msid": "91655c8f-1d2a-4685-83b3-0a67d1ec38fb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 171,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=tklsKxdMnws&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791580348,
+                "recording_msid": "f1cd42ff-3f05-4748-9677-5b03c4f87f2c",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "207c42de-5c61-4e1b-b88b-bcb175bfdd86",
+                        "lastfm_track_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45946111840,
+                        "caa_release_mbid": "deb44a40-a139-404e-a72e-d160b5bf7eed",
+                        "recording_mbid": "6afe1f29-a456-4082-92b0-d60b707b3a9c",
+                        "recording_name": "Gas. Brake.",
+                        "release_group_mbid": "6b2e43ef-8f5e-4a52-a581-a18281f3f92c",
+                        "release_mbid": "129ec9ff-4ec7-468d-bd4b-d9974259d7b6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/548339629"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/440346464"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/6796859145"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/4195132862"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+                            }
+                        ]
+                    },
+                    "release_name": "Maverick “Almost Forever” EP",
+                    "track_name": "Gas. Brake."
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791580174,
+                "recording_msid": "3e6a95ba-1eff-4824-ab74-29bcdda9ed4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Offset és Metro Boomin",
+                    "track_name": "Ric Flair Drip"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791580269,
+                "listened_at": 1791580174,
+                "recording_msid": "4fd777e3-9233-4bf1-b63f-fa7510790570",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 173,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=QufTQDgSOTE&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Offset és Metro Boomin",
+                    "track_name": "Ric Flair Drip"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791579926,
+                "recording_msid": "1f6d4b78-75cc-4f15-a97b-b17af210d68b",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "DJ Ven",
+                    "release_name": "Stash House",
+                    "track_name": "Big Racks"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791580050,
+                "listened_at": 1791579926,
+                "recording_msid": "9e8dea26-96e2-4d9a-aead-38b6e14c86ae",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 249,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=cKlt1gO7vwI&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "DJ Ven",
+                    "release_name": "Stash House",
+                    "track_name": "Big Racks"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791579741,
+                "recording_msid": "152f2e35-6cfd-4b39-b2e9-7cafa2c76db4",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "On Purpose"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791579832,
+                "listened_at": 1791579741,
+                "recording_msid": "b314d1d2-cf24-49d4-8a75-0f1c6899d408",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 184,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=EProWOq6adY&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Future",
+                    "track_name": "On Purpose"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791579527,
+                "recording_msid": "58ebf2e2-aef5-4687-bc4a-de010b6ccb53",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0cbfdf16-9943-4f9d-a0ad-d67ce15141ed",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Thugga",
+                    "release_name": "Red Slime",
+                    "track_name": "Best Friend"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791579635,
+                "listened_at": 1791579527,
+                "recording_msid": "65ba0ed7-d606-4c64-b9f3-6dce173784e8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 214,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=jUhIqOtLCYU&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Thugga",
+                    "release_name": "Red Slime",
+                    "track_name": "Best Friend"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791579419,
+                "listened_at": 1791579312,
+                "recording_msid": "17ea03e1-50b7-48e6-8d6d-2616a7b460e9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 215,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=Tg-suuDfQWU&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44898484488,
+                        "caa_release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e",
+                        "recording_mbid": "462ef705-30e3-482b-894b-67b707eec38c",
+                        "recording_name": "Up",
+                        "release_group_mbid": "dfc64907-81ba-4803-92a6-824e19541ab4",
+                        "release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e"
+                    },
+                    "release_name": "Slime Season 2",
+                    "track_name": "Up"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791579312,
+                "recording_msid": "354ecafe-0fd8-4a24-92a8-89799f15036b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "lastfm_release_mbid": "e918c89f-a23e-4498-9d9b-0c44a4a866f3",
+                        "lastfm_track_mbid": "5fa71944-1322-4c38-916f-689a2c709ea0",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "800760de-bdf8-43a2-8fe0-44a2401a5515"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Young Thug",
+                                "artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44898484488,
+                        "caa_release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e",
+                        "recording_mbid": "462ef705-30e3-482b-894b-67b707eec38c",
+                        "recording_name": "Up",
+                        "release_group_mbid": "dfc64907-81ba-4803-92a6-824e19541ab4",
+                        "release_mbid": "8f2cd7bc-c63b-4b63-84ba-d5362796171e"
+                    },
+                    "release_name": "Slime Season 2",
+                    "track_name": "Up"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791579160,
+                "recording_msid": "473ef876-16c2-4da5-be21-33d9120bd4cf",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9",
+                            "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                            "1c55e699-6b41-4b82-8b13-19edf9bd7e78"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": ", "
+                            },
+                            {
+                                "artist_credit_name": "Wiz Khalifa",
+                                "artist_mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "TM88",
+                                "artist_mbid": "1c55e699-6b41-4b82-8b13-19edf9bd7e78",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 33710575905,
+                        "caa_release_mbid": "6edd15cc-e687-42cf-8a20-65488c6e3987",
+                        "recording_mbid": "d11bfdd2-b0be-468e-a2ec-b12a08f8f419",
+                        "recording_name": "Hit Me Up",
+                        "release_group_mbid": "3e872b5d-fe15-448d-bf69-5eb7f4084481",
+                        "release_mbid": "7974f67b-010c-4379-87f1-6159bf1614d0"
+                    },
+                    "release_name": "TGOD Mafia: Rude Awakening",
+                    "track_name": "Hit Me Up"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791579285,
+                "listened_at": 1791579160,
+                "recording_msid": "5c634308-4599-4f09-8ed1-9df6c56ce21f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 251,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=RjKp7SkFi9c&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Juicy J",
+                    "release_name": "TGOD Mafia: Rude Awakening",
+                    "track_name": "Hit Me Up"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791586016,
+                "listened_at": 1791578275,
+                "recording_msid": "d0219db2-ae72-421d-a16d-40ef57a7e89b",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "release_name": "Plugged In",
+                    "track_name": "Red Star"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791578376,
+                "listened_at": 1791578275,
+                "recording_msid": "ed0347ff-cef3-4255-b0e4-7152199f7d8e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration": 200,
+                        "music_service_name": "YouTube Music",
+                        "origin_url": "https://music.youtube.com/watch?v=UnI7q3FtpKQ&list=RDAMVMUnI7q3FtpKQ",
+                        "submission_client": "Web Scrobbler",
+                        "submission_client_version": "3.23.1"
+                    },
+                    "artist_name": "Young Thug",
+                    "release_name": "Plugged In",
+                    "track_name": "Red Star"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791574114,
+                "listened_at": 1791568906,
+                "recording_msid": "557ced66-9c76-4609-9259-e01a5c5d8b06",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "df018ae5-466a-42db-93d2-d1f1ccd5fb17",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "release_name": "Zone",
+                    "track_name": "Who (feat. Young Thug)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791574114,
+                "listened_at": 1791568711,
+                "recording_msid": "df7e87eb-47b4-4d7e-8ed3-f5936c316cd2",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9",
+                            "be0d7749-0974-48ba-93bb-6e974ec193a2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Pi’erre Bourne",
+                                "artist_mbid": "be0d7749-0974-48ba-93bb-6e974ec193a2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32862910131,
+                        "caa_release_mbid": "859135a9-0902-4872-91fd-7c76a1b8b6a9",
+                        "recording_mbid": "f3290251-5250-432a-a3e3-138733334587",
+                        "recording_name": "Bring Them Out",
+                        "release_group_mbid": "53e086a8-c352-48d4-aee4-c956a1d80cf1",
+                        "release_mbid": "859135a9-0902-4872-91fd-7c76a1b8b6a9"
+                    },
+                    "release_name": "Space Age Pimpin",
+                    "track_name": "Bring Them Out"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791574114,
+                "listened_at": 1791568519,
+                "recording_msid": "3337ad76-0529-4622-8522-78457a626bc5",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Quavo",
+                    "release_name": "Backwards",
+                    "track_name": "Backwards"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791574114,
+                "listened_at": 1791568221,
+                "recording_msid": "4d9a55ec-5b56-41a3-84a1-069884a0dd02",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                        "lastfm_release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7",
+                        "lastfm_track_mbid": "c165a00a-ec99-451e-bccf-0331fbbfd730",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Migos",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0221734a-35a8-40f7-b5c5-2f61a200bc7c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Migos",
+                                "artist_mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45911047668,
+                        "caa_release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7",
+                        "recording_mbid": "9ea250f3-2e76-42af-865a-282facc7d0dd",
+                        "recording_name": "Cocoon",
+                        "release_group_mbid": "31f3b122-c468-454e-8a73-0881b17b6dd2",
+                        "release_mbid": "bccebc15-81c1-4917-a372-f4bc3fa584f7"
+                    },
+                    "release_name": "Cocoon",
+                    "track_name": "Cocoon"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791568027,
+                "recording_msid": "4a4b14da-914e-4f6c-aa1e-5736c09d787a",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_track_mbid": "084372e7-42fc-4ebd-96ab-aed6001dfedc",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10953712152,
+                        "caa_release_mbid": "f420f175-4cba-4ae5-849f-2200e2f9216c",
+                        "recording_mbid": "b66a1a2a-52f4-4d12-8d85-e7f74bb55436",
+                        "recording_name": "Blow a Bag",
+                        "release_group_mbid": "9ac43ae5-c0de-42f6-8365-b68de4966833",
+                        "release_mbid": "ae9420ff-9589-4f71-b4bd-29ac5b82b878"
+                    },
+                    "release_name": "DS2 (Deluxe)",
+                    "track_name": "Blow a Bag"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791567895,
+                "recording_msid": "021e0f3a-cc3d-415f-ad44-a62c1584038f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                        "lastfm_release_mbid": "784d481c-83b0-41ac-b21c-c1715eb2779f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kodak Black",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                            "1def2cdc-a6ec-4972-8614-204e13301650"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kodak Black",
+                                "artist_mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Jacquees",
+                                "artist_mbid": "1def2cdc-a6ec-4972-8614-204e13301650",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 29594651020,
+                        "caa_release_mbid": "784d481c-83b0-41ac-b21c-c1715eb2779f",
+                        "recording_mbid": "8ba70594-9a5d-4c62-ace1-33fbcee2f567",
+                        "recording_name": "White Toes",
+                        "release_group_mbid": "d6e0f1c8-448e-4f4c-b801-953a232d02e6",
+                        "release_mbid": "784d481c-83b0-41ac-b21c-c1715eb2779f"
+                    },
+                    "release_name": "Happy Birthday Kodak",
+                    "track_name": "White Toes (feat. Jacquees)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791567722,
+                "recording_msid": "16d12415-f356-4615-bafe-7652852ef5aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "lastfm_release_mbid": "9767ee80-908d-4491-904e-20c173c87559",
+                        "lastfm_track_mbid": "3269496f-1d64-48dd-9331-642722607b52",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27832893924,
+                        "caa_release_mbid": "9767ee80-908d-4491-904e-20c173c87559",
+                        "recording_mbid": "8dcbc531-c736-410d-bb63-2ec73326a585",
+                        "recording_name": "WHAT I NEED",
+                        "release_group_mbid": "13996a66-6de4-4a37-86a8-8e8e4f7ee9b6",
+                        "release_mbid": "9767ee80-908d-4491-904e-20c173c87559"
+                    },
+                    "release_name": "The Hustle Continues",
+                    "track_name": "What I Need"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791567549,
+                "recording_msid": "e145050c-72b5-40e2-af23-a19eddbfb948",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Trapsquare",
+                    "track_name": "Young Thug - Life of Sins"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791567350,
+                "recording_msid": "51ae2fe3-0ebe-4425-bf33-cb12b99d74c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Young Thug",
+                    "track_name": "Red Star"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791566602,
+                "recording_msid": "80e91c90-5517-4826-b277-072e0950b2a0",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+                        "lastfm_track_mbid": "0e016d69-1afe-435a-b159-f528eea505c6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "The Neighbourhood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "97b8d224-5660-419c-8dff-4b3bf0c33983"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Neighbourhood",
+                                "artist_mbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19137709289,
+                        "caa_release_mbid": "3bcf6da7-d85e-447c-8310-178406461c03",
+                        "recording_mbid": "1090894d-0420-4771-a8c1-b7723556c2b1",
+                        "recording_name": "Softcore",
+                        "release_group_mbid": "08b1bdaf-6758-496c-a8ce-4d82d3fa4ec8",
+                        "release_mbid": "6d9848b2-0bce-4108-abe2-fb1418bd587e"
+                    },
+                    "release_name": "Hard to Imagine the Neighbourhood Ever Changing",
+                    "track_name": "Softcore"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791566441,
+                "recording_msid": "d5262bcc-ec7a-4aa1-9860-e879906127be",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Juicy J",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c45d161f-83ce-4464-ba41-44202e6916d9",
+                            "f5dfa020-ad69-41cd-b3d4-fd7af0414e94"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Juicy J",
+                                "artist_mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Wiz Khalifa",
+                                "artist_mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31704055071,
+                        "caa_release_mbid": "b5f49339-631c-4fe2-a50e-cfdf7de9d095",
+                        "recording_mbid": "8da3638b-4c02-442c-abe0-ce477259454f",
+                        "recording_name": "Blaze Up",
+                        "release_group_mbid": "50d23e3b-a194-4e54-9719-df8c28b9e97d",
+                        "release_mbid": "b5f49339-631c-4fe2-a50e-cfdf7de9d095"
+                    },
+                    "release_name": "Stoner's Night",
+                    "track_name": "Blaze Up"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791566264,
+                "recording_msid": "eb486dfe-5349-4b7c-9038-51a5efea6c89",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_release_mbid": "99c37a63-fab3-44f1-b5aa-5944a2207deb",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Yeat",
+                    "release_name": "DANGEROUS SUMMER",
+                    "track_name": "OH I DID"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791566078,
+                "recording_msid": "13d71bef-5392-4810-8a8f-611c26066019",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8e4d0902-43ee-45e1-97e3-b6a56581f290",
+                        "lastfm_release_mbid": "069e0fd4-fc08-4056-a973-c0742071ec4b",
+                        "lastfm_track_mbid": "3c3d8f04-8f60-436e-8078-12d7bc74e5f1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Hoodrich Pablo Juan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8e4d0902-43ee-45e1-97e3-b6a56581f290"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "HoodRich Pablo Juan",
+                                "artist_mbid": "8e4d0902-43ee-45e1-97e3-b6a56581f290",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 17995530928,
+                        "caa_release_mbid": "05dfdc4b-0c75-4eb9-949b-1983acb84986",
+                        "recording_mbid": "d47fb5f5-20c2-4999-909a-e8de570c7b62",
+                        "recording_name": "We Don't Luv Em",
+                        "release_group_mbid": "091467a5-ff80-40b8-968e-e1e408f1b461",
+                        "release_mbid": "05dfdc4b-0c75-4eb9-949b-1983acb84986"
+                    },
+                    "release_name": "Designer Drugz 3",
+                    "track_name": "We Don't Luv Em"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791565757,
+                "recording_msid": "df93a360-dc3a-4eae-a2fd-f45eb339aacd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "114356f9-333f-45f3-898d-00106f3aee45",
+                        "lastfm_track_mbid": "3a662f09-d248-406c-9dce-e1313b009144",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+                            "9118f524-be76-4eaf-875c-ccf15e2a2ad6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Swae Lee",
+                                "artist_mbid": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Chief Keef",
+                                "artist_mbid": "9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45070423224,
+                        "caa_release_mbid": "6fbae633-1752-4dd8-a1e6-58eb5ba6ac1e",
+                        "recording_mbid": "3a662f09-d248-406c-9dce-e1313b009144",
+                        "recording_name": "Nightcrawler",
+                        "release_group_mbid": "e6c9fd37-0211-48a2-8927-d7ef284218c4",
+                        "release_mbid": "ce523b6c-ca39-40c3-bf39-6d2e96207b2f"
+                    },
+                    "release_name": "Rodeo",
+                    "track_name": "Nightcrawler (feat. Swae Lee & Chief Keef)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791565409,
+                "recording_msid": "55d37266-d4a9-44dd-9b51-5f1afccf8b56",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "lastfm_track_mbid": "c294757b-0430-4eb4-ae7a-6abcffb87405",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Kendrick Lamar",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "381086ea-f511-4aba-bdf9-71c753dc5077",
+                            "9880800a-f6f8-4f8f-a00e-b4b664776c0c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Kendrick Lamar",
+                                "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                "join_phrase": " featuring "
+                            },
+                            {
+                                "artist_credit_name": "Jay Rock",
+                                "artist_mbid": "9880800a-f6f8-4f8f-a00e-b4b664776c0c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46277696375,
+                        "caa_release_mbid": "ceb01f3f-3a63-4ad7-ad9e-7b9bd18f82d2",
+                        "recording_mbid": "c294757b-0430-4eb4-ae7a-6abcffb87405",
+                        "recording_name": "Money Trees",
+                        "release_group_mbid": "499c19c8-0dab-4824-884b-6191d145e95b",
+                        "release_mbid": "2de6d2c1-349b-4f89-9b84-9653624293a4",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/35470543"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+                            }
+                        ]
+                    },
+                    "release_name": "good kid, m.A.A.d. city (Deluxe)",
+                    "track_name": "Money Trees (feat. Jay Rock)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791565261,
+                "recording_msid": "104ea2d0-c3f1-4b6a-9a7e-b6897a10c002",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "30991fe5-93bd-4a39-98cd-302e62145997",
+                        "lastfm_release_mbid": "32b7a41d-182d-48c9-95de-be6bdc921d23",
+                        "lastfm_track_mbid": "6db7cd02-95a4-4a73-9854-9a3b931be2fd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "untiljapan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "30991fe5-93bd-4a39-98cd-302e62145997"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Untiljapan",
+                                "artist_mbid": "30991fe5-93bd-4a39-98cd-302e62145997",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36879708717,
+                        "caa_release_mbid": "32b7a41d-182d-48c9-95de-be6bdc921d23",
+                        "recording_mbid": "6db7cd02-95a4-4a73-9854-9a3b931be2fd",
+                        "recording_name": "KISS N TELL",
+                        "release_group_mbid": "7d5af31a-064c-40ba-a26d-1b97055a33e8",
+                        "release_mbid": "32b7a41d-182d-48c9-95de-be6bdc921d23"
+                    },
+                    "release_name": "Safe Travels",
+                    "track_name": "KISS N TELL"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791565050,
+                "recording_msid": "47655206-ca1c-411e-b53c-5716a0cc2313",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_release_mbid": "484375b0-1b63-4469-9c57-f60d08462226",
+                        "lastfm_track_mbid": "3da3b97d-bb5f-4379-8c77-af76944bc37b",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36155183169,
+                        "caa_release_mbid": "1c2f7168-0f6c-4b1b-baed-15abb37af4b0",
+                        "recording_mbid": "3da3b97d-bb5f-4379-8c77-af76944bc37b",
+                        "recording_name": "Mama, I’m Sorry",
+                        "release_group_mbid": "4fc5b424-43f0-482a-b8ad-948fcfcebb2d",
+                        "release_mbid": "51414fe5-3db6-475b-8bde-6fd1fb89f2f3"
+                    },
+                    "release_name": "Pink Tape",
+                    "track_name": "Mama, I’m Sorry"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791564846,
+                "recording_msid": "d1fe430b-97ea-423d-8b2a-b2327080bedd",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "61831e5f-a54a-44fd-aca0-1048d78a31ba",
+                        "lastfm_track_mbid": "3f7ca62a-0f76-4166-a920-257e29e8aac6",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39927637815,
+                        "caa_release_mbid": "f7e91329-519d-46f0-8a34-ce094f80ffaa",
+                        "recording_mbid": "3f7ca62a-0f76-4166-a920-257e29e8aac6",
+                        "recording_name": "OCEAN",
+                        "release_group_mbid": "3a3eab5b-7b43-44e4-b716-abbca517a72d",
+                        "release_mbid": "8d613f18-ac7d-4fff-933d-4b80b5b6c1ac"
+                    },
+                    "release_name": "MIXTAPE PLUTO",
+                    "track_name": "OCEAN"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791564680,
+                "recording_msid": "4bd41b32-b3f0-4b04-9f2d-54560c095e9f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                        "lastfm_release_mbid": "8bc0ecf0-9ace-4a80-831a-34c7346b1d71",
+                        "lastfm_track_mbid": "0b936b03-05e9-478e-ad12-4fa69b24cfb1",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Tory Lanez",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "5b8ec72b-9e39-4a06-a2bf-964166b92a71"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tory Lanez",
+                                "artist_mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26185517079,
+                        "caa_release_mbid": "8bc0ecf0-9ace-4a80-831a-34c7346b1d71",
+                        "recording_mbid": "373fc5f8-9705-4abb-a83f-b468c0651918",
+                        "recording_name": "Do the Most",
+                        "release_group_mbid": "77273ad9-8932-449d-9a35-12d2ebc760ba",
+                        "release_mbid": "de903db1-e3ff-4ed3-9ad3-e772a3e51142",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh"
+                            }
+                        ]
+                    },
+                    "release_name": "The New Toronto 3",
+                    "track_name": "Do The Most"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791564409,
+                "recording_msid": "bdf44621-8732-4ad4-b5cf-bcd66a9f394f",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "b40009d1-0993-4328-b6ac-c848a980e2b1",
+                        "lastfm_track_mbid": "ccd702e3-e47a-48b1-96f1-eb7f1330aabd",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "release_name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+                    "track_name": "Jet Lag (feat. Young Scooter)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791562047,
+                "recording_msid": "4af8452f-e836-4354-b411-588935506072",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                        "lastfm_release_mbid": "d6091fdc-58a1-4659-8d31-7b2be5021e20",
+                        "lastfm_track_mbid": "0df1d027-bec2-40cc-901a-cdbaf66f2239",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Travis Scott",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                            "272989c8-5535-492d-a25c-9f58803e027f",
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "SZA",
+                                "artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37215325729,
+                        "caa_release_mbid": "a12f63f9-8bae-4726-82d5-66268b48a89f",
+                        "recording_mbid": "0df1d027-bec2-40cc-901a-cdbaf66f2239",
+                        "recording_name": "TELEKINESIS",
+                        "release_group_mbid": "eac07d92-86b1-4fa7-906d-ec3177f8ebc2",
+                        "release_mbid": "6bd8aa4e-79e5-40ee-a7b9-800817350d78"
+                    },
+                    "release_name": "UTOPIA",
+                    "track_name": "TELEKINESIS (feat. SZA & Future)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791561886,
+                "recording_msid": "02534ef8-c531-476b-bbbd-b867b67c1f13",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                        "lastfm_release_mbid": "2ad20128-2e0a-4122-b989-e352412cb923",
+                        "lastfm_track_mbid": "064a6a32-3aa9-4fc9-a86f-d1808de34b8f",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Future",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "48262e82-db9f-4a92-b650-dfef979b73ec"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Future",
+                                "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9940790432,
+                        "caa_release_mbid": "6d01eed9-f6c2-417c-9da5-b6002cc4cc26",
+                        "recording_mbid": "87457e14-e3d3-47db-8f67-8592d17290e8",
+                        "recording_name": "Now",
+                        "release_group_mbid": "ccaf2862-59ca-4170-aa07-9c929569aa65",
+                        "release_mbid": "6d01eed9-f6c2-417c-9da5-b6002cc4cc26"
+                    },
+                    "release_name": "56 Nights",
+                    "track_name": "Now"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791561692,
+                "recording_msid": "1c581ef7-1202-40a3-8e22-54e410b54e11",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                        "lastfm_track_mbid": "a331e826-c397-48df-b3cd-132b16d99e92",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Lil Uzi Vert",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8837b875-3689-4646-b3fd-d8b53815c7a8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Uzi Vert",
+                                "artist_mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36155183169,
+                        "caa_release_mbid": "1c2f7168-0f6c-4b1b-baed-15abb37af4b0",
+                        "recording_mbid": "9f116527-787c-4314-9ca4-d2d85d7aaebb",
+                        "recording_name": "Flooded the Face",
+                        "release_group_mbid": "4fc5b424-43f0-482a-b8ad-948fcfcebb2d",
+                        "release_mbid": "51414fe5-3db6-475b-8bde-6fd1fb89f2f3"
+                    },
+                    "track_name": "Flooded the Face"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791561404,
+                "recording_msid": "008fab27-ab00-46f5-9236-447d0354d5e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                        "lastfm_release_mbid": "1fedf6e5-ae2a-4d42-b274-3a3f6bff35ee",
+                        "lastfm_track_mbid": "8eedf921-5a15-4814-b74f-48890911b861",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "21 Savage",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "37b2cb82-ef79-4d46-a184-a549450aa231"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "21 Savage",
+                                "artist_mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22067926644,
+                        "caa_release_mbid": "de4bad60-728d-437f-a997-f00352a31bee",
+                        "recording_mbid": "4d4219b0-cd63-4d14-80df-cf0404fdb9a7",
+                        "recording_name": "a lot",
+                        "release_group_mbid": "f56fbad2-66bc-4c51-b744-1349835e7a7c",
+                        "release_mbid": "1fedf6e5-ae2a-4d42-b274-3a3f6bff35ee"
+                    },
+                    "release_name": "i am > i was",
+                    "track_name": "a lot"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791561313,
+                "recording_msid": "5162a582-6489-4c30-b978-563bd4f90f0e",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Gunna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gunna",
+                                "artist_mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38786560057,
+                        "caa_release_mbid": "83bf2e22-171e-4581-8d0d-2906bcca991b",
+                        "recording_mbid": "930ab3ce-3f67-4b02-ba18-847d286ec2c1",
+                        "recording_name": "on one tonight",
+                        "release_group_mbid": "c23cfd44-b731-4b68-bf6b-40b3def0db1c",
+                        "release_mbid": "61c87bdf-718e-4b59-914e-6140c4b71f0b"
+                    },
+                    "release_name": "One of Wun",
+                    "track_name": "on one tonight"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791561148,
+                "recording_msid": "643163db-9414-4473-8d74-4f9b3ed8dbf6",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                        "lastfm_release_mbid": "1047aab8-99b7-4659-9514-b0d60a7ed270",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Metro Boomin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                            "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Metro Boomin",
+                                "artist_mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Travis Scott",
+                                "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 21364887570,
+                        "caa_release_mbid": "58ec8d29-934e-4a52-9c75-48c814bcbd4c",
+                        "recording_mbid": "e7414d01-e00c-41f3-b95e-656cfc64f9b9",
+                        "recording_name": "Overdue",
+                        "release_group_mbid": "4e9a52ee-f18d-4de0-845d-9b77dd33a758",
+                        "release_mbid": "439da17d-b5d9-4cb1-8826-0a1ea70f7832"
+                    },
+                    "release_name": "Not All Heroes Wear Capes",
+                    "track_name": "Overdue (feat. Travis Scott)"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791560905,
+                "recording_msid": "06e31a85-4d04-4ac9-8cfc-7bf6f84c2a42",
+                "track_metadata": {
+                    "additional_info": {
+                        "lastfm_artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                        "lastfm_release_mbid": "2a838b9c-d08b-481a-83f3-f78773c8517a",
+                        "lastfm_track_mbid": "060bc7c4-0b35-4a7f-a090-d54dc285fb0e",
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "A$AP Rocky",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "A$AP Rocky",
+                                "artist_mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45054692782,
+                        "caa_release_mbid": "6993535a-aef4-4282-abb9-296e549ef283",
+                        "recording_mbid": "3a1ce660-346c-4796-90f4-a84842ef9b71",
+                        "recording_name": "Hun43rd",
+                        "release_group_mbid": "a82cafe6-d3df-4d76-be85-60a757ad2687",
+                        "release_mbid": "335c481a-7123-44d8-9189-20d6153ad64e"
+                    },
+                    "release_name": "TESTING",
+                    "track_name": "Hun43rd"
+                },
+                "user_name": "kolalutarg"
+            },
+            {
+                "inserted_at": 1791568324,
+                "listened_at": 1791560580,
+                "recording_msid": "b65770bb-6bbb-4fe0-8efb-c35efcfec7ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "submission_client": "ListenBrainz lastfm importer v2"
+                    },
+                    "artist_name": "Wiz Khalifa",
+                    "track_name": "Wiz Khalifa, Chevy Woods - One Hundred / Business Meetings [Official Music Video]"
+                },
+                "user_name": "kolalutarg"
+            }
+        ],
+        "oldest_listen_ts": 1741116187,
+        "user_id": "kolalutarg"
+    }
+}

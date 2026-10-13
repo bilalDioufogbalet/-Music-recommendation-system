@@ -1,0 +1,3774 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1791461640,
+        "listens": [
+            {
+                "inserted_at": 1791704314,
+                "listened_at": 1791704084,
+                "recording_msid": "8dcba638-2584-4ccc-b8a5-15dd25516caf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 217051,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "02dada2c-9476-4bc3-a4c4-7c516a5151c1",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43289246997,
+                        "caa_release_mbid": "56968f42-3111-480e-8ad0-2af2b2e4e433",
+                        "recording_mbid": "02dada2c-9476-4bc3-a4c4-7c516a5151c1",
+                        "recording_name": "Die on This Hill",
+                        "release_group_mbid": "c5d27497-e67b-4f73-a69c-4bd68fab945d",
+                        "release_mbid": "56968f42-3111-480e-8ad0-2af2b2e4e433"
+                    },
+                    "release_name": "Die On This Hill",
+                    "track_name": "Die On This Hill"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791704086,
+                "listened_at": 1791703828,
+                "recording_msid": "a934f8af-e569-4abe-a0a4-f90e507eab44",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 255556,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Noah Kahan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Noah Kahan",
+                                "artist_mbid": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44943593921,
+                        "caa_release_mbid": "bae93ffb-91d4-4798-86b9-3c14c6187b51",
+                        "recording_mbid": "b5546524-cdf9-4a3c-aafc-5c3cb558c0cf",
+                        "recording_name": "Downfall",
+                        "release_group_mbid": "09d6c4af-2545-468e-8b44-4d5eb3e9aa85",
+                        "release_mbid": "c012289a-2eb9-45f8-bd0e-167a19c9b668",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1872239884"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1872239884"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3974113451"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/517821568"
+                            }
+                        ]
+                    },
+                    "release_name": "The Great Divide: The Last Of The Bugs",
+                    "track_name": "Downfall"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791703832,
+                "listened_at": 1791703577,
+                "recording_msid": "1028578a-784d-4805-864a-b6145db15b86",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249861,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Mike & The Mechanics",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a04e09c8-733c-4430-9e22-99ef9dd5e2d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mike + the Mechanics",
+                                "artist_mbid": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18063662829,
+                        "caa_release_mbid": "7ab07701-3cc8-40ad-8e51-e1265208035c",
+                        "recording_mbid": "d4739b52-bf99-441d-8a75-8bd58731a81c",
+                        "recording_name": "All I Need Is a Miracle",
+                        "release_group_mbid": "eb8f4523-a2f2-385a-86b8-3a8e5651907d",
+                        "release_mbid": "320acda1-cbf1-3975-8887-85d70304d192"
+                    },
+                    "release_name": "Mike + The Mechanics",
+                    "track_name": "All I Need Is A Miracle"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791703580,
+                "listened_at": 1791703368,
+                "recording_msid": "d0c338ac-b6de-4c12-a519-97a14ced7301",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 208823,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "65610fb7-5172-4395-90ae-b074161a9168",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Gorillaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e21857d5-3256-4547-afb3-4b6ded592596"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gorillaz",
+                                "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35302227366,
+                        "caa_release_mbid": "613c2d3c-f1de-42a9-a96f-abaa5a1e4285",
+                        "recording_mbid": "65610fb7-5172-4395-90ae-b074161a9168",
+                        "recording_name": "On Melancholy Hill (Gorillaz Sound System Remix)",
+                        "release_group_mbid": "ec6531e9-1842-4116-86e6-75a4c2d3c6c4",
+                        "release_mbid": "8250693a-61d9-4d55-907a-47dc329aff26"
+                    },
+                    "release_name": "The Singles Collection 2001-2011",
+                    "track_name": "On Melancholy Hill"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791703374,
+                "listened_at": 1791703205,
+                "recording_msid": "1ef25438-e4d2-4a0d-ade0-f507b7b8e508",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 161855,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31738888619,
+                        "caa_release_mbid": "4d230016-848c-4157-9d07-4862e52c19b1",
+                        "recording_mbid": "bde22981-3bcc-41d6-bf8c-7014bf7ac385",
+                        "recording_name": "Life Goes On",
+                        "release_group_mbid": "bdd9dc79-db89-4fa6-8315-691aefc9f9e9",
+                        "release_mbid": "7c101c05-ad29-4d6e-9cc4-f652b12c29ec",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0q4DjnKieCETAKoWuZSpd7"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6767162063"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1380101222"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=mzhbRUniU4U"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/278192632"
+                            }
+                        ]
+                    },
+                    "release_name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+                    "track_name": "Life Goes On"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791703206,
+                "listened_at": 1791702998,
+                "recording_msid": "27a8ab69-60c3-43e1-b8aa-212d6a2d4fa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40855740538,
+                        "caa_release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2",
+                        "recording_mbid": "b78037a5-6158-4bc2-9cba-2b8c33e03665",
+                        "recording_name": "Miss You",
+                        "release_group_mbid": "e5403464-bdcf-4533-b80c-cfadd3122019",
+                        "release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2"
+                    },
+                    "release_name": "Miss You",
+                    "track_name": "Miss You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791702999,
+                "listened_at": 1791702798,
+                "recording_msid": "04db223d-6b42-420d-a19d-dbb2db83447c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199079,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42742653498,
+                        "caa_release_mbid": "e077e535-43a9-4264-964f-a96d1dca8357",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "recording_name": "back to friends",
+                        "release_group_mbid": "38103ba1-04f5-4e4c-b2c4-b769c0ed2eee",
+                        "release_mbid": "a73067b2-3c56-42dd-9671-2077417ddcca"
+                    },
+                    "release_name": "back to friends",
+                    "track_name": "back to friends"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791702803,
+                "listened_at": 1791702557,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791702557,
+                "listened_at": 1791702328,
+                "recording_msid": "d4b4022e-5e6d-446c-b522-4853ac220039",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228937,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45286465162,
+                        "caa_release_mbid": "ff0440a5-2d6d-47ce-aa4d-71c4b0826bff",
+                        "recording_mbid": "6b8f53da-0ffa-46da-83a8-4387deb9541c",
+                        "recording_name": "The Visitor",
+                        "release_group_mbid": "bb33d07f-bb9a-4ba7-83df-48fe5fc221b5",
+                        "release_mbid": "0d81e5dd-ba41-4550-ae86-6102dd5502fe",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/504701468"
+                            }
+                        ]
+                    },
+                    "release_name": "The Visitor",
+                    "track_name": "The Visitor"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791461798,
+                "listened_at": 1791461640,
+                "recording_msid": "e9db040b-182c-460c-9acd-e30c32ab968d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 143752,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tom Odell",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fee6a7fb-80d9-4290-a171-e48f1f20e381"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tom Odell",
+                                "artist_mbid": "fee6a7fb-80d9-4290-a171-e48f1f20e381",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 14763627260,
+                        "caa_release_mbid": "b6606232-4425-4e4c-99f6-09da22553f83",
+                        "recording_mbid": "077e30f4-92ae-4eb4-ae37-928784a883e4",
+                        "recording_name": "True Colours",
+                        "release_group_mbid": "af96d25e-7884-4b70-8cd7-e04f14e91ef0",
+                        "release_mbid": "b6606232-4425-4e4c-99f6-09da22553f83"
+                    },
+                    "release_name": "True Colours",
+                    "track_name": "True Colours"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791461652,
+                "listened_at": 1791461469,
+                "recording_msid": "11e81ba3-458c-428f-9665-4ea13ba9200e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 170266,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Iron & Wine",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c3f28da8-662d-4f09-bdc7-3084bf685930"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Iron & Wine",
+                                "artist_mbid": "c3f28da8-662d-4f09-bdc7-3084bf685930",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26042666806,
+                        "caa_release_mbid": "4a363813-8b4b-44aa-8161-c1cafb082cfb",
+                        "recording_mbid": "f0c599ee-ba18-44c3-b2cd-989df7e87e60",
+                        "recording_name": "Time After Time",
+                        "release_group_mbid": "ad6e59f2-1b10-4206-884c-9370d466819f",
+                        "release_mbid": "4a363813-8b4b-44aa-8161-c1cafb082cfb"
+                    },
+                    "release_name": "Time After Time",
+                    "track_name": "Time After Time"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791461486,
+                "listened_at": 1791461285,
+                "recording_msid": "635ea580-4351-44f3-a084-c620b7188deb",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 193045,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "James Blake",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8dc08b1f-e393-4f85-a5dd-300f7693a8b8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "James Blake",
+                                "artist_mbid": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28018622637,
+                        "caa_release_mbid": "cbffb0ae-9c0d-4046-900b-72bbbed2edf0",
+                        "recording_mbid": "b9f810d7-d194-421f-83ce-bf280082fb0d",
+                        "recording_name": "when the party’s over",
+                        "release_group_mbid": "3cbd2c19-342a-4c75-8d9d-c9b75395656a",
+                        "release_mbid": "cbffb0ae-9c0d-4046-900b-72bbbed2edf0",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/107949761"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/107949346"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/164850467"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/107949761"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/164850483"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/107949346"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1165058802"
+                            }
+                        ]
+                    },
+                    "release_name": "Covers",
+                    "track_name": "when the party’s over"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791461295,
+                "listened_at": 1791461050,
+                "recording_msid": "547871d5-ad39-4e07-a54d-e8dfdc953dc8",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 232986,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Jason Walker",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cba0a57f-ec2d-4c55-acf5-d73116fa80e7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jason Walker",
+                                "artist_mbid": "cba0a57f-ec2d-4c55-acf5-d73116fa80e7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 3273400074,
+                        "caa_release_mbid": "73ccf2df-b0d2-44cf-b88f-44314620203b",
+                        "recording_mbid": "15c8dfa4-a2af-487e-b470-62ba1f7d40f5",
+                        "recording_name": "Kiss Me",
+                        "release_group_mbid": "477df4c0-8e47-4c78-aa3a-5801098712f4",
+                        "release_mbid": "73ccf2df-b0d2-44cf-b88f-44314620203b"
+                    },
+                    "release_name": "Midnight Starlight",
+                    "track_name": "Kiss Me"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791461051,
+                "listened_at": 1791460866,
+                "recording_msid": "1ef25438-e4d2-4a0d-ade0-f507b7b8e508",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 161855,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31738888619,
+                        "caa_release_mbid": "4d230016-848c-4157-9d07-4862e52c19b1",
+                        "recording_mbid": "bde22981-3bcc-41d6-bf8c-7014bf7ac385",
+                        "recording_name": "Life Goes On",
+                        "release_group_mbid": "bdd9dc79-db89-4fa6-8315-691aefc9f9e9",
+                        "release_mbid": "7c101c05-ad29-4d6e-9cc4-f652b12c29ec",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0q4DjnKieCETAKoWuZSpd7"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6767162063"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1380101222"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=mzhbRUniU4U"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/278192632"
+                            }
+                        ]
+                    },
+                    "release_name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+                    "track_name": "Life Goes On"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791147386,
+                "listened_at": 1791147141,
+                "recording_msid": "27a8ab69-60c3-43e1-b8aa-212d6a2d4fa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40855740538,
+                        "caa_release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2",
+                        "recording_mbid": "b78037a5-6158-4bc2-9cba-2b8c33e03665",
+                        "recording_name": "Miss You",
+                        "release_group_mbid": "e5403464-bdcf-4533-b80c-cfadd3122019",
+                        "release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2"
+                    },
+                    "release_name": "Miss You",
+                    "track_name": "Miss You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791147150,
+                "listened_at": 1791146942,
+                "recording_msid": "04db223d-6b42-420d-a19d-dbb2db83447c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199079,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42742653498,
+                        "caa_release_mbid": "e077e535-43a9-4264-964f-a96d1dca8357",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "recording_name": "back to friends",
+                        "release_group_mbid": "38103ba1-04f5-4e4c-b2c4-b769c0ed2eee",
+                        "release_mbid": "a73067b2-3c56-42dd-9671-2077417ddcca"
+                    },
+                    "release_name": "back to friends",
+                    "track_name": "back to friends"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791146953,
+                "listened_at": 1791146701,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1791146773,
+                "listened_at": 1791146471,
+                "recording_msid": "d4b4022e-5e6d-446c-b522-4853ac220039",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228937,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45286465162,
+                        "caa_release_mbid": "ff0440a5-2d6d-47ce-aa4d-71c4b0826bff",
+                        "recording_mbid": "6b8f53da-0ffa-46da-83a8-4387deb9541c",
+                        "recording_name": "The Visitor",
+                        "release_group_mbid": "bb33d07f-bb9a-4ba7-83df-48fe5fc221b5",
+                        "release_mbid": "0d81e5dd-ba41-4550-ae86-6102dd5502fe",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/504701468"
+                            }
+                        ]
+                    },
+                    "release_name": "The Visitor",
+                    "track_name": "The Visitor"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790771895,
+                "listened_at": 1790771664,
+                "recording_msid": "d4b4022e-5e6d-446c-b522-4853ac220039",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228937,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45286465162,
+                        "caa_release_mbid": "ff0440a5-2d6d-47ce-aa4d-71c4b0826bff",
+                        "recording_mbid": "6b8f53da-0ffa-46da-83a8-4387deb9541c",
+                        "recording_name": "The Visitor",
+                        "release_group_mbid": "bb33d07f-bb9a-4ba7-83df-48fe5fc221b5",
+                        "release_mbid": "0d81e5dd-ba41-4550-ae86-6102dd5502fe",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/504701468"
+                            }
+                        ]
+                    },
+                    "release_name": "The Visitor",
+                    "track_name": "The Visitor"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790713470,
+                "listened_at": 1790713259,
+                "recording_msid": "27a8ab69-60c3-43e1-b8aa-212d6a2d4fa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40855740538,
+                        "caa_release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2",
+                        "recording_mbid": "b78037a5-6158-4bc2-9cba-2b8c33e03665",
+                        "recording_name": "Miss You",
+                        "release_group_mbid": "e5403464-bdcf-4533-b80c-cfadd3122019",
+                        "release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2"
+                    },
+                    "release_name": "Miss You",
+                    "track_name": "Miss You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790713351,
+                "listened_at": 1790713059,
+                "recording_msid": "04db223d-6b42-420d-a19d-dbb2db83447c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199079,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42742653498,
+                        "caa_release_mbid": "e077e535-43a9-4264-964f-a96d1dca8357",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "recording_name": "back to friends",
+                        "release_group_mbid": "38103ba1-04f5-4e4c-b2c4-b769c0ed2eee",
+                        "release_mbid": "a73067b2-3c56-42dd-9671-2077417ddcca"
+                    },
+                    "release_name": "back to friends",
+                    "track_name": "back to friends"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790713059,
+                "listened_at": 1790712818,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790712594,
+                "listened_at": 1790712439,
+                "recording_msid": "d4b4022e-5e6d-446c-b522-4853ac220039",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 228937,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45286465162,
+                        "caa_release_mbid": "ff0440a5-2d6d-47ce-aa4d-71c4b0826bff",
+                        "recording_mbid": "6b8f53da-0ffa-46da-83a8-4387deb9541c",
+                        "recording_name": "The Visitor",
+                        "release_group_mbid": "bb33d07f-bb9a-4ba7-83df-48fe5fc221b5",
+                        "release_mbid": "0d81e5dd-ba41-4550-ae86-6102dd5502fe",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/504701468"
+                            }
+                        ]
+                    },
+                    "release_name": "The Visitor",
+                    "track_name": "The Visitor"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790006053,
+                "listened_at": 1790005908,
+                "recording_msid": "f2dc262d-8d11-4d8a-b938-6c8137861bd7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 141270,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tom Odell",
+                    "release_name": "Real Love",
+                    "track_name": "Real Love (From the John Lewis Christmas Advert 2014)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790005968,
+                "listened_at": 1790005547,
+                "recording_msid": "0e4f792e-ef3c-490c-a8d6-63418dd2cbcd",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 254929,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Bill Withers",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fd1a2d9d-9bb6-44de-83a3-41560658aba9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bill Withers",
+                                "artist_mbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 39306822896,
+                        "caa_release_mbid": "28ab0770-0d8c-4f11-aa02-3e6ccf06ac6f",
+                        "recording_mbid": "2b03e9e9-0593-448d-898f-9a79c91cec34",
+                        "recording_name": "Lovely Day",
+                        "release_group_mbid": "3fbf6c2c-69ae-35e4-be9f-53e3000f10e1",
+                        "release_mbid": "1fd22d2f-83df-408b-ac8a-01d97b65f551"
+                    },
+                    "release_name": "The Essential Bill Withers",
+                    "track_name": "Lovely Day"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790005712,
+                "listened_at": 1790005300,
+                "recording_msid": "fa56a18e-c442-4fdf-83ce-321a18ec3e0b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 245473,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "1e68edf1-d4ad-46ed-9de0-0bd9a34c15ea",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "beabadoobee",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "88d17133-abbc-42db-9526-4e2c1db60336"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "beabadoobee",
+                                "artist_mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37091356291,
+                        "caa_release_mbid": "709f3312-c7fc-4798-acde-9144d9460c09",
+                        "recording_mbid": "1e68edf1-d4ad-46ed-9de0-0bd9a34c15ea",
+                        "recording_name": "Lovesong",
+                        "release_group_mbid": "b27250e6-f50f-45fb-8d62-38003e5a9753",
+                        "release_mbid": "9c1f0927-de84-42c5-9f80-51641a95bbf5"
+                    },
+                    "release_name": "Beatopia",
+                    "track_name": "Lovesong"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790005302,
+                "listened_at": 1790005082,
+                "recording_msid": "6dd09646-37ca-4fb5-a5fc-2544448dfe8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 217652,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "4bd84977-c33c-49d7-9b91-8437231aea4c",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Jon Bellion",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jon Bellion",
+                                "artist_mbid": "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27950891329,
+                        "caa_release_mbid": "c88a7c63-41f3-4dab-ae93-1bb397f2e08d",
+                        "recording_mbid": "4bd84977-c33c-49d7-9b91-8437231aea4c",
+                        "recording_name": "All Time Low",
+                        "release_group_mbid": "75f30bf9-2ccd-47c1-851d-e56963695504",
+                        "release_mbid": "7a164154-4edd-4edf-a508-d598a70ec5a4"
+                    },
+                    "release_name": "All Time Low",
+                    "track_name": "All Time Low (BOXINBOX & Lionsize Remix)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790005059,
+                "listened_at": 1790004840,
+                "recording_msid": "6dd09646-37ca-4fb5-a5fc-2544448dfe8f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 217652,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "4bd84977-c33c-49d7-9b91-8437231aea4c",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Jon Bellion",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jon Bellion",
+                                "artist_mbid": "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 27950891329,
+                        "caa_release_mbid": "c88a7c63-41f3-4dab-ae93-1bb397f2e08d",
+                        "recording_mbid": "4bd84977-c33c-49d7-9b91-8437231aea4c",
+                        "recording_name": "All Time Low",
+                        "release_group_mbid": "75f30bf9-2ccd-47c1-851d-e56963695504",
+                        "release_mbid": "7a164154-4edd-4edf-a508-d598a70ec5a4"
+                    },
+                    "release_name": "All Time Low",
+                    "track_name": "All Time Low (BOXINBOX & Lionsize Remix)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790005009,
+                "listened_at": 1790004528,
+                "recording_msid": "60cff13d-a616-42b8-b3d5-960a2f473186",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 310256,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Mary Hopkin, Welsh folk singer.",
+                    "release_name": "Post Card (Deluxe Edition / Remastered 2010)",
+                    "track_name": "Those Were the Days"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790004528,
+                "listened_at": 1790004395,
+                "recording_msid": "ef9942d7-e4aa-4be0-959c-cf17ea5633f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 131918,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tate McRae",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "f9133869-f87c-459c-9aa7-2f176cda7e06"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tate McRae",
+                                "artist_mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37446905462,
+                        "caa_release_mbid": "a25edac1-488f-46db-b91a-128706957dbc",
+                        "recording_mbid": "882c925d-125e-415c-b236-c78f1b1db436",
+                        "recording_name": "greedy",
+                        "release_group_mbid": "6e924cee-9945-4a1b-b4c6-3445f846c01f",
+                        "release_mbid": "569aaf15-e65d-4c94-9b80-4631af82e9f0",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1706381103"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1716103127"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1716103127"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2570727012"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/315101914"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2444176345"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1706381103"
+                            }
+                        ]
+                    },
+                    "release_name": "greedy",
+                    "track_name": "greedy"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790004398,
+                "listened_at": 1790004193,
+                "recording_msid": "ff5d8ee9-4ea4-42fa-a5ea-313f03211d3e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199837,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Falco",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "dcd95aa4-f3ff-492d-a621-8518ada0f58b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Falco",
+                                "artist_mbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 10606959276,
+                        "caa_release_mbid": "ffd2e941-9e63-4844-b977-4b89e09669a3",
+                        "recording_mbid": "c202f18b-758e-4c9e-be38-71e7863f57d1",
+                        "recording_name": "Rock Me Amadeus",
+                        "release_group_mbid": "b57bc440-df3e-333e-b60a-e1db9a13b9a6",
+                        "release_mbid": "5c69173b-3f8b-4d31-9ae3-4c47e903d4a8"
+                    },
+                    "release_name": "The Definitive 80's (eighties)",
+                    "track_name": "Rock Me Amadeus"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790004195,
+                "listened_at": 1790003910,
+                "recording_msid": "070011fa-ce26-445e-97a0-78c000ee1a59",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 281913,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Madonna",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "79239441-bfd5-4981-a70c-55c3f15c1287"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Madonna",
+                                "artist_mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32881405878,
+                        "caa_release_mbid": "9101319a-a27f-4020-84df-d3474722c53b",
+                        "recording_mbid": "3c555b51-abdf-4f93-8e47-3d32fae5caff",
+                        "recording_name": "Sorry",
+                        "release_group_mbid": "122677be-e664-362d-95eb-be3ae126ec03",
+                        "release_mbid": "91520abc-aa5d-4cd1-bc0c-b38a99940341",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/91990183"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/91990183"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/1669836"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/679225"
+                            }
+                        ]
+                    },
+                    "release_name": "Confessions on a Dance Floor",
+                    "track_name": "Sorry"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790003916,
+                "listened_at": 1790003596,
+                "recording_msid": "a92a7d4d-c1bc-4742-b38a-b425dfee179d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 313731,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Milky Chance",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6d230d98-fb8d-4421-a6e8-daca4e55d53e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Milky Chance",
+                                "artist_mbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42047526738,
+                        "caa_release_mbid": "f4afffdb-eb01-4984-a9c5-bc68af7f6891",
+                        "recording_mbid": "c40dc2f7-e7c3-4451-b991-404b59524bf0",
+                        "recording_name": "Stolen Dance",
+                        "release_group_mbid": "a50a56d8-0953-45ea-a13a-08b4594f1f0e",
+                        "release_mbid": "5e279f7b-a9bf-4f67-98ff-0391731c4d26",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3miMZ2IlJiaeSWo1DohXlN"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1608588179"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=JnYr3wlVF08"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1645426722"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/215331988"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/32qNqi7n2gECTX5rfruYiD"
+                            }
+                        ]
+                    },
+                    "release_name": "Sadnecessary",
+                    "track_name": "Stolen Dance"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790003597,
+                "listened_at": 1790003378,
+                "recording_msid": "8dcba638-2584-4ccc-b8a5-15dd25516caf",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 217051,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "02dada2c-9476-4bc3-a4c4-7c516a5151c1",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "SIENNA SPIRO",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ea696191-407a-4bf2-8302-7e05f6c163c5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SIENNA SPIRO",
+                                "artist_mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43289246997,
+                        "caa_release_mbid": "56968f42-3111-480e-8ad0-2af2b2e4e433",
+                        "recording_mbid": "02dada2c-9476-4bc3-a4c4-7c516a5151c1",
+                        "recording_name": "Die on This Hill",
+                        "release_group_mbid": "c5d27497-e67b-4f73-a69c-4bd68fab945d",
+                        "release_mbid": "56968f42-3111-480e-8ad0-2af2b2e4e433"
+                    },
+                    "release_name": "Die On This Hill",
+                    "track_name": "Die On This Hill"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790003381,
+                "listened_at": 1790003122,
+                "recording_msid": "a934f8af-e569-4abe-a0a4-f90e507eab44",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 255556,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Noah Kahan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Noah Kahan",
+                                "artist_mbid": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44943593921,
+                        "caa_release_mbid": "bae93ffb-91d4-4798-86b9-3c14c6187b51",
+                        "recording_mbid": "b5546524-cdf9-4a3c-aafc-5c3cb558c0cf",
+                        "recording_name": "Downfall",
+                        "release_group_mbid": "09d6c4af-2545-468e-8b44-4d5eb3e9aa85",
+                        "release_mbid": "c012289a-2eb9-45f8-bd0e-167a19c9b668",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1872239884"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1872239884"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3974113451"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/517821568"
+                            }
+                        ]
+                    },
+                    "release_name": "The Great Divide: The Last Of The Bugs",
+                    "track_name": "Downfall"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790003121,
+                "listened_at": 1790002869,
+                "recording_msid": "1028578a-784d-4805-864a-b6145db15b86",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 249861,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Mike & The Mechanics",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a04e09c8-733c-4430-9e22-99ef9dd5e2d7"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Mike + the Mechanics",
+                                "artist_mbid": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 18063662829,
+                        "caa_release_mbid": "7ab07701-3cc8-40ad-8e51-e1265208035c",
+                        "recording_mbid": "d4739b52-bf99-441d-8a75-8bd58731a81c",
+                        "recording_name": "All I Need Is a Miracle",
+                        "release_group_mbid": "eb8f4523-a2f2-385a-86b8-3a8e5651907d",
+                        "release_mbid": "320acda1-cbf1-3975-8887-85d70304d192"
+                    },
+                    "release_name": "Mike + The Mechanics",
+                    "track_name": "All I Need Is A Miracle"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790002874,
+                "listened_at": 1790002659,
+                "recording_msid": "d0c338ac-b6de-4c12-a519-97a14ced7301",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 208823,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "65610fb7-5172-4395-90ae-b074161a9168",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Gorillaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e21857d5-3256-4547-afb3-4b6ded592596"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Gorillaz",
+                                "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35302227366,
+                        "caa_release_mbid": "613c2d3c-f1de-42a9-a96f-abaa5a1e4285",
+                        "recording_mbid": "65610fb7-5172-4395-90ae-b074161a9168",
+                        "recording_name": "On Melancholy Hill (Gorillaz Sound System Remix)",
+                        "release_group_mbid": "ec6531e9-1842-4116-86e6-75a4c2d3c6c4",
+                        "release_mbid": "8250693a-61d9-4d55-907a-47dc329aff26"
+                    },
+                    "release_name": "The Singles Collection 2001-2011",
+                    "track_name": "On Melancholy Hill"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790002661,
+                "listened_at": 1790002496,
+                "recording_msid": "1ef25438-e4d2-4a0d-ade0-f507b7b8e508",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 161855,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31738888619,
+                        "caa_release_mbid": "4d230016-848c-4157-9d07-4862e52c19b1",
+                        "recording_mbid": "bde22981-3bcc-41d6-bf8c-7014bf7ac385",
+                        "recording_name": "Life Goes On",
+                        "release_group_mbid": "bdd9dc79-db89-4fa6-8315-691aefc9f9e9",
+                        "release_mbid": "7c101c05-ad29-4d6e-9cc4-f652b12c29ec",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0q4DjnKieCETAKoWuZSpd7"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6767162063"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1380101222"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=mzhbRUniU4U"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/278192632"
+                            }
+                        ]
+                    },
+                    "release_name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+                    "track_name": "Life Goes On"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1790002496,
+                "listened_at": 1790002288,
+                "recording_msid": "27a8ab69-60c3-43e1-b8aa-212d6a2d4fa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40855740538,
+                        "caa_release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2",
+                        "recording_mbid": "b78037a5-6158-4bc2-9cba-2b8c33e03665",
+                        "recording_name": "Miss You",
+                        "release_group_mbid": "e5403464-bdcf-4533-b80c-cfadd3122019",
+                        "release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2"
+                    },
+                    "release_name": "Miss You",
+                    "track_name": "Miss You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788870094,
+                "listened_at": 1788869902,
+                "recording_msid": "63de5f49-e233-401f-9ff2-bca1c04946e7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 182230,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Lady Gaga, Ariana Grande",
+                    "release_name": "Chromatica",
+                    "track_name": "Rain On Me (with Ariana Grande)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788869953,
+                "listened_at": 1788869686,
+                "recording_msid": "2ac4bc99-6543-4409-b263-a6487e97c113",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 214883,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "1f215b13-829c-4077-9098-e287d1d87f50",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Calvin Harris, Dua Lipa",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                            "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Calvin Harris",
+                                "artist_mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Dua Lipa",
+                                "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45390229133,
+                        "caa_release_mbid": "a22cb9d6-bbb4-494b-8363-0835c1652351",
+                        "recording_mbid": "1f215b13-829c-4077-9098-e287d1d87f50",
+                        "recording_name": "One Kiss",
+                        "release_group_mbid": "93747376-b698-4610-a023-d256de075460",
+                        "release_mbid": "6dd44772-ef54-4a89-b9ea-65fa7a6bef52",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/379852032"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/-/19366571"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2926964401"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/285wmjLyda5IUvcw6UCHvb"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1760348195"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/281090255"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1760348195"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/281090255"
+                            }
+                        ]
+                    },
+                    "release_name": "One Kiss",
+                    "track_name": "One Kiss (with Dua Lipa)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788869677,
+                "listened_at": 1788869469,
+                "recording_msid": "1bc86cb8-40d8-4c05-a804-f45697091214",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 194456,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Jonas Blue",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "17678771-5799-4017-851a-319f25b6948d"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jonas Blue",
+                                "artist_mbid": "17678771-5799-4017-851a-319f25b6948d",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44443273443,
+                        "caa_release_mbid": "fe12c5b9-d603-42ff-bbc2-2188d2c9c85a",
+                        "recording_mbid": "c0f51615-a1b9-44c7-b2ad-a806a3918ebd",
+                        "recording_name": "Rise",
+                        "release_group_mbid": "116add1f-f5ce-4366-bb06-51247f627ffe",
+                        "release_mbid": "2a13eb7e-72d5-40e1-b903-1828da491513"
+                    },
+                    "release_name": "Rise",
+                    "track_name": "Rise"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788869478,
+                "listened_at": 1788869300,
+                "recording_msid": "f8940784-df2d-49ef-aa7e-c93c885b9662",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 164676,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Bebe Rexha",
+                    "release_name": "Expectations",
+                    "track_name": "Meant to Be (feat. Florida Georgia Line)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788870549,
+                "listened_at": 1788869081,
+                "recording_msid": "17e04d10-e6ad-433c-b0ac-4f5d93248c42",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 218175,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Post Malone, 21 Savage",
+                    "release_name": "beerbongs & bentleys",
+                    "track_name": "rockstar (feat. 21 Savage)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788869081,
+                "listened_at": 1788868943,
+                "recording_msid": "c88e7046-0c10-49b7-bc95-27f29a1c5717",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137744,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Lil Nas X",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0b30341b-b59d-4979-8130-b66c0e475321"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Lil Nas X",
+                                "artist_mbid": "0b30341b-b59d-4979-8130-b66c0e475321",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 32131912528,
+                        "caa_release_mbid": "b46119ac-079f-49d4-863d-cd4b49f9d843",
+                        "recording_mbid": "6ed6a516-8b56-4ba2-a621-00678bc86ec5",
+                        "recording_name": "MONTERO (Call Me by Your Name)",
+                        "release_group_mbid": "5ff232ca-d9c8-459b-9253-9374ec07777e",
+                        "release_mbid": "a212af05-ac1c-478c-a8bf-9621681c13e6",
+                        "url_rels": [
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/178990246"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1560908105"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1560908105"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1297335702"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1556766751"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/178783648"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1560578321"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1290273502"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/montero-call-me-by-your-name/15129106"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/montero-call-me-by-your-name/15138637"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1283264142"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/178064500"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/montero-call-me-by-your-name/15102751"
+                            }
+                        ]
+                    },
+                    "release_name": "MONTERO",
+                    "track_name": "MONTERO (Call Me By Your Name)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788866363,
+                "listened_at": 1788866137,
+                "recording_msid": "c1026c05-2e2d-424b-a943-29fbe8468e1b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 216451,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Nevada",
+                    "release_name": "The Mack (Remixes)",
+                    "track_name": "The Mack (David Zowie Remix)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788866161,
+                "listened_at": 1788865902,
+                "recording_msid": "33f187dd-5ceb-4d11-8a78-43913a818c1f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 234606,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Flo Rida, David Guetta",
+                    "release_name": "Only One Flo (Part 1)",
+                    "track_name": "Club Can't Handle Me (feat. David Guetta)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788865962,
+                "listened_at": 1788865620,
+                "recording_msid": "be950b34-fef5-442b-ba3f-425831abdfe3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 281783,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Crookers",
+                    "release_name": "Man On The Moon: The End Of Day (Int'l Version)",
+                    "track_name": "Day 'N' Nite - Crookers Remix"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788865620,
+                "listened_at": 1788865424,
+                "recording_msid": "1afb2f38-9234-44f8-b055-e21af3e5736b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 194873,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "David Guetta, Flo Rida, Nicki Minaj",
+                    "release_name": "Nothing but the Beat (Ultimate Edition)",
+                    "track_name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788865435,
+                "listened_at": 1788865227,
+                "recording_msid": "162b2cca-1e6f-4140-91ba-9209955dd972",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 195892,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "David Guetta, Akon",
+                    "release_name": "One More Love",
+                    "track_name": "Sexy Bitch (feat. Akon)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788865225,
+                "listened_at": 1788865015,
+                "recording_msid": "25a5bd53-a51c-4e7e-80ff-72b73b6fc647",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 208509,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "4de9f90f-c97e-4d6e-9388-143d94d884b7",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Riton & Oliver Heldens feat. Vula",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9b085502-2c93-446f-ab1b-858e281471ff",
+                            "df679f1d-2bab-442b-bc67-02a44f9b2adf",
+                            "20210241-f26b-4bd3-83d4-bcd0cc153b12"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Riton",
+                                "artist_mbid": "9b085502-2c93-446f-ab1b-858e281471ff",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Oliver Heldens",
+                                "artist_mbid": "df679f1d-2bab-442b-bc67-02a44f9b2adf",
+                                "join_phrase": " feat. "
+                            },
+                            {
+                                "artist_credit_name": "Vula",
+                                "artist_mbid": "20210241-f26b-4bd3-83d4-bcd0cc153b12",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24465681783,
+                        "caa_release_mbid": "7ad7f749-9349-4a25-abbd-747f8add462c",
+                        "recording_mbid": "4de9f90f-c97e-4d6e-9388-143d94d884b7",
+                        "recording_name": "Turn Me On",
+                        "release_group_mbid": "6aea783b-df5b-4fb6-8b05-cdb32eeb4c45",
+                        "release_mbid": "7ad7f749-9349-4a25-abbd-747f8add462c"
+                    },
+                    "release_name": "Turn Me On (feat. Vula)",
+                    "track_name": "Turn Me On"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788865025,
+                "listened_at": 1788864858,
+                "recording_msid": "c85d381f-f9a0-48be-bb1a-aa9e54cb18ab",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 155847,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Edward Maya",
+                    "release_name": "Stereo Love",
+                    "track_name": "Stereo Love (UK Radio Edit)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788864861,
+                "listened_at": 1788864634,
+                "recording_msid": "bf1c82ba-3465-427c-b76a-840566c9110a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 222668,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Calvin Harris",
+                    "release_name": "Bounce",
+                    "track_name": "Bounce (feat. Kelis) (Radio Edit)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788864634,
+                "listened_at": 1788864455,
+                "recording_msid": "c7c41cf7-0094-4809-a8d5-4cf4186d5a82",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 177607,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Dizzee Rascal, Armand Van Helden",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1a99cc88-aea3-4fe3-96b9-20791667f65f",
+                            "b09b5127-c62e-4bb2-b790-1e4aa18749ed"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dizzee Rascal",
+                                "artist_mbid": "1a99cc88-aea3-4fe3-96b9-20791667f65f",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Armand van Helden",
+                                "artist_mbid": "b09b5127-c62e-4bb2-b790-1e4aa18749ed",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 7676804289,
+                        "caa_release_mbid": "9173d956-9746-3645-8e9e-2a92412778e9",
+                        "recording_mbid": "f8f475a4-82f8-440e-9b05-3a788bdb11cc",
+                        "recording_name": "Bonkers",
+                        "release_group_mbid": "49c8fe6e-8230-4c6d-942d-7f75210b7762",
+                        "release_mbid": "cec5f5f3-8876-4630-acd6-a0c3993410bb",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=XWQxkQM6HEk"
+                            }
+                        ]
+                    },
+                    "release_name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
+                    "track_name": "Bonkers"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788864454,
+                "listened_at": 1788864261,
+                "recording_msid": "84a114ac-5bc1-4504-9bc9-8bf4b7a97037",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 192340,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Guru Josh Project, Klaas",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9fa0e4be-4cd9-43fb-8b20-ad07c15b3b97",
+                            "3323f0ca-dd99-45a8-9696-971c4c27806a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Guru Josh Project",
+                                "artist_mbid": "9fa0e4be-4cd9-43fb-8b20-ad07c15b3b97",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Klaas",
+                                "artist_mbid": "3323f0ca-dd99-45a8-9696-971c4c27806a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41596702400,
+                        "caa_release_mbid": "728a58f5-389e-479b-93ca-956e49d0d95f",
+                        "recording_mbid": "e03d19bd-99a3-45f4-bbc5-9cf6a516d977",
+                        "recording_name": "Infinity 2008 - Klaas Vocal Edit",
+                        "release_group_mbid": "9808b84e-fbc0-41ae-a93f-2497c53ed638",
+                        "release_mbid": "728a58f5-389e-479b-93ca-956e49d0d95f"
+                    },
+                    "release_name": "Infinity 2008",
+                    "track_name": "Infinity 2008 - Klaas Vocal Edit"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788864266,
+                "listened_at": 1788864062,
+                "recording_msid": "49d1b274-7b8b-4c39-b925-0f81f6f72619",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 195788,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Duke Dumont",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "6060d1bb-94f8-4863-89b9-425487f2f6b2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Duke Dumont",
+                                "artist_mbid": "6060d1bb-94f8-4863-89b9-425487f2f6b2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28733710212,
+                        "caa_release_mbid": "1daa9a16-8107-4909-a733-a7ef0a1ad12e",
+                        "recording_mbid": "2631bb03-ca18-4b5b-b4ff-7687c5fa1110",
+                        "recording_name": "The Giver (reprise)",
+                        "release_group_mbid": "32150f04-92ed-4b12-8502-00ab55d43ea3",
+                        "release_mbid": "5eb1fb27-40bb-4034-ba36-4df712250fb3"
+                    },
+                    "release_name": "The Giver (Reprise)",
+                    "track_name": "The Giver (Reprise)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788864064,
+                "listened_at": 1788863897,
+                "recording_msid": "a17d7ff9-e07b-405d-b25d-cb3c72cbda63",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 164049,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tiesto",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "aabb1d9f-be12-45b3-a84d-a1fc3e8181fd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tiësto",
+                                "artist_mbid": "aabb1d9f-be12-45b3-a84d-a1fc3e8181fd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 35178364488,
+                        "caa_release_mbid": "1b41302c-b5f3-4943-a096-c9849117a1d4",
+                        "recording_mbid": "7299586b-a5b2-42b9-9630-7c48bdf925c0",
+                        "recording_name": "The Business",
+                        "release_group_mbid": "ac2097a2-437d-4e36-9443-992a1b1dcf3b",
+                        "release_mbid": "c7735fc7-f426-4678-9b61-e01952110477",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2304533295"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2179307247"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3IHHQDlpfxFzUBWQa6uhBd"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/297431712"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/57uNXnf4ciHYP4HktbIbzC"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/280411800"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://www.beatport.com/track/the-business/17655763"
+                            }
+                        ]
+                    },
+                    "release_name": "The Business",
+                    "track_name": "The Business"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863902,
+                "listened_at": 1788863729,
+                "recording_msid": "619ff9d4-2ae9-4814-9623-d6fceb3db919",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 166060,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Joel Corry, MNEK",
+                    "release_name": "Head & Heart (feat. MNEK)",
+                    "track_name": "Head & Heart (feat. MNEK)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863721,
+                "listened_at": 1788863548,
+                "recording_msid": "1d9c3a41-f978-4327-b039-cd34e0837688",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 173375,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Philip George",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "ae1b2c50-d349-426d-a772-7628c7c098d6"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Philip George",
+                                "artist_mbid": "ae1b2c50-d349-426d-a772-7628c7c098d6",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34736383458,
+                        "caa_release_mbid": "83299bc3-3c4d-4d06-820b-a5841faa5063",
+                        "recording_mbid": "0ea0b47f-e005-494e-a425-43260a0ebd4e",
+                        "recording_name": "Alone No More",
+                        "release_group_mbid": "7ce3e087-979b-40e5-8169-4945026c61a7",
+                        "release_mbid": "83299bc3-3c4d-4d06-820b-a5841faa5063"
+                    },
+                    "release_name": "Alone No More",
+                    "track_name": "Alone No More"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863489,
+                "listened_at": 1788863372,
+                "recording_msid": "55416b5b-545f-43a2-8646-a2de45e49508",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 107416,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "MAXAM",
+                    "release_name": "Kiss Me Again",
+                    "track_name": "Kiss Me Again"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863456,
+                "listened_at": 1788863193,
+                "recording_msid": "bced086c-d591-4dc7-b8db-00dd47041ae3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 175360,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "KREAM",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "753d2255-a1d6-4089-ba99-9a8d52295a9c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "KREAM",
+                                "artist_mbid": "753d2255-a1d6-4089-ba99-9a8d52295a9c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40596489487,
+                        "caa_release_mbid": "ae1a71e4-d5ac-4f92-b709-960066606294",
+                        "recording_mbid": "0f3db937-4200-40e0-8966-3439d305c151",
+                        "recording_name": "Wicked Game",
+                        "release_group_mbid": "617c4f6f-5df1-4fba-abb0-ab6457e74ea6",
+                        "release_mbid": "ae1a71e4-d5ac-4f92-b709-960066606294",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3824314601"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/495996452"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7uvjkwQGUy66XxPAfnxhVE"
+                            }
+                        ]
+                    },
+                    "release_name": "Wicked Game",
+                    "track_name": "Wicked Game"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863200,
+                "listened_at": 1788863077,
+                "recording_msid": "0668b200-854b-4a78-98bf-4c9c3071ae73",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 113737,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "James Hype",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "51cbf154-4b7f-4ec5-86a7-d269ae7d101a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "James Hype",
+                                "artist_mbid": "51cbf154-4b7f-4ec5-86a7-d269ae7d101a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44586865531,
+                        "caa_release_mbid": "88064d2a-c5a1-4efa-b32a-138d8fafc4a0",
+                        "recording_mbid": "2676b58e-fb30-4395-a2dd-aa00ce2c0d3d",
+                        "recording_name": "Be Mine",
+                        "release_group_mbid": "2ad3b675-0506-4c14-a69f-2c47b381ec5c",
+                        "release_mbid": "88064d2a-c5a1-4efa-b32a-138d8fafc4a0"
+                    },
+                    "release_name": "Be Mine",
+                    "track_name": "Be Mine"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788863085,
+                "listened_at": 1788862923,
+                "recording_msid": "754a52a9-ea34-4f8d-bb01-2c5c80adc7e5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 152581,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "felix jaehn",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "930448f9-a67a-402f-bc73-2bf6b279afaa"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Felix Jaehn",
+                                "artist_mbid": "930448f9-a67a-402f-bc73-2bf6b279afaa",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41106043276,
+                        "caa_release_mbid": "5f6ef994-155e-43c8-9393-fa5e67fb0d11",
+                        "recording_mbid": "2302106d-59f2-4712-bc65-5b50eabf08d4",
+                        "recording_name": "Walk With Me (edit)",
+                        "release_group_mbid": "bb91124d-d9c1-4452-bd89-5653e4fbff82",
+                        "release_mbid": "cfc591f9-d442-4a58-b450-124c3f65a424",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU"
+                            }
+                        ]
+                    },
+                    "release_name": "Walk With Me",
+                    "track_name": "Walk With Me (Edit)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862930,
+                "listened_at": 1788862708,
+                "recording_msid": "567a9894-166d-482e-977d-e4040ed9f1a9",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 214100,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Swedish House Mafia",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "99075985-0d80-4692-a15e-b16f78831792"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Swedish House Mafia",
+                                "artist_mbid": "99075985-0d80-4692-a15e-b16f78831792",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42640636957,
+                        "caa_release_mbid": "55d6ae9e-df9c-4ac1-bd9e-904b4e67fea9",
+                        "recording_mbid": "fd8b0eb3-a440-4dce-af44-d08920e1ed93",
+                        "recording_name": "Heaven Takes You Home",
+                        "release_group_mbid": "ca1c3c29-b178-450c-b02d-98e7da703d06",
+                        "release_mbid": "55d6ae9e-df9c-4ac1-bd9e-904b4e67fea9"
+                    },
+                    "release_name": "Paradise Again",
+                    "track_name": "Heaven Takes You Home"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862715,
+                "listened_at": 1788862521,
+                "recording_msid": "3f258fb4-e246-47ac-ab29-ef3fe2e46a2d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 185391,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Nelly Furtado",
+                    "release_name": "All Good Things (Come To An End) (Nelly Furtado x Quarterhead)",
+                    "track_name": "All Good Things (Come To An End) (Nelly Furtado x Quarterhead)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862526,
+                "listened_at": 1788862381,
+                "recording_msid": "9b82858f-a973-4fbc-8941-32de09932e2d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 137273,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "LAVINIA",
+                    "release_name": "K.O.",
+                    "track_name": "K.O."
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862382,
+                "listened_at": 1788862264,
+                "recording_msid": "c9255ff2-9276-48c9-b4b7-e3c88880d2f6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 115696,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "James Hype",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "51cbf154-4b7f-4ec5-86a7-d269ae7d101a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "James Hype",
+                                "artist_mbid": "51cbf154-4b7f-4ec5-86a7-d269ae7d101a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45674182523,
+                        "caa_release_mbid": "c8286185-087f-4546-88ed-097ef1834ca0",
+                        "recording_mbid": "ced331b5-45bc-4eb7-b2ba-19a4dab0f92b",
+                        "recording_name": "Seratonin",
+                        "release_group_mbid": "b8b5f4d5-74f1-411b-b10b-799658c0c68d",
+                        "release_mbid": "6df262b9-e4b7-4c7b-99e5-f40fc6f3c863"
+                    },
+                    "release_name": "Seratonin",
+                    "track_name": "Seratonin"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862266,
+                "listened_at": 1788862143,
+                "recording_msid": "31c756d3-418a-4c6b-ab71-9259fd0fb1b5",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 120607,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "James Hype, Sam Harper, Bobby Harvey",
+                    "release_name": "Waterfalls",
+                    "track_name": "Waterfalls (feat. Sam Harper & Bobby Harvey)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788862151,
+                "listened_at": 1788861994,
+                "recording_msid": "4d22da36-c21a-418c-899a-92376aaeb883",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 147879,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "FORTELLA",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "e44c6631-4a1c-4fce-907f-2cadf5aa74b5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "FORTELLA",
+                                "artist_mbid": "e44c6631-4a1c-4fce-907f-2cadf5aa74b5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "08e03a8d-3a33-4251-bd01-170a14ba0fe8",
+                        "recording_name": "Little Luck",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=To9Xton7aZM"
+                            }
+                        ]
+                    },
+                    "release_name": "Little Luck",
+                    "track_name": "Little Luck"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788861925,
+                "listened_at": 1788861682,
+                "recording_msid": "51ed13ae-5993-4a44-b346-9b857c1a491b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 233273,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "The Days",
+                    "release_name": "The Days (NOTION Remix)",
+                    "track_name": "The Days - NOTION Remix"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788861690,
+                "listened_at": 1788861567,
+                "recording_msid": "291d20cb-bf20-453c-8e25-07a58381656f",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 113607,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "YouNotUs",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "4954cd47-23b7-4a5c-acd9-95168562c228"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "YouNotUs",
+                                "artist_mbid": "4954cd47-23b7-4a5c-acd9-95168562c228",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46093680502,
+                        "caa_release_mbid": "0ca1d34e-d0a1-49ed-ad35-87d1b7cc11a9",
+                        "recording_mbid": "5b17b1b0-599a-4179-b8e0-03b1bc64e374",
+                        "recording_name": "What You Hiding?",
+                        "release_group_mbid": "5584d587-e1b6-4a49-8a64-b7411c3dc87d",
+                        "release_mbid": "0ca1d34e-d0a1-49ed-ad35-87d1b7cc11a9"
+                    },
+                    "release_name": "What You Hiding?",
+                    "track_name": "What You Hiding?"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788861573,
+                "listened_at": 1788861423,
+                "recording_msid": "1ef25438-e4d2-4a0d-ade0-f507b7b8e508",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 161855,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31738888619,
+                        "caa_release_mbid": "4d230016-848c-4157-9d07-4862e52c19b1",
+                        "recording_mbid": "bde22981-3bcc-41d6-bf8c-7014bf7ac385",
+                        "recording_name": "Life Goes On",
+                        "release_group_mbid": "bdd9dc79-db89-4fa6-8315-691aefc9f9e9",
+                        "release_mbid": "7c101c05-ad29-4d6e-9cc4-f652b12c29ec",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/0q4DjnKieCETAKoWuZSpd7"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/6767162063"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1380101222"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=mzhbRUniU4U"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/278192632"
+                            }
+                        ]
+                    },
+                    "release_name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+                    "track_name": "Life Goes On"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788853845,
+                "listened_at": 1788853637,
+                "recording_msid": "27a8ab69-60c3-43e1-b8aa-212d6a2d4fa1",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 206028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Oliver Tree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1fa3bded-908f-47be-9784-3c9ef850682b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Oliver Tree",
+                                "artist_mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40855740538,
+                        "caa_release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2",
+                        "recording_mbid": "b78037a5-6158-4bc2-9cba-2b8c33e03665",
+                        "recording_name": "Miss You",
+                        "release_group_mbid": "e5403464-bdcf-4533-b80c-cfadd3122019",
+                        "release_mbid": "66c5fb39-30b9-4658-8338-82de0cd156f2"
+                    },
+                    "release_name": "Miss You",
+                    "track_name": "Miss You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788853635,
+                "listened_at": 1788853434,
+                "recording_msid": "04db223d-6b42-420d-a19d-dbb2db83447c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199079,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42742653498,
+                        "caa_release_mbid": "e077e535-43a9-4264-964f-a96d1dca8357",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "recording_name": "back to friends",
+                        "release_group_mbid": "38103ba1-04f5-4e4c-b2c4-b769c0ed2eee",
+                        "release_mbid": "a73067b2-3c56-42dd-9671-2077417ddcca"
+                    },
+                    "release_name": "back to friends",
+                    "track_name": "back to friends"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788853431,
+                "listened_at": 1788853190,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788774914,
+                "listened_at": 1788774748,
+                "recording_msid": "04db223d-6b42-420d-a19d-dbb2db83447c",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 199079,
+                        "media_player": "Spotimy",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "sombr",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "502cf908-9921-48bc-bf0e-265c881c0156"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "sombr",
+                                "artist_mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42742653498,
+                        "caa_release_mbid": "e077e535-43a9-4264-964f-a96d1dca8357",
+                        "recording_mbid": "e374d8c3-da4b-42ce-84dd-26f7236907c3",
+                        "recording_name": "back to friends",
+                        "release_group_mbid": "38103ba1-04f5-4e4c-b2c4-b769c0ed2eee",
+                        "release_mbid": "a73067b2-3c56-42dd-9671-2077417ddcca"
+                    },
+                    "release_name": "back to friends",
+                    "track_name": "back to friends"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788760440,
+                "listened_at": 1788760189,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788181699,
+                "listened_at": 1788181293,
+                "recording_msid": "7d4e8727-2bad-400b-b12b-1821311fe0a7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 392725,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tears For Fears",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7c7f9c94-dee8-4903-892b-6cf44652e2de"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tears for Fears",
+                                "artist_mbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19682986993,
+                        "caa_release_mbid": "9aefc6dd-216a-4271-ada1-d9cf67956f39",
+                        "recording_mbid": "548f642b-b441-424f-ad35-efb88efd2df4",
+                        "recording_name": "Shout",
+                        "release_group_mbid": "475946e9-4b00-3f7c-9bd7-c11f55740262",
+                        "release_mbid": "21f19b06-81f1-347a-add5-5d0c77696597",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1oeUieVK2eXZBRUwsYjXe1"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/6UQDkQdtvj3f7F7edAsqda"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3241071671"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5bJQtH9HntZyKQxE8qbJ6S"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3655565572"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/473845201"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/418905467"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/11leihwcsTVOTo1gxpgYNG"
+                            }
+                        ]
+                    },
+                    "release_name": "Songs From The Big Chair (Deluxe)",
+                    "track_name": "Shout"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788078698,
+                "listened_at": 1788078441,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788077730,
+                "listened_at": 1788077463,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1788077620,
+                "listened_at": 1788077331,
+                "recording_msid": "82b2e959-d355-4e0a-8dc6-69a154b8d5d4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 240118,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Des'ree",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "250504d4-eca1-4b23-bea6-db1dc7d2eaf9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Des’ree",
+                                "artist_mbid": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 46175274584,
+                        "caa_release_mbid": "8ff20977-22b9-4c11-a8ec-a86f95d1adf8",
+                        "recording_mbid": "be03f2d6-6829-4f6d-8333-7cc449ffb868",
+                        "recording_name": "You Gotta Be",
+                        "release_group_mbid": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
+                        "release_mbid": "f9de9a31-00cc-4af2-90f4-014d4e0106d3"
+                    },
+                    "release_name": "Supernatural",
+                    "track_name": "You Gotta Be"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787843985,
+                "listened_at": 1787843452,
+                "recording_msid": "52d6547e-0ef9-45c3-acaa-8a2fd2088473",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237192,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Bryan Ferry",
+                    "release_name": "Don't Stop The Dance",
+                    "track_name": "Don't Stop The Dance (Single Version)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787843469,
+                "listened_at": 1787843195,
+                "recording_msid": "def2724e-fe04-46ee-8436-7c4b0aced932",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 255765,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Berlin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c7cb9a2e-ff57-4bb8-bd2c-83524e18e369"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Berlin",
+                                "artist_mbid": "c7cb9a2e-ff57-4bb8-bd2c-83524e18e369",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45572217883,
+                        "caa_release_mbid": "2c55c0d0-e5db-4006-8ec6-2c219c935e8b",
+                        "recording_mbid": "9d0a0d7c-89a1-4091-a685-b362f3a3cb0f",
+                        "recording_name": "Take My Breath Away (love theme from “Top Gun”)",
+                        "release_group_mbid": "eecbeffe-abdd-45ae-b06b-a22d9b6dbc01",
+                        "release_mbid": "2c55c0d0-e5db-4006-8ec6-2c219c935e8b"
+                    },
+                    "release_name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+                    "track_name": "Take My Breath Away (Love Theme from \"Top Gun\")"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787843190,
+                "listened_at": 1787842934,
+                "recording_msid": "4a600439-84a2-4c1f-8d28-3d0fe6b51fca",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 248033,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Billy Ocean",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0e422e91-a42a-4b4d-8413-9baff67350f2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Billy Ocean",
+                                "artist_mbid": "0e422e91-a42a-4b4d-8413-9baff67350f2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41567259756,
+                        "caa_release_mbid": "a03d3fa5-6cfd-40eb-a4f1-e2421eb60154",
+                        "recording_mbid": "05144f18-a74f-4f82-945a-09c75f5db9f6",
+                        "recording_name": "When the Going Gets Tough, the Tough Get Going",
+                        "release_group_mbid": "f38f1147-4196-3003-97d3-41010f520f79",
+                        "release_mbid": "0df8121e-297e-4014-8fbc-1d77a619dda5"
+                    },
+                    "release_name": "The Very Best of Billy Ocean",
+                    "track_name": "When the Going Gets Tough, The Tough Get Going"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787842937,
+                "listened_at": 1787842626,
+                "recording_msid": "fc21b6df-a92f-4f20-8540-d2bad7882813",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 302158,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Tears For Fears",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7c7f9c94-dee8-4903-892b-6cf44652e2de"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Tears for Fears",
+                                "artist_mbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 19682986993,
+                        "caa_release_mbid": "9aefc6dd-216a-4271-ada1-d9cf67956f39",
+                        "recording_mbid": "36dd015e-e951-4b93-abac-0f2a4e7de3db",
+                        "recording_name": "Head Over Heels",
+                        "release_group_mbid": "475946e9-4b00-3f7c-9bd7-c11f55740262",
+                        "release_mbid": "a5cea617-9bd0-31b5-9281-b691a0ebd18c"
+                    },
+                    "release_name": "Songs From The Big Chair (Deluxe)",
+                    "track_name": "Head Over Heels"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787842638,
+                "listened_at": 1787842330,
+                "recording_msid": "9821f5be-46dc-442b-9ce3-d00ad561fa09",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 294531,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Bobby McFerrin",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a996b5bd-db99-4257-b036-336f63448aa2"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Bobby McFerrin",
+                                "artist_mbid": "a996b5bd-db99-4257-b036-336f63448aa2",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 34628917320,
+                        "caa_release_mbid": "4c77bed7-acff-3996-9ff3-ac14021bdc72",
+                        "recording_mbid": "6b74f878-6c0b-4625-a878-cbabd81d0db2",
+                        "recording_name": "Don’t Worry, Be Happy",
+                        "release_group_mbid": "6e844ba6-e276-3050-9b5a-ede5fbb1d3a8",
+                        "release_mbid": "4c77bed7-acff-3996-9ff3-ac14021bdc72",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=qTuntvl6oLQ"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/56M84L2nLehUlrXOScFxPk"
+                            }
+                        ]
+                    },
+                    "release_name": "Simple Pleasures",
+                    "track_name": "Don't Worry Be Happy"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787842348,
+                "listened_at": 1787842017,
+                "recording_msid": "5fd18255-23de-4cbd-b419-2f13396d786b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 310335,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Chemise",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "63370a9b-edca-4427-a2d0-925577696124"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chemise",
+                                "artist_mbid": "63370a9b-edca-4427-a2d0-925577696124",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 13027794187,
+                        "caa_release_mbid": "33c20e82-6f9d-43f5-b423-193aeabdeff0",
+                        "recording_mbid": "dd0f5312-e122-4e88-8ba7-7f257abe814f",
+                        "recording_name": "She Can’t Love You",
+                        "release_group_mbid": "dc02f3a5-a2d3-4f64-a907-118f78af02da",
+                        "release_mbid": "51c32736-7159-4422-9fd1-f8e3027b63d2"
+                    },
+                    "release_name": "Classics Funky Music, Vol. 2",
+                    "track_name": "She Can't Love You"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787841208,
+                "listened_at": 1787840911,
+                "recording_msid": "a12124b2-0284-4a63-8527-4bd9b37b53c4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 270028,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Culture Club",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "81435053-e1a2-48a4-adfd-e89f310c7b38"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Culture Club",
+                                "artist_mbid": "81435053-e1a2-48a4-adfd-e89f310c7b38",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 24905684515,
+                        "caa_release_mbid": "cd21af5f-5ff9-4d9b-a0b7-0b7be02354d5",
+                        "recording_mbid": "04416a60-db0d-4465-893c-74cc08cea1aa",
+                        "recording_name": "Miss Me Blind",
+                        "release_group_mbid": "00490137-fa0b-3252-90f7-42b8eea8ae14",
+                        "release_mbid": "f5307356-bb1d-4086-adbc-c8dcce4c85ed"
+                    },
+                    "release_name": "Greatest Moments",
+                    "track_name": "Miss Me Blind"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787841114,
+                "listened_at": 1787840617,
+                "recording_msid": "ac03bab6-c35b-4632-807b-27f7ef3cf8b6",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 267494,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Chris de Burgh",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0c2d1de8-fc3a-4ca9-a90b-eea69a5968a5"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Chris de Burgh",
+                                "artist_mbid": "0c2d1de8-fc3a-4ca9-a90b-eea69a5968a5",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15311602614,
+                        "caa_release_mbid": "e5419e31-1f55-461d-b2fe-9278cb94204c",
+                        "recording_mbid": "1452a609-43fd-49e4-848f-2bfca3f13d10",
+                        "recording_name": "High on Emotion",
+                        "release_group_mbid": "5c093b23-b019-3434-af6e-dc446bb9ce60",
+                        "release_mbid": "160d665c-c549-415e-a755-190058b422c3",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2767029761"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/359772683"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3mp16YWY6HkhoxOkzpw9jx"
+                            }
+                        ]
+                    },
+                    "release_name": "Notes From Planet Earth - The Collection",
+                    "track_name": "High On Emotion"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787839211,
+                "listened_at": 1787838920,
+                "recording_msid": "69b80bf4-9261-4ec7-9714-9aef1241c595",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 286433,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Climie Fisher",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "3f1f765d-8b6a-403f-a953-5a828a87ae28"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Climie Fisher",
+                                "artist_mbid": "3f1f765d-8b6a-403f-a953-5a828a87ae28",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42731055410,
+                        "caa_release_mbid": "46de20f4-d151-4fad-b80d-c45e94759ced",
+                        "recording_mbid": "0d70a84b-919c-47a4-a6fa-e1b0ac88d82c",
+                        "recording_name": "Rise to the Occasion",
+                        "release_group_mbid": "25281387-4ca7-3851-ac3b-e79a522f6209",
+                        "release_mbid": "ae7c93bb-2c0c-4e4e-a6a5-a6e081455738",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5vcLlMGCvND4hAcWVddJrJ"
+                            }
+                        ]
+                    },
+                    "release_name": "Everything",
+                    "track_name": "Rise to the Occasion"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787838922,
+                "listened_at": 1787838657,
+                "recording_msid": "660c422f-72fa-4901-9ee7-8e3018c3cf5b",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 259553,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Breathe",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c6ddb55a-c82c-46a8-ac07-cd77d63c5136"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Breathe",
+                                "artist_mbid": "c6ddb55a-c82c-46a8-ac07-cd77d63c5136",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41754652433,
+                        "caa_release_mbid": "157316d3-6abc-4431-9db5-c58c555c22e4",
+                        "recording_mbid": "8fe6a044-09bf-4262-b75a-bb6140374f89",
+                        "recording_name": "Hands to Heaven",
+                        "release_group_mbid": "e6d88c0b-f534-3707-9a5e-a68b3f3aae07",
+                        "release_mbid": "a4dd316e-c809-467e-b98e-d77c42d8b6d3"
+                    },
+                    "release_name": "All That Jazz",
+                    "track_name": "Hands To Heaven"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787838658,
+                "listened_at": 1787838425,
+                "recording_msid": "92d62ef0-a56f-4197-8acd-90d4e7d27ac7",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 226873,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Irene Cara",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "26358fa2-80c2-47b0-a08b-33817caca7e8"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Irene Cara",
+                                "artist_mbid": "26358fa2-80c2-47b0-a08b-33817caca7e8",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "3bd881d4-45f2-45a3-bc63-deccf4a0f1aa",
+                        "recording_name": "Flashdance… What a Feeling (’95 version)",
+                        "release_group_mbid": "9fdadab9-e489-46ae-be7f-25256fe70a2a",
+                        "release_mbid": "243ae4c0-44d9-468b-bf87-01319f7b8b56",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4inRkahCzEVHQCUBgMac6z"
+                            }
+                        ]
+                    },
+                    "release_name": "Dance #1's",
+                    "track_name": "Flashdance... What A Feeling ('95 Version)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787838440,
+                "listened_at": 1787838185,
+                "recording_msid": "add4b67a-2b3a-4e44-847e-829155f20fca",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 238785,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Katrina & The Waves",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "a57505c9-6b43-4861-a498-fe00b349d591"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Katrina & the Waves",
+                                "artist_mbid": "a57505c9-6b43-4861-a498-fe00b349d591",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41398614299,
+                        "caa_release_mbid": "1477ba44-1bc6-48b8-9f56-2fe52cbf007b",
+                        "recording_mbid": "103271e0-068e-400d-8402-96d23f71616e",
+                        "recording_name": "Walking on Sunshine",
+                        "release_group_mbid": "e77e8cdd-af19-4c64-8bf7-65dc8394ea21",
+                        "release_mbid": "1477ba44-1bc6-48b8-9f56-2fe52cbf007b"
+                    },
+                    "release_name": "Katrina & The Waves",
+                    "track_name": "Walking On Sunshine"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787838185,
+                "listened_at": 1787837951,
+                "recording_msid": "4f6a5766-a577-40b8-8e6b-2edbcf6d5e6a",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 231262,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Barbra Streisand",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "56cd15a1-0d74-438b-8244-c96ffe1cae03"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Barbra Streisand",
+                                "artist_mbid": "56cd15a1-0d74-438b-8244-c96ffe1cae03",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 5593720489,
+                        "caa_release_mbid": "e3feb7ed-cde7-4223-bfc6-fda698703ed0",
+                        "recording_mbid": "ec82eada-62ad-4ea1-891a-c4be7a450cc5",
+                        "recording_name": "Woman in Love",
+                        "release_group_mbid": "c67ff108-1cac-3e32-af8e-a4a19b4b3859",
+                        "release_mbid": "fa91da5b-7031-3189-9a51-95924056f41e",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2m5xo4HEFHgOQpqqrxCS5u"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/at/song/201292714"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/1317397"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/1073930"
+                            }
+                        ]
+                    },
+                    "release_name": "The Essential Barbra Streisand",
+                    "track_name": "Woman In Love"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787837951,
+                "listened_at": 1787837682,
+                "recording_msid": "39c640f9-4f52-46aa-98cf-bdb2cc9793e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 266240,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Boy Meets Girl",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "1752572e-2179-4507-9214-b29a6f2d7888"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Boy Meets Girl",
+                                "artist_mbid": "1752572e-2179-4507-9214-b29a6f2d7888",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9581771349,
+                        "caa_release_mbid": "66f24655-d8ee-4363-9e06-bf52551d4496",
+                        "recording_mbid": "80214d59-9f71-4cee-b3fb-f677720eaa7b",
+                        "recording_name": "Waiting for a Star to Fall",
+                        "release_group_mbid": "9aa6894e-5c8c-3c22-a76b-6ef470103e62",
+                        "release_mbid": "66f24655-d8ee-4363-9e06-bf52551d4496"
+                    },
+                    "release_name": "80s 100 Hits",
+                    "track_name": "Waiting for a Star to Fall"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787837679,
+                "listened_at": 1787837444,
+                "recording_msid": "af54d64e-32fe-4da4-9ce6-83cd87ddf16d",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 234527,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Christopher Cross",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "883e4ba4-8ccc-47ed-81df-df51e41792a9"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Christopher Cross",
+                                "artist_mbid": "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 15311758528,
+                        "caa_release_mbid": "42b7cc42-98bf-49d1-94af-57ddd20cd5b4",
+                        "recording_mbid": "05dd00c8-be36-4e40-a2c3-355add127fb6",
+                        "recording_name": "Arthur’s Theme (Best That You Can Do)",
+                        "release_group_mbid": "65f1f9cf-8c63-3186-82be-b5f53254cdec",
+                        "release_mbid": "42b7cc42-98bf-49d1-94af-57ddd20cd5b4"
+                    },
+                    "release_name": "Arthur - The Album [Original Soundtrack]",
+                    "track_name": "Arthur's Theme (Best That You Can Do)"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787837397,
+                "listened_at": 1787837146,
+                "recording_msid": "3032ca0a-bbcf-4fa6-8347-5d8033076063",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237636,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "The Cars",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "092b603f-eb4c-4958-b10e-02420de5885b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "The Cars",
+                                "artist_mbid": "092b603f-eb4c-4958-b10e-02420de5885b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 31749440136,
+                        "caa_release_mbid": "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+                        "recording_mbid": "c83f4862-38bc-4af3-86cc-3dd51ecea7f3",
+                        "recording_name": "Drive",
+                        "release_group_mbid": "d8e2c87d-767c-3a9c-87eb-b344d1228021",
+                        "release_mbid": "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=afnOOEvAtt4"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1t85dPNt0b8aj97vGHGETO"
+                            }
+                        ]
+                    },
+                    "release_name": "Complete Greatest Hits",
+                    "track_name": "Drive"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787837157,
+                "listened_at": 1787836904,
+                "recording_msid": "eb133a38-d333-4622-90f7-5ed5e101666e",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 237976,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Frankie Goes To Hollywood",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "c09c8263-40ef-4352-8031-e438b1ce68fc"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Frankie Goes to Hollywood",
+                                "artist_mbid": "c09c8263-40ef-4352-8031-e438b1ce68fc",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 12578864312,
+                        "caa_release_mbid": "43af4033-352f-4993-a0d9-ef79f4f51e6d",
+                        "recording_mbid": "55cde9c5-1730-49b7-a3eb-f245a499eb21",
+                        "recording_name": "Relax",
+                        "release_group_mbid": "c734406b-3c8a-3214-98cc-dd553f82f813",
+                        "release_mbid": "fa73346a-0f88-4db4-834e-c91bc64309aa",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3618177342"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1LpJpJdAfVcXLsZkTE7BTZ"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/468971666"
+                            }
+                        ]
+                    },
+                    "release_name": "Maximum Joy",
+                    "track_name": "Relax"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787836920,
+                "listened_at": 1787836656,
+                "recording_msid": "42ddc092-ae8f-49be-9e7f-c1b168530abc",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 246491,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Laura Branigan",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "917976a6-75b1-46af-b57b-71f13de20422"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Laura Branigan",
+                                "artist_mbid": "917976a6-75b1-46af-b57b-71f13de20422",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9744719960,
+                        "caa_release_mbid": "e4e7541e-541f-4f4b-be69-3c5a6dae5d90",
+                        "recording_mbid": "3bb2fb8c-a099-4d40-8e45-f28d1f4da99d",
+                        "recording_name": "Self Control",
+                        "release_group_mbid": "70706fd9-e724-37ed-8be5-243ff0dc5ab1",
+                        "release_mbid": "e4e7541e-541f-4f4b-be69-3c5a6dae5d90"
+                    },
+                    "release_name": "Self Control",
+                    "track_name": "Self Control"
+                },
+                "user_name": "scotthardy"
+            },
+            {
+                "inserted_at": 1787836675,
+                "listened_at": 1787836365,
+                "recording_msid": "a76d9c14-1437-4020-b661-f080b863ebe4",
+                "track_metadata": {
+                    "additional_info": {
+                        "duration_ms": 288366,
+                        "media_player": "Spotimy",
+                        "submission_client": "Spotimy",
+                        "submission_client_version": "0.1.0"
+                    },
+                    "artist_name": "Don Henley",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Don Henley",
+                                "artist_mbid": "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 9753108159,
+                        "caa_release_mbid": "11689742-1b8a-4bfb-8f66-f9b518344302",
+                        "recording_mbid": "5067ae6b-1414-4702-933b-e6ad3c51a0e7",
+                        "recording_name": "The Boys of Summer",
+                        "release_group_mbid": "cb763b61-26ae-3fbb-80ff-946275a4e697",
+                        "release_mbid": "7d5bd237-6fdb-465a-a33c-0f7ee1ea0370",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=bEaWaifQPJg"
+                            }
+                        ]
+                    },
+                    "release_name": "The Very Best Of",
+                    "track_name": "The Boys Of Summer"
+                },
+                "user_name": "scotthardy"
+            }
+        ],
+        "oldest_listen_ts": 1775836077,
+        "user_id": "scotthardy"
+    }
+}

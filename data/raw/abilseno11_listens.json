@@ -1,0 +1,2823 @@
+{
+    "payload": {
+        "count": 100,
+        "latest_listen_ts": 1781438114,
+        "listens": [
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781438114,
+                "recording_msid": "c30719ba-4ec5-455c-94a7-938f5442e331",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=mj4yh7YrwfE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "6b3179ee-e3b2-4809-aa8c-2ab0b0a17f57",
+                        "recording_name": "OLYMPIAN",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "2abbb084-566f-49ad-bd5e-8856dc43a197",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM"
+                            }
+                        ]
+                    },
+                    "track_name": "OLYMPIAN"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781437013,
+                "recording_msid": "1d7d5ae3-2269-484a-9119-61dfd47c57e3",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=CMdX2AoPFgM",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Nine Vicious",
+                    "track_name": "F*ck Yo Gang (Music Video)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781436914,
+                "recording_msid": "d3b4e9e0-8bf4-436b-a788-a251b5670644",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=A3VB5t82B2M",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42353812211,
+                        "caa_release_mbid": "208731d3-a82e-4703-ace5-5e4d5a415a97",
+                        "recording_mbid": "8662997d-a34a-4eed-bbe5-0da36dc4e561",
+                        "recording_name": "Pissy Coffee",
+                        "release_group_mbid": "9cbb1c73-deea-4321-bbaf-2db66442f312",
+                        "release_mbid": "208731d3-a82e-4703-ace5-5e4d5a415a97",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/286167143"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/pissy-coffee/1762057444"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2940030911"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/1Yuqkr1xvMAzZuVxWWTemS"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://soundcloud.com/che/8-pissy-coffee"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/browse/track/380211871"
+                            }
+                        ]
+                    },
+                    "track_name": "Pissy Coffee"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781436794,
+                "recording_msid": "68e9fde3-41ef-4c50-acbe-4bd161dcc759",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=09l4W21ExiE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "OsamaSon",
+                    "track_name": "CTS-V [Dir. by Tycho]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781436685,
+                "recording_msid": "0f5203a9-1eb3-456a-9f24-3bbac617c068",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=y5mBL8-fpaI",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "OsamaSon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35214d53-009b-45d9-8a00-6664325b9e2a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OsamaSon",
+                                "artist_mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36491746005,
+                        "caa_release_mbid": "b21a7967-4178-4004-a15b-23e100eb9856",
+                        "recording_mbid": "c6b4f214-410a-406c-9453-12ea41a9dc19",
+                        "recording_name": "Lambtruck",
+                        "release_group_mbid": "16efc8b0-8a3b-485c-8f2c-558717832800",
+                        "release_mbid": "b21a7967-4178-4004-a15b-23e100eb9856"
+                    },
+                    "track_name": "Lambtruck [Dir. by @DotComNirvan]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781436527,
+                "recording_msid": "3c256cdf-3a28-4476-975f-eb11fdb24475",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=JFYYpxio08w",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "recording_name": "Raf trench",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Raf trench"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781430840,
+                "recording_msid": "3c256cdf-3a28-4476-975f-eb11fdb24475",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=JFYYpxio08w",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "recording_name": "Raf trench",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Raf trench"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781428924,
+                "recording_msid": "2ebd5714-9d31-445f-98bd-6b63590e386a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=3wy441Y_kvQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Okaymar & 1oneam",
+                    "track_name": "What You Said ♱ prod. tdf ♱"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781425793,
+                "recording_msid": "be8c1438-f3b8-4800-b302-bb413916bfc3",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=KlVMO8PP0pQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "osamason",
+                    "track_name": "houseparty (prod. chenzo)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781425781,
+                "recording_msid": "2319aead-cad4-4d36-b380-b38f856ac283",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=IFPSAFEESn4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "osamason",
+                    "track_name": "foreign words (prod. perc40)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781425710,
+                "recording_msid": "fab2af62-810b-4e09-8109-e76c7d51363e",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=Qt43MnVgWio",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "track_name": "NSD ft. Tezzus & diamond*"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781425344,
+                "recording_msid": "02998463-3ec1-4bab-acbe-1782f0762d52",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=7cDYYvOhKwg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Future \"Codeine Crazy\" (WSHH Premiere",
+                    "track_name": "Official Music Video)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781424508,
+                "recording_msid": "9b9c5e43-5a72-4e58-884b-286a7457bf17",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=GXq_3CULKDE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "slayr",
+                    "mbid_mapping": {
+                        "recording_mbid": "1025d438-69e7-4a53-aec4-171ca0120082"
+                    },
+                    "track_name": "Holding"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781424345,
+                "recording_msid": "5a05acff-174a-4a21-b145-dab4cb1dc068",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=jMZ5ERW881g",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Nine Vicious",
+                    "track_name": "STATEMENT"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781424175,
+                "recording_msid": "df5eead8-71f2-41d7-aec4-a83e5525d4ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=nMDOSLEVdBw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38636602347,
+                        "caa_release_mbid": "097e45e9-7c38-4134-82b1-b9a00c322008",
+                        "recording_mbid": "85c9c6de-aad5-486b-a4dd-6d21497a2116",
+                        "recording_name": "Meh",
+                        "release_group_mbid": "2c5de955-68c8-426b-bcc4-31f71d192e18",
+                        "release_mbid": "3fdf05c4-cb88-4d1a-bb05-d284744e7d8a"
+                    },
+                    "track_name": "@ MEH"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781424020,
+                "recording_msid": "e3ce4155-0af7-4386-8e37-68530ef7ee40",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=7GwLnsVUwHY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Don Toliver",
+                    "track_name": "E85 [Official Visualizer]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781423201,
+                "recording_msid": "924778f9-3d31-4d77-aefd-2c88153d5e7b",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=JWHDhiwJNOs",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "OsamaSon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35214d53-009b-45d9-8a00-6664325b9e2a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OsamaSon",
+                                "artist_mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43292963107,
+                        "caa_release_mbid": "88e607e2-40b5-408f-9b31-13eeb754aec6",
+                        "recording_mbid": "fb350eaa-38e0-436a-aaf1-53e01be6d598",
+                        "recording_name": "Worldwide",
+                        "release_group_mbid": "9bb5f1fe-1a20-44bc-a800-e37795ad2520",
+                        "release_mbid": "88e607e2-40b5-408f-9b31-13eeb754aec6",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=A5P3COkae-M"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/465538725"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1844725596"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1844725596"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3591472082"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/75q7oEqiQYAbBkegc88qmJ"
+                            }
+                        ]
+                    },
+                    "track_name": "Worldwide"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781423000,
+                "recording_msid": "ae10c0b2-3bfa-4428-9130-427baa49ab20",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=N5dOy9FGtDg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Playboi Carti",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "2baf3276-ed6a-4349-8d2e-f4601e7b2167"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Playboi Carti",
+                                "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41442580612,
+                        "caa_release_mbid": "be3eabb0-0b23-40fa-a185-c127a4334e5b",
+                        "recording_mbid": "b989a873-42b2-4b9f-a283-153fcc39f702",
+                        "recording_name": "FOMDJ",
+                        "release_group_mbid": "fa4bbf26-8f97-48d6-add2-4e7c028d39af",
+                        "release_mbid": "a361f2e0-3eee-44b4-ae00-21684092ce27",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
+                            }
+                        ]
+                    },
+                    "track_name": "FOMDJ (Official Visualizer)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781420510,
+                "recording_msid": "389d05b1-ca9c-4d79-a306-e3efbd249bfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=TV0ofRxVAVg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "676789f3-7fd5-4bdb-add8-3fe10ad58905",
+                        "recording_name": "Firearm",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Firearm"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781416265,
+                "recording_msid": "cf2dd00a-d902-4632-96af-af38a91e75ce",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=xnOLX3w-FeY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Stinger Airsoft",
+                    "track_name": "Can Airsoft Shoot REAL Bullets? #test #gun #shorts #fyp #airsoft #viral #bullets #fail #lyrics"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781363837,
+                "recording_msid": "3c256cdf-3a28-4476-975f-eb11fdb24475",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=JFYYpxio08w",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "recording_name": "Raf trench",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Raf trench"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781363825,
+                "recording_msid": "c10e2d97-637e-410b-a139-a7fbec85da7b",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=0S9-t6KwErU",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "SK8STAR",
+                    "track_name": "OnGod"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358931,
+                "recording_msid": "d16e9df5-0f44-47e3-aac5-35d8789b969e",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=r6_n6ddiUYg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42775215615,
+                        "caa_release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3",
+                        "recording_mbid": "ccc6d51d-1311-4540-8319-626b67085c4e",
+                        "recording_name": "Hasta la Vista",
+                        "release_group_mbid": "60bc1732-2e00-499f-a31a-1871bcffddd3",
+                        "release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3"
+                    },
+                    "track_name": "Hasta La Vista"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358812,
+                "recording_msid": "4b3ee644-09fa-4b6d-a42e-2502cc89710b",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=dWmfj1Les7M",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "OsamaSon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35214d53-009b-45d9-8a00-6664325b9e2a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OsamaSon",
+                                "artist_mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 38945466499,
+                        "caa_release_mbid": "15e12e73-ef34-40a6-8989-cb60c34be3cf",
+                        "recording_mbid": "d47849d3-322f-448a-837b-09161efda759",
+                        "recording_name": "For da Flex",
+                        "release_group_mbid": "b7ffebfe-8f62-4b0f-9b62-5d5e4baf0e50",
+                        "release_mbid": "15e12e73-ef34-40a6-8989-cb60c34be3cf"
+                    },
+                    "track_name": "For Da Flex"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358670,
+                "recording_msid": "2d450e32-4189-4878-a1a5-13368466f624",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=MS7DDsnVnIY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Glokk40Spaz",
+                    "track_name": "Thug's In My House"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358568,
+                "recording_msid": "b0fac7c9-95f0-4050-9315-d3a148baae65",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=WDbkERDYqo8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43252148095,
+                        "caa_release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3",
+                        "recording_mbid": "66f76f63-07a3-43d3-a0df-819ef3280256",
+                        "recording_name": "Whoa",
+                        "release_group_mbid": "957523e6-2273-4068-845c-c9ba798dd317",
+                        "release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3"
+                    },
+                    "track_name": "Whoa"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358507,
+                "recording_msid": "71336889-a393-43b0-9b63-1a694a0b1e9d",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=fiLpbAgRs34",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "SoFaygo",
+                    "track_name": "Quit Smoking Dabs (Official Music Video) (Shot & Edited by @r.cco)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358345,
+                "recording_msid": "42bab7d2-faa0-42b8-9d97-6df16a100b8c",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=CSMiPngo4uE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Ken Carson",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Carson",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 36977512197,
+                        "caa_release_mbid": "31a93ebd-f764-48a2-ab46-4a5cd4916b96",
+                        "recording_mbid": "a0bc4c60-11e2-42de-bef1-d313bcd0e6c2",
+                        "recording_name": "Jennifer’s Body",
+                        "release_group_mbid": "dac1ca48-7c71-4ba7-92bd-fd82445c280e",
+                        "release_mbid": "2362218b-1d83-42dc-a3fc-7f2363c609b2"
+                    },
+                    "track_name": "Jennifer's Body"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781358159,
+                "recording_msid": "cab9ff21-8da2-447c-94f1-da05e2d2aab9",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=P53FNGr4caY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42775215615,
+                        "caa_release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3",
+                        "recording_mbid": "0b69d0c1-bdc8-48ca-a0a7-cd453410f60d",
+                        "recording_name": "New Jeep",
+                        "release_group_mbid": "60bc1732-2e00-499f-a31a-1871bcffddd3",
+                        "release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3"
+                    },
+                    "track_name": "New Jeep"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357990,
+                "recording_msid": "d5611916-4bfa-4dda-b731-bbb884d7b31e",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=h9ceRPcl8YA",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "SoFaygo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "SoFaygo",
+                                "artist_mbid": "654d48fb-4fe4-472d-81e6-039e54f2f27b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28509043394,
+                        "caa_release_mbid": "97c6a823-c834-4103-a873-89784c6dd8ff",
+                        "recording_mbid": "d0cc8e1c-f520-4ab4-af2f-d9b352be7e3f",
+                        "recording_name": "Off the Map",
+                        "release_group_mbid": "8de8f5d2-61d8-41f8-9ec5-d255523245e0",
+                        "release_mbid": "97c6a823-c834-4103-a873-89784c6dd8ff"
+                    },
+                    "track_name": "Off the Map"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357965,
+                "recording_msid": "8c7af09d-5e21-4f5f-bacd-ad4b8955226e",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=1pNvG6T4JLw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 41536253743,
+                        "caa_release_mbid": "f5b72cf9-69e5-4fd4-9a3b-90b4f915a748",
+                        "recording_mbid": "7d44bee1-8eb5-4307-ad0d-ceace591258a",
+                        "recording_name": "Sayso",
+                        "release_group_mbid": "f6f21436-258c-4fca-96a0-16481ba59445",
+                        "release_mbid": "f5b72cf9-69e5-4fd4-9a3b-90b4f915a748",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2520415521"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1714246901"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/325273504"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=1pNvG6T4JLw"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/3nYt3CBPjYTC7Zgn57i8G3"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1714246901"
+                            }
+                        ]
+                    },
+                    "track_name": "Sayso"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357841,
+                "recording_msid": "816640af-a488-42f5-9390-a0c34b27c8a7",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=9O3AGlT51SI",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty & Babystaydown",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                            "1fc5d3c9-a0f3-4735-9dd1-9ac6264467bd"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": " & "
+                            },
+                            {
+                                "artist_credit_name": "Babystaydown",
+                                "artist_mbid": "1fc5d3c9-a0f3-4735-9dd1-9ac6264467bd",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43252148095,
+                        "caa_release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3",
+                        "recording_mbid": "1e369675-4f32-45ef-8b30-71ec6309ee3f",
+                        "recording_name": "Perky Nap",
+                        "release_group_mbid": "957523e6-2273-4068-845c-c9ba798dd317",
+                        "release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3"
+                    },
+                    "track_name": "Perky Nap"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357725,
+                "recording_msid": "a4f356e9-5430-431c-8d7d-a5b3653c5769",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=82cQhtB61yA",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42775215615,
+                        "caa_release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3",
+                        "recording_mbid": "1f8e88c2-85a6-49d8-9ac2-ef582da793c2",
+                        "recording_name": "Count Up",
+                        "release_group_mbid": "60bc1732-2e00-499f-a31a-1871bcffddd3",
+                        "release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3"
+                    },
+                    "track_name": "Count Up"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357584,
+                "recording_msid": "d5eed194-fffd-4cde-afc5-4655cd5d6e97",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Izx-oBKOemY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Devstacks",
+                    "track_name": "Where Yo Swag Ft. Vonte*"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357464,
+                "recording_msid": "f76684fd-90ba-4496-a7f8-e4949492c7f7",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=9NdpYRxixkA",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "track_name": "Walk Down"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357301,
+                "recording_msid": "65752fad-d84c-4f39-9797-63133be0cf75",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=XvvUhwRsUEw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "446b8690-523b-479a-9f8f-ac199b1f4ca7",
+                        "recording_name": "What doesn't kill u",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "What doesn't kill u"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357272,
+                "recording_msid": "519c4850-2ef2-42a1-a39f-0ceb8d6f9edb",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=u3hJAvzE4hk",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "che",
+                    "track_name": "sol (music video)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357204,
+                "recording_msid": "ffb85acb-8dc0-4ba3-86a4-d58d3a447662",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=sqJW4a8Sixg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Devstacks",
+                    "track_name": "Sports Mode"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357125,
+                "recording_msid": "2b38aea2-d6c0-4740-8018-dd878ce358c1",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=_b1oXVa7wEQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Osamason",
+                    "track_name": "Twin (feat. Okaymar) (prod. boolymon) (Visuals)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781357015,
+                "recording_msid": "d47a91e1-a85e-4f7d-b425-d4d8262f4996",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=bi94lFAAUMc",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "osamason",
+                    "track_name": "brand new [prod. devstacks]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356926,
+                "recording_msid": "389d05b1-ca9c-4d79-a306-e3efbd249bfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=tHzVX2W6Uxc",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "676789f3-7fd5-4bdb-add8-3fe10ad58905",
+                        "recording_name": "Firearm",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Firearm"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356791,
+                "recording_msid": "3c256cdf-3a28-4476-975f-eb11fdb24475",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=glPwuLiC1FE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "b5e9389c-adb8-4bf4-8ec6-0fbef7dbe2a9",
+                        "recording_name": "Raf trench",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Raf trench"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356729,
+                "recording_msid": "176f7479-312c-4ae9-9647-c50db1f42737",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=SDIAlnWjSpk",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "track_name": "Whoa | Live With Bar4Bar.TV"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356601,
+                "recording_msid": "3b78ce3e-7efe-43d5-b388-f69a081be326",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=uIPAlrbvUAs",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "track_name": "ShawtyRokk ft. Lil Gotit"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356404,
+                "recording_msid": "7687243d-bd32-4466-9cce-c14666dd4e64",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=gI8hgrK31KQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "673ba94b-4178-4999-9c64-8b91901b635e",
+                        "recording_name": "I Know",
+                        "release_group_mbid": "639b1555-852e-4e5b-90ed-d133e2438c2a",
+                        "release_mbid": "25116fc5-37a0-4202-a0a6-ba69d9c333de"
+                    },
+                    "track_name": "I Know"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356393,
+                "recording_msid": "d87cfce2-db9a-4aaf-8b0f-6a8abb475991",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=BPcuYtn2zEg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40715598089,
+                        "caa_release_mbid": "b662ff39-1013-484c-8fa5-0f64aa9b2a54",
+                        "recording_mbid": "9e7fb3a1-3938-4245-b13b-12369c8dbbfc",
+                        "recording_name": "@ Heart",
+                        "release_group_mbid": "b59f5be5-6f59-4935-bda5-3b1c4fd5248c",
+                        "release_mbid": "b662ff39-1013-484c-8fa5-0f64aa9b2a54"
+                    },
+                    "track_name": "@ Heart"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781356125,
+                "recording_msid": "f86327af-f38c-4190-abce-cb67c311895a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=MqQCcdTF4P8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "recording_mbid": "51f275a3-6d56-4b93-89cd-a40bb3c83833",
+                        "recording_name": "Sweater Weather",
+                        "release_group_mbid": "a010ca78-37af-42a8-bcaf-1cbbe3f02ace",
+                        "release_mbid": "02f208a9-4b43-41c2-9de7-02959434e44e"
+                    },
+                    "track_name": "Sweater Weather"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355974,
+                "recording_msid": "b0fac7c9-95f0-4050-9315-d3a148baae65",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=UBDvrP-lrB4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43252148095,
+                        "caa_release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3",
+                        "recording_mbid": "66f76f63-07a3-43d3-a0df-819ef3280256",
+                        "recording_name": "Whoa",
+                        "release_group_mbid": "957523e6-2273-4068-845c-c9ba798dd317",
+                        "release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3"
+                    },
+                    "track_name": "Whoa"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355886,
+                "recording_msid": "dc60deea-b320-4b0d-a880-fbe69a4068f6",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=dlCLsew0kGg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "O",
+                    "track_name": "osamason – home"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355824,
+                "recording_msid": "b9e7f33c-1030-423d-b0a7-e245d02278e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=P5fCT8bvs-Y",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Kynlary",
+                    "track_name": "\"my bad\" LIVE | One Take"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355732,
+                "recording_msid": "b036cbdb-4bff-4923-b246-0612d5f90e90",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=cFI_hO9eY0M",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "e22f94e5-b2e2-44a2-bddb-3c2fac1ecf5f",
+                        "recording_name": "Ac130",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Ac130"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355635,
+                "recording_msid": "66ab86c9-6dc9-46be-b671-e9a51c823705",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=CEJDNkj4cW0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "99cfdd90-e822-40cd-bfaf-f528e734747a",
+                        "recording_name": "Reset",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Reset"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355532,
+                "recording_msid": "7f6f5661-1af3-4d7c-99b5-ce966de37e6a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=GxZdiUuEFW0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "520a3371-9102-4d5a-8ea7-1d8fae204391",
+                        "recording_name": "Re4",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Re4"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355415,
+                "recording_msid": "f161f035-72f0-4a19-a6e9-b60f7be9509c",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=qmizj1bi6yo",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "52ce73ab-7e2c-49b8-aa7e-1518bbef3155",
+                        "recording_name": "Whole crowd",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Whole crowd"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781355294,
+                "recording_msid": "3336847d-f0fe-49bf-8f32-0344ffd037aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=zphmseRPj0E",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "36b5f85a-e3da-4a6c-b602-d6bb707ff92c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sk8star",
+                                "artist_mbid": "36b5f85a-e3da-4a6c-b602-d6bb707ff92c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44494517365,
+                        "caa_release_mbid": "9bbef07b-76a4-4dee-95e1-2a3be6ee3b96",
+                        "recording_mbid": "e3498337-7070-4442-bdc5-5fcc35948edb",
+                        "recording_name": "2 Sexy",
+                        "release_group_mbid": "a2860018-00af-448c-8360-6f2ecb136bb5",
+                        "release_mbid": "bec06276-3092-4ff8-a4b6-cbc9bd626ea2",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2bSNeyVLdHiJWf58dP843b"
+                            }
+                        ]
+                    },
+                    "track_name": "2 Sexy"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781354880,
+                "recording_msid": "b0fac7c9-95f0-4050-9315-d3a148baae65",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=WDbkERDYqo8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Pradabagshawty",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "cfc0cc4a-fcab-462f-a7a7-81a5c5105510"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Pradabagshawty",
+                                "artist_mbid": "cfc0cc4a-fcab-462f-a7a7-81a5c5105510",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 43252148095,
+                        "caa_release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3",
+                        "recording_mbid": "66f76f63-07a3-43d3-a0df-819ef3280256",
+                        "recording_name": "Whoa",
+                        "release_group_mbid": "957523e6-2273-4068-845c-c9ba798dd317",
+                        "release_mbid": "bbefc2c3-f6f4-487e-a7cb-174efd641ae3"
+                    },
+                    "track_name": "Whoa"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781350602,
+                "recording_msid": "eba673d2-fb7e-47c4-bbd9-bfc87afa8f75",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=7IX8NPu-z8M",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Jace!",
+                    "track_name": "Pajama"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781343726,
+                "recording_msid": "2ebd5714-9d31-445f-98bd-6b63590e386a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=3wy441Y_kvQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Okaymar & 1oneam",
+                    "track_name": "What You Said ♱ prod. tdf ♱"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781327443,
+                "recording_msid": "1a825af5-6b7f-4f8e-9e7d-dd46cc9ff6c3",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=EMyR10H6E1A",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "osamason",
+                    "track_name": "no changin me [prod. 3rdup]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781327329,
+                "recording_msid": "389d05b1-ca9c-4d79-a306-e3efbd249bfc",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "youtube.com",
+                        "origin_url": "https://www.youtube.com/watch?v=TV0ofRxVAVg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "676789f3-7fd5-4bdb-add8-3fe10ad58905",
+                        "recording_name": "Firearm",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Firearm"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781238502,
+                "recording_msid": "3336847d-f0fe-49bf-8f32-0344ffd037aa",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=zphmseRPj0E",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "36b5f85a-e3da-4a6c-b602-d6bb707ff92c"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Sk8star",
+                                "artist_mbid": "36b5f85a-e3da-4a6c-b602-d6bb707ff92c",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44494517365,
+                        "caa_release_mbid": "9bbef07b-76a4-4dee-95e1-2a3be6ee3b96",
+                        "recording_mbid": "e3498337-7070-4442-bdc5-5fcc35948edb",
+                        "recording_name": "2 Sexy",
+                        "release_group_mbid": "a2860018-00af-448c-8360-6f2ecb136bb5",
+                        "release_mbid": "bec06276-3092-4ff8-a4b6-cbc9bd626ea2",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/2bSNeyVLdHiJWf58dP843b"
+                            }
+                        ]
+                    },
+                    "track_name": "2 Sexy"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781238426,
+                "recording_msid": "a62eb3c2-e341-4353-991e-1c79b88f6b42",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=krFSPELv74U",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "untiljapan",
+                    "track_name": "\"Feel Like We Back\" OFFICIAL VERSION"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781238317,
+                "recording_msid": "be5ce9da-f323-4f1d-ac4a-2f417f53c895",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=7X1-OVK2be4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Devstacks",
+                    "track_name": "In the H"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781238197,
+                "recording_msid": "536a8f46-cf8e-489f-84c3-3b9d52077061",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=_5sYF7SZBq0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Glokk40Spaz",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "7c1faced-d7f7-4002-a553-d67cb1fdd08e"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Glokk40Spaz",
+                                "artist_mbid": "7c1faced-d7f7-4002-a553-d67cb1fdd08e",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42893206482,
+                        "caa_release_mbid": "7ac57d8f-9ae5-4dab-949e-b888b5c8865e",
+                        "recording_mbid": "b923eb05-ae7b-4baa-aad4-34639e6d7b29",
+                        "recording_name": "Fix My Habits",
+                        "release_group_mbid": "d292449a-0965-4c0a-918e-974fbf02385a",
+                        "release_mbid": "7ac57d8f-9ae5-4dab-949e-b888b5c8865e"
+                    },
+                    "track_name": "Fix My Habits"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781238085,
+                "recording_msid": "993ffa47-ddd5-4e59-b6d9-04f23d78c41d",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Fy7WIdkxwDw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "OsamaSon",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "35214d53-009b-45d9-8a00-6664325b9e2a"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "OsamaSon",
+                                "artist_mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44196764134,
+                        "caa_release_mbid": "402e100b-3663-488f-aa85-8e04114e6c24",
+                        "recording_mbid": "bf6c926f-612c-4bf6-b24a-a0c2e9a7d5e3",
+                        "recording_name": "The Whole World Is Free",
+                        "release_group_mbid": "848f10e5-b8c3-4e55-b721-51516942f8ba",
+                        "release_mbid": "d19f959f-9f02-4bf7-92a9-66f8c9374ba1",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3208795801"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1793413632"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=Fy7WIdkxwDw"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/414588880"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1793413632"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5wfhBUKK77ESPiu1pBF9Mi"
+                            }
+                        ]
+                    },
+                    "track_name": "The Whole World Is Free"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237965,
+                "recording_msid": "f169fe85-64c3-4421-b506-6976b050d1ff",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=S6oWVhm4Jx8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "che",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "0a68f3b5-79c2-4f81-a7bc-ebc977602e86"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "che",
+                                "artist_mbid": "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 40909888289,
+                        "caa_release_mbid": "83680649-6d0f-4721-ae27-67edf72f56c6",
+                        "recording_mbid": "b3dfa3fd-2e26-4497-8a0e-497f2f86d612",
+                        "recording_name": "frank ocean",
+                        "release_group_mbid": "ecd03234-2323-4e1d-b367-780c9dba7778",
+                        "release_mbid": "83680649-6d0f-4721-ae27-67edf72f56c6",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2495399631"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/12AVccNjiEHCvSLw5vrYmH"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/us/song/1711618969"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/us/song/1711618969"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/321384001"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://music.youtube.com/watch?v=S6oWVhm4Jx8"
+                            }
+                        ]
+                    },
+                    "track_name": "frank ocean"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237874,
+                "recording_msid": "2d1ca9dc-8827-4b4f-890c-34bf8c20c0ee",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=JyoJ4AIkY7g",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Ken Car$on",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "860d7dc2-618d-437e-a3bb-7b91c2d40095"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Ken Car$on",
+                                "artist_mbid": "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 28467433620,
+                        "caa_release_mbid": "4bffe24b-2626-4a7f-812c-10b971852351",
+                        "recording_mbid": "306dcd23-a4ec-4284-8170-52e8cf497c20",
+                        "recording_name": "High as Sh!t",
+                        "release_group_mbid": "b6361e07-adf0-4372-a2d9-5c2ef9eafc2b",
+                        "release_mbid": "4bffe24b-2626-4a7f-812c-10b971852351"
+                    },
+                    "track_name": "High as Sh!T"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237727,
+                "recording_msid": "d39b4833-8a2d-489d-90fd-7616df0f5d3a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=iHOSVO0xEvI",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42775215615,
+                        "caa_release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3",
+                        "recording_mbid": "5117d478-bb7e-4c1b-bd94-2ef4fab4cd71",
+                        "recording_name": "Peyton List",
+                        "release_group_mbid": "60bc1732-2e00-499f-a31a-1871bcffddd3",
+                        "release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3"
+                    },
+                    "track_name": "Peyton List"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237582,
+                "recording_msid": "a8b005cf-7be8-4016-bafc-9b7116350656",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=rGvZZN1chgQ",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "iayze",
+                    "track_name": "Just Me (Official Music Video) [Shot/Edit By. 88Lamim & Dir. JMoney1041)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237460,
+                "recording_msid": "0c96dfe0-9ec1-46a6-aea4-3f3e56c84fce",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=C2FcTfofC9I",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "iayze",
+                    "track_name": "Cold Sweats! (Official Music Video) [Edit By: @Marksvfx]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237435,
+                "recording_msid": "6c8fc0dc-6809-4921-923d-131ca93034b0",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=advf37JS070",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "xaviersobased",
+                    "track_name": "need me (me n reklus1ve)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237294,
+                "recording_msid": "1cf07496-77f4-4649-a8c5-2b805c70d2ed",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=pYGmw0CTL90",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Jace!",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "20cb5798-7d9f-443f-955c-a0122182151b"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Jace!",
+                                "artist_mbid": "20cb5798-7d9f-443f-955c-a0122182151b",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 37773332126,
+                        "caa_release_mbid": "e2976268-7917-4612-a6c2-a9008341e54f",
+                        "recording_mbid": "ef99464a-5c1b-4821-9c5b-0b8002f183e0",
+                        "recording_name": "2017",
+                        "release_group_mbid": "ee1cfebe-b63a-4277-9660-08f699416132",
+                        "release_mbid": "e2976268-7917-4612-a6c2-a9008341e54f"
+                    },
+                    "track_name": "2017"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237208,
+                "recording_msid": "d47a91e1-a85e-4f7d-b425-d4d8262f4996",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=bi94lFAAUMc",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "osamason",
+                    "track_name": "brand new [prod. devstacks]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237157,
+                "recording_msid": "bb19e59a-b03b-43dd-9b87-c81d170a8439",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Sf73y9GrJ4I",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Dexter and The Moonrocks",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "38ed4923-005f-4ba0-baf7-749269dfea29"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Dexter and The Moonrocks",
+                                "artist_mbid": "38ed4923-005f-4ba0-baf7-749269dfea29",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 44688173597,
+                        "caa_release_mbid": "732a576e-8983-453a-9d32-8494a0e17232",
+                        "recording_mbid": "ce4d0fa8-64a9-493f-8a27-a247df9939ef",
+                        "recording_name": "Freakin’ Out",
+                        "release_group_mbid": "7937313a-0c66-4283-b62c-54d32943f1e4",
+                        "release_mbid": "43b7c37c-2ea1-46d8-a864-39131d395739"
+                    },
+                    "track_name": "Freakin’ Out"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781237095,
+                "recording_msid": "b036cbdb-4bff-4923-b246-0612d5f90e90",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=cFI_hO9eY0M",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "e22f94e5-b2e2-44a2-bddb-3c2fac1ecf5f",
+                        "recording_name": "Ac130",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Ac130"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236997,
+                "recording_msid": "66ab86c9-6dc9-46be-b671-e9a51c823705",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=CEJDNkj4cW0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "99cfdd90-e822-40cd-bfaf-f528e734747a",
+                        "recording_name": "Reset",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Reset"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236881,
+                "recording_msid": "65752fad-d84c-4f39-9797-63133be0cf75",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=XvvUhwRsUEw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "446b8690-523b-479a-9f8f-ac199b1f4ca7",
+                        "recording_name": "What doesn't kill u",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "What doesn't kill u"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236775,
+                "recording_msid": "7f6f5661-1af3-4d7c-99b5-ce966de37e6a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=GxZdiUuEFW0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "520a3371-9102-4d5a-8ea7-1d8fae204391",
+                        "recording_name": "Re4",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Re4"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236690,
+                "recording_msid": "995c0aac-992d-4907-b458-bede4ba772ea",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=WxmnE4DOcWw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "yukan",
+                    "track_name": "Fake ID"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236678,
+                "recording_msid": "a3f11792-b6d5-4463-b7b2-f31c6ebc7572",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=4cF8xbXfXPg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "kynlary",
+                    "track_name": "my bad (One Take Edit) 💔"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236536,
+                "recording_msid": "252ca363-c5bc-4773-95ea-2ca03efe99f5",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=AploEJBcIxE",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Sk8star",
+                    "track_name": "Double C ft. Pz'"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236385,
+                "recording_msid": "ec09bd64-f9f1-4dcc-b0b8-f8504da6c047",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=uNIxPwN12m8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "che",
+                    "track_name": "pose for the pic [music video]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236284,
+                "recording_msid": "81803929-8df6-4402-af18-80b722184a67",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Vfw0ZvZglgU",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Protect",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 42775215615,
+                        "caa_release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3",
+                        "recording_mbid": "371af79f-6ce7-4481-bf40-64ed4652d2e6",
+                        "recording_name": ".Tor",
+                        "release_group_mbid": "60bc1732-2e00-499f-a31a-1871bcffddd3",
+                        "release_mbid": "88dbfac1-a0dc-4053-9536-cbfd199fcce3"
+                    },
+                    "track_name": ".Tor"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781236123,
+                "recording_msid": "77173288-641f-4bbd-a21d-f26e61ab328a",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=om8Z1iTE3X4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "xaviersobased",
+                    "track_name": "keepitgoin prod mateus"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781235291,
+                "recording_msid": "3a374c79-c3f6-4d2f-adf5-dd0fee3e7f96",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=_vTmEXzU2N0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Osamason",
+                    "track_name": "Lobby ♱ prod. ok ♱"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781235196,
+                "recording_msid": "3294e16e-4e9e-43c5-a7df-6afba6f88f44",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Xs1dbnWr9QY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "kynlary & samosthated",
+                    "track_name": "my bad (bxxngan&jannah) [shot by brokensippycup]"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781235133,
+                "recording_msid": "b9e7f33c-1030-423d-b0a7-e245d02278e6",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=P5fCT8bvs-Y",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Kynlary",
+                    "track_name": "\"my bad\" LIVE | One Take"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781235088,
+                "recording_msid": "5f60716c-f048-4d41-83e9-bfda6a22ad1f",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Na7xJT-yAe4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "PROTECT",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "fab15a49-7762-4851-a263-8d1d94542fff"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Protect",
+                                "artist_mbid": "fab15a49-7762-4851-a263-8d1d94542fff",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45316028239,
+                        "caa_release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9",
+                        "recording_mbid": "d3671fab-8987-480a-af70-973ed53324ab",
+                        "recording_name": "Last of us",
+                        "release_group_mbid": "53da1932-a1aa-4635-9ed0-9f83ba9a9955",
+                        "release_mbid": "0942b897-35ca-4849-a732-7b42a9342da9"
+                    },
+                    "track_name": "Last of us"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781235062,
+                "recording_msid": "0552673a-3767-4f02-a286-84519824e2d1",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Ejlecm4-o5g",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Instupendo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9c88965e-b1e1-4091-94f3-9ab119976034"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Instupendo",
+                                "artist_mbid": "9c88965e-b1e1-4091-94f3-9ab119976034",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 22259473974,
+                        "caa_release_mbid": "c32efef6-f106-4929-8ceb-3d3454f8860d",
+                        "recording_mbid": "803b0de5-ded8-4e5d-aed5-8a312cd189e5",
+                        "recording_name": "Falling",
+                        "release_group_mbid": "d81009ac-df79-4f4a-98ff-36504946eb08",
+                        "release_mbid": "c32efef6-f106-4929-8ceb-3d3454f8860d",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1691940262"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://open.spotify.com/track/5tG9KCkEnWc75cREtb4ffB"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/2322091145"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1691940262"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/299182586"
+                            }
+                        ]
+                    },
+                    "track_name": "Falling"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234962,
+                "recording_msid": "738bf198-c5f0-4a79-a6de-e8996de90d4f",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=wrU8xlhB1U8",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Layanari",
+                    "track_name": "life is strange"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234875,
+                "recording_msid": "72f792f4-dc84-4dac-b1e9-178f27ac243e",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=kae0zfqNzj4",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Eleftherios",
+                    "track_name": "Poison Tree (Ambient Rework)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234763,
+                "recording_msid": "cfff8485-83b5-4edb-b6f0-c9052a225d00",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=JBXN83JP7wg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Inan",
+                    "track_name": "perfectly out of place"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234643,
+                "recording_msid": "4c249910-2eb9-48f6-b59d-e4e462bd3d92",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=NkzzjHaXfaw",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Instupendo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9c88965e-b1e1-4091-94f3-9ab119976034"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Instupendo",
+                                "artist_mbid": "9c88965e-b1e1-4091-94f3-9ab119976034",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 45314502559,
+                        "caa_release_mbid": "ef2a3b7c-8188-44d9-8ad2-57bf26fb99c8",
+                        "recording_mbid": "8f8d1470-c9b6-4b30-bf1e-9edeefd2e0a2",
+                        "recording_name": "Six Forty Seven",
+                        "release_group_mbid": "88810c4c-0942-4f1f-bc89-c1257ec61879",
+                        "release_mbid": "da1eb35b-6344-4bb8-a104-8689c9af63e2",
+                        "url_rels": [
+                            {
+                                "type": "purchase for download",
+                                "url": "https://music.apple.com/gb/song/1772190967"
+                            },
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.deezer.com/track/3029713171"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://open.qobuz.com/track/293212894"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://tidal.com/track/391194931"
+                            },
+                            {
+                                "type": "streaming",
+                                "url": "https://music.apple.com/gb/song/1772190967"
+                            },
+                            {
+                                "type": "purchase for download",
+                                "url": "https://open.qobuz.com/track/293212894"
+                            }
+                        ]
+                    },
+                    "track_name": "Six Forty Seven"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234537,
+                "recording_msid": "52fa9d15-5408-46ce-9871-3f0f0a614585",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=6mzUKIjXzh0",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Inei",
+                    "track_name": "children (Ambient)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234425,
+                "recording_msid": "42b3cb1b-1f58-413e-87c4-0cea545f3a84",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=iuTru-xTuAo",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Money Flip",
+                    "track_name": "i think i love you"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234307,
+                "recording_msid": "085eb6bf-a9d4-4385-bccc-cad4cd8435f1",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=EtPMnoLKuKI",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Ødyzon",
+                    "track_name": "unfaithful"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234122,
+                "recording_msid": "4b021cc0-3ebf-4be1-8c75-2df55cd4df4b",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=UCHLxIN0_ag",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Instupendo",
+                    "mbid_mapping": {
+                        "artist_mbids": [
+                            "9c88965e-b1e1-4091-94f3-9ab119976034"
+                        ],
+                        "artists": [
+                            {
+                                "artist_credit_name": "Instupendo",
+                                "artist_mbid": "9c88965e-b1e1-4091-94f3-9ab119976034",
+                                "join_phrase": ""
+                            }
+                        ],
+                        "caa_id": 26396177267,
+                        "caa_release_mbid": "b2390f48-dbb9-4811-80fb-cb461093843a",
+                        "recording_mbid": "9c4579a9-4559-4f22-8706-67e666a6c68f",
+                        "recording_name": "Comfort Chain",
+                        "release_group_mbid": "c2d158eb-c719-41f5-9b1c-cfc871aa6b18",
+                        "release_mbid": "b2390f48-dbb9-4811-80fb-cb461093843a",
+                        "url_rels": [
+                            {
+                                "type": "free streaming",
+                                "url": "https://www.youtube.com/watch?v=EtGeBv2TT0g"
+                            }
+                        ]
+                    },
+                    "track_name": "Comfort Chain"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781234040,
+                "recording_msid": "473e84ed-e545-4425-a0c0-b09639ec4040",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=ooB6ReTPORg",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Hinoku",
+                    "track_name": "deep in thoughts"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781233955,
+                "recording_msid": "8cc130e0-c256-45a3-aa91-fdb8ce89e263",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=Ublc0eGWo1k",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Inan",
+                    "track_name": "comfort chain (Ambient)"
+                },
+                "user_name": "abilseno11"
+            },
+            {
+                "inserted_at": 1781440207,
+                "listened_at": 1781233894,
+                "recording_msid": "2d450e32-4189-4878-a1a5-13368466f624",
+                "track_metadata": {
+                    "additional_info": {
+                        "media_player": "YouTube",
+                        "music_service": "music.youtube.com",
+                        "origin_url": "https://music.youtube.com/watch?v=MS7DDsnVnIY",
+                        "submission_client": "yt-history-to-listenbrainz",
+                        "submission_client_version": "1.0"
+                    },
+                    "artist_name": "Glokk40Spaz",
+                    "track_name": "Thug's In My House"
+                },
+                "user_name": "abilseno11"
+            }
+        ],
+        "oldest_listen_ts": 1714816371,
+        "user_id": "abilseno11"
+    }
+}
